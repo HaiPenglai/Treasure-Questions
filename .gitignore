@@ -1,0 +1,10 @@
+# 1. 忽略所有内容
+*
+
+# 2. 保留.gitignore自身
+!.gitignore
+
+# 3. 保留 PPT的内容
+!README.md
+!assets/
+!assets/**
