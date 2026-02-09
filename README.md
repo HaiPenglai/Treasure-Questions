@@ -12,7 +12,8 @@
 
 ### RoPE
 
-![1](./assets/1.png)
+![](./assets/1_1.png)
 
-![2](./assets/2.png)
+![](./assets/1_2.png)
 
+![](./assets/1_3.png)
