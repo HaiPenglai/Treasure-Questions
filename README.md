@@ -26,8 +26,6 @@
 
 ![](./assets/1_7.png)
 
-![](./assets/1_7.png)
-
 ![](./assets/1_8.png)
 
 ![](./assets/1_9.png)
