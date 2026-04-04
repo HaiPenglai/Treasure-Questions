@@ -51,14 +51,23 @@ def get_category(title: str) -> str:
 
 
 def extract_number(title: str) -> int:
-    """从标题中提取序号，用于排序"""
-    # 匹配 数字. 或 [数字] 或 【数字】 或 ［数字］开头
-    match = re.match(r'^(\d+)\.\s*|\[(\d+)\]|【(\d+)】|［(\d+)］', title)
-    if match:
-        # 返回第一个非None的组
-        for g in match.groups():
-            if g is not None:
-                return int(g)
+    """从标题中提取序号，用于排序（更鲁棒的版本）"""
+    # 先尝试匹配各种格式：
+    # 1. 数字. 或 数字：或 数字、 或 数字 后跟空格
+    # 2. [数字] 或 【数字】 或 ［数字］
+    patterns = [
+        r'^(\d+)[\.:\s、]\s*',           # 67.  67:  67  67、
+        r'^\[(\d+)\]',                    # [67]
+        r'^【(\d+)】',                    # 【67】
+        r'^［(\d+)］',                    # ［67］
+        r'^(\d+)',                        # 67（兜底，只要开头是数字）
+    ]
+    
+    for pattern in patterns:
+        match = re.match(pattern, title)
+        if match:
+            return int(match.group(1))
+    
     return 0
 
 
@@ -338,7 +347,7 @@ async def batch_extract(bv_list):
 
 
 def update_readme(bv_list):
-    """更新 README.md，生成视频列表（带序号排序和简化标题）"""
+    """更新 README.md，生成视频列表（带序号排序，图片无说明文字，减少token）"""
     print("\n[README] 开始更新 README.md...")
     
     # 按分类分组
@@ -380,15 +389,14 @@ def update_readme(bv_list):
         for item in items:
             bv = item["bvid"]
             full_title = item["title"]
-            simple_title = simplify_title(full_title)
             img_path = f"./assets/{category}/{bv}.jpg"
             
-            # 格式：
-            # 简化标题
-            # ![完整标题](路径)
+            # 格式（减少token）：
+            # 完整标题（包含序号和分类标签）
+            # ![](路径)  <- 图片无说明文字
             # ---
-            lines.append(f"{simple_title}")
-            lines.append(f"![{full_title}]({img_path})")
+            lines.append(f"{full_title}")
+            lines.append(f"![]({img_path})")
             lines.append("---")
             lines.append("")  # 空行分隔
         
