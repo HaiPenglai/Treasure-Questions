@@ -4,6 +4,18 @@
 
 ---
 
+## 学习资源
+
+| 链接 | 说明 |
+|------|------|
+| [MIT 6.5940 TinyML](https://github.com/PKUFlyingPig/MIT6.5940_TinyML) | MIT TinyML 课程 |
+| [Stanford CS336](https://stanford-cs336.github.io/) | Stanford 大语言模型课程主页 |
+| [CS336 Assignment 1](https://github.com/stanford-cs336/assignment1-basics) | Transformer 基础实现 |
+| [CS336 Assignment 2](https://github.com/stanford-cs336/assignment2-systems) | 系统优化与并行 |
+| [CS336 Assignment 3](https://github.com/stanford-cs336/assignment3-scaling) | 模型 Scaling Law |
+| [CS336 Assignment 4](https://github.com/stanford-cs336/assignment4-data) | 数据处理与清洗 |
+| [CS336 Assignment 5](https://github.com/stanford-cs336/assignment5-alignment) | RLHF 对齐训练 |
+
 ## 量化加速
 
 | 链接 | 说明 |
@@ -25,13 +37,6 @@
 | [mini-sglang](https://github.com/sgl-project/mini-sglang) | SGLang 迷你版 |
 | [xFasterTransformer](https://github.com/intel/xFasterTransformer) | Intel 加速方案 |
 
-## 训练/推理框架
-
-| 链接 | 说明 |
-|------|------|
-| [PyTorch](https://github.com/pytorch/pytorch) | 主流深度学习框架 |
-| [MindSpore](https://gitee.com/mindspore/mindspore) | 华为昇思框架 |
-
 ## 注意力优化
 
 | 链接 | 说明 |
@@ -50,17 +55,13 @@
 |------|------|
 | [Transformers](https://github.com/huggingface/transformers) | HuggingFace 预训练模型库 |
 
-## 学习资源
+## 训练/推理框架
 
 | 链接 | 说明 |
 |------|------|
-| [MIT 6.5940 TinyML](https://github.com/PKUFlyingPig/MIT6.5940_TinyML) | MIT TinyML 课程 |
-| [Stanford CS336](https://stanford-cs336.github.io/) | Stanford 大语言模型课程主页 |
-| [CS336 Assignment 1](https://github.com/stanford-cs336/assignment1-basics) | Transformer 基础实现 |
-| [CS336 Assignment 2](https://github.com/stanford-cs336/assignment2-systems) | 系统优化与并行 |
-| [CS336 Assignment 3](https://github.com/stanford-cs336/assignment3-scaling) | 模型 Scaling Law |
-| [CS336 Assignment 4](https://github.com/stanford-cs336/assignment4-data) | 数据处理与清洗 |
-| [CS336 Assignment 5](https://github.com/stanford-cs336/assignment5-alignment) | RLHF 对齐训练 |
+| [PyTorch](https://github.com/pytorch/pytorch) | 主流深度学习框架 |
+| [MindSpore](https://gitee.com/mindspore/mindspore) | 华为昇思框架 |
+
 
 ---
 
