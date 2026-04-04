@@ -1,0 +1,402 @@
+[
+  {
+    "bvid": "BV1qAA5ztELy",
+    "title": "67. 为何圆形山谷会让OBD剪枝退化为基于大小剪枝？【每天一个宝藏问题】",
+    "created": 1775217600
+  },
+  {
+    "bvid": "BV13rwCzwEKX",
+    "title": "66. LLM.int8与SmoothQuant解决离群值的思路有何异同？【每天一个宝藏问题】",
+    "created": 1775131200
+  },
+  {
+    "bvid": "BV1B997BmEGr",
+    "title": "［12］读2个多Agent共享KV Cache的论文【每周一个宝藏论文】",
+    "created": 1775109600
+  },
+  {
+    "bvid": "BV12DwRz9E4j",
+    "title": "65. 从校准集说明为何SmoothQuant中的S无需矩阵乘算子【每天一个宝藏问题】",
+    "created": 1775044800
+  },
+  {
+    "bvid": "BV1DMwmzgEyV",
+    "title": "64. SmoothQuant量化中有没有用到外积思想？【每天一个宝藏问题】",
+    "created": 1774958400
+  },
+  {
+    "bvid": "BV1VTw7zbEzq",
+    "title": "63. 举例说明SmoothQuant量化对角矩阵乘法的正确性？【每天一个宝藏问题】",
+    "created": 1774872000
+  },
+  {
+    "bvid": "BV1XMX5BZEGF",
+    "title": "[13] AutoDL上部署龙虾，它能帮忙测试算子性能吗？【每周一个宝藏实验】",
+    "created": 1774832400
+  },
+  {
+    "bvid": "BV17pwEzMETL",
+    "title": "62．LLM.int8是如何利用向量外积进行量化的？【每天一个宝藏问题】",
+    "created": 1774785600
+  },
+  {
+    "bvid": "BV1WWXWBzELJ",
+    "title": "61. 含广播的偏置b的梯度如何计算？【每天一个宝藏问题】",
+    "created": 1774699200
+  },
+  {
+    "bvid": "BV1pKwjz3E1P",
+    "title": "60. LoRA微调和向量外积为何长得很像？【每天一个宝藏问题】",
+    "created": 1774612800
+  },
+  {
+    "bvid": "BV13gcCzbE7y",
+    "title": "59. DeepSeek OCR比较人性化的可视化可能是什么样的？【每天一个宝藏问题】",
+    "created": 1774526400
+  },
+  {
+    "bvid": "BV1M8QUBUESz",
+    "title": "［10］大模型写算子：读两个KernelBench的改进工作【每周一个宝藏论文】",
+    "created": 1774486800
+  },
+  {
+    "bvid": "BV1DvcyzcEa4",
+    "title": "58. 如何根据答案倒推合成思维链做SFT？以AscendKernelGen为例【每天一个宝藏问题】",
+    "created": 1774440000
+  },
+  {
+    "bvid": "BV1SSNFz2EDK",
+    "title": "57. 网格步进是如何加速张量计算的？【每天一个宝藏问题】",
+    "created": 1774353600
+  },
+  {
+    "bvid": "BV1cPAuzpE6e",
+    "title": "56. 为什么多个Sub-Agent也可以共享前缀KV Cache？【每天一个宝藏问题】",
+    "created": 1774267200
+  },
+  {
+    "bvid": "BV1vxAszpE3P",
+    "title": "[11] 跑robust-kbench测试LLM写算子，附Agent提示词【每周一个宝藏实验】",
+    "created": 1774227600
+  },
+  {
+    "bvid": "BV1YdANzcESN",
+    "title": "55. 为什么KV Cache也有LRU等缓存替换策略?【每天一个宝藏问题】",
+    "created": 1774180800
+  },
+  {
+    "bvid": "BV1DvPhzeE3R",
+    "title": "54. bf16：与FP32有相同的8位指数位，所以更适合模型训练【每天一个宝藏名词】",
+    "created": 1774094400
+  },
+  {
+    "bvid": "BV1SqPhzAErH",
+    "title": "53. 如何加速两个张量之和？【每天一个宝藏问题】",
+    "created": 1774008000
+  },
+  {
+    "bvid": "BV1TUPWzkEgW",
+    "title": "52 简单的梯度算子是如何定义的【每天一个宝藏问题】",
+    "created": 1773921600
+  },
+  {
+    "bvid": "BV1QPwszCE39",
+    "title": "[9] 跑CUDA-L2测试和cuBLAS相比效果如何？【每周一个宝藏实验】",
+    "created": 1773882000
+  },
+  {
+    "bvid": "BV1TUPWzkE6U",
+    "title": "51 矩阵乘法对权重的梯度是怎么来的？【每天一个宝藏问题】",
+    "created": 1773835200
+  },
+  {
+    "bvid": "BV1zXP7zyEbD",
+    "title": "50. 环境变量的工作原理：控制台启动时自动执行命令，让简写命令找到在哪执行【每天一个宝藏名词】",
+    "created": 1773748800
+  },
+  {
+    "bvid": "BV1bUP5zDER5",
+    "title": "49. 双缓冲是如何加速张量计算的？【每天一个宝藏问题】",
+    "created": 1773662400
+  },
+  {
+    "bvid": "BV1fVckzqE1S",
+    "title": "[8] 读三个强化学习写算子的论文【每周一个宝藏论文】",
+    "created": 1773622800
+  },
+  {
+    "bvid": "BV1MUP5zDEmj",
+    "title": "48. NoteBookLM：Google的PPT制作神器，还有思维导图等一系列功能【每天一个宝藏名词】",
+    "created": 1773576000
+  },
+  {
+    "bvid": "BV1k4PDzrE9X",
+    "title": "47 CLIP比较人性化的可视化可能长什么样？【每天一个宝藏问题】",
+    "created": 1773489600
+  },
+  {
+    "bvid": "BV1ioArzKEMB",
+    "title": "46. 矩阵乘法对激活的梯度是怎么来的？【每天一个宝藏问题】",
+    "created": 1773403200
+  },
+  {
+    "bvid": "BV1doArzKExB",
+    "title": "45. SIMD是如何加速张量计算的(简单理解)【每天一个宝藏问题】",
+    "created": 1773316800
+  },
+  {
+    "bvid": "BV1gzPyzuERu",
+    "title": "[7] 跑KernelBench测试LLM将PyTorch转译为CUDA代码的能力（ICML2025）【每周一个宝藏实验】",
+    "created": 1773277200
+  },
+  {
+    "bvid": "BV1B9ArzuEP3",
+    "title": "44. 为什么把权重置0就是在剪枝？【每天一个宝藏问题】",
+    "created": 1773230400
+  },
+  {
+    "bvid": "BV1iRArzqEvU",
+    "title": "43. everything：比Windows默认文件搜索工具快很多，2MB的免费小工具【】",
+    "created": 1773144000
+  },
+  {
+    "bvid": "BV1yBArzEEeE",
+    "title": "42. 聚类量化和线性量化有何不同？【每天一个宝藏问题】",
+    "created": 1773057600
+  },
+  {
+    "bvid": "BV1HVPkzEEx9",
+    "title": "[6] Agent写算子：读三个Agent写算子的论文【每周一个宝藏论文】",
+    "created": 1773018000
+  },
+  {
+    "bvid": "BV1WzArzUEdr",
+    "title": "41 Flash Attention之前的那种N^2注意力不好在哪里？【每天一个宝藏问题】",
+    "created": 1772971200
+  },
+  {
+    "bvid": "BV1AzArzUEh1",
+    "title": "40. Temperature、TopK/P退化为贪婪解码的三种条件是？【每天一个宝藏问题】",
+    "created": 1772884800
+  },
+  {
+    "bvid": "BV1yiArzSEs1",
+    "title": "39. FlashAttention V2中为何要先循环Q后循环K？【每天一个宝藏问题】",
+    "created": 1772798400
+  },
+  {
+    "bvid": "BV1obA6zeEtE",
+    "title": "38. miniSGLang：一个简化版SGLang，仅5000行python【每天一个宝藏名词】",
+    "created": 1772712000
+  },
+  {
+    "bvid": "BV1nUAazDEma",
+    "title": "[5] 快速上手FuctionCall和React：极简易百词斩Agent【每周一个宝藏实验】",
+    "created": 1772672400
+  },
+  {
+    "bvid": "BV1cTZyBzEjv",
+    "title": "37. GQA中讲的共享指的是Token还是Head？【每天一个宝藏问题】",
+    "created": 1772625600
+  },
+  {
+    "bvid": "BV1UtZkBjEZP",
+    "title": "36. 为什么推理时prefill是GEMM，而decode是（Batched）GEMV？【每天一个宝藏问题】",
+    "created": 1772539200
+  },
+  {
+    "bvid": "BV1pRZtBaEYv",
+    "title": "35. Transformer暗含多少种分块矩阵乘法的理解方式？【每天一个宝藏问题】",
+    "created": 1772452800
+  },
+  {
+    "bvid": "BV1pJA6zkEH4",
+    "title": "[4] 大模型写算子：一篇综述+2个数据集【每周一个宝藏论文】",
+    "created": 1772413200
+  },
+  {
+    "bvid": "BV1qKZ7BsEs5",
+    "title": "34. BERT为什么没有KV Cache/KV Cache何以存在？【每天一个宝藏问题】",
+    "created": 1772366400
+  },
+  {
+    "bvid": "BV1dgZ7BQEHL",
+    "title": "33. 用户改提示词为什么不会影响前面的KV Cache？【每天一个宝藏问题】",
+    "created": 1772280000
+  },
+  {
+    "bvid": "BV13FZEBEE6y",
+    "title": "32. 一种人性化的Transformer可视化可能是什么样的？【每天一个宝藏问题】",
+    "created": 1772193600
+  },
+  {
+    "bvid": "BV16qZLBxEZt",
+    "title": "31. FlashAttention v2版本如何省略掩码上三角矩阵计算？【每天一个宝藏问题】",
+    "created": 1772107200
+  },
+  {
+    "bvid": "BV1PcfEBrEBs",
+    "title": "[3] 从采摘200片三叶草开始训练一个简易无条件DDPM 【每周一个宝藏实验】",
+    "created": 1772067260
+  },
+  {
+    "bvid": "BV11KcWz8EZm",
+    "title": "30. 举例说明SlimAttention的分块矩阵乘法的正确性？【每天一个宝藏问题】",
+    "created": 1772020800
+  },
+  {
+    "bvid": "BV19PcnzPEQp",
+    "title": "29. 以逐元素乘加为例，算子融合为什么能提高计算效率？【每天一个宝藏问题】",
+    "created": 1771934400
+  },
+  {
+    "bvid": "BV1XcfBBGEUw",
+    "title": "[2] 读上月新鲜出炉的综述：大模型写算子【每周一个宝藏论文】",
+    "created": 1771894800
+  },
+  {
+    "bvid": "BV1i6cnzzE2x",
+    "title": "28. 为什么在线Softmax比安全Softmax可以少一次循环？【每天一个宝藏问题】",
+    "created": 1771848000
+  },
+  {
+    "bvid": "BV1c1c7zzEb4",
+    "title": "27. 在线Softmax：通过修正比安全Softmax减少了一次循环【每天一个宝藏名词】",
+    "created": 1771761600
+  },
+  {
+    "bvid": "BV1CPcJzLELq",
+    "title": "26. TinyML：MIT推出的大模型轻量化课，亲手量化一个本地llama模型【每天一个宝藏名词】",
+    "created": 1771675200
+  },
+  {
+    "bvid": "BV18pcLz2E3P",
+    "title": "25. 举例说明FlashAttention的分块矩阵乘法的正确性？【每天一个宝藏名词】",
+    "created": 1771588800
+  },
+  {
+    "bvid": "BV12xZBBwEKf",
+    "title": "[1]. 跑通TritonBench测试LLM的算子生成能力(ACL2025)【每周一个宝藏实验】",
+    "created": 1771549200
+  },
+  {
+    "bvid": "BV1gtcbzDENr",
+    "title": "24. 思维树：大模型+DFS玩24点游戏成功率大增【每天一个宝藏名词】",
+    "created": 1771502400
+  },
+  {
+    "bvid": "BV15EcbzoEY7",
+    "title": "23. Llama的旋转位置编码实现和RoPE原论文有何不同？【每天一个宝藏问题】",
+    "created": 1771416000
+  },
+  {
+    "bvid": "BV1nUcbzTEGi",
+    "title": "22. 为什么transformers.Llama的实现和RoPE原论文不一致？【每天一个宝藏问题】",
+    "created": 1771329600
+  },
+  {
+    "bvid": "BV1o5FozuEz2",
+    "title": "21. 为什么增大旋转位置编码中10000可提高模型外推能力【每天一个宝藏问题】",
+    "created": 1771243200
+  },
+  {
+    "bvid": "BV1fFFDzsEt6",
+    "title": "20. RoPE注意力的绝对位置无关性和欧拉公式有什么关系？【每天一个宝藏额问题】",
+    "created": 1771156800
+  },
+  {
+    "bvid": "BV1XyFyzcEN6",
+    "title": "19. 为什么RoPE中旋转矩阵R实际上不需要矩阵乘算子？【每天一个宝藏问题】",
+    "created": 1771070400
+  },
+  {
+    "bvid": "BV1Jif9BeEYE",
+    "title": "18. CCF-DDL：一个统计CCF分类和倒计时的宝藏网站【每天一个宝藏名词】",
+    "created": 1770984000
+  },
+  {
+    "bvid": "BV1mZcuztEw2",
+    "title": "17. 为什么正余弦位置编码的注意力是和绝对位置相关的？【每天一个宝藏问题】",
+    "created": 1770897600
+  },
+  {
+    "bvid": "BV1FgcMzkE5h",
+    "title": "16. RoPE如何从2维推广到任意偶数维，奇数维咋办？【每天一个宝藏问题】",
+    "created": 1770811200
+  },
+  {
+    "bvid": "BV1yS6zBXEVu",
+    "title": "15. 投机解码：小模型草拟，大模型验证【每天一个宝藏名词】",
+    "created": 1770724800
+  },
+  {
+    "bvid": "BV1uoFxzgEWz",
+    "title": "14. 旋转位置编码和高中三角函数和差角公式有什么关系？【每天一个宝藏问题】",
+    "created": 1770638400
+  },
+  {
+    "bvid": "BV1qzFxzQES2",
+    "title": "13. 旋转位置编码和复数欧拉公式有什么关系？【每天一个宝藏问题】",
+    "created": 1770552000
+  },
+  {
+    "bvid": "BV1gQ6iBREZw",
+    "title": "12. RoPE：通过旋转矩阵让注意力只取决于相对位置【每天一个宝藏名词】",
+    "created": 1770465600
+  },
+  {
+    "bvid": "BV19u6BBwEQ8",
+    "title": "11. GQA：介于MHA和MQA之间，键值共享查询分组【每天一个宝藏名词】",
+    "created": 1770465600
+  },
+  {
+    "bvid": "BV1qA6BBKEck",
+    "title": "10. NF4：QLoRA中的非均匀量化数据类型【每天一个宝藏名词】",
+    "created": 1770379200
+  },
+  {
+    "bvid": "BV1C66YBvECv",
+    "title": "9. FlashAttention：将Attention的显存占用从平方级降到了线性级【每天一个宝藏名词】",
+    "created": 1770292800
+  },
+  {
+    "bvid": "BV1Ht6wBVEUX",
+    "title": "8. PagedAttention：借鉴操作系统分页机制，内置于vLLM【每天一个宝藏名词】",
+    "created": 1770206400
+  },
+  {
+    "bvid": "BV1MUzZBVEtV",
+    "title": "7. SlimAttention：一种比FlashAttention更适合CPU的推理方案【每天一个宝藏名词】",
+    "created": 1770120000
+  },
+  {
+    "bvid": "BV1FTzfBcE3h",
+    "title": "6. nano-vLLM：纯python实现的堪比vLLM的推理框架【每天一个宝藏名词】",
+    "created": 1770033600
+  },
+  {
+    "bvid": "BV12pzXBREPY",
+    "title": "5. CS336：斯坦福LLM神课，甚至包含洗数据和SFT【每天一个宝藏名词】",
+    "created": 1769947200
+  },
+  {
+    "bvid": "BV1RyzXB6Eyz",
+    "title": "4. SmoothQuant：一种转嫁压力的LLM量化方法【每天一个宝藏名词】",
+    "created": 1769860800
+  },
+  {
+    "bvid": "BV1aXzXBNE4A",
+    "title": "3. GPTQ：一种纯数学的LLM量化方法【每天一个宝藏名词】",
+    "created": 1769774400
+  },
+  {
+    "bvid": "BV16H6EBHEP5",
+    "title": "2. AWQ：一种保护关键权重的LLM量化算法【每天一个宝藏名词】",
+    "created": 1769688000
+  },
+  {
+    "bvid": "BV1kG6jBSE3u",
+    "title": "1. BitNet 1.58b：微软开源的3值量化模型【每天一个宝藏名词】",
+    "created": 1769601600
+  }
+]

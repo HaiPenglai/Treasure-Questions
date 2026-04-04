@@ -10,4 +10,6 @@
 !assets/**
 
 # 4. 保留必要脚本
-!clean_md.py
+!bilibili_cover_extractor.py
+!bv_list.json
+

@@ -2,60 +2,18 @@
 
 - **作者**：b站**海安雨**。
 
-<TOC>
+## 每天一个宝藏问题
 
-- [LLM](#llm)
-  - [RoPE](#rope)
+![](./assets/30. 举例说明SlimAttention的分块矩阵乘法的正确性？【每天一个宝藏问题】.jpg)
 
+## 每天一个宝藏名词
 
-## LLM
+![](./assets/1. BitNet 1.58b：微软开源的3值量化模型【每天一个宝藏名词】.jpg)
 
-### RoPE
+## 每周一个宝藏论文
 
-![](./assets/1_1.png)
+![](./assets/[6] Agent写算子：读三个Agent写算子的论文【每周一个宝藏论文】.jpg)
 
-![](./assets/1_2.png)
+## 每周一个宝藏实验
 
-![](./assets/1_3.png)
-
-![](./assets/1_4.png)
-
-![](./assets/1_5.png)
-
-![](./assets/1_6.png)
-
-![](./assets/1_7.png)
-
-![](./assets/1_8.png)
-
-![](./assets/1_9.png)
-
-![](./assets/1_10.png)
-
-![](./assets/1_11.png)
-
-![](./assets/1_12.png)
-
-![](./assets/1_13.png)
-
-![](./assets/1_14.png)
-
-![](./assets/1_15.png)
-
-![](./assets/1_16.png)
-
-![](./assets/1_17.png)
-
-![](./assets/1_18.png)
-
-![](./assets/1_19.png)
-
-![](./assets/1_20.png)
-
-![](./assets/1_21.png)
-
-![](./assets/1_22.png)
-
-![](./assets/1_23.png)
-
-![](./assets/1_24.png)
+![](./assets/[1]. 跑通TritonBench测试LLM的算子生成能力(ACL2025)【每周一个宝藏实验】.jpg)
