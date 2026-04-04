@@ -51,9 +51,11 @@ def sanitize_filename(name: str, remove_category_tag: bool = True) -> str:
     3. 中文冒号 ： -> _
     4. 最终格式: [10] 标题内容.jpg 或 10. 标题内容.jpg
     """
-    # 步骤1: 将所有中文黑括号 【】 转为英文中括号 []
+    # 步骤1: 将所有中文黑括号 【】 和全角方括号 ［］ 转为英文中括号 []
     name = name.replace('【', '[')
     name = name.replace('】', ']')
+    name = name.replace('［', '[')
+    name = name.replace('］', ']')
     
     # 步骤2: 提取序号（匹配 [数字] 或 数字. 开头）
     # 匹配 [10] 或 10. 或 10 开头
