@@ -20,9 +20,17 @@
 | 链接 | 说明 |
 |------|------|
 | [vLLM](https://github.com/vllm-project/vllm) | 高吞吐 LLM 推理 |
+| [SGLang](https://github.com/sgl-project/sglang) | 结构化生成推理框架 |
 | [nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) | vLLM 极简实现 |
 | [mini-sglang](https://github.com/sgl-project/mini-sglang) | SGLang 迷你版 |
 | [xFasterTransformer](https://github.com/intel/xFasterTransformer) | Intel 加速方案 |
+
+## 训练/推理框架
+
+| 链接 | 说明 |
+|------|------|
+| [PyTorch](https://github.com/pytorch/pytorch) | 主流深度学习框架 |
+| [MindSpore](https://gitee.com/mindspore/mindspore) | 华为昇思框架 |
 
 ## 注意力优化
 
@@ -35,6 +43,12 @@
 | 链接 | 说明 |
 |------|------|
 | [Tree of Thought](https://github.com/princeton-nlp/tree-of-thought-llm) | ToT 思维树推理 |
+
+## 核心库
+
+| 链接 | 说明 |
+|------|------|
+| [Transformers](https://github.com/huggingface/transformers) | HuggingFace 预训练模型库 |
 
 ## 学习资源
 
