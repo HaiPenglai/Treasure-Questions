@@ -1,11 +1,12 @@
 """
-B站视频第一帧封面提取流水线 v3 - 基于时间的自动发现
-- 使用视频标题作为文件名
-- 最高质量 JPG 提取，不做无谓放大
+B站视频第一帧封面提取流水线 v4 - 使用BVID作为文件名（避免GitHub中文路径问题）
+- 文件名使用BVID（如 BV1qAA5ztELy.jpg）
+- 按视频分类存放（questions/papers/experiments/terms/others）
+- 自动更新 README.md 生成视频列表（带序号排序和简化标题）
 - 带反爬虫延迟
 - 自动发现新发布的视频（基于时间戳增量更新）
 
-使用方法：
+使用方法:
     python bilibili_cover_extractor.py
     
 无需任何参数，每周运行一次即可自动添加新视频。
@@ -21,17 +22,23 @@ from bilibili_api import user, video
 MID = 2071007724
 OUTPUT_DIR = "assets"
 BV_LIST_FILE = "bv_list.json"
-
-# 开关
-USE_TITLE_AS_FILENAME = True   # True=用标题命名, False=用BV号命名
-MAX_FILENAME_LEN = 150         # 文件名最大长度（不含扩展名）
+README_FILE = "README.md"
 
 # 分类配置
 CATEGORIES = {
     "questions": "宝藏问题",
-    "terms": "宝藏名词",
+    "terms": "宝藏名词", 
     "papers": "宝藏论文",
     "experiments": "宝藏实验"
+}
+
+# README 中的分类标题映射
+README_SECTIONS = {
+    "questions": "## 每天一个宝藏问题",
+    "terms": "## 每天一个宝藏名词",
+    "papers": "## 每周一个宝藏论文",
+    "experiments": "## 每周一个宝藏实验",
+    "others": "## 其他"
 }
 
 
@@ -43,58 +50,33 @@ def get_category(title: str) -> str:
     return "others"
 
 
-def sanitize_filename(name: str, remove_category_tag: bool = True) -> str:
+def extract_number(title: str) -> int:
+    """从标题中提取序号，用于排序"""
+    # 匹配 数字. 或 [数字] 或 【数字】 或 ［数字］开头
+    match = re.match(r'^(\d+)\.\s*|\[(\d+)\]|【(\d+)】|［(\d+)］', title)
+    if match:
+        # 返回第一个非None的组
+        for g in match.groups():
+            if g is not None:
+                return int(g)
+    return 0
+
+
+def simplify_title(title: str) -> str:
     """
-    清理文件名：
-    1. 【10】 -> [10] (中文黑括号转英文中括号，保留序号)
-    2. 移除分类标签如 [每周一个宝藏论文]（因为已用目录分类）
-    3. 中文冒号 ： -> _
-    4. 最终格式: [10] 标题内容.jpg 或 10. 标题内容.jpg
+    简化标题：去掉分类标签后缀
+    例如：
+    "67. 为何圆形山谷会让OBD剪枝退化为基于大小剪枝？【每天一个宝藏问题】"
+    -> "67. 为何圆形山谷会让OBD剪枝退化为基于大小剪枝？"
     """
-    # 步骤1: 将所有中文黑括号 【】 和全角方括号 ［］ 转为英文中括号 []
-    name = name.replace('【', '[')
-    name = name.replace('】', ']')
-    name = name.replace('［', '[')
-    name = name.replace('］', ']')
+    # 去掉所有分类标签
+    for keyword in CATEGORIES.values():
+        title = re.sub(rf'【{keyword}】', '', title)
+        title = re.sub(rf'\[每天一个[^\]]+\]', '', title)
+        title = re.sub(rf'\[每周一个[^\]]+\]', '', title)
     
-    # 步骤2: 提取序号（匹配 [数字] 或 数字. 开头）
-    # 匹配 [10] 或 10. 或 10 开头
-    prefix_match = re.match(r'^(\[\d+\]|\d+\.)\s*', name)
-    prefix = ""
-    if prefix_match:
-        prefix = prefix_match.group(1).strip()
-        name = name[prefix_match.end():].strip()
-    
-    # 步骤3: 移除分类标签 [宝藏问题] [宝藏名词] [宝藏论文] [宝藏实验]
-    if remove_category_tag:
-        for keyword in CATEGORIES.values():
-            name = re.sub(rf'\[{keyword}\]', '', name)
-        # 同时移除每周/每天的变体
-        name = re.sub(r'\[每周一个[^\]]+\]', '', name)
-        name = re.sub(r'\[每天一个[^\]]+\]', '', name)
-    
-    # 步骤4: 中文冒号 -> 下划线
-    name = name.replace('：', '_')
-    name = name.replace(':', '_')
-    
-    # 步骤5: 移除其他非法字符
-    name = re.sub(r'[\\/*?"<>|]', '_', name)
-    
-    # 步骤6: 清理连续下划线和空格
-    name = re.sub(r'_+', '_', name)
-    name = re.sub(r' +', ' ', name)
-    name = name.strip(' _')
-    
-    # 步骤7: 组合回去
-    # 如果有序号，保持 [10] 格式或转为 10. 格式
-    if prefix:
-        # 将 [10] 转为 10. 格式更统一
-        prefix = re.sub(r'\[(\d+)\]', r'\1.', prefix)
-        # 移除末尾多余的点
-        prefix = re.sub(r'\.$', '', prefix)
-        return f"{prefix}. {name}" if name else f"{prefix}.jpg"
-    
-    return name or "untitled"
+    # 清理首尾空格
+    return title.strip()
 
 
 def ensure_dir(category: str = ""):
@@ -223,21 +205,15 @@ async def fetch_all_bvs():
     return all_bvs
 
 
-def extract_first_frame(bv: str, title: str, category: str = "") -> bool:
-    """提取单个BV视频的第一帧，最高质量，不做放大，自动分类"""
-    # 确定输出目录
-    if category:
-        ensure_dir(category)
-        output_dir = os.path.join(OUTPUT_DIR, category)
-    else:
-        ensure_dir()
-        output_dir = OUTPUT_DIR
+def extract_first_frame(bv: str, title: str) -> bool:
+    """提取单个BV视频的第一帧，使用BVID作为文件名，自动分类"""
+    # 确定分类和输出目录
+    category = get_category(title)
+    ensure_dir(category)
+    output_dir = os.path.join(OUTPUT_DIR, category)
     
-    if USE_TITLE_AS_FILENAME:
-        base_name = sanitize_filename(title, remove_category_tag=True)
-        output_path = os.path.join(output_dir, f"{base_name}.jpg")
-    else:
-        output_path = os.path.join(output_dir, f"{bv}_first_frame.jpg")
+    # 文件名就是 bvid.jpg
+    output_path = os.path.join(output_dir, f"{bv}.jpg")
     
     if os.path.exists(output_path):
         print(f"  [{bv}] 已存在，跳过")
@@ -279,7 +255,7 @@ def extract_first_frame(bv: str, title: str, category: str = "") -> bool:
         
         if result.returncode == 0 and os.path.exists(output_path) and os.path.getsize(output_path) > 2000:
             size_kb = os.path.getsize(output_path) // 1024
-            print(f"  [{bv}] OK {size_kb}KB -> {os.path.basename(output_path)}")
+            print(f"  [{bv}] OK {size_kb}KB -> {category}/{bv}.jpg")
             return True
         else:
             print(f"  [{bv}] X 未生成有效图片")
@@ -299,7 +275,7 @@ async def batch_extract(bv_list):
     success = 0
     skipped = 0
     failed = 0
-    updated = 0  # 记录更新标题的数量
+    updated = 0
     
     # 按分类统计
     stats = {cat: 0 for cat in list(CATEGORIES.keys()) + ["others"]}
@@ -314,13 +290,9 @@ async def batch_extract(bv_list):
         category = get_category(title)
         stats[category] += 1
         
-        # 确定输出路径（分类目录）
+        # 确定输出路径（分类目录/bvid.jpg）
         ensure_dir(category)
-        if USE_TITLE_AS_FILENAME:
-            base_name = sanitize_filename(title, remove_category_tag=True)
-            output_path = os.path.join(OUTPUT_DIR, category, f"{base_name}.jpg")
-        else:
-            output_path = os.path.join(OUTPUT_DIR, category, f"{bv}_first_frame.jpg")
+        output_path = os.path.join(OUTPUT_DIR, category, f"{bv}.jpg")
         
         # 检查是否已存在
         if os.path.exists(output_path):
@@ -338,11 +310,13 @@ async def batch_extract(bv_list):
                 item["title"] = new_title
                 item["pic"] = fresh_info["pic"]
                 updated += 1
+                # 重新计算分类（可能标题变了分类也变了）
+                category = get_category(new_title)
             title = new_title
         
-        # 使用（可能更新后的）标题下载，传递分类
+        # 使用（可能更新后的）标题下载
         print(f"[{i}/{total}] 提取封面: {title[:50]}...")
-        if extract_first_frame(bv, title, category):
+        if extract_first_frame(bv, title):
             success += 1
         else:
             failed += 1
@@ -361,6 +335,84 @@ async def batch_extract(bv_list):
             print(f"  {cat:12}: {count} 个")
     
     return success, updated
+
+
+def update_readme(bv_list):
+    """更新 README.md，生成视频列表（带序号排序和简化标题）"""
+    print("\n[README] 开始更新 README.md...")
+    
+    # 按分类分组
+    categorized = {cat: [] for cat in list(CATEGORIES.keys()) + ["others"]}
+    for item in bv_list:
+        category = get_category(item["title"])
+        categorized[category].append(item)
+    
+    # 读取现有 README
+    if os.path.exists(README_FILE):
+        with open(README_FILE, "r", encoding="utf-8") as f:
+            content = f.read()
+    else:
+        # 创建默认 README 结构
+        content = """# 宝藏问题
+
+- **作者**：b站**海安雨**。
+
+## 每天一个宝藏问题
+
+## 每天一个宝藏名词
+
+## 每周一个宝藏论文
+
+## 每周一个宝藏实验
+
+## 其他
+
+"""
+    
+    # 为每个分类生成内容并替换
+    for category, section_title in README_SECTIONS.items():
+        # 按序号排序（从大到小，最新的在前面）
+        items = categorized[category]
+        items.sort(key=lambda x: extract_number(x["title"]), reverse=True)
+        
+        # 生成该分类的内容
+        lines = []
+        for item in items:
+            bv = item["bvid"]
+            full_title = item["title"]
+            simple_title = simplify_title(full_title)
+            img_path = f"./assets/{category}/{bv}.jpg"
+            
+            # 格式：
+            # 简化标题
+            # ![完整标题](路径)
+            # ---
+            lines.append(f"{simple_title}")
+            lines.append(f"![{full_title}]({img_path})")
+            lines.append("---")
+            lines.append("")  # 空行分隔
+        
+        section_content = "\n".join(lines) if lines else "*暂无视频*\n"
+        
+        # 使用正则替换该部分的内容
+        # 匹配模式: ## 标题\n\n(内容)\n(?=## 或结尾)
+        pattern = rf"({re.escape(section_title)}\n\n)(.*?)(?=\n## |\Z)"
+        
+        def replace_section(match):
+            return f"{match.group(1)}{section_content}"
+        
+        new_content, count = re.subn(pattern, replace_section, content, flags=re.DOTALL)
+        if count > 0:
+            content = new_content
+            print(f"  [{category}] 已更新 {len(items)} 个视频（按序号排序）")
+        else:
+            print(f"  [{category}] 未找到对应章节，跳过")
+    
+    # 保存更新后的 README
+    with open(README_FILE, "w", encoding="utf-8") as f:
+        f.write(content)
+    
+    print(f"[README] 已更新 {README_FILE}")
 
 
 async def main():
@@ -402,7 +454,7 @@ async def main():
         print("[Main] 首次运行，获取全部视频...")
         bv_list = await fetch_all_bvs()
     
-    # 步骤2：批量提取封面
+    # 步骤2：批量提取封面（只下载缺失的）
     if bv_list:
         success, updated = await batch_extract(bv_list)
         
@@ -413,6 +465,10 @@ async def main():
             print(f"[Main] 已更新 {BV_LIST_FILE} 中的 {updated} 个视频标题")
     else:
         print("[Main] 没有BV号可处理")
+    
+    # 步骤3：更新 README.md（每次都会刷新，无论是否有新下载）
+    if bv_list:
+        update_readme(bv_list)
 
 
 if __name__ == "__main__":
