@@ -4,7 +4,8 @@
 
 ## 每天一个宝藏问题
 
-![](./assets/questions/13. 旋转位置编码和复数欧拉公式有什么关系.jpg)
+![](./assets/questions/13.jpg)
+
 ![](./assets/questions/14. 旋转位置编码和高中三角函数和差角公式有什么关系？.jpg)
 
 ## 每天一个宝藏名词
