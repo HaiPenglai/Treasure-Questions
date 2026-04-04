@@ -16,16 +16,22 @@
 | [CS336 Assignment 4](https://github.com/stanford-cs336/assignment4-data) | 数据处理与清洗 |
 | [CS336 Assignment 5](https://github.com/stanford-cs336/assignment5-alignment) | RLHF 对齐训练 |
 
-## 量化加速
+## 核心库
 
 | 链接 | 说明 |
 |------|------|
-| [BitNet](https://github.com/microsoft/BitNet) | 微软 1-bit 量化 |
-| [llm-awq](https://github.com/mit-han-lab/llm-awq) | AWQ 官方实现 |
-| [AutoAWQ](https://github.com/casper-hansen/AutoAWQ) | AWQ 易用封装 |
-| [AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ) | GPTQ 量化工具 |
-| [smoothquant](https://github.com/mit-han-lab/smoothquant) | SmoothQuant 量化 |
-| [bitsandbytes](https://github.com/TimDettmers/bitsandbytes) | 8-bit/4-bit 量化 (LLM.int8) |
+| [Transformers](https://github.com/huggingface/transformers) | HuggingFace 预训练模型库 |
+| [Diffusers](https://github.com/huggingface/diffusers) | HuggingFace 扩散模型库 |
+| [Datasets](https://github.com/huggingface/datasets) | HuggingFace 数据集处理库 |
+| [Tokenizers](https://github.com/huggingface/tokenizers) | 高性能 tokenizer |
+
+## 微调与训练
+
+| 链接 | 说明 |
+|------|------|
+| [PEFT](https://github.com/huggingface/peft) | 参数高效微调 (LoRA/Adapter) |
+| [TRL](https://github.com/huggingface/trl) | 强化学习训练 (PPO/DPO) |
+| [Accelerate](https://github.com/huggingface/accelerate) | 分布式训练加速 |
 
 ## 推理引擎
 
@@ -37,23 +43,33 @@
 | [mini-sglang](https://github.com/sgl-project/mini-sglang) | SGLang 迷你版 |
 | [xFasterTransformer](https://github.com/intel/xFasterTransformer) | Intel 加速方案 |
 
+## 量化加速
+
+| 链接 | 说明 |
+|------|------|
+| [BitNet](https://github.com/microsoft/BitNet) | 微软 1-bit 量化 |
+| [llm-awq](https://github.com/mit-han-lab/llm-awq) | AWQ 官方实现 |
+| [AutoAWQ](https://github.com/casper-hansen/AutoAWQ) | AWQ 易用封装 |
+| [AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ) | GPTQ 量化工具 |
+| [smoothquant](https://github.com/mit-han-lab/smoothquant) | SmoothQuant 量化 |
+| [bitsandbytes](https://github.com/TimDettmers/bitsandbytes) | 8-bit/4-bit 量化 |
+
 ## 注意力优化
 
 | 链接 | 说明 |
 |------|------|
 | [FlashAttention](https://github.com/Dao-AILab/flash-attention) | 高效注意力计算 |
 
-## 算法方法
+## CUDA/GPU 优化
 
 | 链接 | 说明 |
 |------|------|
-| [Tree of Thought](https://github.com/princeton-nlp/tree-of-thought-llm) | ToT 思维树推理 |
-
-## 核心库
-
-| 链接 | 说明 |
-|------|------|
-| [Transformers](https://github.com/huggingface/transformers) | HuggingFace 预训练模型库 |
+| [CUDA Samples](https://github.com/NVIDIA/cuda-samples) | NVIDIA CUDA 官方示例 |
+| [DALI](https://github.com/NVIDIA/DALI) | NVIDIA 数据加载加速 |
+| [tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) | 轻量 CUDA 神经网络 |
+| [NCCL](https://github.com/NVIDIA/nccl) | GPU 多卡通信库 |
+| [cuDNN](https://developer.nvidia.com/cudnn) | NVIDIA 深度学习基元库 |
+| [TensorRT](https://github.com/NVIDIA/TensorRT) | NVIDIA 推理优化框架 |
 
 ## 训练/推理框架
 
@@ -61,7 +77,24 @@
 |------|------|
 | [PyTorch](https://github.com/pytorch/pytorch) | 主流深度学习框架 |
 | [MindSpore](https://gitee.com/mindspore/mindspore) | 华为昇思框架 |
+| [TensorFlow](https://github.com/tensorflow/tensorflow) | Google 深度学习框架 |
+| [JAX](https://github.com/google/jax) | Google 高性能计算框架 |
+| [DeepSpeed](https://github.com/microsoft/DeepSpeed) | 微软分布式训练框架 |
+| [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) | NVIDIA 大模型训练框架 |
+| [ColossalAI](https://github.com/hpcaitech/ColossalAI) | 集成式大模型训练系统 |
 
+## 多模态/语音
+
+| 链接 | 说明 |
+|------|------|
+| [Whisper](https://github.com/openai/whisper) | OpenAI 语音识别 |
+| [tiktoken](https://github.com/openai/tiktoken) | OpenAI 快速 tokenizer |
+
+## 算法方法
+
+| 链接 | 说明 |
+|------|------|
+| [Tree of Thought](https://github.com/princeton-nlp/tree-of-thought-llm) | ToT 思维树推理 |
 
 ---
 
