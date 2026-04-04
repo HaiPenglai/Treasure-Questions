@@ -16,7 +16,7 @@ import json
 import subprocess
 import asyncio
 import time
-from bilibili_api import user
+from bilibili_api import user, video
 
 MID = 2071007724
 OUTPUT_DIR = "assets"
@@ -26,25 +26,98 @@ BV_LIST_FILE = "bv_list.json"
 USE_TITLE_AS_FILENAME = True   # True=用标题命名, False=用BV号命名
 MAX_FILENAME_LEN = 150         # 文件名最大长度（不含扩展名）
 
+# 分类配置
+CATEGORIES = {
+    "questions": "宝藏问题",
+    "terms": "宝藏名词",
+    "papers": "宝藏论文",
+    "experiments": "宝藏实验"
+}
 
-def sanitize_filename(name: str) -> str:
-    """清理非法文件名字符，截断长度，保留中文"""
-    # 去除首尾空白
-    name = name.strip()
-    # Windows 非法字符
-    name = re.sub(r'[\\/:*?"<>|]', '_', name)
-    # 去除连续下划线
+
+def get_category(title: str) -> str:
+    """根据标题判断分类目录"""
+    for cat_dir, keyword in CATEGORIES.items():
+        if keyword in title:
+            return cat_dir
+    return "others"
+
+
+def sanitize_filename(name: str, remove_category_tag: bool = True) -> str:
+    """
+    清理文件名：
+    1. 【10】 -> [10] (中文黑括号转英文中括号，保留序号)
+    2. 移除分类标签如 [每周一个宝藏论文]（因为已用目录分类）
+    3. 中文冒号 ： -> _
+    4. 最终格式: [10] 标题内容.jpg 或 10. 标题内容.jpg
+    """
+    # 步骤1: 将所有中文黑括号 【】 转为英文中括号 []
+    name = name.replace('【', '[')
+    name = name.replace('】', ']')
+    
+    # 步骤2: 提取序号（匹配 [数字] 或 数字. 开头）
+    # 匹配 [10] 或 10. 或 10 开头
+    prefix_match = re.match(r'^(\[\d+\]|\d+\.)\s*', name)
+    prefix = ""
+    if prefix_match:
+        prefix = prefix_match.group(1).strip()
+        name = name[prefix_match.end():].strip()
+    
+    # 步骤3: 移除分类标签 [宝藏问题] [宝藏名词] [宝藏论文] [宝藏实验]
+    if remove_category_tag:
+        for keyword in CATEGORIES.values():
+            name = re.sub(rf'\[{keyword}\]', '', name)
+        # 同时移除每周/每天的变体
+        name = re.sub(r'\[每周一个[^\]]+\]', '', name)
+        name = re.sub(r'\[每天一个[^\]]+\]', '', name)
+    
+    # 步骤4: 中文冒号 -> 下划线
+    name = name.replace('：', '_')
+    name = name.replace(':', '_')
+    
+    # 步骤5: 移除其他非法字符
+    name = re.sub(r'[\\/*?"<>|]', '_', name)
+    
+    # 步骤6: 清理连续下划线和空格
     name = re.sub(r'_+', '_', name)
-    # 再次去除首尾空白/下划线
+    name = re.sub(r' +', ' ', name)
     name = name.strip(' _')
-    # 截断
-    if len(name) > MAX_FILENAME_LEN:
-        name = name[:MAX_FILENAME_LEN].rsplit(' ', 1)[0]  # 尽量在词边界截断
+    
+    # 步骤7: 组合回去
+    # 如果有序号，保持 [10] 格式或转为 10. 格式
+    if prefix:
+        # 将 [10] 转为 10. 格式更统一
+        prefix = re.sub(r'\[(\d+)\]', r'\1.', prefix)
+        # 移除末尾多余的点
+        prefix = re.sub(r'\.$', '', prefix)
+        return f"{prefix}. {name}" if name else f"{prefix}.jpg"
+    
     return name or "untitled"
 
 
-def ensure_dir():
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
+def ensure_dir(category: str = ""):
+    """创建分类目录"""
+    if category:
+        path = os.path.join(OUTPUT_DIR, category)
+    else:
+        path = OUTPUT_DIR
+    os.makedirs(path, exist_ok=True)
+
+
+async def refresh_video_info(bv: str) -> dict:
+    """获取单个视频的最新信息（用于刷新标题）"""
+    try:
+        v = video.Video(bvid=bv)
+        info = await v.get_info()
+        return {
+            "bvid": info.get("bvid", bv),
+            "title": info.get("title", ""),
+            "created": info.get("pub_date", 0),
+            "pic": info.get("pic", "")
+        }
+    except Exception as e:
+        print(f"  [{bv}] 获取视频信息失败: {str(e)[:80]}")
+        return None
 
 
 async def fetch_new_bvs(last_update_time: float) -> list:
@@ -148,13 +221,21 @@ async def fetch_all_bvs():
     return all_bvs
 
 
-def extract_first_frame(bv: str, title: str) -> bool:
-    """提取单个BV视频的第一帧，最高质量，不做放大"""
-    if USE_TITLE_AS_FILENAME:
-        base_name = sanitize_filename(title)
-        output_path = os.path.join(OUTPUT_DIR, f"{base_name}.jpg")
+def extract_first_frame(bv: str, title: str, category: str = "") -> bool:
+    """提取单个BV视频的第一帧，最高质量，不做放大，自动分类"""
+    # 确定输出目录
+    if category:
+        ensure_dir(category)
+        output_dir = os.path.join(OUTPUT_DIR, category)
     else:
-        output_path = os.path.join(OUTPUT_DIR, f"{bv}_first_frame.jpg")
+        ensure_dir()
+        output_dir = OUTPUT_DIR
+    
+    if USE_TITLE_AS_FILENAME:
+        base_name = sanitize_filename(title, remove_category_tag=True)
+        output_path = os.path.join(output_dir, f"{base_name}.jpg")
+    else:
+        output_path = os.path.join(output_dir, f"{bv}_first_frame.jpg")
     
     if os.path.exists(output_path):
         print(f"  [{bv}] 已存在，跳过")
@@ -210,13 +291,16 @@ def extract_first_frame(bv: str, title: str) -> bool:
         return False
 
 
-def batch_extract(bv_list):
-    """批量提取封面，带全局延迟降低风控"""
-    ensure_dir()
+async def batch_extract(bv_list):
+    """批量提取封面，带全局延迟降低风控。封面缺失时自动刷新标题，自动分类。"""
     total = len(bv_list)
     success = 0
     skipped = 0
     failed = 0
+    updated = 0  # 记录更新标题的数量
+    
+    # 按分类统计
+    stats = {cat: 0 for cat in list(CATEGORIES.keys()) + ["others"]}
     
     print(f"[Extract] 开始检查 {total} 个视频的封面...")
     
@@ -224,20 +308,39 @@ def batch_extract(bv_list):
         bv = item["bvid"]
         title = item["title"]
         
+        # 确定分类
+        category = get_category(title)
+        stats[category] += 1
+        
+        # 确定输出路径（分类目录）
+        ensure_dir(category)
         if USE_TITLE_AS_FILENAME:
-            base_name = sanitize_filename(title)
-            output_path = os.path.join(OUTPUT_DIR, f"{base_name}.jpg")
+            base_name = sanitize_filename(title, remove_category_tag=True)
+            output_path = os.path.join(OUTPUT_DIR, category, f"{base_name}.jpg")
         else:
-            output_path = os.path.join(OUTPUT_DIR, f"{bv}_first_frame.jpg")
+            output_path = os.path.join(OUTPUT_DIR, category, f"{bv}_first_frame.jpg")
         
         # 检查是否已存在
         if os.path.exists(output_path):
             skipped += 1
             continue  # 静默跳过已存在的，减少输出噪音
         
-        # 需要下载
+        # 封面缺失！先刷新标题（从B站获取最新标题）
+        print(f"[{i}/{total}] [{category}] 封面缺失: {bv}")
+        fresh_info = await refresh_video_info(bv)
+        if fresh_info and fresh_info["title"]:
+            old_title = item["title"]
+            new_title = fresh_info["title"]
+            if old_title != new_title:
+                print(f"  标题已更新: {old_title[:40]}... -> {new_title[:40]}...")
+                item["title"] = new_title
+                item["pic"] = fresh_info["pic"]
+                updated += 1
+            title = new_title
+        
+        # 使用（可能更新后的）标题下载，传递分类
         print(f"[{i}/{total}] 提取封面: {title[:50]}...")
-        if extract_first_frame(bv, title):
+        if extract_first_frame(bv, title, category):
             success += 1
         else:
             failed += 1
@@ -246,7 +349,16 @@ def batch_extract(bv_list):
         time.sleep(2.5)
     
     print(f"[Extract] 完成！成功 {success} 个，跳过 {skipped} 个，失败 {failed} 个")
-    return success
+    if updated > 0:
+        print(f"[Extract] 更新了 {updated} 个视频的标题")
+    
+    # 打印分类统计
+    print("\n[Extract] 分类统计:")
+    for cat, count in stats.items():
+        if count > 0:
+            print(f"  {cat:12}: {count} 个")
+    
+    return success, updated
 
 
 async def main():
@@ -290,7 +402,13 @@ async def main():
     
     # 步骤2：批量提取封面
     if bv_list:
-        batch_extract(bv_list)
+        success, updated = await batch_extract(bv_list)
+        
+        # 如果有标题被更新，保存json
+        if updated > 0:
+            with open(BV_LIST_FILE, "w", encoding="utf-8") as f:
+                json.dump(bv_list, f, ensure_ascii=False, indent=2)
+            print(f"[Main] 已更新 {BV_LIST_FILE} 中的 {updated} 个视频标题")
     else:
         print("[Main] 没有BV号可处理")
 
