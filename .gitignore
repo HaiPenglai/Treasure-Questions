@@ -13,3 +13,6 @@
 !bilibili_cover_extractor.py
 !bv_list.json
 
+# 5. 保留宝藏资源链接大全
+!宝藏资源链接大全/
+!宝藏资源链接大全/**
