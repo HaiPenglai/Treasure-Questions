@@ -4,6 +4,10 @@
 
 ## 每天一个宝藏问题
 
+68. prefill和decode时KV Cache是如何"堆积"的？【每天一个宝藏问题】
+![](./assets/questions/BV1AYQdBfEDS.jpg)
+---
+
 67. 为何圆形山谷会让OBD剪枝退化为基于大小剪枝？【每天一个宝藏问题】
 ![](./assets/questions/BV1qAA5ztELy.jpg)
 ---
