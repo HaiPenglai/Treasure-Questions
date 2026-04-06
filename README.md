@@ -4,6 +4,14 @@
 
 ## 每天一个宝藏问题
 
+70. 如何理解泰勒展开的多元函数扩展？【每天一个宝藏问题】
+![](./assets/questions/BV1HVXKBpE9p.jpg)
+---
+
+69. 深度学习中两种常用的矩阵微积分是怎么来的？【每天一个宝藏问题】
+![](./assets/questions/BV1a9XNBTERT.jpg)
+---
+
 68. prefill和decode时KV Cache是如何"堆积"的？【每天一个宝藏问题】
 ![](./assets/questions/BV1AYQdBfEDS.jpg)
 ---
