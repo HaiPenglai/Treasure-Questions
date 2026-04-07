@@ -35,6 +35,8 @@
 
 ## 推理引擎
 
+### 服务端推理引擎（高吞吐/多并发）
+
 | 链接 | 说明 |
 |------|------|
 | [vLLM](https://github.com/vllm-project/vllm) | 高吞吐 LLM 推理 |
@@ -42,6 +44,13 @@
 | [nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) | vLLM 极简实现 |
 | [mini-sglang](https://github.com/sgl-project/mini-sglang) | SGLang 迷你版 |
 | [xFasterTransformer](https://github.com/intel/xFasterTransformer) | Intel 加速方案 |
+
+### 个人端推理引擎（本地单用户/量化友好）
+
+| 链接 | 说明 |
+|------|------|
+| [llama.cpp](https://github.com/ggerganov/llama.cpp) | 纯C++实现，支持多种量化格式，CPU/GPU混合推理 |
+| [Ollama](https://github.com/ollama/ollama) | 基于llama.cpp的易用封装，一键运行本地大模型 |
 
 ## 量化加速
 
