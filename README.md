@@ -4,6 +4,10 @@
 
 ## 每天一个宝藏问题
 
+71. OBD剪枝假设山谷是什么样的？【每天一个宝藏问题】
+![](./assets/questions/BV11RQfB3Eot.jpg)
+---
+
 70. 如何理解泰勒展开的多元函数扩展？【每天一个宝藏问题】
 ![](./assets/questions/BV1HVXKBpE9p.jpg)
 ---
