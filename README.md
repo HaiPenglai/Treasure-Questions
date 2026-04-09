@@ -4,6 +4,10 @@
 
 ## 每天一个宝藏问题
 
+73. OBS剪枝保留与修改了OBD剪枝的哪些假设？【每天一个宝藏问题】
+![](./assets/questions/BV1njXKBnEBg.jpg)
+---
+
 72. 如何从几何视角理解拉格朗日乘子法？【每天一个宝藏问题】
 ![](./assets/questions/BV1C3XKB9EHm.jpg)
 ---
