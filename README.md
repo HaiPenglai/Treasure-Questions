@@ -4,6 +4,10 @@
 
 ## 每天一个宝藏问题
 
+74. 为什么OBD剪枝是特殊的OBS剪枝？【每天一个宝藏问题】
+![](./assets/questions/BV1xTXKB4Ecn.jpg)
+---
+
 73. OBS剪枝保留与修改了OBD剪枝的哪些假设？【每天一个宝藏问题】
 ![](./assets/questions/BV1njXKBnEBg.jpg)
 ---
