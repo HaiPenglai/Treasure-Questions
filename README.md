@@ -4,6 +4,10 @@
 
 ## 每天一个宝藏问题
 
+75. OBS剪枝是如何选择被剪枝的权重的？【每天一个宝藏问题】
+![](./assets/questions/BV1AwX1BPE1g.jpg)
+---
+
 74. 为什么OBD剪枝是特殊的OBS剪枝？【每天一个宝藏问题】
 ![](./assets/questions/BV1xTXKB4Ecn.jpg)
 ---
