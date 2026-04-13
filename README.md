@@ -4,6 +4,10 @@
 
 ## 每天一个宝藏问题
 
+76. 为什么OBS剪枝可看作特殊的OBQ量化？【每天一个宝藏问题】
+![](./assets/questions/BV1cKX1BhED8.jpg)
+---
+
 75. OBS剪枝是如何选择被剪枝的权重的？【每天一个宝藏问题】
 ![](./assets/questions/BV1AwX1BPE1g.jpg)
 ---
