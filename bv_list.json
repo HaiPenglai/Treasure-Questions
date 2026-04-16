@@ -1,5 +1,23 @@
 [
   {
+    "bvid": "BV1fn9cBKEbt",
+    "title": "79. 为什么基于权重大小剪枝是特殊的OBD、OBS、OBQ？【每天一个宝藏问题】",
+    "created": 1776254400,
+    "pic": "http://i1.hdslb.com/bfs/archive/e533ae54e0bbdaf57ee58c276a62e0b658a93afa.jpg"
+  },
+  {
+    "bvid": "BV1679cBME93",
+    "title": "78. GPTQ量化的最小化目标如何写成类似OBS形式的？【每天一个宝藏问题】",
+    "created": 1776168000,
+    "pic": "http://i2.hdslb.com/bfs/archive/53d9f4d50d05b67ea5ed8c3f91fc0d33769eb9d3.jpg"
+  },
+  {
+    "bvid": "BV14BXoBMEsk",
+    "title": "77. 为什么训练时教师强制是只“感觉”不“生成”的？【每天一个宝藏问题】",
+    "created": 1776081600,
+    "pic": "http://i2.hdslb.com/bfs/archive/69a9f8311e6eda39aad831d833ee0a1eb675dd67.jpg"
+  },
+  {
     "bvid": "BV1cKX1BhED8",
     "title": "76. 为什么OBS剪枝可看作特殊的OBQ量化？【每天一个宝藏问题】",
     "created": 1775995200,
