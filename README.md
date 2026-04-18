@@ -4,6 +4,18 @@
 
 ## 每天一个宝藏问题
 
+82. 在线Softmax和Flash Attention分别维护了多少个“动态规划量”？【每天一个宝藏问题】
+![](./assets/questions/BV1oA93BtETZ.jpg)
+---
+
+81. 量化后微调让聚在一起的权重分家了怎么办？【每天一个宝藏问题】
+![](./assets/questions/BV1zf9gBwEqd.jpg)
+---
+
+80. 剪枝后微调让被置零的权重不再为零怎么办？【每天一个宝藏问题】
+![](./assets/questions/BV16E9cBqEK8.jpg)
+---
+
 79. 为什么基于权重大小剪枝是特殊的OBD、OBS、OBQ？【每天一个宝藏问题】
 ![](./assets/questions/BV1fn9cBKEbt.jpg)
 ---
