@@ -4,6 +4,10 @@
 
 ## 每天一个宝藏问题
 
+83. Flash Attention的线性显存比平方显存增长慢了多少？【每天一个宝藏问题】
+![](./assets/questions/BV1baNGzmEzn.jpg)
+---
+
 82. 在线Softmax和Flash Attention分别维护了多少个“动态规划量”？【每天一个宝藏问题】
 ![](./assets/questions/BV1oA93BtETZ.jpg)
 ---
@@ -335,6 +339,10 @@
 ---
 
 ## 每周一个宝藏论文
+
+[14] AWQ：大语言模型量化论文解读 【每天一个宝藏论文】
+![](./assets/papers/BV1RuoFBvEm8.jpg)
+---
 
 ［12］读2个多Agent共享KV Cache的论文【每周一个宝藏论文】
 ![](./assets/papers/BV1B997BmEGr.jpg)
