@@ -1,5 +1,17 @@
 [
   {
+    "bvid": "BV1xJoNBPEqe",
+    "title": "[15] PagedAttention：vLLM论文解读【每天一个宝藏论文】",
+    "created": 1776687959,
+    "pic": "http://i2.hdslb.com/bfs/archive/67d865a03efac9d21cc2e00110efca41f5dabe8d.jpg"
+  },
+  {
+    "bvid": "BV1cQSSBvE8N",
+    "title": "84. LoRA要增加旁路，微调前后模型结构却可以不变，为什么？【每天一个宝藏问题】",
+    "created": 1776686400,
+    "pic": "http://i2.hdslb.com/bfs/archive/119fe3d1f1011f55711325326f343e0c0f33fad8.jpg"
+  },
+  {
     "bvid": "BV1RuoFBvEm8",
     "title": "[14] AWQ：大语言模型量化论文解读 【每天一个宝藏论文】",
     "created": 1776607200,

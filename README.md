@@ -4,6 +4,10 @@
 
 ## 每天一个宝藏问题
 
+84. LoRA要增加旁路，微调前后模型结构却可以不变，为什么？【每天一个宝藏问题】
+![](./assets/questions/BV1cQSSBvE8N.jpg)
+---
+
 83. Flash Attention的线性显存比平方显存增长慢了多少？【每天一个宝藏问题】
 ![](./assets/questions/BV1baNGzmEzn.jpg)
 ---
@@ -339,6 +343,10 @@
 ---
 
 ## 每周一个宝藏论文
+
+[15] PagedAttention：vLLM论文解读【每天一个宝藏论文】
+![](./assets/papers/BV1xJoNBPEqe.jpg)
+---
 
 [14] AWQ：大语言模型量化论文解读 【每天一个宝藏论文】
 ![](./assets/papers/BV1RuoFBvEm8.jpg)
