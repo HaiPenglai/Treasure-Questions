@@ -4,6 +4,14 @@
 
 ## 每天一个宝藏问题
 
+86. 为什么矩阵乘法可以看作标量乘法的拓展？【每天一个宝藏问题】
+![](./assets/questions/BV1WxDeBcExC.jpg)
+---
+
+85. 为什么prefill和decode都可以跳过掩码上三角计算？【每天一个宝藏问题】
+![](./assets/questions/BV1ZEDvB9E6Y.jpg)
+---
+
 84. LoRA要增加旁路，微调前后模型结构却可以不变，为什么？【每天一个宝藏问题】
 ![](./assets/questions/BV1cQSSBvE8N.jpg)
 ---
@@ -343,6 +351,14 @@
 ---
 
 ## 每周一个宝藏论文
+
+[17] FlashAttention-1论文解读 【每天一个宝藏论文】
+![](./assets/papers/BV1XPoNB5EQy.jpg)
+---
+
+[16] LLM.int8()：大模型量化论文解读【每天一个宝藏论文】
+![](./assets/papers/BV1BeoNB9EQP.jpg)
+---
 
 [15] PagedAttention：vLLM论文解读【每天一个宝藏论文】
 ![](./assets/papers/BV1xJoNBPEqe.jpg)

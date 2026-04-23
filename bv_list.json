@@ -1,5 +1,29 @@
 [
   {
+    "bvid": "BV1XPoNB5EQy",
+    "title": "[17] FlashAttention-1论文解读 【每天一个宝藏论文】",
+    "created": 1776859200,
+    "pic": "http://i2.hdslb.com/bfs/archive/bbaca391e40b4e7dd4e4b46115eeb20817715d4c.jpg"
+  },
+  {
+    "bvid": "BV1WxDeBcExC",
+    "title": "86. 为什么矩阵乘法可以看作标量乘法的拓展？【每天一个宝藏问题】",
+    "created": 1776859200,
+    "pic": "http://i0.hdslb.com/bfs/archive/8da44888b8fc63963168a11b94a6a264231553e0.jpg"
+  },
+  {
+    "bvid": "BV1BeoNB9EQP",
+    "title": "[16] LLM.int8()：大模型量化论文解读【每天一个宝藏论文】",
+    "created": 1776772800,
+    "pic": "http://i0.hdslb.com/bfs/archive/f7bee354fda05de2dd5c30938d300acdde6de6ac.jpg"
+  },
+  {
+    "bvid": "BV1ZEDvB9E6Y",
+    "title": "85. 为什么prefill和decode都可以跳过掩码上三角计算？【每天一个宝藏问题】",
+    "created": 1776772800,
+    "pic": "http://i0.hdslb.com/bfs/archive/94849e3ee0ca5300c3089434b8207c921d2ab78d.jpg"
+  },
+  {
     "bvid": "BV1xJoNBPEqe",
     "title": "[15] PagedAttention：vLLM论文解读【每天一个宝藏论文】",
     "created": 1776687959,
