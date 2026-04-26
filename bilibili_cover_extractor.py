@@ -17,6 +17,7 @@ import json
 import subprocess
 import asyncio
 import time
+import urllib.request
 from bilibili_api import user, video
 
 MID = 2071007724
@@ -214,8 +215,32 @@ async def fetch_all_bvs():
     return all_bvs
 
 
-def extract_first_frame(bv: str, title: str) -> bool:
-    """提取单个BV视频的第一帧，使用BVID作为文件名，自动分类"""
+def download_pic(bv: str, pic_url: str, output_path: str) -> bool:
+    """直接下载 B 站 API 返回的封面图（fallback 方案）"""
+    try:
+        req = urllib.request.Request(
+            pic_url,
+            headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+                "Referer": "https://www.bilibili.com",
+            }
+        )
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            data = resp.read()
+            if len(data) > 2000:
+                with open(output_path, "wb") as f:
+                    f.write(data)
+                size_kb = len(data) // 1024
+                print(f"  [{bv}] OK(pic) {size_kb}KB -> {output_path}")
+                return True
+    except Exception as e:
+        print(f"  [{bv}] pic下载失败: {str(e)[:80]}")
+    return False
+
+
+def extract_first_frame(bv: str, title: str, pic: str = None) -> bool:
+    """提取单个BV视频的第一帧，使用BVID作为文件名，自动分类。
+    yt-dlp 被风控时自动 fallback 到 API 返回的 pic 封面图。"""
     # 确定分类和输出目录
     category = get_category(title)
     ensure_dir(category)
@@ -230,52 +255,50 @@ def extract_first_frame(bv: str, title: str) -> bool:
     
     url = f"https://www.bilibili.com/video/{bv}"
     
+    # 先尝试 yt-dlp + ffmpeg 提取第一帧（原有逻辑）
     try:
-        # 1. yt-dlp 获取最佳视频流
         get_url_cmd = f'yt-dlp -g -f bestvideo "{url}"'
         stream_url = subprocess.check_output(
             get_url_cmd, shell=True, text=True, timeout=40
         ).strip().split("\n")[0]
-        if not stream_url:
-            print(f"  [{bv}] X 无法获取视频流")
-            return False
-        
-        # 2. ffmpeg 提取第一帧，最高质量 JPG
-        headers = (
-            "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\r\n"
-            "Referer: https://www.bilibili.com\r\n"
-        )
-        ffmpeg_cmd = [
-            "ffmpeg", "-y",
-            "-headers", headers,
-            "-i", stream_url,
-            "-ss", "00:00:00",
-            "-vframes", "1",
-            "-q:v", "1",          # JPG 最高质量
-            "-pix_fmt", "yuvj420p",
-            output_path
-        ]
-        result = subprocess.run(
-            ffmpeg_cmd,
-            stdout=subprocess.DEVNULL,
-            stderr=subprocess.DEVNULL,
-            timeout=40
-        )
-        
-        if result.returncode == 0 and os.path.exists(output_path) and os.path.getsize(output_path) > 2000:
-            size_kb = os.path.getsize(output_path) // 1024
-            print(f"  [{bv}] OK {size_kb}KB -> {category}/{bv}.jpg")
-            return True
-        else:
-            print(f"  [{bv}] X 未生成有效图片")
-            return False
-    
+        if stream_url:
+            headers = (
+                "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\r\n"
+                "Referer: https://www.bilibili.com\r\n"
+            )
+            ffmpeg_cmd = [
+                "ffmpeg", "-y",
+                "-headers", headers,
+                "-i", stream_url,
+                "-ss", "00:00:00",
+                "-vframes", "1",
+                "-q:v", "1",
+                "-pix_fmt", "yuvj420p",
+                output_path
+            ]
+            result = subprocess.run(
+                ffmpeg_cmd,
+                stdout=subprocess.DEVNULL,
+                stderr=subprocess.DEVNULL,
+                timeout=40
+            )
+            if result.returncode == 0 and os.path.exists(output_path) and os.path.getsize(output_path) > 2000:
+                size_kb = os.path.getsize(output_path) // 1024
+                print(f"  [{bv}] OK(ffmpeg) {size_kb}KB -> {category}/{bv}.jpg")
+                return True
     except subprocess.TimeoutExpired:
-        print(f"  [{bv}] X 超时")
-        return False
-    except Exception as e:
-        print(f"  [{bv}] X 错误: {str(e)[:80]}")
-        return False
+        print(f"  [{bv}] ffmpeg 超时，尝试 fallback...")
+    except Exception:
+        pass  # yt-dlp 失败，静默继续 fallback
+    
+    # Fallback：用 B 站 API 返回的 pic 直接下载封面
+    if pic:
+        print(f"  [{bv}] yt-dlp 被风控，fallback 到 pic 封面下载...")
+        if download_pic(bv, pic, output_path):
+            return True
+    
+    print(f"  [{bv}] X 未生成有效图片")
+    return False
 
 
 async def batch_extract(bv_list):
@@ -325,7 +348,8 @@ async def batch_extract(bv_list):
         
         # 使用（可能更新后的）标题下载
         print(f"[{i}/{total}] 提取封面: {title[:50]}...")
-        if extract_first_frame(bv, title):
+        pic_url = item.get("pic", "")
+        if extract_first_frame(bv, title, pic_url):
             success += 1
         else:
             failed += 1

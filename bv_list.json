@@ -1,5 +1,41 @@
 [
   {
+    "bvid": "BV1V6d6BCEzJ",
+    "title": "[20] 投机采样：大模型推理加速论文解读【每天一个宝藏论文】",
+    "created": 1777118400,
+    "pic": "http://i1.hdslb.com/bfs/archive/3b3c86a245a809d165e8434794bcf2cb9ae8ffe6.jpg"
+  },
+  {
+    "bvid": "BV1d9QABeEdC",
+    "title": "89. 量化感知训练是如何感知到量化的？【每天一个宝藏问题】",
+    "created": 1777118400,
+    "pic": "http://i2.hdslb.com/bfs/archive/de2e6ae49359194f04149f84fb59fbcb5ff7bc31.jpg"
+  },
+  {
+    "bvid": "BV1fcD4BPEo7",
+    "title": "88. 量化后微调为什么要对聚类中心求和？【每天一个宝藏问题】",
+    "created": 1777032000,
+    "pic": "http://i1.hdslb.com/bfs/archive/276c0521f251bba4d9b933c0242a282598fe2a97.jpg"
+  },
+  {
+    "bvid": "BV1Mgo5BwEST",
+    "title": "[19] DeepSeek-V4逐图、逐公式解读【每天一个宝藏论文】",
+    "created": 1777024340,
+    "pic": "http://i1.hdslb.com/bfs/archive/199c327286716ab0f220f7a3ff2bad1781873b07.jpg"
+  },
+  {
+    "bvid": "BV1CkoPBbEyB",
+    "title": "[18] SmoothQuant：大模型量化论文解读【每天一个宝藏论文】",
+    "created": 1776945600,
+    "pic": "http://i1.hdslb.com/bfs/archive/ffe3ca63dee883b48214acb79c03651ee425491d.jpg"
+  },
+  {
+    "bvid": "BV177DWBdEoV",
+    "title": "87. 为什么前向广播对应着反向归约？【每天一个宝藏问题】",
+    "created": 1776945600,
+    "pic": "http://i0.hdslb.com/bfs/archive/e897e0501f72a1e6877a686b865f8104a5c70cd3.jpg"
+  },
+  {
     "bvid": "BV1XPoNB5EQy",
     "title": "[17] FlashAttention-1论文解读 【每天一个宝藏论文】",
     "created": 1776859200,

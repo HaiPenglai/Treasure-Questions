@@ -4,6 +4,18 @@
 
 ## 每天一个宝藏问题
 
+89. 量化感知训练是如何感知到量化的？【每天一个宝藏问题】
+![](./assets/questions/BV1d9QABeEdC.jpg)
+---
+
+88. 量化后微调为什么要对聚类中心求和？【每天一个宝藏问题】
+![](./assets/questions/BV1fcD4BPEo7.jpg)
+---
+
+87. 为什么前向广播对应着反向归约？【每天一个宝藏问题】
+![](./assets/questions/BV177DWBdEoV.jpg)
+---
+
 86. 为什么矩阵乘法可以看作标量乘法的拓展？【每天一个宝藏问题】
 ![](./assets/questions/BV1WxDeBcExC.jpg)
 ---
@@ -351,6 +363,18 @@
 ---
 
 ## 每周一个宝藏论文
+
+[20] 投机采样：大模型推理加速论文解读【每天一个宝藏论文】
+![](./assets/papers/BV1V6d6BCEzJ.jpg)
+---
+
+[19] DeepSeek-V4逐图、逐公式解读【每天一个宝藏论文】
+![](./assets/papers/BV1Mgo5BwEST.jpg)
+---
+
+[18] SmoothQuant：大模型量化论文解读【每天一个宝藏论文】
+![](./assets/papers/BV1CkoPBbEyB.jpg)
+---
 
 [17] FlashAttention-1论文解读 【每天一个宝藏论文】
 ![](./assets/papers/BV1XPoNB5EQy.jpg)
