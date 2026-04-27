@@ -4,6 +4,14 @@
 
 ## 每天一个宝藏问题
 
+91. 游戏AI和LLM的πθ(a∣s)有何异同？【每天一个宝藏问题】
+![](./assets/questions/BV1TeD9B4EbF.jpg)
+---
+
+90. OBQ如何将最小化剪枝损失推广到量化？【每天一个宝藏问题】
+![](./assets/questions/BV1kkDQBVE4y.jpg)
+---
+
 89. 量化感知训练是如何感知到量化的？【每天一个宝藏问题】
 ![](./assets/questions/BV1d9QABeEdC.jpg)
 ---
@@ -363,6 +371,14 @@
 ---
 
 ## 每周一个宝藏论文
+
+[22] FlashAttention-V2：论文解读【每天一个宝藏论文】
+![](./assets/papers/BV1yfd6B8E37.jpg)
+---
+
+[21] 在线softmax：论文解读【每天一个宝藏论文】
+![](./assets/papers/BV1Qkd6B3EUe.jpg)
+---
 
 [20] 投机采样：大模型推理加速论文解读【每天一个宝藏论文】
 ![](./assets/papers/BV1V6d6BCEzJ.jpg)

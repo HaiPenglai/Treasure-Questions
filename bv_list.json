@@ -1,5 +1,29 @@
 [
   {
+    "bvid": "BV1yfd6B8E37",
+    "title": "[22] FlashAttention-V2：论文解读【每天一个宝藏论文】",
+    "created": 1777291200,
+    "pic": "http://i2.hdslb.com/bfs/archive/50b8966cad8f9b03277a176e182a7ac869e5a464.jpg"
+  },
+  {
+    "bvid": "BV1TeD9B4EbF",
+    "title": "91. 游戏AI和LLM的πθ(a∣s)有何异同？【每天一个宝藏问题】",
+    "created": 1777291200,
+    "pic": "http://i0.hdslb.com/bfs/archive/e341b81b6b7750526d53c6e38154b5ee4561598f.jpg"
+  },
+  {
+    "bvid": "BV1Qkd6B3EUe",
+    "title": "[21] 在线softmax：论文解读【每天一个宝藏论文】",
+    "created": 1777204800,
+    "pic": "http://i1.hdslb.com/bfs/archive/db85ecc135e7e8827070449e5bae03949018717c.jpg"
+  },
+  {
+    "bvid": "BV1kkDQBVE4y",
+    "title": "90. OBQ如何将最小化剪枝损失推广到量化？【每天一个宝藏问题】",
+    "created": 1777204800,
+    "pic": "http://i2.hdslb.com/bfs/archive/48bdadef00b9da6ab47451793c17c2d259cc25be.jpg"
+  },
+  {
     "bvid": "BV1V6d6BCEzJ",
     "title": "[20] 投机采样：大模型推理加速论文解读【每天一个宝藏论文】",
     "created": 1777118400,
