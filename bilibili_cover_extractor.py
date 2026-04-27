@@ -25,21 +25,16 @@ OUTPUT_DIR = "assets"
 BV_LIST_FILE = "bv_list.json"
 README_FILE = "README.md"
 
-# 分类配置
+# 分类配置：只保留宝藏问题（平板尺寸 2560x1600）
+# 其他类别（论文/名词/实验）不再下载封面，避免与电脑尺寸 1920x1080 冲突
 CATEGORIES = {
-    "questions": "宝藏问题",
-    "terms": "宝藏名词", 
-    "papers": "宝藏论文",
-    "experiments": "宝藏实验"
+    "questions": "宝藏问题"
 }
 
 # README 中的分类标题映射
+# 只更新宝藏问题部分，其他章节（名词/论文/实验）保持不动，避免重复
 README_SECTIONS = {
-    "questions": "## 每天一个宝藏问题",
-    "terms": "## 每天一个宝藏名词",
-    "papers": "## 每周一个宝藏论文",
-    "experiments": "## 每周一个宝藏实验",
-    "others": "## 其他"
+    "questions": "## 每天一个宝藏问题"
 }
 
 
@@ -118,6 +113,7 @@ async def fetch_new_bvs(last_update_time: float) -> list:
     """
     增量获取新视频（created > last_update_time）
     使用优化策略：只检查最新几页，遇到旧视频立即停止
+    带重试机制：遇到 412 风控时自动重试最多 3 次
     """
     u = user.User(MID)
     new_bvs = []
@@ -127,10 +123,25 @@ async def fetch_new_bvs(last_update_time: float) -> list:
     
     while True:
         print(f"[Fetch] 正在获取第 {pn} 页...")
-        try:
-            videos = await u.get_videos(pn=pn, ps=30)
-        except Exception as e:
-            print(f"[Fetch] 第 {pn} 页失败（可能触发风控），已获取 {len(new_bvs)} 个新视频。错误: {str(e)[:100]}")
+        
+        # 重试机制
+        videos = None
+        for attempt in range(1, 4):
+            try:
+                videos = await u.get_videos(pn=pn, ps=30)
+                break
+            except Exception as e:
+                err_msg = str(e)
+                if "412" in err_msg:
+                    wait_time = attempt * 8
+                    print(f"[Fetch] 第 {pn} 页触发风控(412)，{wait_time}秒后第{attempt}次重试...")
+                    await asyncio.sleep(wait_time)
+                else:
+                    print(f"[Fetch] 第 {pn} 页失败，已获取 {len(new_bvs)} 个新视频。错误: {err_msg[:100]}")
+                    return new_bvs
+        
+        if videos is None:
+            print(f"[Fetch] 第 {pn} 页重试耗尽，已获取 {len(new_bvs)} 个新视频。")
             break
         
         vlist = videos.get("list", {}).get("vlist", [])
@@ -155,7 +166,7 @@ async def fetch_new_bvs(last_update_time: float) -> list:
                 found_old = True
                 break
         
-        print(f"[Fetch] 第 {pn} 页检查完成，本页新视频 {len(new_bvs)} 个，累计 {len(new_bvs)} 个")
+        print(f"[Fetch] 第 {pn} 页检查完成，累计新视频 {len(new_bvs)} 个")
         
         if found_old:
             print("[Fetch] 已遇到旧视频，停止检查更早的视频。")
@@ -172,7 +183,7 @@ async def fetch_new_bvs(last_update_time: float) -> list:
 
 
 async def fetch_all_bvs():
-    """首次运行：获取UP主全部视频列表"""
+    """首次运行：获取UP主全部视频列表，带重试机制"""
     u = user.User(MID)
     all_bvs = []
     pn = 1
@@ -181,10 +192,25 @@ async def fetch_all_bvs():
     
     while True:
         print(f"[Fetch] 正在获取第 {pn} 页...")
-        try:
-            videos = await u.get_videos(pn=pn, ps=30)
-        except Exception as e:
-            print(f"[Fetch] 第 {pn} 页失败（可能触发风控），已获取 {len(all_bvs)} 个。错误: {str(e)[:100]}")
+        
+        # 重试机制
+        videos = None
+        for attempt in range(1, 4):
+            try:
+                videos = await u.get_videos(pn=pn, ps=30)
+                break
+            except Exception as e:
+                err_msg = str(e)
+                if "412" in err_msg:
+                    wait_time = attempt * 8
+                    print(f"[Fetch] 第 {pn} 页触发风控(412)，{wait_time}秒后第{attempt}次重试...")
+                    await asyncio.sleep(wait_time)
+                else:
+                    print(f"[Fetch] 第 {pn} 页失败，已获取 {len(all_bvs)} 个。错误: {err_msg[:100]}")
+                    break
+        
+        if videos is None:
+            print(f"[Fetch] 第 {pn} 页重试耗尽，已获取 {len(all_bvs)} 个。")
             break
         
         vlist = videos.get("list", {}).get("vlist", [])
@@ -302,37 +328,34 @@ def extract_first_frame(bv: str, title: str, pic: str = None) -> bool:
 
 
 async def batch_extract(bv_list):
-    """批量提取封面，带全局延迟降低风控。封面缺失时自动刷新标题，自动分类。"""
-    total = len(bv_list)
+    """只下载宝藏问题类的封面（平板尺寸 2560x1600），彻底避免与电脑尺寸冲突。"""
+    questions_items = [item for item in bv_list if get_category(item["title"]) == "questions"]
+    if not questions_items:
+        print("[Extract] 没有宝藏问题视频需要处理")
+        return 0, 0
+
+    total = len(questions_items)
     success = 0
     skipped = 0
     failed = 0
     updated = 0
-    
-    # 按分类统计
-    stats = {cat: 0 for cat in list(CATEGORIES.keys()) + ["others"]}
-    
-    print(f"[Extract] 开始检查 {total} 个视频的封面...")
-    
-    for i, item in enumerate(bv_list, 1):
+
+    print(f"[Extract] 开始检查 {total} 个宝藏问题视频的封面...")
+
+    for i, item in enumerate(questions_items, 1):
         bv = item["bvid"]
         title = item["title"]
-        
-        # 确定分类
-        category = get_category(title)
-        stats[category] += 1
-        
-        # 确定输出路径（分类目录/bvid.jpg）
-        ensure_dir(category)
-        output_path = os.path.join(OUTPUT_DIR, category, f"{bv}.jpg")
-        
+
+        ensure_dir("questions")
+        output_path = os.path.join(OUTPUT_DIR, "questions", f"{bv}.jpg")
+
         # 检查是否已存在
         if os.path.exists(output_path):
             skipped += 1
             continue  # 静默跳过已存在的，减少输出噪音
-        
+
         # 封面缺失！先刷新标题（从B站获取最新标题）
-        print(f"[{i}/{total}] [{category}] 封面缺失: {bv}")
+        print(f"[{i}/{total}] 封面缺失: {bv}")
         fresh_info = await refresh_video_info(bv)
         if fresh_info and fresh_info["title"]:
             old_title = item["title"]
@@ -342,10 +365,8 @@ async def batch_extract(bv_list):
                 item["title"] = new_title
                 item["pic"] = fresh_info["pic"]
                 updated += 1
-                # 重新计算分类（可能标题变了分类也变了）
-                category = get_category(new_title)
             title = new_title
-        
+
         # 使用（可能更新后的）标题下载
         print(f"[{i}/{total}] 提取封面: {title[:50]}...")
         pic_url = item.get("pic", "")
@@ -353,20 +374,14 @@ async def batch_extract(bv_list):
             success += 1
         else:
             failed += 1
-        
+
         # 每个视频处理完都休息 2.5 秒，降低对 B 站 CDN 的压力
         time.sleep(2.5)
-    
+
     print(f"[Extract] 完成！成功 {success} 个，跳过 {skipped} 个，失败 {failed} 个")
     if updated > 0:
         print(f"[Extract] 更新了 {updated} 个视频的标题")
-    
-    # 打印分类统计
-    print("\n[Extract] 分类统计:")
-    for cat, count in stats.items():
-        if count > 0:
-            print(f"  {cat:12}: {count} 个")
-    
+
     return success, updated
 
 
@@ -391,12 +406,6 @@ def update_readme(bv_list):
 - **作者**：b站**海安雨**。
 
 ## 每天一个宝藏问题
-
-## 每天一个宝藏名词
-
-## 每周一个宝藏论文
-
-## 每周一个宝藏实验
 
 ## 其他
 
