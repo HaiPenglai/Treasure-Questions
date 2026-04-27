@@ -18,11 +18,33 @@ import subprocess
 import asyncio
 import time
 from bilibili_api import user, video
+from bilibili_api.login_v2 import Credential
 
 MID = 2071007724
 OUTPUT_DIR = "assets"
 BV_LIST_FILE = "bv_list.json"
 README_FILE = "README.md"
+CREDENTIAL_FILE = "credential.json"
+
+# 尝试读取登录凭证（如果存在）
+def load_credential():
+    if os.path.exists(CREDENTIAL_FILE):
+        try:
+            with open(CREDENTIAL_FILE, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            return Credential(
+                sessdata=data.get("sessdata"),
+                bili_jct=data.get("bili_jct"),
+                buvid3=data.get("buvid3"),
+                buvid4=data.get("buvid4"),
+                dedeuserid=data.get("dedeuserid"),
+                ac_time_value=data.get("ac_time_value"),
+            )
+        except Exception as e:
+            print(f"[Credential] 读取凭证失败: {e}")
+    return None
+
+CREDENTIAL = load_credential()
 
 # 分类配置
 CATEGORIES = {
@@ -100,7 +122,7 @@ def ensure_dir(category: str = ""):
 async def refresh_video_info(bv: str) -> dict:
     """获取单个视频的最新信息（用于刷新标题）"""
     try:
-        v = video.Video(bvid=bv)
+        v = video.Video(bvid=bv, credential=CREDENTIAL)
         info = await v.get_info()
         return {
             "bvid": info.get("bvid", bv),
@@ -113,12 +135,32 @@ async def refresh_video_info(bv: str) -> dict:
         return None
 
 
+async def get_video_stream_url(bv: str) -> str:
+    """使用 bilibili_api 获取最佳视频流 URL（替代 yt-dlp，避免 412）"""
+    try:
+        v = video.Video(bvid=bv, credential=CREDENTIAL)
+        info = await v.get_download_url(page_index=0)
+        
+        # 优先使用 DASH 格式的视频流（最高质量）
+        if "dash" in info and info["dash"].get("video"):
+            return info["dash"]["video"][0]["baseUrl"]
+        
+        # 回退到 durl（FLV/MP4）格式
+        if "durl" in info and info["durl"]:
+            return info["durl"][0]["url"]
+        
+        return ""
+    except Exception as e:
+        print(f"  [{bv}] 获取视频流失败: {str(e)[:80]}")
+        return ""
+
+
 async def fetch_new_bvs(last_update_time: float) -> list:
     """
     增量获取新视频（created > last_update_time）
     使用优化策略：只检查最新几页，遇到旧视频立即停止
     """
-    u = user.User(MID)
+    u = user.User(MID, credential=CREDENTIAL)
     new_bvs = []
     pn = 1
     
@@ -172,7 +214,7 @@ async def fetch_new_bvs(last_update_time: float) -> list:
 
 async def fetch_all_bvs():
     """首次运行：获取UP主全部视频列表"""
-    u = user.User(MID)
+    u = user.User(MID, credential=CREDENTIAL)
     all_bvs = []
     pn = 1
     
@@ -214,7 +256,7 @@ async def fetch_all_bvs():
     return all_bvs
 
 
-def extract_first_frame(bv: str, title: str) -> bool:
+async def extract_first_frame(bv: str, title: str) -> bool:
     """提取单个BV视频的第一帧，使用BVID作为文件名，自动分类"""
     # 确定分类和输出目录
     category = get_category(title)
@@ -228,14 +270,9 @@ def extract_first_frame(bv: str, title: str) -> bool:
         print(f"  [{bv}] 已存在，跳过")
         return True
     
-    url = f"https://www.bilibili.com/video/{bv}"
-    
     try:
-        # 1. yt-dlp 获取最佳视频流
-        get_url_cmd = f'yt-dlp -g -f bestvideo "{url}"'
-        stream_url = subprocess.check_output(
-            get_url_cmd, shell=True, text=True, timeout=40
-        ).strip().split("\n")[0]
+        # 1. 使用 bilibili_api 获取最佳视频流（替代 yt-dlp，避免 412）
+        stream_url = await get_video_stream_url(bv)
         if not stream_url:
             print(f"  [{bv}] X 无法获取视频流")
             return False
@@ -325,7 +362,7 @@ async def batch_extract(bv_list):
         
         # 使用（可能更新后的）标题下载
         print(f"[{i}/{total}] 提取封面: {title[:50]}...")
-        if extract_first_frame(bv, title):
+        if await extract_first_frame(bv, title):
             success += 1
         else:
             failed += 1
