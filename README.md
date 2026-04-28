@@ -4,6 +4,10 @@
 
 ## 每天一个宝藏问题
 
+92. 为什么量化会让损失“山谷”变成“台阶”？【每天一个宝藏问题】
+![](./assets/questions/BV1eoQvBQEMF.jpg)
+---
+
 91. 游戏AI和LLM的πθ(a∣s)有何异同？【每天一个宝藏问题】
 ![](./assets/questions/BV1TeD9B4EbF.jpg)
 ---
@@ -371,6 +375,10 @@
 ---
 
 ## 每周一个宝藏论文
+
+[23] flash-attention-v3：论文解读【每天一个宝藏论文】
+![](./assets/papers/BV1yZd6BcE3b.jpg)
+---
 
 [22] FlashAttention-V2：论文解读【每天一个宝藏论文】
 ![](./assets/papers/BV1yfd6B8E37.jpg)

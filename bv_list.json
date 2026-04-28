@@ -1,5 +1,17 @@
 [
   {
+    "bvid": "BV1yZd6BcE3b",
+    "title": "[23] flash-attention-v3：论文解读【每天一个宝藏论文】",
+    "created": 1777377600,
+    "pic": "http://i1.hdslb.com/bfs/archive/d8b5cf370770ea746837289cb6ac8977e1564fdc.jpg"
+  },
+  {
+    "bvid": "BV1eoQvBQEMF",
+    "title": "92. 为什么量化会让损失“山谷”变成“台阶”？【每天一个宝藏问题】",
+    "created": 1777377600,
+    "pic": "http://i1.hdslb.com/bfs/archive/1e9e34fd16c22e9480369e4b198a775810abf80b.jpg"
+  },
+  {
     "bvid": "BV1yfd6B8E37",
     "title": "[22] FlashAttention-V2：论文解读【每天一个宝藏论文】",
     "created": 1777291200,
