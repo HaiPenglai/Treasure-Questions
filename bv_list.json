@@ -1,5 +1,17 @@
 [
   {
+    "bvid": "BV18Ud6BME78",
+    "title": "[24] SGLang：大模型推理引擎论文解读【每天一个宝藏论文】",
+    "created": 1777464000,
+    "pic": "http://i1.hdslb.com/bfs/archive/5bc2a548b6554e9da1db2b73f92da2c180f85393.jpg"
+  },
+  {
+    "bvid": "BV1CkQjBJE8K",
+    "title": "93. 为什么Transformer的核心公式是在做加权平均？【每天一个宝藏问题】",
+    "created": 1777464000,
+    "pic": "http://i1.hdslb.com/bfs/archive/cf1d066d3fdd8066dac43b0fd8ada3e35a68918d.jpg"
+  },
+  {
     "bvid": "BV1yZd6BcE3b",
     "title": "[23] flash-attention-v3：论文解读【每天一个宝藏论文】",
     "created": 1777377600,

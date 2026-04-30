@@ -4,6 +4,10 @@
 
 ## 每天一个宝藏问题
 
+93. 为什么Transformer的核心公式是在做加权平均？【每天一个宝藏问题】
+![](./assets/questions/BV1CkQjBJE8K.jpg)
+---
+
 92. 为什么量化会让损失“山谷”变成“台阶”？【每天一个宝藏问题】
 ![](./assets/questions/BV1eoQvBQEMF.jpg)
 ---
@@ -375,6 +379,10 @@
 ---
 
 ## 每周一个宝藏论文
+
+[24] SGLang：大模型推理引擎论文解读【每天一个宝藏论文】
+![](./assets/papers/BV18Ud6BME78.jpg)
+---
 
 [23] flash-attention-v3：论文解读【每天一个宝藏论文】
 ![](./assets/papers/BV1yZd6BcE3b.jpg)
