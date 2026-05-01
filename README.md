@@ -4,6 +4,14 @@
 
 ## 每天一个宝藏问题
 
+95. 标量乘法的链式法则可以推广到矩阵吗？【每天一个宝藏问题】
+![](./assets/questions/BV1D8daB7En5.jpg)
+---
+
+94. 量化感知训练中为什么要STE来处理round梯度？【每天一个宝藏问题】
+![](./assets/questions/BV12qdaBkERq.jpg)
+---
+
 93. 为什么Transformer的核心公式是在做加权平均？【每天一个宝藏问题】
 ![](./assets/questions/BV1CkQjBJE8K.jpg)
 ---
@@ -379,6 +387,14 @@
 ---
 
 ## 每周一个宝藏论文
+
+[26] GQA：分组查询注意力论文解读【每天一个宝藏论文】
+![](./assets/papers/BV1Bcd2BeEVv.jpg)
+---
+
+[25] QLora：大模型量化微调论文解读【每天一个宝藏论文】
+![](./assets/papers/BV1CFdrBfE2D.jpg)
+---
 
 [24] SGLang：大模型推理引擎论文解读【每天一个宝藏论文】
 ![](./assets/papers/BV18Ud6BME78.jpg)

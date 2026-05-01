@@ -1,5 +1,29 @@
 [
   {
+    "bvid": "BV1Bcd2BeEVv",
+    "title": "[26] GQA：分组查询注意力论文解读【每天一个宝藏论文】",
+    "created": 1777636800,
+    "pic": "http://i2.hdslb.com/bfs/archive/4d44c1b6ad33055786878fd155c64dec108e875d.jpg"
+  },
+  {
+    "bvid": "BV1D8daB7En5",
+    "title": "95. 标量乘法的链式法则可以推广到矩阵吗？【每天一个宝藏问题】",
+    "created": 1777636800,
+    "pic": "http://i0.hdslb.com/bfs/archive/a236c5798b716922dcf04968ec4fd9e62a76d4b4.jpg"
+  },
+  {
+    "bvid": "BV1CFdrBfE2D",
+    "title": "[25] QLora：大模型量化微调论文解读【每天一个宝藏论文】",
+    "created": 1777550400,
+    "pic": "http://i1.hdslb.com/bfs/archive/ef62e2d7d81615bc192e34cd72174419d5d7aa54.jpg"
+  },
+  {
+    "bvid": "BV12qdaBkERq",
+    "title": "94. 量化感知训练中为什么要STE来处理round梯度？【每天一个宝藏问题】",
+    "created": 1777550400,
+    "pic": "http://i1.hdslb.com/bfs/archive/d85db43563ddf5027fb973650339f59fae86a4b4.jpg"
+  },
+  {
     "bvid": "BV18Ud6BME78",
     "title": "[24] SGLang：大模型推理引擎论文解读【每天一个宝藏论文】",
     "created": 1777464000,
