@@ -7,6 +7,7 @@
 
 ### 95. 标量乘法的链式法则可以推广到矩阵吗？【每天一个宝藏问题】
 - 观看视频：[BV1D8daB7En5](https://www.bilibili.com/video/BV1D8daB7En5)
+
 [![](./assets/questions/BV1D8daB7En5.jpg)](https://www.bilibili.com/video/BV1D8daB7En5)
 ---
 
