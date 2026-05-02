@@ -32,9 +32,6 @@ def format_readme(papers):
     lines = []
     lines.append("# 宝藏论文链接大全")
     lines.append("")
-    lines.append("> 本目录汇总了 B 站 UP 主 **海安雨** 《每周一个宝藏论文》系列视频中解读的所有论文链接。")
-    lines.append("> 点击即可直达 PDF（优先）或论文主页。")
-    lines.append("> 列表按视频序号 **倒序** 排列，最新视频在最上方，方便增量浏览。")
     lines.append("")
     lines.append("---")
     lines.append("")
