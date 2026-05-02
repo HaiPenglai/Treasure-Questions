@@ -1,5 +1,18 @@
 # 宝藏论文链接大全
 
+> 本目录汇总了 B 站 UP 主 **海安雨** 《每周一个宝藏论文》系列视频中解读的所有论文链接。
+> 点击即可直达 PDF（优先）或论文主页。
+> 列表按视频序号 **倒序** 排列，最新视频在最上方，方便增量浏览。
+
+---
+
+### [27] SlimAttention：一种和FlashAttention分块策略不同的注意力【每天一个宝藏论文】
+- 观看视频：[BV1hjd2BWEGS](https://www.bilibili.com/video/BV1hjd2BWEGS)
+
+- 阅读论文：[Slim attention: cut your context memory in half without loss of accuracy — K-cache is all you need for MHA](https://arxiv.org/pdf/2503.05840.pdf)
+
+---
+
 ### [26] GQA：分组查询注意力论文解读【每天一个宝藏论文】
 - 观看视频：[BV1Bcd2BeEVv](https://www.bilibili.com/video/BV1Bcd2BeEVv)
 

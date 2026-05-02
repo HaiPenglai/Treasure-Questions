@@ -1,5 +1,17 @@
 [
   {
+    "bvid": "BV1hjd2BWEGS",
+    "title": "[27] SlimAttention：一种和FlashAttention分块策略不同的注意力【每天一个宝藏论文】",
+    "created": 1777723200,
+    "pic": "http://i1.hdslb.com/bfs/archive/4d5227b0f9efa0e34ee5389302e590525f04e306.jpg"
+  },
+  {
+    "bvid": "BV15GdjByEpy",
+    "title": "96. LoRA微调中A、B都随机初始化或全零初始化分别会带来什么问题？【每天一个宝藏问题】",
+    "created": 1777723200,
+    "pic": "http://i1.hdslb.com/bfs/archive/07d70e76e875a5da788104ac8a516bd2717c7ac9.jpg"
+  },
+  {
     "bvid": "BV1Bcd2BeEVv",
     "title": "[26] GQA：分组查询注意力论文解读【每天一个宝藏论文】",
     "created": 1777636800,

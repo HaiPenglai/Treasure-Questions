@@ -5,6 +5,12 @@
 
 ## 每天一个宝藏问题
 
+### 96. LoRA微调中A、B都随机初始化或全零初始化分别会带来什么问题？【每天一个宝藏问题】
+- 观看视频：[BV15GdjByEpy](https://www.bilibili.com/video/BV15GdjByEpy)
+
+[![](./assets/questions/BV15GdjByEpy.jpg)](https://www.bilibili.com/video/BV15GdjByEpy)
+---
+
 ### 95. 标量乘法的链式法则可以推广到矩阵吗？【每天一个宝藏问题】
 - 观看视频：[BV1D8daB7En5](https://www.bilibili.com/video/BV1D8daB7En5)
 
@@ -578,6 +584,12 @@
 ---
 
 ## 每周一个宝藏论文
+
+### [27] SlimAttention：一种和FlashAttention分块策略不同的注意力【每天一个宝藏论文】
+- 观看视频：[BV1hjd2BWEGS](https://www.bilibili.com/video/BV1hjd2BWEGS)
+
+[![](./assets/papers/BV1hjd2BWEGS.jpg)](https://www.bilibili.com/video/BV1hjd2BWEGS)
+---
 
 ### [26] GQA：分组查询注意力论文解读【每天一个宝藏论文】
 - 观看视频：[BV1Bcd2BeEVv](https://www.bilibili.com/video/BV1Bcd2BeEVv)
