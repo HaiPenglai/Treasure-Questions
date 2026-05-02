@@ -428,9 +428,10 @@ def update_readme(bv_list):
             full_title = item["title"]
             img_path = f"./assets/{category}/{bv}.jpg"
             
-            # 格式：标题和封面都链接到B站视频
+            # 格式：标题前加三级标题，单独一行放BV号链接
             video_url = f"https://www.bilibili.com/video/{bv}"
-            lines.append(f"[{full_title}]({video_url})")
+            lines.append(f"### {full_title}")
+            lines.append(f"- 观看视频：[{bv}]({video_url})")
             lines.append(f"[![]({img_path})]({video_url})")
             lines.append("---")
             lines.append("")  # 空行分隔
