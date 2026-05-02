@@ -7,7 +7,8 @@
         "paper_title": "GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints",
         "paper_link": "https://arxiv.org/pdf/2305.13245.pdf"
       }
-    ]
+    ],
+    "bvid": "BV1Bcd2BeEVv"
   },
   {
     "video_id": 25,
@@ -17,7 +18,8 @@
         "paper_title": "QLoRA: Efficient Finetuning of Quantized LLMs",
         "paper_link": "https://arxiv.org/pdf/2305.14314.pdf"
       }
-    ]
+    ],
+    "bvid": "BV1CFdrBfE2D"
   },
   {
     "video_id": 24,
@@ -27,7 +29,8 @@
         "paper_title": "Efficiently Programming Large Language Models Using SGLang",
         "paper_link": "https://arxiv.org/pdf/2312.07104.pdf"
       }
-    ]
+    ],
+    "bvid": "BV18Ud6BME78"
   },
   {
     "video_id": 23,
@@ -37,7 +40,8 @@
         "paper_title": "FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision",
         "paper_link": "https://arxiv.org/pdf/2407.08608.pdf"
       }
-    ]
+    ],
+    "bvid": "BV1yZd6BcE3b"
   },
   {
     "video_id": 22,
@@ -47,7 +51,8 @@
         "paper_title": "FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning",
         "paper_link": "https://arxiv.org/pdf/2307.08691.pdf"
       }
-    ]
+    ],
+    "bvid": "BV1yfd6B8E37"
   },
   {
     "video_id": 21,
@@ -57,7 +62,8 @@
         "paper_title": "Online normalizer calculation for softmax",
         "paper_link": "https://arxiv.org/pdf/1805.02867.pdf"
       }
-    ]
+    ],
+    "bvid": "BV1Qkd6B3EUe"
   },
   {
     "video_id": 20,
@@ -71,7 +77,8 @@
         "paper_title": "Accelerating Large Language Model Decoding with Speculative Sampling",
         "paper_link": "https://arxiv.org/pdf/2302.01318.pdf"
       }
-    ]
+    ],
+    "bvid": "BV1V6d6BCEzJ"
   },
   {
     "video_id": 19,
@@ -81,7 +88,8 @@
         "paper_title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
         "paper_link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/resolve/main/DeepSeek_V4.pdf"
       }
-    ]
+    ],
+    "bvid": "BV1Mgo5BwEST"
   },
   {
     "video_id": 18,
@@ -91,7 +99,8 @@
         "paper_title": "SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models",
         "paper_link": "https://arxiv.org/pdf/2211.10438.pdf"
       }
-    ]
+    ],
+    "bvid": "BV1CkoPBbEyB"
   },
   {
     "video_id": 17,
@@ -101,7 +110,8 @@
         "paper_title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",
         "paper_link": "https://arxiv.org/pdf/2205.14135.pdf"
       }
-    ]
+    ],
+    "bvid": "BV1XPoNB5EQy"
   },
   {
     "video_id": 16,
@@ -111,7 +121,8 @@
         "paper_title": "LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale",
         "paper_link": "https://arxiv.org/pdf/2208.07339.pdf"
       }
-    ]
+    ],
+    "bvid": "BV1BeoNB9EQP"
   },
   {
     "video_id": 15,
@@ -121,7 +132,8 @@
         "paper_title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
         "paper_link": "https://arxiv.org/pdf/2309.06180.pdf"
       }
-    ]
+    ],
+    "bvid": "BV1xJoNBPEqe"
   },
   {
     "video_id": 14,
@@ -131,7 +143,8 @@
         "paper_title": "AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration",
         "paper_link": "https://arxiv.org/pdf/2306.00978.pdf"
       }
-    ]
+    ],
+    "bvid": "BV1RuoFBvEm8"
   },
   {
     "video_id": 12,
@@ -145,7 +158,8 @@
         "paper_title": "Cache-to-Cache: Direct Semantic Communication Between Large Language Models",
         "paper_link": "https://arxiv.org/pdf/2510.03215.pdf"
       }
-    ]
+    ],
+    "bvid": "BV1B997BmEGr"
   },
   {
     "video_id": 10,
@@ -159,7 +173,8 @@
         "paper_title": "Towards Robust Agentic CUDA Kernel Benchmarking, Verification, and Optimization",
         "paper_link": "https://arxiv.org/pdf/2509.14279.pdf"
       }
-    ]
+    ],
+    "bvid": "BV1M8QUBUESz"
   },
   {
     "video_id": 8,
@@ -177,7 +192,8 @@
         "paper_title": "Kevin: Multi-Turn RL for Generating CUDA Kernels",
         "paper_link": "https://arxiv.org/pdf/2507.11948.pdf"
       }
-    ]
+    ],
+    "bvid": "BV1fVckzqE1S"
   },
   {
     "video_id": 6,
@@ -195,7 +211,8 @@
         "paper_title": "Astra: A Multi-Agent System for GPU Kernel Performance Optimization",
         "paper_link": "https://arxiv.org/pdf/2509.07506.pdf"
       }
-    ]
+    ],
+    "bvid": "BV1HVPkzEEx9"
   },
   {
     "video_id": 4,
@@ -213,7 +230,8 @@
         "paper_title": "ParEval-Repo: A Benchmark Suite for Evaluating LLMs with Repository-level HPC Translation Tasks",
         "paper_link": "https://arxiv.org/pdf/2506.20938.pdf"
       }
-    ]
+    ],
+    "bvid": "BV1pJA6zkEH4"
   },
   {
     "video_id": 2,
@@ -227,6 +245,7 @@
         "paper_title": "TritonBench: Benchmarking Large Language Model Capabilities for Generating Triton Operators",
         "paper_link": "https://arxiv.org/pdf/2502.14752.pdf"
       }
-    ]
+    ],
+    "bvid": "BV1XcfBBGEUw"
   }
 ]

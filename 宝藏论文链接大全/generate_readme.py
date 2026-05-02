@@ -4,6 +4,7 @@
 功能：
 1. 读取 papers.json，按 video_id 倒序生成 README.md
 2. 支持命令行直接打印列表到终端
+3. 格式与主 README 保持一致：三级标题 + 观看视频 + 阅读论文
 
 用法：
     python generate_readme.py          # 生成 README.md
@@ -32,7 +33,7 @@ def format_readme(papers):
     lines.append("# 宝藏论文链接大全")
     lines.append("")
     lines.append("> 本目录汇总了 B 站 UP 主 **海安雨** 《每周一个宝藏论文》系列视频中解读的所有论文链接。")
-    lines.append("> 点击论文标题即可直达 PDF（优先）或论文主页。")
+    lines.append("> 点击即可直达 PDF（优先）或论文主页。")
     lines.append("> 列表按视频序号 **倒序** 排列，最新视频在最上方，方便增量浏览。")
     lines.append("")
     lines.append("---")
@@ -40,19 +41,27 @@ def format_readme(papers):
 
     for item in papers:
         video_title = item.get("video_title", "")
+        bvid = item.get("bvid", "")
         papers_list = item.get("papers", [])
-        lines.append(f"## {video_title}")
+        video_url = f"https://www.bilibili.com/video/{bvid}" if bvid else ""
+
+        lines.append(f"### {video_title}")
+        if bvid:
+            lines.append(f"- 观看视频：[{bvid}]({video_url})")
+        else:
+            lines.append("- 观看视频：（暂未收录）")
         lines.append("")
+
         if not papers_list:
-            lines.append("*暂无论文链接*")
+            lines.append("- 阅读论文：*暂无论文链接*")
         else:
             for p in papers_list:
                 title = p.get("paper_title", "")
                 link = p.get("paper_link", "")
                 if link:
-                    lines.append(f"- [{title}]({link})")
+                    lines.append(f"- 阅读论文：[{title}]({link})")
                 else:
-                    lines.append(f"- {title}")
+                    lines.append(f"- 阅读论文：{title}")
         lines.append("")
         lines.append("---")
         lines.append("")
