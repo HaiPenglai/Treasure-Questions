@@ -432,6 +432,7 @@ def update_readme(bv_list):
             video_url = f"https://www.bilibili.com/video/{bv}"
             lines.append(f"### {full_title}")
             lines.append(f"- 观看视频：[{bv}]({video_url})")
+            lines.append("")
             lines.append(f"[![]({img_path})]({video_url})")
             lines.append("---")
             lines.append("")  # 空行分隔
