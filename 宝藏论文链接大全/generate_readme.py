@@ -31,10 +31,6 @@ def format_readme(papers):
     """生成 README.md 的 Markdown 内容"""
     lines = []
     lines.append("# 宝藏论文链接大全")
-    lines.append("")
-    lines.append("")
-    lines.append("---")
-    lines.append("")
 
     for item in papers:
         video_title = item.get("video_title", "")

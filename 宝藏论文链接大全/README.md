@@ -1,8 +1,4 @@
 # 宝藏论文链接大全
-
-
----
-
 ### [27] SlimAttention：一种和FlashAttention分块策略不同的注意力【每天一个宝藏论文】
 - 观看视频：[BV1hjd2BWEGS](https://www.bilibili.com/video/BV1hjd2BWEGS)
 
