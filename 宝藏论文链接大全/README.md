@@ -1,8 +1,6 @@
 # 宝藏论文链接大全
 
-> 本目录汇总了 B 站 UP 主 **海安雨** 《每周一个宝藏论文》系列视频中解读的所有论文链接。
-> 点击论文标题即可直达 PDF（优先）或论文主页。
-> 列表按视频序号 **倒序** 排列，最新视频在最上方，方便增量浏览。
+> 汇总了宝藏论文的全部参考文献链接。
 
 ---
 
@@ -109,8 +107,8 @@
 
 ## [6] Agent写算子：读三个Agent写算子的论文【每周一个宝藏论文】
 
-- [CudaForge: An Agent Framework with Hardware Feedback for CUDA Kernel Optimization](https://arxiv.org/pdf/2511.01884.pdf)
-- [GPU Kernel Scientist: An LLM-Driven Framework for Iterative Kernel Optimization](https://arxiv.org/pdf/2506.20807.pdf)
+- [CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation](https://arxiv.org/pdf/2602.24286.pdf)
+- [AKG kernel agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis](https://arxiv.org/pdf/2512.23424.pdf)
 - [Astra: A Multi-Agent System for GPU Kernel Performance Optimization](https://arxiv.org/pdf/2509.07506.pdf)
 
 ---

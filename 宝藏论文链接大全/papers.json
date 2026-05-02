@@ -184,12 +184,12 @@
     "video_title": "[6] Agent写算子：读三个Agent写算子的论文【每周一个宝藏论文】",
     "papers": [
       {
-        "paper_title": "CudaForge: An Agent Framework with Hardware Feedback for CUDA Kernel Optimization",
-        "paper_link": "https://arxiv.org/pdf/2511.01884.pdf"
+        "paper_title": "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation",
+        "paper_link": "https://arxiv.org/pdf/2602.24286.pdf"
       },
       {
-        "paper_title": "GPU Kernel Scientist: An LLM-Driven Framework for Iterative Kernel Optimization",
-        "paper_link": "https://arxiv.org/pdf/2506.20807.pdf"
+        "paper_title": "AKG kernel agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis",
+        "paper_link": "https://arxiv.org/pdf/2512.23424.pdf"
       },
       {
         "paper_title": "Astra: A Multi-Agent System for GPU Kernel Performance Optimization",
