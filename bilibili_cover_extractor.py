@@ -428,12 +428,10 @@ def update_readme(bv_list):
             full_title = item["title"]
             img_path = f"./assets/{category}/{bv}.jpg"
             
-            # 格式（减少token）：
-            # 完整标题（包含序号和分类标签）
-            # ![](路径)  <- 图片无说明文字
-            # ---
-            lines.append(f"{full_title}")
-            lines.append(f"![]({img_path})")
+            # 格式：标题和封面都链接到B站视频
+            video_url = f"https://www.bilibili.com/video/{bv}"
+            lines.append(f"[{full_title}]({video_url})")
+            lines.append(f"[![]({img_path})]({video_url})")
             lines.append("---")
             lines.append("")  # 空行分隔
         
