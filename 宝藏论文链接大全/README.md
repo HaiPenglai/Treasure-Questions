@@ -9,7 +9,7 @@
 ### [27] SlimAttention：一种和FlashAttention分块策略不同的注意力【每天一个宝藏论文】
 - 观看视频：[BV1hjd2BWEGS](https://www.bilibili.com/video/BV1hjd2BWEGS)
 
-- 阅读论文：[Slim attention: cut your context memory in half without loss of accuracy — K-cache is all you need for MHA](https://arxiv.org/pdf/2503.05840.pdf)
+- 阅读论文：[Inference Performance Optimization for Large Language Models on CPUs](https://arxiv.org/pdf/2407.07304.pdf)
 
 ---
 

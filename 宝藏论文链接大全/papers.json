@@ -4,8 +4,8 @@
     "video_title": "[27] SlimAttention：一种和FlashAttention分块策略不同的注意力【每天一个宝藏论文】",
     "papers": [
       {
-        "paper_title": "Slim attention: cut your context memory in half without loss of accuracy — K-cache is all you need for MHA",
-        "paper_link": "https://arxiv.org/pdf/2503.05840.pdf"
+        "paper_title": "Inference Performance Optimization for Large Language Models on CPUs",
+        "paper_link": "https://arxiv.org/pdf/2407.07304.pdf"
       }
     ],
     "bvid": "BV1hjd2BWEGS"
