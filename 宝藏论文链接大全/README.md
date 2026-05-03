@@ -1,4 +1,13 @@
 # 宝藏论文链接大全
+### [28] 模型剪枝OB家族的三大分支：OBD、OBS、OBC【每天一个宝藏论文】
+- 观看视频：[BV1bJd2BHEeb](https://www.bilibili.com/video/BV1bJd2BHEeb)
+
+- 阅读论文：[Optimal Brain Damage](https://proceedings.neurips.cc/paper/1989/file/6c9882bbac1c7093bd25041881277658-Paper.pdf)
+- 阅读论文：[Second order derivatives for network pruning: Optimal Brain Surgeon](https://proceedings.neurips.cc/paper/1992/file/303ed4c69846ab36c2904d3ba8573050-Paper.pdf)
+- 阅读论文：[Optimal Brain Compression: A Framework for Accurate Post-Training Quantization and Pruning](https://arxiv.org/pdf/2208.11580.pdf)
+
+---
+
 ### [27] SlimAttention：一种和FlashAttention分块策略不同的注意力【每天一个宝藏论文】
 - 观看视频：[BV1hjd2BWEGS](https://www.bilibili.com/video/BV1hjd2BWEGS)
 

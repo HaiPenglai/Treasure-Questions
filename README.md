@@ -5,6 +5,12 @@
 
 ## 每天一个宝藏问题
 
+### 97. 张量广播的线性索引是如何对应的？【每天一个宝藏问题】
+- 观看视频：[BV1KyoMByEdR](https://www.bilibili.com/video/BV1KyoMByEdR)
+
+[![](./assets/questions/BV1KyoMByEdR.jpg)](https://www.bilibili.com/video/BV1KyoMByEdR)
+---
+
 ### 96. LoRA微调中A、B都随机初始化或全零初始化分别会带来什么问题？【每天一个宝藏问题】
 - 观看视频：[BV15GdjByEpy](https://www.bilibili.com/video/BV15GdjByEpy)
 
@@ -584,6 +590,12 @@
 ---
 
 ## 每周一个宝藏论文
+
+### [28] 模型剪枝OB家族论文一口气看完：OBD、OBS、OBC【每天一个宝藏论文】
+- 观看视频：[BV1bJd2BHEeb](https://www.bilibili.com/video/BV1bJd2BHEeb)
+
+[![](./assets/papers/BV1bJd2BHEeb.jpg)](https://www.bilibili.com/video/BV1bJd2BHEeb)
+---
 
 ### [27] SlimAttention：一种和FlashAttention分块策略不同的注意力【每天一个宝藏论文】
 - 观看视频：[BV1hjd2BWEGS](https://www.bilibili.com/video/BV1hjd2BWEGS)

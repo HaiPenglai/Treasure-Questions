@@ -1,5 +1,17 @@
 [
   {
+    "bvid": "BV1KyoMByEdR",
+    "title": "97. 张量广播的线性索引是如何对应的？【每天一个宝藏问题】",
+    "created": 1777809600,
+    "pic": "http://i0.hdslb.com/bfs/archive/ccce0133377555eb3c6f96ebeefe7b34a7243480.jpg"
+  },
+  {
+    "bvid": "BV1bJd2BHEeb",
+    "title": "[28] 模型剪枝OB家族论文一口气看完：OBD、OBS、OBC【每天一个宝藏论文】",
+    "created": 1777809600,
+    "pic": "http://i1.hdslb.com/bfs/archive/79185b5484d3c6787ab0558918697783fde07207.jpg"
+  },
+  {
     "bvid": "BV1hjd2BWEGS",
     "title": "[27] SlimAttention：一种和FlashAttention分块策略不同的注意力【每天一个宝藏论文】",
     "created": 1777723200,

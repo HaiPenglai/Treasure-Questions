@@ -1,5 +1,24 @@
 [
   {
+    "video_id": 28,
+    "video_title": "[28] 模型剪枝OB家族的三大分支：OBD、OBS、OBC【每天一个宝藏论文】",
+    "papers": [
+      {
+        "paper_title": "Optimal Brain Damage",
+        "paper_link": "https://proceedings.neurips.cc/paper/1989/file/6c9882bbac1c7093bd25041881277658-Paper.pdf"
+      },
+      {
+        "paper_title": "Second order derivatives for network pruning: Optimal Brain Surgeon",
+        "paper_link": "https://proceedings.neurips.cc/paper/1992/file/303ed4c69846ab36c2904d3ba8573050-Paper.pdf"
+      },
+      {
+        "paper_title": "Optimal Brain Compression: A Framework for Accurate Post-Training Quantization and Pruning",
+        "paper_link": "https://arxiv.org/pdf/2208.11580.pdf"
+      }
+    ],
+    "bvid": "BV1bJd2BHEeb"
+  },
+  {
     "video_id": 27,
     "video_title": "[27] SlimAttention：一种和FlashAttention分块策略不同的注意力【每天一个宝藏论文】",
     "papers": [
