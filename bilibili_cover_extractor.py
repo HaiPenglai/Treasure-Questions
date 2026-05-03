@@ -456,21 +456,22 @@ def update_readme(bv_list):
     # 插入/更新统计信息（在下载方式下面）
     question_count = sum(1 for item in bv_list if "宝藏问题" in item["title"])
     paper_count = sum(1 for item in bv_list if "宝藏论文" in item["title"])
-    stats_line = f"- 迄今为止，已经整理了{question_count}个宝藏问题手稿和{paper_count}篇宝藏论文的参考文献"
+    stats_line = f"- **迄今为止**：已经整理了**{question_count}**个宝藏问题`手稿`和**{paper_count}**篇宝藏论文的`参考文献`。"
     
     # 如果已存在旧统计行，先替换掉
+    # 删除已有的旧统计行（兼容新旧格式）
     content = re.sub(
-        r"- 迄今为止，已经整理了\d+个宝藏问题手稿和\d+篇宝藏论文的参考文献\n?",
+        r"- .*迄今为止.*宝藏问题.*宝藏论文.*\n?",
         "",
         content
     )
     
     # 在下载方式行后面插入统计行
     def insert_stats_after_download(match):
-        return f"{match.group(0)}{stats_line}\n"
+        return f"{match.group(1)}{stats_line}\n\n"
     
     content = re.sub(
-        r"(- \*\*下载方式\*\*：.*\n)(?=\n?## )",
+        r"(- \*\*下载方式\*\*：.*\n)(?:\n?)(?=## )",
         insert_stats_after_download,
         content
     )
