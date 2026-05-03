@@ -453,6 +453,28 @@ def update_readme(bv_list):
         else:
             print(f"  [{category}] 未找到对应章节，跳过")
     
+    # 插入/更新统计信息（在下载方式下面）
+    question_count = sum(1 for item in bv_list if "宝藏问题" in item["title"])
+    paper_count = sum(1 for item in bv_list if "宝藏论文" in item["title"])
+    stats_line = f"- 迄今为止，已经整理了{question_count}个宝藏问题手稿和{paper_count}篇宝藏论文的参考文献"
+    
+    # 如果已存在旧统计行，先替换掉
+    content = re.sub(
+        r"- 迄今为止，已经整理了\d+个宝藏问题手稿和\d+篇宝藏论文的参考文献\n?",
+        "",
+        content
+    )
+    
+    # 在下载方式行后面插入统计行
+    def insert_stats_after_download(match):
+        return f"{match.group(0)}{stats_line}\n"
+    
+    content = re.sub(
+        r"(- \*\*下载方式\*\*：.*\n)(?=\n?## )",
+        insert_stats_after_download,
+        content
+    )
+    
     # 保存更新后的 README
     with open(README_FILE, "w", encoding="utf-8") as f:
         f.write(content)
