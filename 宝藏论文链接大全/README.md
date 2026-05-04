@@ -1,4 +1,11 @@
 # 宝藏论文链接大全
+### [29] GPTQ：大模型量化论文解读【每天一个宝藏论文】
+- 观看视频：[BV1Y3d2BoELh](https://www.bilibili.com/video/BV1Y3d2BoELh)
+
+- 阅读论文：[GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://arxiv.org/pdf/2210.17323.pdf)
+
+---
+
 ### [28] 模型剪枝OB家族的三大分支：OBD、OBS、OBC【每天一个宝藏论文】
 - 观看视频：[BV1bJd2BHEeb](https://www.bilibili.com/video/BV1bJd2BHEeb)
 

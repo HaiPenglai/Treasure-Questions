@@ -1,5 +1,16 @@
 [
   {
+    "video_id": 29,
+    "video_title": "[29] GPTQ：大模型量化论文解读【每天一个宝藏论文】",
+    "bvid": "BV1Y3d2BoELh",
+    "papers": [
+      {
+        "paper_title": "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers",
+        "paper_link": "https://arxiv.org/pdf/2210.17323.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 28,
     "video_title": "[28] 模型剪枝OB家族的三大分支：OBD、OBS、OBC【每天一个宝藏论文】",
     "papers": [

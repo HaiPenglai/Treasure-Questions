@@ -1,5 +1,17 @@
 [
   {
+    "bvid": "BV1CSoMBgEUA",
+    "title": "98. 为什么训练时上个词的概率预测不直接影响下个词？【每天一个宝藏问题】",
+    "created": 1777896000,
+    "pic": "http://i1.hdslb.com/bfs/archive/6071949be622d8475a423dde746ef88d2d237af4.jpg"
+  },
+  {
+    "bvid": "BV1Y3d2BoELh",
+    "title": "[29] GPTQ：大模型量化论文解读【每天一个宝藏论文】",
+    "created": 1777896000,
+    "pic": "http://i0.hdslb.com/bfs/archive/2dd4e775009e2b3c53bd06bd0fceb72a301f1c47.jpg"
+  },
+  {
     "bvid": "BV1KyoMByEdR",
     "title": "97. 张量广播的线性索引是如何对应的？【每天一个宝藏问题】",
     "created": 1777809600,

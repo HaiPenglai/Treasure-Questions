@@ -2,9 +2,15 @@
 
 - **作者**：b站**海安雨**。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**74**个宝藏问题`手稿`和**21**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**75**个宝藏问题`手稿`和**22**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 98. 为什么训练时上个词的概率预测不直接影响下个词？【每天一个宝藏问题】
+- 观看视频：[BV1CSoMBgEUA](https://www.bilibili.com/video/BV1CSoMBgEUA)
+
+[![](./assets/questions/BV1CSoMBgEUA.jpg)](https://www.bilibili.com/video/BV1CSoMBgEUA)
+---
 
 ### 97. 张量广播的线性索引是如何对应的？【每天一个宝藏问题】
 - 观看视频：[BV1KyoMByEdR](https://www.bilibili.com/video/BV1KyoMByEdR)
@@ -591,6 +597,12 @@
 ---
 
 ## 每周一个宝藏论文
+
+### [29] GPTQ：大模型量化论文解读【每天一个宝藏论文】
+- 观看视频：[BV1Y3d2BoELh](https://www.bilibili.com/video/BV1Y3d2BoELh)
+
+[![](./assets/papers/BV1Y3d2BoELh.jpg)](https://www.bilibili.com/video/BV1Y3d2BoELh)
+---
 
 ### [28] 模型剪枝OB家族论文一口气看完：OBD、OBS、OBC【每天一个宝藏论文】
 - 观看视频：[BV1bJd2BHEeb](https://www.bilibili.com/video/BV1bJd2BHEeb)
