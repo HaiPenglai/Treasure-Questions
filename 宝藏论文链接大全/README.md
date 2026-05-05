@@ -1,4 +1,12 @@
 # 宝藏论文链接大全
+### [30] Deepseek-MLA、MTP解读 【每天一个宝藏论文】
+- 观看视频：[BV1Vgd2BtEKe](https://www.bilibili.com/video/BV1Vgd2BtEKe)
+
+- 阅读论文：[DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://arxiv.org/pdf/2405.04434.pdf)
+- 阅读论文：[DeepSeek-V3 Technical Report](https://arxiv.org/pdf/2412.19437.pdf)
+
+---
+
 ### [29] GPTQ：大模型量化论文解读【每天一个宝藏论文】
 - 观看视频：[BV1Y3d2BoELh](https://www.bilibili.com/video/BV1Y3d2BoELh)
 

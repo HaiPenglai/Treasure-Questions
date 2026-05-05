@@ -1,5 +1,17 @@
 [
   {
+    "bvid": "BV1U6oMBjE1D",
+    "title": "99. MOE中先求Top K后Softmax，与先求Softmax后重归一化能一样？【每天一个宝藏问题】",
+    "created": 1777982400,
+    "pic": "http://i1.hdslb.com/bfs/archive/70c92c2f1a07d9d3093b3a28ef140f80f5060059.jpg"
+  },
+  {
+    "bvid": "BV1Vgd2BtEKe",
+    "title": "[30] Deepseek-MLA、MTP解读 【每天一个宝藏论文】",
+    "created": 1777982400,
+    "pic": "http://i0.hdslb.com/bfs/archive/550e1a82e9faab83a11fe5bb7b1c5748f2ba095a.jpg"
+  },
+  {
     "bvid": "BV1CSoMBgEUA",
     "title": "98. 为什么训练时上个词的概率预测不直接影响下个词？【每天一个宝藏问题】",
     "created": 1777896000,

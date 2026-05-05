@@ -2,9 +2,15 @@
 
 - **作者**：b站**海安雨**。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**75**个宝藏问题`手稿`和**22**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**76**个宝藏问题`手稿`和**23**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 99. MOE中先求Top K后Softmax，与先求Softmax后重归一化能一样？【每天一个宝藏问题】
+- 观看视频：[BV1U6oMBjE1D](https://www.bilibili.com/video/BV1U6oMBjE1D)
+
+[![](./assets/questions/BV1U6oMBjE1D.jpg)](https://www.bilibili.com/video/BV1U6oMBjE1D)
+---
 
 ### 98. 为什么训练时上个词的概率预测不直接影响下个词？【每天一个宝藏问题】
 - 观看视频：[BV1CSoMBgEUA](https://www.bilibili.com/video/BV1CSoMBgEUA)
@@ -597,6 +603,12 @@
 ---
 
 ## 每周一个宝藏论文
+
+### [30] Deepseek-MLA、MTP解读 【每天一个宝藏论文】
+- 观看视频：[BV1Vgd2BtEKe](https://www.bilibili.com/video/BV1Vgd2BtEKe)
+
+[![](./assets/papers/BV1Vgd2BtEKe.jpg)](https://www.bilibili.com/video/BV1Vgd2BtEKe)
+---
 
 ### [29] GPTQ：大模型量化论文解读【每天一个宝藏论文】
 - 观看视频：[BV1Y3d2BoELh](https://www.bilibili.com/video/BV1Y3d2BoELh)
