@@ -1,5 +1,17 @@
 [
   {
+    "bvid": "BV1m2RrBeEFS",
+    "title": "[33]. mHC：流形约束超连接【每天一个宝藏论文】",
+    "created": 1778241600,
+    "pic": "http://i2.hdslb.com/bfs/archive/9d47f618c7fe9e926681b9143b9e45bc187b4b2c.jpg"
+  },
+  {
+    "bvid": "BV1EwoRBfExe",
+    "title": "102. PagedAttention是如何减少内存浪费的？【每天一个宝藏问题】",
+    "created": 1778241600,
+    "pic": "http://i0.hdslb.com/bfs/archive/eb4215de4c81e362e17e18bda6f706661425cecf.jpg"
+  },
+  {
     "bvid": "BV142RrBeEa3",
     "title": "[32]. Hyper Connections：残差连接的改进【每天一个宝藏论文】",
     "created": 1778155200,

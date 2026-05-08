@@ -1,4 +1,11 @@
 # 宝藏论文链接大全
+### [33]. mHC：流形约束超连接【每天一个宝藏论文】
+- 观看视频：[BV1m2RrBeEFS](https://www.bilibili.com/video/BV1m2RrBeEFS)
+
+- 阅读论文：[mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/pdf/2512.24880.pdf)
+
+---
+
 ### [32]. Hyper Connections：残差连接的改进【每天一个宝藏论文】
 - 观看视频：[BV142RrBeEa3](https://www.bilibili.com/video/BV142RrBeEa3)
 

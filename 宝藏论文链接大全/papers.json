@@ -1,5 +1,16 @@
 [
   {
+    "video_id": 33,
+    "video_title": "[33]. mHC：流形约束超连接【每天一个宝藏论文】",
+    "bvid": "BV1m2RrBeEFS",
+    "papers": [
+      {
+        "paper_title": "mHC: Manifold-Constrained Hyper-Connections",
+        "paper_link": "https://arxiv.org/pdf/2512.24880.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 32,
     "video_title": "[32]. Hyper Connections：残差连接的改进【每天一个宝藏论文】",
     "bvid": "BV142RrBeEa3",

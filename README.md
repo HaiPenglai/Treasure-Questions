@@ -2,9 +2,15 @@
 
 - **作者**：b站**海安雨**。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**78**个宝藏问题`手稿`和**25**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**79**个宝藏问题`手稿`和**26**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 102. PagedAttention是如何减少内存浪费的？【每天一个宝藏问题】
+- 观看视频：[BV1EwoRBfExe](https://www.bilibili.com/video/BV1EwoRBfExe)
+
+[![](./assets/questions/BV1EwoRBfExe.jpg)](https://www.bilibili.com/video/BV1EwoRBfExe)
+---
 
 ### 101. 如何用矩阵乘法链式法则速推Flash Attention梯度？【每天一个宝藏问题】
 - 观看视频：[BV12CoMB5EDJ](https://www.bilibili.com/video/BV12CoMB5EDJ)
@@ -615,6 +621,12 @@
 ---
 
 ## 每周一个宝藏论文
+
+### [33]. mHC：流形约束超连接【每天一个宝藏论文】
+- 观看视频：[BV1m2RrBeEFS](https://www.bilibili.com/video/BV1m2RrBeEFS)
+
+[![](./assets/papers/BV1m2RrBeEFS.jpg)](https://www.bilibili.com/video/BV1m2RrBeEFS)
+---
 
 ### [32]. Hyper Connections：残差连接的改进【每天一个宝藏论文】
 - 观看视频：[BV142RrBeEa3](https://www.bilibili.com/video/BV142RrBeEa3)
