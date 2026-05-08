@@ -2,9 +2,21 @@
 
 - **作者**：b站**海安雨**。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**76**个宝藏问题`手稿`和**23**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**78**个宝藏问题`手稿`和**25**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 101. 如何用矩阵乘法链式法则速推Flash Attention梯度？【每天一个宝藏问题】
+- 观看视频：[BV12CoMB5EDJ](https://www.bilibili.com/video/BV12CoMB5EDJ)
+
+[![](./assets/questions/BV12CoMB5EDJ.jpg)](https://www.bilibili.com/video/BV12CoMB5EDJ)
+---
+
+### 100. 为什么神经网络连接可以用矩阵乘法实现？【每天一个宝藏问题】
+- 观看视频：[BV1SBoMBmEVB](https://www.bilibili.com/video/BV1SBoMBmEVB)
+
+[![](./assets/questions/BV1SBoMBmEVB.jpg)](https://www.bilibili.com/video/BV1SBoMBmEVB)
+---
 
 ### 99. MOE中先求Top K后Softmax，与先求Softmax后重归一化能一样？【每天一个宝藏问题】
 - 观看视频：[BV1U6oMBjE1D](https://www.bilibili.com/video/BV1U6oMBjE1D)
@@ -603,6 +615,18 @@
 ---
 
 ## 每周一个宝藏论文
+
+### [32]. Hyper Connections：残差连接的改进【每天一个宝藏论文】
+- 观看视频：[BV142RrBeEa3](https://www.bilibili.com/video/BV142RrBeEa3)
+
+[![](./assets/papers/BV142RrBeEa3.jpg)](https://www.bilibili.com/video/BV142RrBeEa3)
+---
+
+### [31]. OSDI 2025 LLM方向论文串讲：DecDEC、WLB_LLM、Straggler【每天一个宝藏论文】
+- 观看视频：[BV129ReB1EiW](https://www.bilibili.com/video/BV129ReB1EiW)
+
+[![](./assets/papers/BV129ReB1EiW.jpg)](https://www.bilibili.com/video/BV129ReB1EiW)
+---
 
 ### [30] Deepseek-MLA、MTP解读 【每天一个宝藏论文】
 - 观看视频：[BV1Vgd2BtEKe](https://www.bilibili.com/video/BV1Vgd2BtEKe)

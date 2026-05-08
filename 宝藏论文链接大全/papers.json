@@ -1,5 +1,35 @@
 [
   {
+    "video_id": 32,
+    "video_title": "[32]. Hyper Connections：残差连接的改进【每天一个宝藏论文】",
+    "bvid": "BV142RrBeEa3",
+    "papers": [
+      {
+        "paper_title": "Hyper-Connections",
+        "paper_link": "https://arxiv.org/pdf/2409.19606.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 31,
+    "video_title": "[31]. OSDI 2025 LLM方向论文串讲：DecDEC、WLB_LLM、Straggler【每天一个宝藏论文】",
+    "bvid": "BV129ReB1EiW",
+    "papers": [
+      {
+        "paper_title": "DecDEC: A Systems Approach to Advancing Low-Bit LLM Quantization",
+        "paper_link": "https://arxiv.org/pdf/2412.20185.pdf"
+      },
+      {
+        "paper_title": "WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training",
+        "paper_link": "https://arxiv.org/pdf/2503.17924.pdf"
+      },
+      {
+        "paper_title": "Understanding Stragglers in Large Model Training Using What-if Analysis",
+        "paper_link": "https://arxiv.org/pdf/2505.05713.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 30,
     "video_title": "[30] Deepseek-MLA、MTP解读 【每天一个宝藏论文】",
     "bvid": "BV1Vgd2BtEKe",

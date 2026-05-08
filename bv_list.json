@@ -1,5 +1,29 @@
 [
   {
+    "bvid": "BV142RrBeEa3",
+    "title": "[32]. Hyper Connections：残差连接的改进【每天一个宝藏论文】",
+    "created": 1778155200,
+    "pic": "http://i2.hdslb.com/bfs/archive/adbc279ae4ea40574c8dd09df32db4845f20c6c5.jpg"
+  },
+  {
+    "bvid": "BV12CoMB5EDJ",
+    "title": "101. 如何用矩阵乘法链式法则速推Flash Attention梯度？【每天一个宝藏问题】",
+    "created": 1778155200,
+    "pic": "http://i2.hdslb.com/bfs/archive/496431f99a3678f0deedbb51c2bb72a733ac0a8b.jpg"
+  },
+  {
+    "bvid": "BV129ReB1EiW",
+    "title": "[31]. OSDI 2025 LLM方向论文串讲：DecDEC、WLB_LLM、Straggler【每天一个宝藏论文】",
+    "created": 1778068800,
+    "pic": "http://i1.hdslb.com/bfs/archive/563cd88d4e7849894ede471beea9dc1d9d677599.png"
+  },
+  {
+    "bvid": "BV1SBoMBmEVB",
+    "title": "100. 为什么神经网络连接可以用矩阵乘法实现？【每天一个宝藏问题】",
+    "created": 1778068800,
+    "pic": "http://i0.hdslb.com/bfs/archive/1128ace5a8ed040dc4bc3910322f263b6a951447.jpg"
+  },
+  {
     "bvid": "BV1U6oMBjE1D",
     "title": "99. MOE中先求Top K后Softmax，与先求Softmax后重归一化能一样？【每天一个宝藏问题】",
     "created": 1777982400,

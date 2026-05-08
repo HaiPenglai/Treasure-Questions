@@ -1,4 +1,20 @@
 # 宝藏论文链接大全
+### [32]. Hyper Connections：残差连接的改进【每天一个宝藏论文】
+- 观看视频：[BV142RrBeEa3](https://www.bilibili.com/video/BV142RrBeEa3)
+
+- 阅读论文：[Hyper-Connections](https://arxiv.org/pdf/2409.19606.pdf)
+
+---
+
+### [31]. OSDI 2025 LLM方向论文串讲：DecDEC、WLB_LLM、Straggler【每天一个宝藏论文】
+- 观看视频：[BV129ReB1EiW](https://www.bilibili.com/video/BV129ReB1EiW)
+
+- 阅读论文：[DecDEC: A Systems Approach to Advancing Low-Bit LLM Quantization](https://arxiv.org/pdf/2412.20185.pdf)
+- 阅读论文：[WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training](https://arxiv.org/pdf/2503.17924.pdf)
+- 阅读论文：[Understanding Stragglers in Large Model Training Using What-if Analysis](https://arxiv.org/pdf/2505.05713.pdf)
+
+---
+
 ### [30] Deepseek-MLA、MTP解读 【每天一个宝藏论文】
 - 观看视频：[BV1Vgd2BtEKe](https://www.bilibili.com/video/BV1Vgd2BtEKe)
 
