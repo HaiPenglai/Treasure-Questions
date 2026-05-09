@@ -1,5 +1,16 @@
 [
   {
+    "video_id": 34,
+    "video_title": "[34]. PPO：论文解读【每天一个宝藏论文】",
+    "bvid": "BV1T2RrBvE25",
+    "papers": [
+      {
+        "paper_title": "Proximal Policy Optimization Algorithms",
+        "paper_link": "https://arxiv.org/pdf/1707.06347.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 33,
     "video_title": "[33]. mHC：流形约束超连接【每天一个宝藏论文】",
     "bvid": "BV1m2RrBeEFS",

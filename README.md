@@ -2,9 +2,15 @@
 
 - **作者**：b站**海安雨**。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**79**个宝藏问题`手稿`和**26**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**80**个宝藏问题`手稿`和**27**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 103. 多个线程执行同一段算子代码时发生了什么？【每天一个宝藏问题】
+- 观看视频：[BV1JcoRB8EGb](https://www.bilibili.com/video/BV1JcoRB8EGb)
+
+[![](./assets/questions/BV1JcoRB8EGb.jpg)](https://www.bilibili.com/video/BV1JcoRB8EGb)
+---
 
 ### 102. PagedAttention是如何减少内存浪费的？【每天一个宝藏问题】
 - 观看视频：[BV1EwoRBfExe](https://www.bilibili.com/video/BV1EwoRBfExe)
@@ -621,6 +627,12 @@
 ---
 
 ## 每周一个宝藏论文
+
+### [34]. PPO：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1T2RrBvE25](https://www.bilibili.com/video/BV1T2RrBvE25)
+
+[![](./assets/papers/BV1T2RrBvE25.jpg)](https://www.bilibili.com/video/BV1T2RrBvE25)
+---
 
 ### [33]. mHC：流形约束超连接【每天一个宝藏论文】
 - 观看视频：[BV1m2RrBeEFS](https://www.bilibili.com/video/BV1m2RrBeEFS)

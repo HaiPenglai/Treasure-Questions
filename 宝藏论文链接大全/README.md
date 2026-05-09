@@ -1,4 +1,11 @@
 # 宝藏论文链接大全
+### [34]. PPO：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1T2RrBvE25](https://www.bilibili.com/video/BV1T2RrBvE25)
+
+- 阅读论文：[Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf)
+
+---
+
 ### [33]. mHC：流形约束超连接【每天一个宝藏论文】
 - 观看视频：[BV1m2RrBeEFS](https://www.bilibili.com/video/BV1m2RrBeEFS)
 
