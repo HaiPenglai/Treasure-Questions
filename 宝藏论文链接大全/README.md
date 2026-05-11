@@ -1,4 +1,11 @@
 # 宝藏论文链接大全
+### [35]. Deepseek-Engram：论文解读【每天一个宝藏论文】
+- 观看视频：[BV122RrBeEfs](https://www.bilibili.com/video/BV122RrBeEfs)
+
+- 阅读论文：[Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://arxiv.org/pdf/2601.07372.pdf)
+
+---
+
 ### [34]. PPO：论文解读【每天一个宝藏论文】
 - 观看视频：[BV1T2RrBvE25](https://www.bilibili.com/video/BV1T2RrBvE25)
 
