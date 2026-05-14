@@ -1,4 +1,25 @@
 # 宝藏论文链接大全
+### [38]. AlphaGo：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1t1RrBNELs](https://www.bilibili.com/video/BV1t1RrBNELs)
+
+- 阅读论文：[Mastering the game of Go with deep neural networks and tree search](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf)
+
+---
+
+### [37]. Adam：论文解读【每天一个宝藏论文】
+- 观看视频：[BV142RrBeEjQ](https://www.bilibili.com/video/BV142RrBeEjQ)
+
+- 阅读论文：[Adam: A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf)
+
+---
+
+### [36]. DPO：论文解读【每天一个宝藏论文】
+- 观看视频：[BV142RrBeE8E](https://www.bilibili.com/video/BV142RrBeE8E)
+
+- 阅读论文：[Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290.pdf)
+
+---
+
 ### [35]. Deepseek-Engram：论文解读【每天一个宝藏论文】
 - 观看视频：[BV122RrBeEfs](https://www.bilibili.com/video/BV122RrBeEfs)
 

@@ -1,5 +1,41 @@
 [
   {
+    "bvid": "BV1t1RrBNELs",
+    "title": "[38]. AlphaGo：论文解读【每天一个宝藏论文】",
+    "created": 1778673600,
+    "pic": "http://i1.hdslb.com/bfs/archive/f6777625e6c17d141ad1fae1eb5dde55ab04f01d.jpg"
+  },
+  {
+    "bvid": "BV1389kB3Ek4",
+    "title": "107. DeepSeek V4如何使用Attention Sink忽略上下文？【每天一个宝藏问题】",
+    "created": 1778673600,
+    "pic": "http://i2.hdslb.com/bfs/archive/defc02a54d493272e69104c2eea5c3dae1db63b4.jpg"
+  },
+  {
+    "bvid": "BV142RrBeEjQ",
+    "title": "[37]. Adam：论文解读【每天一个宝藏论文】",
+    "created": 1778587200,
+    "pic": "http://i0.hdslb.com/bfs/archive/c5b50ad743d50d4a89a99aad6dc75295968f2029.jpg"
+  },
+  {
+    "bvid": "BV1a89kB3EVu",
+    "title": "106. Flash Attention反向传播也做到线性显存了吗？【每天一个宝藏问题】",
+    "created": 1778587200,
+    "pic": "http://i2.hdslb.com/bfs/archive/3582fef3d5e0dda1095c51fcefa6c2d47038c4de.png"
+  },
+  {
+    "bvid": "BV142RrBeE8E",
+    "title": "[36]. DPO：论文解读【每天一个宝藏论文】",
+    "created": 1778500800,
+    "pic": "http://i1.hdslb.com/bfs/archive/63dc1a53f03351fa423498567157f7a45783ab5d.jpg"
+  },
+  {
+    "bvid": "BV1Kk9kBAEnC",
+    "title": "105. K-Means聚类和中垂线有什么关系？【每天一个宝藏问题】",
+    "created": 1778500800,
+    "pic": "http://i0.hdslb.com/bfs/archive/cfbc4f55f009d15045a9b3efa6d57aba6f4b40fa.png"
+  },
+  {
     "bvid": "BV122RrBeEfs",
     "title": "[35]. Deepseek-Engram：论文解读【每天一个宝藏论文】",
     "created": 1778414400,

@@ -1,5 +1,38 @@
 [
   {
+    "video_id": 38,
+    "video_title": "[38]. AlphaGo：论文解读【每天一个宝藏论文】",
+    "bvid": "BV1t1RrBNELs",
+    "papers": [
+      {
+        "paper_title": "Mastering the game of Go with deep neural networks and tree search",
+        "paper_link": "https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 37,
+    "video_title": "[37]. Adam：论文解读【每天一个宝藏论文】",
+    "bvid": "BV142RrBeEjQ",
+    "papers": [
+      {
+        "paper_title": "Adam: A Method for Stochastic Optimization",
+        "paper_link": "https://arxiv.org/pdf/1412.6980.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 36,
+    "video_title": "[36]. DPO：论文解读【每天一个宝藏论文】",
+    "bvid": "BV142RrBeE8E",
+    "papers": [
+      {
+        "paper_title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+        "paper_link": "https://arxiv.org/pdf/2305.18290.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 35,
     "video_title": "[35]. Deepseek-Engram：论文解读【每天一个宝藏论文】",
     "bvid": "BV122RrBeEfs",

@@ -2,9 +2,27 @@
 
 - **作者**：b站**海安雨**。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**81**个宝藏问题`手稿`和**28**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**84**个宝藏问题`手稿`和**31**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 107. DeepSeek V4如何使用Attention Sink忽略上下文？【每天一个宝藏问题】
+- 观看视频：[BV1389kB3Ek4](https://www.bilibili.com/video/BV1389kB3Ek4)
+
+[![](./assets/questions/BV1389kB3Ek4.jpg)](https://www.bilibili.com/video/BV1389kB3Ek4)
+---
+
+### 106. Flash Attention反向传播也做到线性显存了吗？【每天一个宝藏问题】
+- 观看视频：[BV1a89kB3EVu](https://www.bilibili.com/video/BV1a89kB3EVu)
+
+[![](./assets/questions/BV1a89kB3EVu.jpg)](https://www.bilibili.com/video/BV1a89kB3EVu)
+---
+
+### 105. K-Means聚类和中垂线有什么关系？【每天一个宝藏问题】
+- 观看视频：[BV1Kk9kBAEnC](https://www.bilibili.com/video/BV1Kk9kBAEnC)
+
+[![](./assets/questions/BV1Kk9kBAEnC.jpg)](https://www.bilibili.com/video/BV1Kk9kBAEnC)
+---
 
 ### 104. 为什么训练时是同时预测token的？【每天一个宝藏问题】
 - 观看视频：[BV1jNoRBoE9b](https://www.bilibili.com/video/BV1jNoRBoE9b)
@@ -633,6 +651,24 @@
 ---
 
 ## 每周一个宝藏论文
+
+### [38]. AlphaGo：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1t1RrBNELs](https://www.bilibili.com/video/BV1t1RrBNELs)
+
+[![](./assets/papers/BV1t1RrBNELs.jpg)](https://www.bilibili.com/video/BV1t1RrBNELs)
+---
+
+### [37]. Adam：论文解读【每天一个宝藏论文】
+- 观看视频：[BV142RrBeEjQ](https://www.bilibili.com/video/BV142RrBeEjQ)
+
+[![](./assets/papers/BV142RrBeEjQ.jpg)](https://www.bilibili.com/video/BV142RrBeEjQ)
+---
+
+### [36]. DPO：论文解读【每天一个宝藏论文】
+- 观看视频：[BV142RrBeE8E](https://www.bilibili.com/video/BV142RrBeE8E)
+
+[![](./assets/papers/BV142RrBeE8E.jpg)](https://www.bilibili.com/video/BV142RrBeE8E)
+---
 
 ### [35]. Deepseek-Engram：论文解读【每天一个宝藏论文】
 - 观看视频：[BV122RrBeEfs](https://www.bilibili.com/video/BV122RrBeEfs)
