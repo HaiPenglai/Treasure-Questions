@@ -2,9 +2,15 @@
 
 - **作者**：b站**海安雨**。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**84**个宝藏问题`手稿`和**31**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**85**个宝藏问题`手稿`和**32**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 108. 如何用前缀和理解稀疏矩阵的CSR格式？【每天一个宝藏问题】
+- 观看视频：[BV1k7RuBPEsV](https://www.bilibili.com/video/BV1k7RuBPEsV)
+
+[![](./assets/questions/BV1k7RuBPEsV.jpg)](https://www.bilibili.com/video/BV1k7RuBPEsV)
+---
 
 ### 107. DeepSeek V4如何使用Attention Sink忽略上下文？【每天一个宝藏问题】
 - 观看视频：[BV1389kB3Ek4](https://www.bilibili.com/video/BV1389kB3Ek4)
@@ -651,6 +657,12 @@
 ---
 
 ## 每周一个宝藏论文
+
+### [39]. 智能体强化学习论文串讲：WebRL、DigiRL、WebAgent-R1、AgentQ【每天一个宝藏论文】
+- 观看视频：[BV1f9RxBCEyN](https://www.bilibili.com/video/BV1f9RxBCEyN)
+
+[![](./assets/papers/BV1f9RxBCEyN.jpg)](https://www.bilibili.com/video/BV1f9RxBCEyN)
+---
 
 ### [38]. AlphaGo：论文解读【每天一个宝藏论文】
 - 观看视频：[BV1t1RrBNELs](https://www.bilibili.com/video/BV1t1RrBNELs)

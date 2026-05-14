@@ -1,4 +1,14 @@
 # 宝藏论文链接大全
+### [39]. 智能体强化学习论文串讲：WebRL、DigiRL、WebAgent-R1、AgentQ【每天一个宝藏论文】
+- 观看视频：[BV1f9RxBCEyN](https://www.bilibili.com/video/BV1f9RxBCEyN)
+
+- 阅读论文：[WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning](https://arxiv.org/pdf/2411.02337.pdf)
+- 阅读论文：[DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning](https://arxiv.org/pdf/2406.11896.pdf)
+- 阅读论文：[WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning](https://arxiv.org/pdf/2505.16421.pdf)
+- 阅读论文：[Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/pdf/2408.07199.pdf)
+
+---
+
 ### [38]. AlphaGo：论文解读【每天一个宝藏论文】
 - 观看视频：[BV1t1RrBNELs](https://www.bilibili.com/video/BV1t1RrBNELs)
 
