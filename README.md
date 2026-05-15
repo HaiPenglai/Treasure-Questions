@@ -2,9 +2,15 @@
 
 - **作者**：b站**海安雨**。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**85**个宝藏问题`手稿`和**32**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**86**个宝藏问题`手稿`和**33**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 109. 最简单的Transformer可视化能有多简单？【每天一个宝藏问题】
+- 观看视频：[BV1A7RuBNETS](https://www.bilibili.com/video/BV1A7RuBNETS)
+
+[![](./assets/questions/BV1A7RuBNETS.jpg)](https://www.bilibili.com/video/BV1A7RuBNETS)
+---
 
 ### 108. 如何用前缀和理解稀疏矩阵的CSR格式？【每天一个宝藏问题】
 - 观看视频：[BV1k7RuBPEsV](https://www.bilibili.com/video/BV1k7RuBPEsV)
@@ -657,6 +663,12 @@
 ---
 
 ## 每周一个宝藏论文
+
+### [40]. Transformer：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1t1RrBNEwi](https://www.bilibili.com/video/BV1t1RrBNEwi)
+
+[![](./assets/papers/BV1t1RrBNEwi.jpg)](https://www.bilibili.com/video/BV1t1RrBNEwi)
+---
 
 ### [39]. 智能体强化学习论文串讲：WebRL、DigiRL、WebAgent-R1、AgentQ【每天一个宝藏论文】
 - 观看视频：[BV1f9RxBCEyN](https://www.bilibili.com/video/BV1f9RxBCEyN)

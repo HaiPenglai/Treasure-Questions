@@ -1,4 +1,11 @@
 # 宝藏论文链接大全
+### [40]. Transformer：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1t1RrBNEwi](https://www.bilibili.com/video/BV1t1RrBNEwi)
+
+- 阅读论文：[Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+
+---
+
 ### [39]. 智能体强化学习论文串讲：WebRL、DigiRL、WebAgent-R1、AgentQ【每天一个宝藏论文】
 - 观看视频：[BV1f9RxBCEyN](https://www.bilibili.com/video/BV1f9RxBCEyN)
 
