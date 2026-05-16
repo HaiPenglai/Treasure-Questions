@@ -9,7 +9,7 @@ B站视频第一帧封面提取流水线 v4 - 使用BVID作为文件名（避免
 使用方法:
     python bilibili_cover_extractor.py
     
-无需任何参数，每周运行一次即可自动添加新视频。
+无需任何参数，定期运行即可自动添加新视频。
 """
 import os
 import re
@@ -58,8 +58,8 @@ CATEGORIES = {
 README_SECTIONS = {
     "questions": "## 每天一个宝藏问题",
     "terms": "## 每天一个宝藏名词",
-    "papers": "## 每周一个宝藏论文",
-    "experiments": "## 每周一个宝藏实验",
+    "papers": "## 每天一个宝藏论文",
+    "experiments": "## 每天一个宝藏实验",
     "others": "## 其他"
 }
 
@@ -407,9 +407,9 @@ def update_readme(bv_list):
 
 ## 每天一个宝藏名词
 
-## 每周一个宝藏论文
+## 每天一个宝藏论文
 
-## 每周一个宝藏实验
+## 每天一个宝藏实验
 
 ## 其他
 

@@ -662,7 +662,7 @@
 [![](./assets/terms/BV1kG6jBSE3u.jpg)](https://www.bilibili.com/video/BV1kG6jBSE3u)
 ---
 
-## 每周一个宝藏论文
+## 每天一个宝藏论文
 
 ### [40]. Transformer：论文解读【每天一个宝藏论文】
 - 观看视频：[BV1t1RrBNEwi](https://www.bilibili.com/video/BV1t1RrBNEwi)
@@ -862,7 +862,7 @@
 [![](./assets/papers/BV1XcfBBGEUw.jpg)](https://www.bilibili.com/video/BV1XcfBBGEUw)
 ---
 
-## 每周一个宝藏实验
+## 每天一个宝藏实验
 
 ### [13] AutoDL上部署龙虾，它能帮忙测试算子性能吗？【每周一个宝藏实验】
 - 观看视频：[BV1XMX5BZEGF](https://www.bilibili.com/video/BV1XMX5BZEGF)
