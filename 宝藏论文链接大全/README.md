@@ -1,4 +1,11 @@
 # 宝藏论文链接大全
+### [42]. DQN：论文解读【每天一个宝藏论文】
+- 观看视频：[BV141RrBNEd1](https://www.bilibili.com/video/BV141RrBNEd1)
+
+- 阅读论文：[Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf)
+
+---
+
 ### [41]. DeepSeek_GRPO：论文解读【每天一个宝藏论文】
 - 观看视频：[BV1m1RrBNEhp](https://www.bilibili.com/video/BV1m1RrBNEhp)
 

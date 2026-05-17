@@ -1,5 +1,16 @@
 [
   {
+    "video_id": 42,
+    "video_title": "[42]. DQN：论文解读【每天一个宝藏论文】",
+    "bvid": "BV141RrBNEd1",
+    "papers": [
+      {
+        "paper_title": "Human-level control through deep reinforcement learning",
+        "paper_link": "https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 41,
     "video_title": "[41]. DeepSeek_GRPO：论文解读【每天一个宝藏论文】",
     "bvid": "BV1m1RrBNEhp",

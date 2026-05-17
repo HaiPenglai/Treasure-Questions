@@ -1,5 +1,17 @@
 [
   {
+    "bvid": "BV141RrBNEd1",
+    "title": "[42]. DQN：论文解读【每天一个宝藏论文】",
+    "created": 1779019200,
+    "pic": "http://i1.hdslb.com/bfs/archive/be9b8821da90ce5fe3a2f9ccaaa6420af97205cd.jpg"
+  },
+  {
+    "bvid": "BV1Tf9XBwEzM",
+    "title": "111. 如何直观理解KV Cache的显存计算公式？以Llama2-7B为例。【每天一个宝藏问题】",
+    "created": 1779019200,
+    "pic": "http://i1.hdslb.com/bfs/archive/6498baeffc1b54b3fccdf9da956d798b4df56886.png"
+  },
+  {
     "bvid": "BV1m1RrBNEhp",
     "title": "[41]. DeepSeek_GRPO：论文解读【每天一个宝藏论文】",
     "created": 1778932800,

@@ -2,9 +2,15 @@
 
 - **作者**：b站**海安雨**。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**87**个宝藏问题`手稿`和**34**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**88**个宝藏问题`手稿`和**35**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 111. 如何直观理解KV Cache的显存计算公式？以Llama2-7B为例。【每天一个宝藏问题】
+- 观看视频：[BV1Tf9XBwEzM](https://www.bilibili.com/video/BV1Tf9XBwEzM)
+
+[![](./assets/questions/BV1Tf9XBwEzM.jpg)](https://www.bilibili.com/video/BV1Tf9XBwEzM)
+---
 
 ### 110. 为什么激活值per channel量化比per token量化难加速得多？【每天一个宝藏问题】
 - 观看视频：[BV1k7RuBPEqt](https://www.bilibili.com/video/BV1k7RuBPEqt)
@@ -669,6 +675,12 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [42]. DQN：论文解读【每天一个宝藏论文】
+- 观看视频：[BV141RrBNEd1](https://www.bilibili.com/video/BV141RrBNEd1)
+
+[![](./assets/papers/BV141RrBNEd1.jpg)](https://www.bilibili.com/video/BV141RrBNEd1)
+---
 
 ### [41]. DeepSeek_GRPO：论文解读【每天一个宝藏论文】
 - 观看视频：[BV1m1RrBNEhp](https://www.bilibili.com/video/BV1m1RrBNEhp)
