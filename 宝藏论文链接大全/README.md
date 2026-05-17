@@ -3,6 +3,7 @@
 - 观看视频：[BV1m1RrBNEhp](https://www.bilibili.com/video/BV1m1RrBNEhp)
 
 - 阅读论文：[DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300.pdf)
+- 阅读论文：[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948.pdf)
 
 ---
 
