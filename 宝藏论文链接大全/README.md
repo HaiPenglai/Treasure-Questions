@@ -1,4 +1,11 @@
 # 宝藏论文链接大全
+### [41]. DeepSeek_GRPO：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1m1RrBNEhp](https://www.bilibili.com/video/BV1m1RrBNEhp)
+
+- 阅读论文：[DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300.pdf)
+
+---
+
 ### [40]. Transformer：论文解读【每天一个宝藏论文】
 - 观看视频：[BV1t1RrBNEwi](https://www.bilibili.com/video/BV1t1RrBNEwi)
 

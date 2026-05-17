@@ -1,5 +1,17 @@
 [
   {
+    "bvid": "BV1m1RrBNEhp",
+    "title": "[41]. DeepSeek_GRPO：论文解读【每天一个宝藏论文】",
+    "created": 1778932800,
+    "pic": "http://i0.hdslb.com/bfs/archive/1da4fd09599063398d96f8dc83cccf141976bf91.jpg"
+  },
+  {
+    "bvid": "BV1k7RuBPEqt",
+    "title": "110. 为什么激活值per channel量化比per token量化难加速得多？【每天一个宝藏问题】",
+    "created": 1778932800,
+    "pic": "http://i2.hdslb.com/bfs/archive/a45e2242eddf8009ba2b621cb97db6310c6da161.png"
+  },
+  {
     "bvid": "BV1t1RrBNEwi",
     "title": "[40]. Transformer：论文解读【每天一个宝藏论文】",
     "created": 1778846400,

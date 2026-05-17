@@ -2,9 +2,15 @@
 
 - **作者**：b站**海安雨**。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**86**个宝藏问题`手稿`和**33**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**87**个宝藏问题`手稿`和**34**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 110. 为什么激活值per channel量化比per token量化难加速得多？【每天一个宝藏问题】
+- 观看视频：[BV1k7RuBPEqt](https://www.bilibili.com/video/BV1k7RuBPEqt)
+
+[![](./assets/questions/BV1k7RuBPEqt.jpg)](https://www.bilibili.com/video/BV1k7RuBPEqt)
+---
 
 ### 109. 最简单的Transformer可视化能有多简单？【每天一个宝藏问题】
 - 观看视频：[BV1A7RuBNETS](https://www.bilibili.com/video/BV1A7RuBNETS)
@@ -663,6 +669,12 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [41]. DeepSeek_GRPO：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1m1RrBNEhp](https://www.bilibili.com/video/BV1m1RrBNEhp)
+
+[![](./assets/papers/BV1m1RrBNEhp.jpg)](https://www.bilibili.com/video/BV1m1RrBNEhp)
+---
 
 ### [40]. Transformer：论文解读【每天一个宝藏论文】
 - 观看视频：[BV1t1RrBNEwi](https://www.bilibili.com/video/BV1t1RrBNEwi)
