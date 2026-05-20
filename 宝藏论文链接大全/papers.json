@@ -1,5 +1,38 @@
 [
   {
+    "video_id": 45,
+    "video_title": "[45]. AlphaZero：论文解读【每天一个宝藏论文】",
+    "bvid": "BV1nERrB9E7d",
+    "papers": [
+      {
+        "paper_title": "Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm",
+        "paper_link": "https://arxiv.org/pdf/1712.01815.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 44,
+    "video_title": "[44]. AutoRound：大模型量化论文解读【每天一个宝藏论文】",
+    "bvid": "BV1t1RrBNEEt",
+    "papers": [
+      {
+        "paper_title": "Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs",
+        "paper_link": "https://arxiv.org/pdf/2309.05516.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 43,
+    "video_title": "[43]. MQA：论文解读【每天一个宝藏论文】",
+    "bvid": "BV1m1RrBNEmy",
+    "papers": [
+      {
+        "paper_title": "Fast Transformer Decoding: One Write-Head is All You Need",
+        "paper_link": "https://arxiv.org/pdf/1911.02150.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 42,
     "video_title": "[42]. DQN：论文解读【每天一个宝藏论文】",
     "bvid": "BV141RrBNEd1",

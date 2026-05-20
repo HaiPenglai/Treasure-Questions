@@ -1,5 +1,41 @@
 [
   {
+    "bvid": "BV1m5RmBSEkF",
+    "title": "114. 为什么除以√dk是在给注意力升温？【每天一个宝藏问题】",
+    "created": 1779278400,
+    "pic": "http://i2.hdslb.com/bfs/archive/b10128853c9b5cae4fb93edd6fde4d38a55c5f61.jpg"
+  },
+  {
+    "bvid": "BV1nERrB9E7d",
+    "title": "[45]. AlphaZero：论文解读【每天一个宝藏论文】",
+    "created": 1779278400,
+    "pic": "http://i1.hdslb.com/bfs/archive/a0f198320d5334e9dc35039734cb287d25238c41.png"
+  },
+  {
+    "bvid": "BV1m5RmBSENE",
+    "title": "113. 如何理解梯度下降的多元函数扩展？【每天一个宝藏问题】",
+    "created": 1779192000,
+    "pic": "http://i0.hdslb.com/bfs/archive/ded28ca6e9b67b0d1c5639ed64d50db084537f8e.png"
+  },
+  {
+    "bvid": "BV1t1RrBNEEt",
+    "title": "[44]. AutoRound：大模型量化论文解读【每天一个宝藏论文】",
+    "created": 1779192000,
+    "pic": "http://i1.hdslb.com/bfs/archive/e81e73107b106baba176b7767b6299fdac83650f.jpg"
+  },
+  {
+    "bvid": "BV1uGdgBnE65",
+    "title": "112. 如何可视化MOE？【每天一个宝藏问题】",
+    "created": 1779105600,
+    "pic": "http://i1.hdslb.com/bfs/archive/daae77ad7352554ef3481552611a7f9ec44cf6fd.png"
+  },
+  {
+    "bvid": "BV1m1RrBNEmy",
+    "title": "[43]. MQA：论文解读【每天一个宝藏论文】",
+    "created": 1779105600,
+    "pic": "http://i1.hdslb.com/bfs/archive/c7b35de6975b625f19e87aefde321a92934d2f27.png"
+  },
+  {
     "bvid": "BV141RrBNEd1",
     "title": "[42]. DQN：论文解读【每天一个宝藏论文】",
     "created": 1779019200,

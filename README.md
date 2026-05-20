@@ -2,9 +2,27 @@
 
 - **作者**：b站**海安雨**。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**88**个宝藏问题`手稿`和**35**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**91**个宝藏问题`手稿`和**38**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 114. 为什么除以√dk是在给注意力升温？【每天一个宝藏问题】
+- 观看视频：[BV1m5RmBSEkF](https://www.bilibili.com/video/BV1m5RmBSEkF)
+
+[![](./assets/questions/BV1m5RmBSEkF.jpg)](https://www.bilibili.com/video/BV1m5RmBSEkF)
+---
+
+### 113. 如何理解梯度下降的多元函数扩展？【每天一个宝藏问题】
+- 观看视频：[BV1m5RmBSENE](https://www.bilibili.com/video/BV1m5RmBSENE)
+
+[![](./assets/questions/BV1m5RmBSENE.jpg)](https://www.bilibili.com/video/BV1m5RmBSENE)
+---
+
+### 112. 如何可视化MOE？【每天一个宝藏问题】
+- 观看视频：[BV1uGdgBnE65](https://www.bilibili.com/video/BV1uGdgBnE65)
+
+[![](./assets/questions/BV1uGdgBnE65.jpg)](https://www.bilibili.com/video/BV1uGdgBnE65)
+---
 
 ### 111. 如何直观理解KV Cache的显存计算公式？以Llama2-7B为例。【每天一个宝藏问题】
 - 观看视频：[BV1Tf9XBwEzM](https://www.bilibili.com/video/BV1Tf9XBwEzM)
@@ -675,6 +693,24 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [45]. AlphaZero：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1nERrB9E7d](https://www.bilibili.com/video/BV1nERrB9E7d)
+
+[![](./assets/papers/BV1nERrB9E7d.jpg)](https://www.bilibili.com/video/BV1nERrB9E7d)
+---
+
+### [44]. AutoRound：大模型量化论文解读【每天一个宝藏论文】
+- 观看视频：[BV1t1RrBNEEt](https://www.bilibili.com/video/BV1t1RrBNEEt)
+
+[![](./assets/papers/BV1t1RrBNEEt.jpg)](https://www.bilibili.com/video/BV1t1RrBNEEt)
+---
+
+### [43]. MQA：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1m1RrBNEmy](https://www.bilibili.com/video/BV1m1RrBNEmy)
+
+[![](./assets/papers/BV1m1RrBNEmy.jpg)](https://www.bilibili.com/video/BV1m1RrBNEmy)
+---
 
 ### [42]. DQN：论文解读【每天一个宝藏论文】
 - 观看视频：[BV141RrBNEd1](https://www.bilibili.com/video/BV141RrBNEd1)

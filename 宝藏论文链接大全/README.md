@@ -1,4 +1,25 @@
 # 宝藏论文链接大全
+### [45]. AlphaZero：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1nERrB9E7d](https://www.bilibili.com/video/BV1nERrB9E7d)
+
+- 阅读论文：[Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
+
+---
+
+### [44]. AutoRound：大模型量化论文解读【每天一个宝藏论文】
+- 观看视频：[BV1t1RrBNEEt](https://www.bilibili.com/video/BV1t1RrBNEEt)
+
+- 阅读论文：[Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs](https://arxiv.org/pdf/2309.05516.pdf)
+
+---
+
+### [43]. MQA：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1m1RrBNEmy](https://www.bilibili.com/video/BV1m1RrBNEmy)
+
+- 阅读论文：[Fast Transformer Decoding: One Write-Head is All You Need](https://arxiv.org/pdf/1911.02150.pdf)
+
+---
+
 ### [42]. DQN：论文解读【每天一个宝藏论文】
 - 观看视频：[BV141RrBNEd1](https://www.bilibili.com/video/BV141RrBNEd1)
 
