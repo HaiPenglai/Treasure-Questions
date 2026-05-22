@@ -2,9 +2,15 @@
 
 - **作者**：b站**海安雨**。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**91**个宝藏问题`手稿`和**38**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**92**个宝藏问题`手稿`和**39**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 115. 为什么梯度下降、泰勒展开、正态分布都有多元扩展？【每天一个宝藏问题】
+- 观看视频：[BV1M5RmBDENg](https://www.bilibili.com/video/BV1M5RmBDENg)
+
+[![](./assets/questions/BV1M5RmBDENg.jpg)](https://www.bilibili.com/video/BV1M5RmBDENg)
+---
 
 ### 114. 为什么除以√dk是在给注意力升温？【每天一个宝藏问题】
 - 观看视频：[BV1m5RmBSEkF](https://www.bilibili.com/video/BV1m5RmBSEkF)
@@ -693,6 +699,12 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [46]. Muon is Scalable：Muon优化器论文解读【每天一个宝藏论文】
+- 观看视频：[BV14N5b6YEbf](https://www.bilibili.com/video/BV14N5b6YEbf)
+
+[![](./assets/papers/BV14N5b6YEbf.jpg)](https://www.bilibili.com/video/BV14N5b6YEbf)
+---
 
 ### [45]. AlphaZero：论文解读【每天一个宝藏论文】
 - 观看视频：[BV1nERrB9E7d](https://www.bilibili.com/video/BV1nERrB9E7d)

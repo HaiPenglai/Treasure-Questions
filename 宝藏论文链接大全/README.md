@@ -1,4 +1,11 @@
 # 宝藏论文链接大全
+### [46]. Muon is Scalable：Muon优化器论文解读【每天一个宝藏论文】
+- 观看视频：[BV14N5b6YEbf](https://www.bilibili.com/video/BV14N5b6YEbf)
+
+- 阅读论文：[Muon is Scalable for LLM Training](https://arxiv.org/pdf/2502.16982.pdf)
+
+---
+
 ### [45]. AlphaZero：论文解读【每天一个宝藏论文】
 - 观看视频：[BV1nERrB9E7d](https://www.bilibili.com/video/BV1nERrB9E7d)
 
