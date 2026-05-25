@@ -1,10 +1,29 @@
 # 宝藏问题
 
 - **作者**：b站**海安雨**。
+- **使用方法**：点击**宝藏论文链接大全**文件夹可阅读所有论文，点击**观看视频**可跳转到b站视频。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**92**个宝藏问题`手稿`和**39**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**95**个宝藏问题`手稿`和**42**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 118. 为什么Deepseek V3不用辅助损失也能做到MoE负载均衡？【每天一个宝藏问题】
+- 观看视频：[BV1MyRXBvEG1](https://www.bilibili.com/video/BV1MyRXBvEG1)
+
+[![](./assets/questions/BV1MyRXBvEG1.jpg)](https://www.bilibili.com/video/BV1MyRXBvEG1)
+---
+
+### 117. 如何用动态规划理解在线softmax的循环与归约？【每天一个宝藏问题】
+- 观看视频：[BV1SHR9BuEBH](https://www.bilibili.com/video/BV1SHR9BuEBH)
+
+[![](./assets/questions/BV1SHR9BuEBH.jpg)](https://www.bilibili.com/video/BV1SHR9BuEBH)
+---
+
+### 116. 如何从动态规划和记忆化搜索理解DQN？【每天一个宝藏问题】
+- 观看视频：[BV1ygRXBZEQf](https://www.bilibili.com/video/BV1ygRXBZEQf)
+
+[![](./assets/questions/BV1ygRXBZEQf.jpg)](https://www.bilibili.com/video/BV1ygRXBZEQf)
+---
 
 ### 115. 为什么梯度下降、泰勒展开、正态分布都有多元扩展？【每天一个宝藏问题】
 - 观看视频：[BV1M5RmBDENg](https://www.bilibili.com/video/BV1M5RmBDENg)
@@ -699,6 +718,24 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [49]. ResNet：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1FXLJ6YE4U](https://www.bilibili.com/video/BV1FXLJ6YE4U)
+
+[![](./assets/papers/BV1FXLJ6YE4U.jpg)](https://www.bilibili.com/video/BV1FXLJ6YE4U)
+---
+
+### [48]. DAPO：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1tN5b6YEjF](https://www.bilibili.com/video/BV1tN5b6YEjF)
+
+[![](./assets/papers/BV1tN5b6YEjF.jpg)](https://www.bilibili.com/video/BV1tN5b6YEjF)
+---
+
+### [47]. QLearning：论文解读【每天一个宝藏论文】
+- 观看视频：[BV14N5b6YEbS](https://www.bilibili.com/video/BV14N5b6YEbS)
+
+[![](./assets/papers/BV14N5b6YEbS.jpg)](https://www.bilibili.com/video/BV14N5b6YEbS)
+---
 
 ### [46]. Muon is Scalable：Muon优化器论文解读【每天一个宝藏论文】
 - 观看视频：[BV14N5b6YEbf](https://www.bilibili.com/video/BV14N5b6YEbf)

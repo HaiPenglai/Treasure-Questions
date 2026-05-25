@@ -1,5 +1,38 @@
 [
   {
+    "video_id": 49,
+    "video_title": "[49]. ResNet：论文解读【每天一个宝藏论文】",
+    "bvid": "BV1FXLJ6YE4U",
+    "papers": [
+      {
+        "paper_title": "Deep Residual Learning for Image Recognition",
+        "paper_link": "https://arxiv.org/pdf/1512.03385.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 48,
+    "video_title": "[48]. DAPO：论文解读【每天一个宝藏论文】",
+    "bvid": "BV1tN5b6YEjF",
+    "papers": [
+      {
+        "paper_title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "paper_link": "https://arxiv.org/pdf/2503.14476.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 47,
+    "video_title": "[47]. QLearning：论文解读【每天一个宝藏论文】",
+    "bvid": "BV14N5b6YEbS",
+    "papers": [
+      {
+        "paper_title": "Q-learning",
+        "paper_link": "https://link.springer.com/content/pdf/10.1007/BF00992698.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 46,
     "video_title": "[46]. Muon is Scalable：Muon优化器论文解读【每天一个宝藏论文】",
     "bvid": "BV14N5b6YEbf",

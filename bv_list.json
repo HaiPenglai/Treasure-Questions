@@ -1,5 +1,41 @@
 [
   {
+    "bvid": "BV1FXLJ6YE4U",
+    "title": "[49]. ResNet：论文解读【每天一个宝藏论文】",
+    "created": 1779624000,
+    "pic": "http://i1.hdslb.com/bfs/archive/f5e3732d13e31261ef26239439eca8fc956b24dd.png"
+  },
+  {
+    "bvid": "BV1MyRXBvEG1",
+    "title": "118. 为什么Deepseek V3不用辅助损失也能做到MoE负载均衡？【每天一个宝藏问题】",
+    "created": 1779624000,
+    "pic": "http://i0.hdslb.com/bfs/archive/6aa57e021454805c7bd4c7fc72492156d4bfbe01.png"
+  },
+  {
+    "bvid": "BV1tN5b6YEjF",
+    "title": "[48]. DAPO：论文解读【每天一个宝藏论文】",
+    "created": 1779537600,
+    "pic": "http://i2.hdslb.com/bfs/archive/566310766cd822c9cc5f25a2c94bfb1fdba51b4d.png"
+  },
+  {
+    "bvid": "BV1SHR9BuEBH",
+    "title": "117. 如何用动态规划理解在线softmax的循环与归约？【每天一个宝藏问题】",
+    "created": 1779537600,
+    "pic": "http://i0.hdslb.com/bfs/archive/f9519e481647fe140833c2d71e06c090d67c5572.png"
+  },
+  {
+    "bvid": "BV14N5b6YEbS",
+    "title": "[47]. QLearning：论文解读【每天一个宝藏论文】",
+    "created": 1779451200,
+    "pic": "http://i0.hdslb.com/bfs/archive/dd09f030394f2d1662b540bd8c0cb44daba055c7.png"
+  },
+  {
+    "bvid": "BV1ygRXBZEQf",
+    "title": "116. 如何从动态规划和记忆化搜索理解DQN？【每天一个宝藏问题】",
+    "created": 1779451200,
+    "pic": "http://i0.hdslb.com/bfs/archive/56e8ffbccfda48f4bb34301e747abcfad0a05712.jpg"
+  },
+  {
     "bvid": "BV14N5b6YEbf",
     "title": "[46]. Muon is Scalable：Muon优化器论文解读【每天一个宝藏论文】",
     "created": 1779364800,

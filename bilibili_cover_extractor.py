@@ -402,6 +402,7 @@ def update_readme(bv_list):
         content = """# 宝藏问题
 
 - **作者**：b站**海安雨**。
+- **使用方法**：点击**宝藏论文链接大全**文件夹可阅读所有论文，点击**观看视频**可跳转到b站视频。
 
 ## 每天一个宝藏问题
 
@@ -414,6 +415,14 @@ def update_readme(bv_list):
 ## 其他
 
 """
+    
+    # 确保使用方法行存在（兼容旧 README）
+    if "- **使用方法**" not in content:
+        content = re.sub(
+            r"(- \*\*作者\*\*：b站\*\*海安雨\*\*。\n)",
+            r"\1- **使用方法**：点击**宝藏论文链接大全**文件夹可阅读所有论文，点击**观看视频**可跳转到b站视频。\n",
+            content
+        )
     
     # 为每个分类生成内容并替换
     for category, section_title in README_SECTIONS.items():

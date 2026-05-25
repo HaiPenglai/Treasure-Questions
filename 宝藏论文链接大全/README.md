@@ -1,4 +1,25 @@
 # 宝藏论文链接大全
+### [49]. ResNet：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1FXLJ6YE4U](https://www.bilibili.com/video/BV1FXLJ6YE4U)
+
+- 阅读论文：[Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
+
+---
+
+### [48]. DAPO：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1tN5b6YEjF](https://www.bilibili.com/video/BV1tN5b6YEjF)
+
+- 阅读论文：[DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://arxiv.org/pdf/2503.14476.pdf)
+
+---
+
+### [47]. QLearning：论文解读【每天一个宝藏论文】
+- 观看视频：[BV14N5b6YEbS](https://www.bilibili.com/video/BV14N5b6YEbS)
+
+- 阅读论文：[Q-learning](https://link.springer.com/content/pdf/10.1007/BF00992698.pdf)
+
+---
+
 ### [46]. Muon is Scalable：Muon优化器论文解读【每天一个宝藏论文】
 - 观看视频：[BV14N5b6YEbf](https://www.bilibili.com/video/BV14N5b6YEbf)
 
