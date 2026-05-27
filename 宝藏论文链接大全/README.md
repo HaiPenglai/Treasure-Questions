@@ -1,4 +1,25 @@
 # 宝藏论文链接大全
+### [52]. GPT2：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1FXLJ6YECS](https://www.bilibili.com/video/BV1FXLJ6YECS)
+
+- 阅读论文：[Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+
+---
+
+### [51]. BERT：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1fXLJ6aEZ1](https://www.bilibili.com/video/BV1fXLJ6aEZ1)
+
+- 阅读论文：[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+
+---
+
+### [50]. MobileNet：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1FXLJ6YExi](https://www.bilibili.com/video/BV1FXLJ6YExi)
+
+- 阅读论文：[MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/pdf/1704.04861.pdf)
+
+---
+
 ### [49]. ResNet：论文解读【每天一个宝藏论文】
 - 观看视频：[BV1FXLJ6YE4U](https://www.bilibili.com/video/BV1FXLJ6YE4U)
 

@@ -1,5 +1,41 @@
 [
   {
+    "bvid": "BV16XLJ6YEVP",
+    "title": "121. 为什么GQA是MQA过渡到MHA的插值？【每天一个宝藏问题】",
+    "created": 1779883200,
+    "pic": "http://i0.hdslb.com/bfs/archive/7f56abd6e59a9e6d111fbe5f2ab010cf1b7892f3.png"
+  },
+  {
+    "bvid": "BV1FXLJ6YECS",
+    "title": "[52]. GPT2：论文解读【每天一个宝藏论文】",
+    "created": 1779883200,
+    "pic": "http://i2.hdslb.com/bfs/archive/23cbfa98b6bbb1664495bf94dd052e46614098c6.png"
+  },
+  {
+    "bvid": "BV1fXLJ6aEZ1",
+    "title": "[51]. BERT：论文解读【每天一个宝藏论文】",
+    "created": 1779796800,
+    "pic": "http://i2.hdslb.com/bfs/archive/0a4fa8a3a7b29b2282a795062be1ec77266f986a.png"
+  },
+  {
+    "bvid": "BV1TN5b6YE5q",
+    "title": "120. 任意矩阵满足什么性质就能成为RoPE旋转矩阵？【每天一个宝藏问题】",
+    "created": 1779796800,
+    "pic": "http://i1.hdslb.com/bfs/archive/84364e8734714cd3c66e3cbf7f50b0fe4a09f8b9.png"
+  },
+  {
+    "bvid": "BV1FXLJ6YExi",
+    "title": "[50]. MobileNet：论文解读【每天一个宝藏论文】",
+    "created": 1779710400,
+    "pic": "http://i0.hdslb.com/bfs/archive/5772629af8049ccae35f6f75e06c0bb9ce0a458f.png"
+  },
+  {
+    "bvid": "BV1235J6qENx",
+    "title": "119. 如何可视化多头注意力？【每天一个宝藏问题】",
+    "created": 1779710400,
+    "pic": "http://i1.hdslb.com/bfs/archive/f4f3278343ffabd5a1cc4c83349e78ab678fa244.png"
+  },
+  {
     "bvid": "BV1FXLJ6YE4U",
     "title": "[49]. ResNet：论文解读【每天一个宝藏论文】",
     "created": 1779624000,

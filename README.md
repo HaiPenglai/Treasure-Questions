@@ -3,9 +3,27 @@
 - **作者**：b站**海安雨**。
 - **使用方法**：点击**宝藏论文链接大全**文件夹可阅读所有论文，点击**观看视频**可跳转到b站视频。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**95**个宝藏问题`手稿`和**42**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**98**个宝藏问题`手稿`和**45**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 121. 为什么GQA是MQA过渡到MHA的插值？【每天一个宝藏问题】
+- 观看视频：[BV16XLJ6YEVP](https://www.bilibili.com/video/BV16XLJ6YEVP)
+
+[![](./assets/questions/BV16XLJ6YEVP.jpg)](https://www.bilibili.com/video/BV16XLJ6YEVP)
+---
+
+### 120. 任意矩阵满足什么性质就能成为RoPE旋转矩阵？【每天一个宝藏问题】
+- 观看视频：[BV1TN5b6YE5q](https://www.bilibili.com/video/BV1TN5b6YE5q)
+
+[![](./assets/questions/BV1TN5b6YE5q.jpg)](https://www.bilibili.com/video/BV1TN5b6YE5q)
+---
+
+### 119. 如何可视化多头注意力？【每天一个宝藏问题】
+- 观看视频：[BV1235J6qENx](https://www.bilibili.com/video/BV1235J6qENx)
+
+[![](./assets/questions/BV1235J6qENx.jpg)](https://www.bilibili.com/video/BV1235J6qENx)
+---
 
 ### 118. 为什么Deepseek V3不用辅助损失也能做到MoE负载均衡？【每天一个宝藏问题】
 - 观看视频：[BV1MyRXBvEG1](https://www.bilibili.com/video/BV1MyRXBvEG1)
@@ -718,6 +736,24 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [52]. GPT2：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1FXLJ6YECS](https://www.bilibili.com/video/BV1FXLJ6YECS)
+
+[![](./assets/papers/BV1FXLJ6YECS.jpg)](https://www.bilibili.com/video/BV1FXLJ6YECS)
+---
+
+### [51]. BERT：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1fXLJ6aEZ1](https://www.bilibili.com/video/BV1fXLJ6aEZ1)
+
+[![](./assets/papers/BV1fXLJ6aEZ1.jpg)](https://www.bilibili.com/video/BV1fXLJ6aEZ1)
+---
+
+### [50]. MobileNet：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1FXLJ6YExi](https://www.bilibili.com/video/BV1FXLJ6YExi)
+
+[![](./assets/papers/BV1FXLJ6YExi.jpg)](https://www.bilibili.com/video/BV1FXLJ6YExi)
+---
 
 ### [49]. ResNet：论文解读【每天一个宝藏论文】
 - 观看视频：[BV1FXLJ6YE4U](https://www.bilibili.com/video/BV1FXLJ6YE4U)
