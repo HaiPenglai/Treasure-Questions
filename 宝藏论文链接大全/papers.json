@@ -260,7 +260,7 @@
   },
   {
     "video_id": 28,
-    "video_title": "[28] 模型剪枝OB家族的三大分支：OBD、OBS、OBC【每天一个宝藏论文】",
+    "video_title": "[28] 模型剪枝OB家族论文一口气看完：OBD、OBS、OBC【每天一个宝藏论文】",
     "papers": [
       {
         "paper_title": "Optimal Brain Damage",
@@ -437,7 +437,7 @@
   },
   {
     "video_id": 12,
-    "video_title": "[12] 读2个多Agent共享KV Cache的论文【每周一个宝藏论文】",
+    "video_title": "［12］读2个多Agent共享KV Cache的论文【每周一个宝藏论文】",
     "papers": [
       {
         "paper_title": "KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems",
@@ -452,7 +452,7 @@
   },
   {
     "video_id": 10,
-    "video_title": "[10] 大模型写算子：读两个KernelBench的改进工作【每周一个宝藏论文】",
+    "video_title": "［10］大模型写算子：读两个KernelBench的改进工作【每周一个宝藏论文】",
     "papers": [
       {
         "paper_title": "FlashInfer-Bench: Building the Virtuous Cycle for AI-driven LLM Systems",

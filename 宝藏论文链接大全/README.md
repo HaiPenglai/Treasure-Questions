@@ -153,7 +153,7 @@
 
 ---
 
-### [28] 模型剪枝OB家族的三大分支：OBD、OBS、OBC【每天一个宝藏论文】
+### [28] 模型剪枝OB家族论文一口气看完：OBD、OBS、OBC【每天一个宝藏论文】
 - 观看视频：[BV1bJd2BHEeb](https://www.bilibili.com/video/BV1bJd2BHEeb)
 
 - 阅读论文：[Optimal Brain Damage](https://proceedings.neurips.cc/paper/1989/file/6c9882bbac1c7093bd25041881277658-Paper.pdf)
@@ -261,7 +261,7 @@
 
 ---
 
-### [12] 读2个多Agent共享KV Cache的论文【每周一个宝藏论文】
+### ［12］读2个多Agent共享KV Cache的论文【每周一个宝藏论文】
 - 观看视频：[BV1B997BmEGr](https://www.bilibili.com/video/BV1B997BmEGr)
 
 - 阅读论文：[KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems](https://arxiv.org/pdf/2510.12872.pdf)
@@ -269,7 +269,7 @@
 
 ---
 
-### [10] 大模型写算子：读两个KernelBench的改进工作【每周一个宝藏论文】
+### ［10］大模型写算子：读两个KernelBench的改进工作【每周一个宝藏论文】
 - 观看视频：[BV1M8QUBUESz](https://www.bilibili.com/video/BV1M8QUBUESz)
 
 - 阅读论文：[FlashInfer-Bench: Building the Virtuous Cycle for AI-driven LLM Systems](https://arxiv.org/pdf/2601.00227v1.pdf)
