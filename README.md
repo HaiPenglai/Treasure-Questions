@@ -3,9 +3,27 @@
 - **作者**：b站**海安雨**。
 - **使用方法**：点击**宝藏论文链接大全**文件夹可阅读所有论文，点击**观看视频**可跳转到b站视频。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**98**个宝藏问题`手稿`和**45**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**101**个宝藏问题`手稿`和**48**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 124. 训练时是如何恰好错开一个token的？【每天一个宝藏问题】
+- 观看视频：[BV1FXLJ6YE1L](https://www.bilibili.com/video/BV1FXLJ6YE1L)
+
+[![](./assets/questions/BV1FXLJ6YE1L.jpg)](https://www.bilibili.com/video/BV1FXLJ6YE1L)
+---
+
+### 123. 如何用CPU内存的残差修正量化误差？以DecDEC为例【每天一个宝藏问题】
+- 观看视频：[BV1FXLJ6YEEv](https://www.bilibili.com/video/BV1FXLJ6YEEv)
+
+[![](./assets/questions/BV1FXLJ6YEEv.jpg)](https://www.bilibili.com/video/BV1FXLJ6YEEv)
+---
+
+### 122. 为什么只有单个词嵌入就能构成二元语言模型？【每天一个宝藏问题】
+- 观看视频：[BV1FXLJ6YEwC](https://www.bilibili.com/video/BV1FXLJ6YEwC)
+
+[![](./assets/questions/BV1FXLJ6YEwC.jpg)](https://www.bilibili.com/video/BV1FXLJ6YEwC)
+---
 
 ### 121. 为什么GQA是MQA过渡到MHA的插值？【每天一个宝藏问题】
 - 观看视频：[BV16XLJ6YEVP](https://www.bilibili.com/video/BV16XLJ6YEVP)
@@ -736,6 +754,24 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [55]. ScaNN：向量检索论文解读【每天一个宝藏论文】
+- 观看视频：[BV1FQLJ6PESa](https://www.bilibili.com/video/BV1FQLJ6PESa)
+
+[![](./assets/papers/BV1FQLJ6PESa.jpg)](https://www.bilibili.com/video/BV1FQLJ6PESa)
+---
+
+### [54]. ViT：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1JXLJ6YE1X](https://www.bilibili.com/video/BV1JXLJ6YE1X)
+
+[![](./assets/papers/BV1JXLJ6YE1X.jpg)](https://www.bilibili.com/video/BV1JXLJ6YE1X)
+---
+
+### [53]. GPT3：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1FXLJ6YEh4](https://www.bilibili.com/video/BV1FXLJ6YEh4)
+
+[![](./assets/papers/BV1FXLJ6YEh4.jpg)](https://www.bilibili.com/video/BV1FXLJ6YEh4)
+---
 
 ### [52]. GPT2：论文解读【每天一个宝藏论文】
 - 观看视频：[BV1FXLJ6YECS](https://www.bilibili.com/video/BV1FXLJ6YECS)

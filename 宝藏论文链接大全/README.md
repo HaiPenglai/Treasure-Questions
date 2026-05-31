@@ -1,4 +1,25 @@
 # 宝藏论文链接大全
+### [55]. ScaNN：向量检索论文解读【每天一个宝藏论文】
+- 观看视频：[BV1FQLJ6PESa](https://www.bilibili.com/video/BV1FQLJ6PESa)
+
+- 阅读论文：[Accelerating Large-Scale Inference with Anisotropic Vector Quantization](https://arxiv.org/pdf/1908.10396.pdf)
+
+---
+
+### [54]. ViT：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1JXLJ6YE1X](https://www.bilibili.com/video/BV1JXLJ6YE1X)
+
+- 阅读论文：[An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf)
+
+---
+
+### [53]. GPT3：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1FXLJ6YEh4](https://www.bilibili.com/video/BV1FXLJ6YEh4)
+
+- 阅读论文：[Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
+
+---
+
 ### [52]. GPT2：论文解读【每天一个宝藏论文】
 - 观看视频：[BV1FXLJ6YECS](https://www.bilibili.com/video/BV1FXLJ6YECS)
 

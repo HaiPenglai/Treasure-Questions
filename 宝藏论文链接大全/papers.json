@@ -1,5 +1,38 @@
 [
   {
+    "video_id": 55,
+    "video_title": "[55]. ScaNN：向量检索论文解读【每天一个宝藏论文】",
+    "bvid": "BV1FQLJ6PESa",
+    "papers": [
+      {
+        "paper_title": "Accelerating Large-Scale Inference with Anisotropic Vector Quantization",
+        "paper_link": "https://arxiv.org/pdf/1908.10396.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 54,
+    "video_title": "[54]. ViT：论文解读【每天一个宝藏论文】",
+    "bvid": "BV1JXLJ6YE1X",
+    "papers": [
+      {
+        "paper_title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+        "paper_link": "https://arxiv.org/pdf/2010.11929.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 53,
+    "video_title": "[53]. GPT3：论文解读【每天一个宝藏论文】",
+    "bvid": "BV1FXLJ6YEh4",
+    "papers": [
+      {
+        "paper_title": "Language Models are Few-Shot Learners",
+        "paper_link": "https://arxiv.org/pdf/2005.14165.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 52,
     "video_title": "[52]. GPT2：论文解读【每天一个宝藏论文】",
     "bvid": "BV1FXLJ6YECS",

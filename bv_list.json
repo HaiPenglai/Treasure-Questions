@@ -1,5 +1,41 @@
 [
   {
+    "bvid": "BV1FQLJ6PESa",
+    "title": "[55]. ScaNN：向量检索论文解读【每天一个宝藏论文】",
+    "created": 1780142400,
+    "pic": "http://i1.hdslb.com/bfs/archive/ef78d0733b118fce5c81bbf182d5f9572707f69c.png"
+  },
+  {
+    "bvid": "BV1FXLJ6YE1L",
+    "title": "124. 训练时是如何恰好错开一个token的？【每天一个宝藏问题】",
+    "created": 1780142400,
+    "pic": "http://i1.hdslb.com/bfs/archive/f2c7e13af6f1836074837f33d57aed14e7f0facf.jpg"
+  },
+  {
+    "bvid": "BV1JXLJ6YE1X",
+    "title": "[54]. ViT：论文解读【每天一个宝藏论文】",
+    "created": 1780056000,
+    "pic": "http://i2.hdslb.com/bfs/archive/07a55b9126b12bfda04ad7088506d19a9c21841b.png"
+  },
+  {
+    "bvid": "BV1FXLJ6YEEv",
+    "title": "123. 如何用CPU内存的残差修正量化误差？以DecDEC为例【每天一个宝藏问题】",
+    "created": 1780056000,
+    "pic": "http://i0.hdslb.com/bfs/archive/1e6d21ec08baf985b1d7d12637a14e72eafe3693.png"
+  },
+  {
+    "bvid": "BV1FXLJ6YEwC",
+    "title": "122. 为什么只有单个词嵌入就能构成二元语言模型？【每天一个宝藏问题】",
+    "created": 1779969600,
+    "pic": "http://i1.hdslb.com/bfs/archive/aa65ba33efe83fa833740150e11601e05aed76b3.png"
+  },
+  {
+    "bvid": "BV1FXLJ6YEh4",
+    "title": "[53]. GPT3：论文解读【每天一个宝藏论文】",
+    "created": 1779969600,
+    "pic": "http://i2.hdslb.com/bfs/archive/a8f5a2db1c846da068d04348919828a87d6814d1.png"
+  },
+  {
     "bvid": "BV16XLJ6YEVP",
     "title": "121. 为什么GQA是MQA过渡到MHA的插值？【每天一个宝藏问题】",
     "created": 1779883200,
