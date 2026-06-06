@@ -1,5 +1,77 @@
 [
   {
+    "bvid": "BV1AtGe6KEuV",
+    "title": "[61]. RaBitQ：向量检索论文解读【每天一个宝藏论文】",
+    "created": 1780660800,
+    "pic": "http://i1.hdslb.com/bfs/archive/490862cf9cc1792e214a0ca0339dfc7a6484373f.png"
+  },
+  {
+    "bvid": "BV1ktGe6NEtg",
+    "title": "130. 如何从概率树理解投机解码是无损的？【每天一个宝藏问题】",
+    "created": 1780660800,
+    "pic": "http://i2.hdslb.com/bfs/archive/83ce2c8a1a899eb96729f598f15ccfa426bfabac.png"
+  },
+  {
+    "bvid": "BV1AtGe6KEbW",
+    "title": "129. 举例说明DPO论文里三行核心代码是啥意思？【每天一个宝藏问题】",
+    "created": 1780574400,
+    "pic": "http://i2.hdslb.com/bfs/archive/b66f47959c402c3cdb276e969b9f182f86377ded.png"
+  },
+  {
+    "bvid": "BV1ktGe6NE1c",
+    "title": "[60]. SAM：论文解读【每天一个宝藏论文】",
+    "created": 1780574400,
+    "pic": "http://i0.hdslb.com/bfs/archive/04a83bc49afcc07e2d23440f97f7bec145945b8b.png"
+  },
+  {
+    "bvid": "BV17zLC68Emq",
+    "title": "[59]. MoE：论文解读【每天一个宝藏论文】",
+    "created": 1780488000,
+    "pic": "http://i0.hdslb.com/bfs/archive/d6704feb99fda39e37b1f294108b710f85600f8a.png"
+  },
+  {
+    "bvid": "BV1ZzLC6bEbU",
+    "title": "128. 为什么4D并行的四个任务划分维度是正交的？【每天一个宝藏问题】",
+    "created": 1780488000,
+    "pic": "http://i0.hdslb.com/bfs/archive/d7e74559bcc2a3704719bdd7b366cd1708db18e4.png"
+  },
+  {
+    "bvid": "BV1FGLM6wEbm",
+    "title": "127. 为什么Adam优化器相当于在求19日EMA均线？【每天一个宝藏问题】",
+    "created": 1780401600,
+    "pic": "http://i2.hdslb.com/bfs/archive/d06f0e2c4591988d41ba2d61b011b341fe8782ae.jpg"
+  },
+  {
+    "bvid": "BV1zGLM6cEYG",
+    "title": "[58]. MAE：论文解读【每天一个宝藏论文】",
+    "created": 1780401600,
+    "pic": "http://i0.hdslb.com/bfs/archive/2d51a9d9812c781321d70ae67d3a29570bae69a4.png"
+  },
+  {
+    "bvid": "BV1EVLM6bEuU",
+    "title": "126. 举例说明投机解码如何拒绝采样？【每天一个宝藏问题】",
+    "created": 1780315200,
+    "pic": "http://i1.hdslb.com/bfs/archive/74d17654d90cd2537358631cb909434024a0062b.png"
+  },
+  {
+    "bvid": "BV1cQLJ6PE78",
+    "title": "[57]. CLIP：论文解读【每天一个宝藏论文】",
+    "created": 1780315200,
+    "pic": "http://i2.hdslb.com/bfs/archive/1eb03246ab1a6d7e24640a1f36288d7f1dfffffa.png"
+  },
+  {
+    "bvid": "BV1cQLJ6PEAs",
+    "title": "[56]. 旋转位置编码RoPE：论文解读【每天一个宝藏论文】",
+    "created": 1780228800,
+    "pic": "http://i2.hdslb.com/bfs/archive/70512d726075ee8cffc90e96ef4d22d47c1c4e28.png"
+  },
+  {
+    "bvid": "BV1FXLJ6YEiX",
+    "title": "125. 为什么Token数相同的批次未必是负载均衡的？以WLB LLM为例【每天一个宝藏问题】",
+    "created": 1780228800,
+    "pic": "http://i0.hdslb.com/bfs/archive/d11c641ab3693e9b3b487ebd89edf9158de98fc4.png"
+  },
+  {
     "bvid": "BV1FQLJ6PESa",
     "title": "[55]. ScaNN：向量检索论文解读【每天一个宝藏论文】",
     "created": 1780142400,

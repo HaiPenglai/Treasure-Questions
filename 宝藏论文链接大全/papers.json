@@ -1,5 +1,71 @@
 [
   {
+    "video_id": 61,
+    "video_title": "[61]. RaBitQ：向量检索论文解读【每天一个宝藏论文】",
+    "bvid": "BV1AtGe6KEuV",
+    "papers": [
+      {
+        "paper_title": "RaBitQ: Quantizing High-Dimensional Vectors with a Theoretical Error Bound for Approximate Nearest Neighbor Search",
+        "paper_link": "https://arxiv.org/pdf/2405.12497.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 60,
+    "video_title": "[60]. SAM：论文解读【每天一个宝藏论文】",
+    "bvid": "BV1ktGe6NE1c",
+    "papers": [
+      {
+        "paper_title": "Segment Anything",
+        "paper_link": "https://arxiv.org/pdf/2304.02643.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 59,
+    "video_title": "[59]. MoE：论文解读【每天一个宝藏论文】",
+    "bvid": "BV17zLC68Emq",
+    "papers": [
+      {
+        "paper_title": "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer",
+        "paper_link": "https://arxiv.org/pdf/1701.06538.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 58,
+    "video_title": "[58]. MAE：论文解读【每天一个宝藏论文】",
+    "bvid": "BV1zGLM6cEYG",
+    "papers": [
+      {
+        "paper_title": "Masked Autoencoders Are Scalable Vision Learners",
+        "paper_link": "https://arxiv.org/pdf/2111.06377.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 57,
+    "video_title": "[57]. CLIP：论文解读【每天一个宝藏论文】",
+    "bvid": "BV1cQLJ6PE78",
+    "papers": [
+      {
+        "paper_title": "Learning Transferable Visual Models From Natural Language Supervision",
+        "paper_link": "https://arxiv.org/pdf/2103.00020.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 56,
+    "video_title": "[56]. 旋转位置编码RoPE：论文解读【每天一个宝藏论文】",
+    "bvid": "BV1cQLJ6PEAs",
+    "papers": [
+      {
+        "paper_title": "RoFormer: Enhanced Transformer with Rotary Position Embedding",
+        "paper_link": "https://arxiv.org/pdf/2104.09864.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 55,
     "video_title": "[55]. ScaNN：向量检索论文解读【每天一个宝藏论文】",
     "bvid": "BV1FQLJ6PESa",

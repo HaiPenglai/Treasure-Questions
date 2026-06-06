@@ -1,4 +1,46 @@
 # 宝藏论文链接大全
+### [61]. RaBitQ：向量检索论文解读【每天一个宝藏论文】
+- 观看视频：[BV1AtGe6KEuV](https://www.bilibili.com/video/BV1AtGe6KEuV)
+
+- 阅读论文：[RaBitQ: Quantizing High-Dimensional Vectors with a Theoretical Error Bound for Approximate Nearest Neighbor Search](https://arxiv.org/pdf/2405.12497.pdf)
+
+---
+
+### [60]. SAM：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1ktGe6NE1c](https://www.bilibili.com/video/BV1ktGe6NE1c)
+
+- 阅读论文：[Segment Anything](https://arxiv.org/pdf/2304.02643.pdf)
+
+---
+
+### [59]. MoE：论文解读【每天一个宝藏论文】
+- 观看视频：[BV17zLC68Emq](https://www.bilibili.com/video/BV17zLC68Emq)
+
+- 阅读论文：[Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538.pdf)
+
+---
+
+### [58]. MAE：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1zGLM6cEYG](https://www.bilibili.com/video/BV1zGLM6cEYG)
+
+- 阅读论文：[Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/pdf/2111.06377.pdf)
+
+---
+
+### [57]. CLIP：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1cQLJ6PE78](https://www.bilibili.com/video/BV1cQLJ6PE78)
+
+- 阅读论文：[Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf)
+
+---
+
+### [56]. 旋转位置编码RoPE：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1cQLJ6PEAs](https://www.bilibili.com/video/BV1cQLJ6PEAs)
+
+- 阅读论文：[RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/pdf/2104.09864.pdf)
+
+---
+
 ### [55]. ScaNN：向量检索论文解读【每天一个宝藏论文】
 - 观看视频：[BV1FQLJ6PESa](https://www.bilibili.com/video/BV1FQLJ6PESa)
 

@@ -3,9 +3,45 @@
 - **作者**：b站**海安雨**。
 - **使用方法**：点击**宝藏论文链接大全**文件夹可阅读所有论文，点击**观看视频**可跳转到b站视频。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**101**个宝藏问题`手稿`和**48**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**107**个宝藏问题`手稿`和**54**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 130. 如何从概率树理解投机解码是无损的？【每天一个宝藏问题】
+- 观看视频：[BV1ktGe6NEtg](https://www.bilibili.com/video/BV1ktGe6NEtg)
+
+[![](./assets/questions/BV1ktGe6NEtg.jpg)](https://www.bilibili.com/video/BV1ktGe6NEtg)
+---
+
+### 129. 举例说明DPO论文里三行核心代码是啥意思？【每天一个宝藏问题】
+- 观看视频：[BV1AtGe6KEbW](https://www.bilibili.com/video/BV1AtGe6KEbW)
+
+[![](./assets/questions/BV1AtGe6KEbW.jpg)](https://www.bilibili.com/video/BV1AtGe6KEbW)
+---
+
+### 128. 为什么4D并行的四个任务划分维度是正交的？【每天一个宝藏问题】
+- 观看视频：[BV1ZzLC6bEbU](https://www.bilibili.com/video/BV1ZzLC6bEbU)
+
+[![](./assets/questions/BV1ZzLC6bEbU.jpg)](https://www.bilibili.com/video/BV1ZzLC6bEbU)
+---
+
+### 127. 为什么Adam优化器相当于在求19日EMA均线？【每天一个宝藏问题】
+- 观看视频：[BV1FGLM6wEbm](https://www.bilibili.com/video/BV1FGLM6wEbm)
+
+[![](./assets/questions/BV1FGLM6wEbm.jpg)](https://www.bilibili.com/video/BV1FGLM6wEbm)
+---
+
+### 126. 举例说明投机解码如何拒绝采样？【每天一个宝藏问题】
+- 观看视频：[BV1EVLM6bEuU](https://www.bilibili.com/video/BV1EVLM6bEuU)
+
+[![](./assets/questions/BV1EVLM6bEuU.jpg)](https://www.bilibili.com/video/BV1EVLM6bEuU)
+---
+
+### 125. 为什么Token数相同的批次未必是负载均衡的？以WLB LLM为例【每天一个宝藏问题】
+- 观看视频：[BV1FXLJ6YEiX](https://www.bilibili.com/video/BV1FXLJ6YEiX)
+
+[![](./assets/questions/BV1FXLJ6YEiX.jpg)](https://www.bilibili.com/video/BV1FXLJ6YEiX)
+---
 
 ### 124. 训练时是如何恰好错开一个token的？【每天一个宝藏问题】
 - 观看视频：[BV1FXLJ6YE1L](https://www.bilibili.com/video/BV1FXLJ6YE1L)
@@ -754,6 +790,42 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [61]. RaBitQ：向量检索论文解读【每天一个宝藏论文】
+- 观看视频：[BV1AtGe6KEuV](https://www.bilibili.com/video/BV1AtGe6KEuV)
+
+[![](./assets/papers/BV1AtGe6KEuV.jpg)](https://www.bilibili.com/video/BV1AtGe6KEuV)
+---
+
+### [60]. SAM：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1ktGe6NE1c](https://www.bilibili.com/video/BV1ktGe6NE1c)
+
+[![](./assets/papers/BV1ktGe6NE1c.jpg)](https://www.bilibili.com/video/BV1ktGe6NE1c)
+---
+
+### [59]. MoE：论文解读【每天一个宝藏论文】
+- 观看视频：[BV17zLC68Emq](https://www.bilibili.com/video/BV17zLC68Emq)
+
+[![](./assets/papers/BV17zLC68Emq.jpg)](https://www.bilibili.com/video/BV17zLC68Emq)
+---
+
+### [58]. MAE：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1zGLM6cEYG](https://www.bilibili.com/video/BV1zGLM6cEYG)
+
+[![](./assets/papers/BV1zGLM6cEYG.jpg)](https://www.bilibili.com/video/BV1zGLM6cEYG)
+---
+
+### [57]. CLIP：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1cQLJ6PE78](https://www.bilibili.com/video/BV1cQLJ6PE78)
+
+[![](./assets/papers/BV1cQLJ6PE78.jpg)](https://www.bilibili.com/video/BV1cQLJ6PE78)
+---
+
+### [56]. 旋转位置编码RoPE：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1cQLJ6PEAs](https://www.bilibili.com/video/BV1cQLJ6PEAs)
+
+[![](./assets/papers/BV1cQLJ6PEAs.jpg)](https://www.bilibili.com/video/BV1cQLJ6PEAs)
+---
 
 ### [55]. ScaNN：向量检索论文解读【每天一个宝藏论文】
 - 观看视频：[BV1FQLJ6PESa](https://www.bilibili.com/video/BV1FQLJ6PESa)
