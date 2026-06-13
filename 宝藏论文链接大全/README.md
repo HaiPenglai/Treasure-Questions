@@ -1,4 +1,60 @@
 # 宝藏论文链接大全
+### [69]. SwinTransformer：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1zRVE6sEU2](https://www.bilibili.com/video/BV1zRVE6sEU2)
+
+- 阅读论文：[Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf)
+
+---
+
+### [68]. EfficientNet：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1zRVE6sEmR](https://www.bilibili.com/video/BV1zRVE6sEmR)
+
+- 阅读论文：[EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/pdf/1905.11946.pdf)
+
+---
+
+### [67]. Dropout：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1dsG26dETn](https://www.bilibili.com/video/BV1dsG26dETn)
+
+- 阅读论文：[Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
+
+---
+
+### [66]. DINO：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1bGVK6iEq7](https://www.bilibili.com/video/BV1bGVK6iEq7)
+
+- 阅读论文：[Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/pdf/2104.14294.pdf)
+
+---
+
+### [65]. Mamba：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1uGVK6iEh2](https://www.bilibili.com/video/BV1uGVK6iEh2)
+
+- 阅读论文：[Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/pdf/2312.00752.pdf)
+
+---
+
+### [64]. YOLO：论文解读【每天一个宝藏论文】
+- 观看视频：[BV18iGx6oEo1](https://www.bilibili.com/video/BV18iGx6oEo1)
+
+- 阅读论文：[You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf)
+
+---
+
+### [63]. DETR：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1DiGx6oE4S](https://www.bilibili.com/video/BV1DiGx6oE4S)
+
+- 阅读论文：[End-to-End Object Detection with Transformers](https://arxiv.org/pdf/2005.12872.pdf)
+
+---
+
+### [62]. FlowMatching：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1hiGx6oExa](https://www.bilibili.com/video/BV1hiGx6oExa)
+
+- 阅读论文：[Flow Matching for Generative Modeling](https://arxiv.org/pdf/2210.02747.pdf)
+
+---
+
 ### [61]. RaBitQ：向量检索论文解读【每天一个宝藏论文】
 - 观看视频：[BV1AtGe6KEuV](https://www.bilibili.com/video/BV1AtGe6KEuV)
 

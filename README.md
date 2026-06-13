@@ -3,9 +3,57 @@
 - **作者**：b站**海安雨**。
 - **使用方法**：点击**宝藏论文链接大全**文件夹可阅读所有论文，点击**观看视频**可跳转到b站视频。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**107**个宝藏问题`手稿`和**54**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**115**个宝藏问题`手稿`和**62**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 138. 如何可视化含RoPE的注意力分数矩阵【每天一个宝藏问题】
+- 观看视频：[BV1FRVE6xEap](https://www.bilibili.com/video/BV1FRVE6xEap)
+
+[![](./assets/questions/BV1FRVE6xEap.jpg)](https://www.bilibili.com/video/BV1FRVE6xEap)
+---
+
+### 137. HC=？会让超连接退化为preNorm传统残差连接？【每天一个宝藏问题】
+- 观看视频：[BV1zRVE6sE2x](https://www.bilibili.com/video/BV1zRVE6sE2x)
+
+[![](./assets/questions/BV1zRVE6sE2x.jpg)](https://www.bilibili.com/video/BV1zRVE6sE2x)
+---
+
+### 136. BERT和GPT的可视化有多像？【每天一个宝藏问题】
+- 观看视频：[BV1LsG26dEuq](https://www.bilibili.com/video/BV1LsG26dEuq)
+
+[![](./assets/questions/BV1LsG26dEuq.jpg)](https://www.bilibili.com/video/BV1LsG26dEuq)
+---
+
+### 135. 如何直观理解超连接中的残差流？【每天一个宝藏问题】
+- 观看视频：[BV1bGVK6iE2B](https://www.bilibili.com/video/BV1bGVK6iE2B)
+
+[![](./assets/questions/BV1bGVK6iE2B.jpg)](https://www.bilibili.com/video/BV1bGVK6iE2B)
+---
+
+### 134. 为什么RoPE中旋转矩阵R0是单位阵？【每天一个宝藏问题】
+- 观看视频：[BV1UGVK6vEzn](https://www.bilibili.com/video/BV1UGVK6vEzn)
+
+[![](./assets/questions/BV1UGVK6vEzn.jpg)](https://www.bilibili.com/video/BV1UGVK6vEzn)
+---
+
+### 133. 如何可视化超连接？【每天一个宝藏问题】
+- 观看视频：[BV1h1GE6BEMm](https://www.bilibili.com/video/BV1h1GE6BEMm)
+
+[![](./assets/questions/BV1h1GE6BEMm.jpg)](https://www.bilibili.com/video/BV1h1GE6BEMm)
+---
+
+### 132. 为什么只用柱状图就能证明投机解码是无损的？【每天一个宝藏问题】
+- 观看视频：[BV1UHGB6REeL](https://www.bilibili.com/video/BV1UHGB6REeL)
+
+[![](./assets/questions/BV1UHGB6REeL.jpg)](https://www.bilibili.com/video/BV1UHGB6REeL)
+---
+
+### 131. 折扣因子γ是如何改变未来的奖励重要程度的？【每天一个宝藏问题】
+- 观看视频：[BV1AtGe6KEuk](https://www.bilibili.com/video/BV1AtGe6KEuk)
+
+[![](./assets/questions/BV1AtGe6KEuk.jpg)](https://www.bilibili.com/video/BV1AtGe6KEuk)
+---
 
 ### 130. 如何从概率树理解投机解码是无损的？【每天一个宝藏问题】
 - 观看视频：[BV1ktGe6NEtg](https://www.bilibili.com/video/BV1ktGe6NEtg)
@@ -790,6 +838,54 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [69]. SwinTransformer：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1zRVE6sEU2](https://www.bilibili.com/video/BV1zRVE6sEU2)
+
+[![](./assets/papers/BV1zRVE6sEU2.jpg)](https://www.bilibili.com/video/BV1zRVE6sEU2)
+---
+
+### [68]. EfficientNet：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1zRVE6sEmR](https://www.bilibili.com/video/BV1zRVE6sEmR)
+
+[![](./assets/papers/BV1zRVE6sEmR.jpg)](https://www.bilibili.com/video/BV1zRVE6sEmR)
+---
+
+### [67]. Dropout：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1dsG26dETn](https://www.bilibili.com/video/BV1dsG26dETn)
+
+[![](./assets/papers/BV1dsG26dETn.jpg)](https://www.bilibili.com/video/BV1dsG26dETn)
+---
+
+### [66]. DINO：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1bGVK6iEq7](https://www.bilibili.com/video/BV1bGVK6iEq7)
+
+[![](./assets/papers/BV1bGVK6iEq7.jpg)](https://www.bilibili.com/video/BV1bGVK6iEq7)
+---
+
+### [65]. Mamba：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1uGVK6iEh2](https://www.bilibili.com/video/BV1uGVK6iEh2)
+
+[![](./assets/papers/BV1uGVK6iEh2.jpg)](https://www.bilibili.com/video/BV1uGVK6iEh2)
+---
+
+### [64]. YOLO：论文解读【每天一个宝藏论文】
+- 观看视频：[BV18iGx6oEo1](https://www.bilibili.com/video/BV18iGx6oEo1)
+
+[![](./assets/papers/BV18iGx6oEo1.jpg)](https://www.bilibili.com/video/BV18iGx6oEo1)
+---
+
+### [63]. DETR：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1DiGx6oE4S](https://www.bilibili.com/video/BV1DiGx6oE4S)
+
+[![](./assets/papers/BV1DiGx6oE4S.jpg)](https://www.bilibili.com/video/BV1DiGx6oE4S)
+---
+
+### [62]. FlowMatching：论文解读【每天一个宝藏论文】
+- 观看视频：[BV1hiGx6oExa](https://www.bilibili.com/video/BV1hiGx6oExa)
+
+[![](./assets/papers/BV1hiGx6oExa.jpg)](https://www.bilibili.com/video/BV1hiGx6oExa)
+---
 
 ### [61]. RaBitQ：向量检索论文解读【每天一个宝藏论文】
 - 观看视频：[BV1AtGe6KEuV](https://www.bilibili.com/video/BV1AtGe6KEuV)

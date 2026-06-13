@@ -1,5 +1,101 @@
 [
   {
+    "bvid": "BV1FRVE6xEap",
+    "title": "138. 如何可视化含RoPE的注意力分数矩阵【每天一个宝藏问题】",
+    "created": 1781352000,
+    "pic": "http://i0.hdslb.com/bfs/archive/35fce7cddda1ae27b2043e2b12f14d2141daf9c4.png"
+  },
+  {
+    "bvid": "BV1zRVE6sEU2",
+    "title": "[69]. SwinTransformer：论文解读【每天一个宝藏论文】",
+    "created": 1781352000,
+    "pic": "http://i0.hdslb.com/bfs/archive/16d62173d8078a119ffc4cfb881e77e96a9b4f6a.jpg"
+  },
+  {
+    "bvid": "BV1zRVE6sE2x",
+    "title": "137. HC=？会让超连接退化为preNorm传统残差连接？【每天一个宝藏问题】",
+    "created": 1781265600,
+    "pic": "http://i0.hdslb.com/bfs/archive/794114fc8cc0c7b69b4345545dd8a9eb4e5b1bbc.jpg"
+  },
+  {
+    "bvid": "BV1zRVE6sEmR",
+    "title": "[68]. EfficientNet：论文解读【每天一个宝藏论文】",
+    "created": 1781265600,
+    "pic": "http://i2.hdslb.com/bfs/archive/3849b46a3493c90d7e3905705a1ebd18480a07f5.jpg"
+  },
+  {
+    "bvid": "BV1dsG26dETn",
+    "title": "[67]. Dropout：论文解读【每天一个宝藏论文】",
+    "created": 1781179200,
+    "pic": "http://i0.hdslb.com/bfs/archive/36afee271170c58aba13a37911d82b55cf02bf68.png"
+  },
+  {
+    "bvid": "BV1LsG26dEuq",
+    "title": "136. BERT和GPT的可视化有多像？【每天一个宝藏问题】",
+    "created": 1781179200,
+    "pic": "http://i1.hdslb.com/bfs/archive/3dcacadd1b54b90860ceeb9fd5a0ed2ceabc66ea.jpg"
+  },
+  {
+    "bvid": "BV1bGVK6iEq7",
+    "title": "[66]. DINO：论文解读【每天一个宝藏论文】",
+    "created": 1781092800,
+    "pic": "http://i2.hdslb.com/bfs/archive/1fe84a4444acfa6909277ca2c7b619a20306b7c6.png"
+  },
+  {
+    "bvid": "BV1bGVK6iE2B",
+    "title": "135. 如何直观理解超连接中的残差流？【每天一个宝藏问题】",
+    "created": 1781092800,
+    "pic": "http://i1.hdslb.com/bfs/archive/da7bcfa649f6f8c366c3fdf55a243cfdff7a2ef0.png"
+  },
+  {
+    "bvid": "BV1uGVK6iEh2",
+    "title": "[65]. Mamba：论文解读【每天一个宝藏论文】",
+    "created": 1781006400,
+    "pic": "http://i2.hdslb.com/bfs/archive/e165b7d2af5e7b53f2e304585596628d171c7c53.png"
+  },
+  {
+    "bvid": "BV1UGVK6vEzn",
+    "title": "134. 为什么RoPE中旋转矩阵R0是单位阵？【每天一个宝藏问题】",
+    "created": 1781006400,
+    "pic": "http://i2.hdslb.com/bfs/archive/10f13ac49d9b6e3e6d49a01f8941235f7a8d344d.png"
+  },
+  {
+    "bvid": "BV18iGx6oEo1",
+    "title": "[64]. YOLO：论文解读【每天一个宝藏论文】",
+    "created": 1780920000,
+    "pic": "http://i0.hdslb.com/bfs/archive/8f69a9b84d2b636da962335b44bf9111bbbd6c6b.png"
+  },
+  {
+    "bvid": "BV1h1GE6BEMm",
+    "title": "133. 如何可视化超连接？【每天一个宝藏问题】",
+    "created": 1780920000,
+    "pic": "http://i1.hdslb.com/bfs/archive/15348ec80194fd852c031fea495d0f37abe3a345.jpg"
+  },
+  {
+    "bvid": "BV1DiGx6oE4S",
+    "title": "[63]. DETR：论文解读【每天一个宝藏论文】",
+    "created": 1780833600,
+    "pic": "http://i2.hdslb.com/bfs/archive/f59e2ffd35811e4bcd3b233adc4596145559d7e4.png"
+  },
+  {
+    "bvid": "BV1UHGB6REeL",
+    "title": "132. 为什么只用柱状图就能证明投机解码是无损的？【每天一个宝藏问题】",
+    "created": 1780833600,
+    "pic": "http://i0.hdslb.com/bfs/archive/b27836322585a4b1be805fdae7af34cba7f0c24d.png"
+  },
+  {
+    "bvid": "BV1hiGx6oExa",
+    "title": "[62]. FlowMatching：论文解读【每天一个宝藏论文】",
+    "created": 1780747200,
+    "pic": "http://i0.hdslb.com/bfs/archive/b7b50c01c5beae168d8fe6271373482a8323e875.png"
+  },
+  {
+    "bvid": "BV1AtGe6KEuk",
+    "title": "131. 折扣因子γ是如何改变未来的奖励重要程度的？【每天一个宝藏问题】",
+    "created": 1780747200,
+    "pic": "http://i2.hdslb.com/bfs/archive/04c157e53b4a4e9aab053f0a04d75fb20cf528bd.jpg"
+  },
+  {
     "bvid": "BV1AtGe6KEuV",
     "title": "[61]. RaBitQ：向量检索论文解读【每天一个宝藏论文】",
     "created": 1780660800,
