@@ -17,6 +17,7 @@
 - 观看视频：[BV1dsG26dETn](https://www.bilibili.com/video/BV1dsG26dETn)
 
 - 阅读论文：[Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
+- 阅读论文：[Improving Neural Networks by Preventing Co-adaptation of Feature Detectors](https://arxiv.org/pdf/1207.0580.pdf)
 
 ---
 

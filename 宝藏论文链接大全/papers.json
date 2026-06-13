@@ -29,6 +29,10 @@
       {
         "paper_title": "Dropout: A Simple Way to Prevent Neural Networks from Overfitting",
         "paper_link": "https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf"
+      },
+      {
+        "paper_title": "Improving Neural Networks by Preventing Co-adaptation of Feature Detectors",
+        "paper_link": "https://arxiv.org/pdf/1207.0580.pdf"
       }
     ]
   },
