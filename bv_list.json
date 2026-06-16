@@ -1,5 +1,41 @@
 [
   {
+    "bvid": "BV1zCjg6rE9F",
+    "title": "141. 多轮对话中Decode之后还要增量Prefill，那新的KV如何并入KV Cache？【每天一个宝藏问题】",
+    "created": 1781611200,
+    "pic": "http://i0.hdslb.com/bfs/archive/6547395d5f7836f4e4e7843366d1554e99aa2c82.png"
+  },
+  {
+    "bvid": "BV1Ag7m6XERk",
+    "title": "[72]. Word2Vec：论文精读【每天一个宝藏论文】",
+    "created": 1781611200,
+    "pic": "http://i0.hdslb.com/bfs/archive/adb543336d889a74eb39d18678e3a11d79259be0.jpg"
+  },
+  {
+    "bvid": "BV1Ag7m6XErq",
+    "title": "[71]. Whisper：论文精读【每天一个宝藏论文】",
+    "created": 1781524800,
+    "pic": "http://i0.hdslb.com/bfs/archive/7a4437dbfc5ef1f089f0951a1e84e10ffbe5788f.jpg"
+  },
+  {
+    "bvid": "BV1AG7m6HEEW",
+    "title": "140. 稀疏矩阵乘稠密向量SpMV是如何跳过0值计算的？【每天一个宝藏问题】",
+    "created": 1781524800,
+    "pic": "http://i0.hdslb.com/bfs/archive/f8218f9f1ae0dceb1886d2c870eb9af05290eda9.png"
+  },
+  {
+    "bvid": "BV1zRVE6sExg",
+    "title": "139. 为什么传统残差连接是mhc残差流扩展率=1 的特例？【每天一个宝藏问题】",
+    "created": 1781438400,
+    "pic": "http://i2.hdslb.com/bfs/archive/ff2d8934efd6cb4b207f4038ba6e566077e3f3f7.jpg"
+  },
+  {
+    "bvid": "BV1zRVE6sEz1",
+    "title": "[70]. UNet：论文精读【每天一个宝藏论文】",
+    "created": 1781438400,
+    "pic": "http://i1.hdslb.com/bfs/archive/b1785d1bc0638cdc5b547e54ce998610afb59f68.jpg"
+  },
+  {
     "bvid": "BV1FRVE6xEap",
     "title": "138. 如何可视化含RoPE的注意力分数矩阵【每天一个宝藏问题】",
     "created": 1781352000,

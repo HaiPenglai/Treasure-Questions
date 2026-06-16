@@ -1,4 +1,25 @@
 # 宝藏论文链接大全
+### [72]. Word2Vec：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1Ag7m6XERk](https://www.bilibili.com/video/BV1Ag7m6XERk)
+
+- 阅读论文：[Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
+
+---
+
+### [71]. Whisper：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1Ag7m6XErq](https://www.bilibili.com/video/BV1Ag7m6XErq)
+
+- 阅读论文：[Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/pdf/2212.04356.pdf)
+
+---
+
+### [70]. UNet：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1zRVE6sEz1](https://www.bilibili.com/video/BV1zRVE6sEz1)
+
+- 阅读论文：[U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
+
+---
+
 ### [69]. SwinTransformer：论文解读【每天一个宝藏论文】
 - 观看视频：[BV1zRVE6sEU2](https://www.bilibili.com/video/BV1zRVE6sEU2)
 

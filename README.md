@@ -3,9 +3,27 @@
 - **作者**：b站**海安雨**。
 - **使用方法**：点击**宝藏论文链接大全**文件夹可阅读所有论文，点击**观看视频**可跳转到b站视频。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**115**个宝藏问题`手稿`和**62**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**118**个宝藏问题`手稿`和**65**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 141. 多轮对话中Decode之后还要增量Prefill，那新的KV如何并入KV Cache？【每天一个宝藏问题】
+- 观看视频：[BV1zCjg6rE9F](https://www.bilibili.com/video/BV1zCjg6rE9F)
+
+[![](./assets/questions/BV1zCjg6rE9F.jpg)](https://www.bilibili.com/video/BV1zCjg6rE9F)
+---
+
+### 140. 稀疏矩阵乘稠密向量SpMV是如何跳过0值计算的？【每天一个宝藏问题】
+- 观看视频：[BV1AG7m6HEEW](https://www.bilibili.com/video/BV1AG7m6HEEW)
+
+[![](./assets/questions/BV1AG7m6HEEW.jpg)](https://www.bilibili.com/video/BV1AG7m6HEEW)
+---
+
+### 139. 为什么传统残差连接是mhc残差流扩展率=1 的特例？【每天一个宝藏问题】
+- 观看视频：[BV1zRVE6sExg](https://www.bilibili.com/video/BV1zRVE6sExg)
+
+[![](./assets/questions/BV1zRVE6sExg.jpg)](https://www.bilibili.com/video/BV1zRVE6sExg)
+---
 
 ### 138. 如何可视化含RoPE的注意力分数矩阵【每天一个宝藏问题】
 - 观看视频：[BV1FRVE6xEap](https://www.bilibili.com/video/BV1FRVE6xEap)
@@ -838,6 +856,24 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [72]. Word2Vec：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1Ag7m6XERk](https://www.bilibili.com/video/BV1Ag7m6XERk)
+
+[![](./assets/papers/BV1Ag7m6XERk.jpg)](https://www.bilibili.com/video/BV1Ag7m6XERk)
+---
+
+### [71]. Whisper：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1Ag7m6XErq](https://www.bilibili.com/video/BV1Ag7m6XErq)
+
+[![](./assets/papers/BV1Ag7m6XErq.jpg)](https://www.bilibili.com/video/BV1Ag7m6XErq)
+---
+
+### [70]. UNet：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1zRVE6sEz1](https://www.bilibili.com/video/BV1zRVE6sEz1)
+
+[![](./assets/papers/BV1zRVE6sEz1.jpg)](https://www.bilibili.com/video/BV1zRVE6sEz1)
+---
 
 ### [69]. SwinTransformer：论文解读【每天一个宝藏论文】
 - 观看视频：[BV1zRVE6sEU2](https://www.bilibili.com/video/BV1zRVE6sEU2)

@@ -1,5 +1,38 @@
 [
   {
+    "video_id": 72,
+    "video_title": "[72]. Word2Vec：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1Ag7m6XERk",
+    "papers": [
+      {
+        "paper_title": "Efficient Estimation of Word Representations in Vector Space",
+        "paper_link": "https://arxiv.org/pdf/1301.3781.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 71,
+    "video_title": "[71]. Whisper：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1Ag7m6XErq",
+    "papers": [
+      {
+        "paper_title": "Robust Speech Recognition via Large-Scale Weak Supervision",
+        "paper_link": "https://arxiv.org/pdf/2212.04356.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 70,
+    "video_title": "[70]. UNet：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1zRVE6sEz1",
+    "papers": [
+      {
+        "paper_title": "U-Net: Convolutional Networks for Biomedical Image Segmentation",
+        "paper_link": "https://arxiv.org/pdf/1505.04597.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 69,
     "video_title": "[69]. SwinTransformer：论文解读【每天一个宝藏论文】",
     "bvid": "BV1zRVE6sEU2",
