@@ -1,4 +1,60 @@
 # 宝藏论文链接大全
+### [80]. GAN：论文精读【每天一个宝藏论文】
+- 观看视频：[BV176Js6DEPp](https://www.bilibili.com/video/BV176Js6DEPp)
+
+- 阅读论文：[Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
+
+---
+
+### [79]. FlashAttention-4：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1q6Js6DEwE](https://www.bilibili.com/video/BV1q6Js6DEwE)
+
+- 阅读论文：[FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling](https://arxiv.org/pdf/2603.05451.pdf)
+
+---
+
+### [78]. CFG：论文精读【每天一个宝藏论文】
+- 观看视频：[BV176Js6DE5W](https://www.bilibili.com/video/BV176Js6DE5W)
+
+- 阅读论文：[Classifier-Free Diffusion Guidance](https://arxiv.org/pdf/2207.12598.pdf)
+
+---
+
+### [77]. DDPM：论文精读【每天一个宝藏论文】
+- 观看视频：[BV176Js6DEaM](https://www.bilibili.com/video/BV176Js6DEaM)
+
+- 阅读论文：[Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)
+
+---
+
+### [76]. VAE：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1Ag7m6XEyN](https://www.bilibili.com/video/BV1Ag7m6XEyN)
+
+- 阅读论文：[Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
+
+---
+
+### [75]. GoogLeNet：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1Pg7m6XEnq](https://www.bilibili.com/video/BV1Pg7m6XEnq)
+
+- 阅读论文：[Going Deeper with Convolutions](https://arxiv.org/pdf/1409.4842.pdf)
+
+---
+
+### [74]. VGG：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1Ag7m6XEy4](https://www.bilibili.com/video/BV1Ag7m6XEy4)
+
+- 阅读论文：[Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
+
+---
+
+### [73]. FasterRCNN：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1Wg7m6XEgG](https://www.bilibili.com/video/BV1Wg7m6XEgG)
+
+- 阅读论文：[Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf)
+
+---
+
 ### [72]. Word2Vec：论文精读【每天一个宝藏论文】
 - 观看视频：[BV1Ag7m6XERk](https://www.bilibili.com/video/BV1Ag7m6XERk)
 

@@ -1,5 +1,93 @@
 [
   {
+    "video_id": 80,
+    "video_title": "[80]. GAN：论文精读【每天一个宝藏论文】",
+    "bvid": "BV176Js6DEPp",
+    "papers": [
+      {
+        "paper_title": "Generative Adversarial Nets",
+        "paper_link": "https://arxiv.org/pdf/1406.2661.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 79,
+    "video_title": "[79]. FlashAttention-4：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1q6Js6DEwE",
+    "papers": [
+      {
+        "paper_title": "FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling",
+        "paper_link": "https://arxiv.org/pdf/2603.05451.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 78,
+    "video_title": "[78]. CFG：论文精读【每天一个宝藏论文】",
+    "bvid": "BV176Js6DE5W",
+    "papers": [
+      {
+        "paper_title": "Classifier-Free Diffusion Guidance",
+        "paper_link": "https://arxiv.org/pdf/2207.12598.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 77,
+    "video_title": "[77]. DDPM：论文精读【每天一个宝藏论文】",
+    "bvid": "BV176Js6DEaM",
+    "papers": [
+      {
+        "paper_title": "Denoising Diffusion Probabilistic Models",
+        "paper_link": "https://arxiv.org/pdf/2006.11239.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 76,
+    "video_title": "[76]. VAE：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1Ag7m6XEyN",
+    "papers": [
+      {
+        "paper_title": "Auto-Encoding Variational Bayes",
+        "paper_link": "https://arxiv.org/pdf/1312.6114.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 75,
+    "video_title": "[75]. GoogLeNet：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1Pg7m6XEnq",
+    "papers": [
+      {
+        "paper_title": "Going Deeper with Convolutions",
+        "paper_link": "https://arxiv.org/pdf/1409.4842.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 74,
+    "video_title": "[74]. VGG：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1Ag7m6XEy4",
+    "papers": [
+      {
+        "paper_title": "Very Deep Convolutional Networks for Large-Scale Image Recognition",
+        "paper_link": "https://arxiv.org/pdf/1409.1556.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 73,
+    "video_title": "[73]. FasterRCNN：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1Wg7m6XEgG",
+    "papers": [
+      {
+        "paper_title": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks",
+        "paper_link": "https://arxiv.org/pdf/1506.01497.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 72,
     "video_title": "[72]. Word2Vec：论文精读【每天一个宝藏论文】",
     "bvid": "BV1Ag7m6XERk",

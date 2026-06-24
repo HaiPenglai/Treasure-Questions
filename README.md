@@ -3,9 +3,57 @@
 - **作者**：b站**海安雨**。
 - **使用方法**：点击**宝藏论文链接大全**文件夹可阅读所有论文，点击**观看视频**可跳转到b站视频。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**118**个宝藏问题`手稿`和**65**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**126**个宝藏问题`手稿`和**73**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 149. 为什么投机解码最多可以比K个Token多生成一个Token？【每天一个宝藏问题】
+- 观看视频：[BV1gAj36ZEY3](https://www.bilibili.com/video/BV1gAj36ZEY3)
+
+[![](./assets/questions/BV1gAj36ZEY3.jpg)](https://www.bilibili.com/video/BV1gAj36ZEY3)
+---
+
+### 148. 超连接中的连边和感知机的连边有何异同？【每天一个宝藏问题】
+- 观看视频：[BV1DAj36ZEZD](https://www.bilibili.com/video/BV1DAj36ZEZD)
+
+[![](./assets/questions/BV1DAj36ZEZD.jpg)](https://www.bilibili.com/video/BV1DAj36ZEZD)
+---
+
+### 147. 如何直观理解RoPE的平移不变性【每天一个宝藏问题】
+- 观看视频：[BV18Aj36ZEZP](https://www.bilibili.com/video/BV18Aj36ZEZP)
+
+[![](./assets/questions/BV18Aj36ZEZP.jpg)](https://www.bilibili.com/video/BV18Aj36ZEZP)
+---
+
+### 146. 能否有一种方法同时可视化注意力的前向和反向传播？【每天一个宝藏问题】
+- 观看视频：[BV1gAj36ZEUA](https://www.bilibili.com/video/BV1gAj36ZEUA)
+
+[![](./assets/questions/BV1gAj36ZEUA.jpg)](https://www.bilibili.com/video/BV1gAj36ZEUA)
+---
+
+### 145. 从prefill和decode角度理解投机解码何以加速？【每天一个宝藏问题】
+- 观看视频：[BV1hAj36ZE7E](https://www.bilibili.com/video/BV1hAj36ZE7E)
+
+[![](./assets/questions/BV1hAj36ZE7E.jpg)](https://www.bilibili.com/video/BV1hAj36ZE7E)
+---
+
+### 144. 如何可视化Transformer的残差连接？【每天一个宝藏问题】
+- 观看视频：[BV1DAj36ZE2E](https://www.bilibili.com/video/BV1DAj36ZE2E)
+
+[![](./assets/questions/BV1DAj36ZE2E.jpg)](https://www.bilibili.com/video/BV1DAj36ZE2E)
+---
+
+### 143. 如何可视化SGLang中的KV Cache？【每天一个宝藏问题】
+- 观看视频：[BV13Aj36ZEcC](https://www.bilibili.com/video/BV13Aj36ZEcC)
+
+[![](./assets/questions/BV13Aj36ZEcC.jpg)](https://www.bilibili.com/video/BV13Aj36ZEcC)
+---
+
+### 142. 如何可视化前馈网络｜线性层的反向传播？【每天一个宝藏问题】
+- 观看视频：[BV1gAj36ZELC](https://www.bilibili.com/video/BV1gAj36ZELC)
+
+[![](./assets/questions/BV1gAj36ZELC.jpg)](https://www.bilibili.com/video/BV1gAj36ZELC)
+---
 
 ### 141. 多轮对话中Decode之后还要增量Prefill，那新的KV如何并入KV Cache？【每天一个宝藏问题】
 - 观看视频：[BV1zCjg6rE9F](https://www.bilibili.com/video/BV1zCjg6rE9F)
@@ -856,6 +904,54 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [80]. GAN：论文精读【每天一个宝藏论文】
+- 观看视频：[BV176Js6DEPp](https://www.bilibili.com/video/BV176Js6DEPp)
+
+[![](./assets/papers/BV176Js6DEPp.jpg)](https://www.bilibili.com/video/BV176Js6DEPp)
+---
+
+### [79]. FlashAttention-4：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1q6Js6DEwE](https://www.bilibili.com/video/BV1q6Js6DEwE)
+
+[![](./assets/papers/BV1q6Js6DEwE.jpg)](https://www.bilibili.com/video/BV1q6Js6DEwE)
+---
+
+### [78]. CFG：论文精读【每天一个宝藏论文】
+- 观看视频：[BV176Js6DE5W](https://www.bilibili.com/video/BV176Js6DE5W)
+
+[![](./assets/papers/BV176Js6DE5W.jpg)](https://www.bilibili.com/video/BV176Js6DE5W)
+---
+
+### [77]. DDPM：论文精读【每天一个宝藏论文】
+- 观看视频：[BV176Js6DEaM](https://www.bilibili.com/video/BV176Js6DEaM)
+
+[![](./assets/papers/BV176Js6DEaM.jpg)](https://www.bilibili.com/video/BV176Js6DEaM)
+---
+
+### [76]. VAE：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1Ag7m6XEyN](https://www.bilibili.com/video/BV1Ag7m6XEyN)
+
+[![](./assets/papers/BV1Ag7m6XEyN.jpg)](https://www.bilibili.com/video/BV1Ag7m6XEyN)
+---
+
+### [75]. GoogLeNet：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1Pg7m6XEnq](https://www.bilibili.com/video/BV1Pg7m6XEnq)
+
+[![](./assets/papers/BV1Pg7m6XEnq.jpg)](https://www.bilibili.com/video/BV1Pg7m6XEnq)
+---
+
+### [74]. VGG：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1Ag7m6XEy4](https://www.bilibili.com/video/BV1Ag7m6XEy4)
+
+[![](./assets/papers/BV1Ag7m6XEy4.jpg)](https://www.bilibili.com/video/BV1Ag7m6XEy4)
+---
+
+### [73]. FasterRCNN：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1Wg7m6XEgG](https://www.bilibili.com/video/BV1Wg7m6XEgG)
+
+[![](./assets/papers/BV1Wg7m6XEgG.jpg)](https://www.bilibili.com/video/BV1Wg7m6XEgG)
+---
 
 ### [72]. Word2Vec：论文精读【每天一个宝藏论文】
 - 观看视频：[BV1Ag7m6XERk](https://www.bilibili.com/video/BV1Ag7m6XERk)

@@ -1,5 +1,101 @@
 [
   {
+    "bvid": "BV1gAj36ZEY3",
+    "title": "149. 为什么投机解码最多可以比K个Token多生成一个Token？【每天一个宝藏问题】",
+    "created": 1782302400,
+    "pic": "http://i1.hdslb.com/bfs/archive/6e6208cb069ca8fe5961f41a811ae73f513c0f0c.jpg"
+  },
+  {
+    "bvid": "BV176Js6DEPp",
+    "title": "[80]. GAN：论文精读【每天一个宝藏论文】",
+    "created": 1782302400,
+    "pic": "http://i1.hdslb.com/bfs/archive/f408dd0fb829027f7c5ed04eb9cc568ef8549c5f.png"
+  },
+  {
+    "bvid": "BV1DAj36ZEZD",
+    "title": "148. 超连接中的连边和感知机的连边有何异同？【每天一个宝藏问题】",
+    "created": 1782216000,
+    "pic": "http://i1.hdslb.com/bfs/archive/3a178f33b73be19e238529121a66c4a8986ad637.png"
+  },
+  {
+    "bvid": "BV1q6Js6DEwE",
+    "title": "[79]. FlashAttention-4：论文精读【每天一个宝藏论文】",
+    "created": 1782216000,
+    "pic": "http://i2.hdslb.com/bfs/archive/5c127a88d4ea6832db91289946e711c1529d9575.png"
+  },
+  {
+    "bvid": "BV18Aj36ZEZP",
+    "title": "147. 如何直观理解RoPE的平移不变性【每天一个宝藏问题】",
+    "created": 1782129600,
+    "pic": "http://i2.hdslb.com/bfs/archive/39ba2dac2dafbd63dbc813d7c0db88823a684109.png"
+  },
+  {
+    "bvid": "BV176Js6DE5W",
+    "title": "[78]. CFG：论文精读【每天一个宝藏论文】",
+    "created": 1782129600,
+    "pic": "http://i1.hdslb.com/bfs/archive/21520d652dae9abb22281deb89c2bc96923d179f.png"
+  },
+  {
+    "bvid": "BV1gAj36ZEUA",
+    "title": "146. 能否有一种方法同时可视化注意力的前向和反向传播？【每天一个宝藏问题】",
+    "created": 1782043200,
+    "pic": "http://i0.hdslb.com/bfs/archive/cf63659f0a1dc3b2f1481513050af03c178bbfdf.png"
+  },
+  {
+    "bvid": "BV176Js6DEaM",
+    "title": "[77]. DDPM：论文精读【每天一个宝藏论文】",
+    "created": 1782043200,
+    "pic": "http://i0.hdslb.com/bfs/archive/f11561bdd2b318be9ce3a06d9a13051ec1d9dd50.png"
+  },
+  {
+    "bvid": "BV1hAj36ZE7E",
+    "title": "145. 从prefill和decode角度理解投机解码何以加速？【每天一个宝藏问题】",
+    "created": 1781956800,
+    "pic": "http://i1.hdslb.com/bfs/archive/fad49b6a8031c74bb3d7352459f819003610ba50.jpg"
+  },
+  {
+    "bvid": "BV1Ag7m6XEyN",
+    "title": "[76]. VAE：论文精读【每天一个宝藏论文】",
+    "created": 1781956800,
+    "pic": "http://i1.hdslb.com/bfs/archive/ec683846e803543901569aad35bad87b93e5670e.jpg"
+  },
+  {
+    "bvid": "BV1DAj36ZE2E",
+    "title": "144. 如何可视化Transformer的残差连接？【每天一个宝藏问题】",
+    "created": 1781870400,
+    "pic": "http://i1.hdslb.com/bfs/archive/87d43a4a783da2c5a2e78c4cc548ffb2ae23321a.png"
+  },
+  {
+    "bvid": "BV1Pg7m6XEnq",
+    "title": "[75]. GoogLeNet：论文精读【每天一个宝藏论文】",
+    "created": 1781870400,
+    "pic": "http://i2.hdslb.com/bfs/archive/48002902e55e705e36983edec4d6e1bb8247dedc.jpg"
+  },
+  {
+    "bvid": "BV13Aj36ZEcC",
+    "title": "143. 如何可视化SGLang中的KV Cache？【每天一个宝藏问题】",
+    "created": 1781784000,
+    "pic": "http://i1.hdslb.com/bfs/archive/9d86a21dcaa265b94f3baffa0488246b19609a93.png"
+  },
+  {
+    "bvid": "BV1Ag7m6XEy4",
+    "title": "[74]. VGG：论文精读【每天一个宝藏论文】",
+    "created": 1781784000,
+    "pic": "http://i1.hdslb.com/bfs/archive/c9468d621662ece55df79411d175775cca3a85b5.jpg"
+  },
+  {
+    "bvid": "BV1gAj36ZELC",
+    "title": "142. 如何可视化前馈网络｜线性层的反向传播？【每天一个宝藏问题】",
+    "created": 1781697600,
+    "pic": "http://i0.hdslb.com/bfs/archive/82e9a39d00c0d21a515dcbfedf38b2a4866b1950.png"
+  },
+  {
+    "bvid": "BV1Wg7m6XEgG",
+    "title": "[73]. FasterRCNN：论文精读【每天一个宝藏论文】",
+    "created": 1781697600,
+    "pic": "http://i1.hdslb.com/bfs/archive/409837995470ff3add10ac1ef7816424210b32ba.jpg"
+  },
+  {
     "bvid": "BV1zCjg6rE9F",
     "title": "141. 多轮对话中Decode之后还要增量Prefill，那新的KV如何并入KV Cache？【每天一个宝藏问题】",
     "created": 1781611200,
