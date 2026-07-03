@@ -1,5 +1,93 @@
 [
   {
+    "video_id": 88,
+    "video_title": "[88]. DiffusionBeatGANs：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1kv7q6REEK",
+    "papers": [
+      {
+        "paper_title": "Diffusion Models Beat GANs on Image Synthesis",
+        "paper_link": "https://arxiv.org/pdf/2105.05233.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 87,
+    "video_title": "[87]. ScoreSDE：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1kv7q6REtL",
+    "papers": [
+      {
+        "paper_title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+        "paper_link": "https://arxiv.org/pdf/2011.13456.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 86,
+    "video_title": "[86]. DDIM：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1LXjg6vEPM",
+    "papers": [
+      {
+        "paper_title": "Denoising Diffusion Implicit Models",
+        "paper_link": "https://arxiv.org/pdf/2010.02502.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 85,
+    "video_title": "[85]. NCSN：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1LXjg6vEhk",
+    "papers": [
+      {
+        "paper_title": "Generative Modeling by Estimating Gradients of the Data Distribution",
+        "paper_link": "https://arxiv.org/pdf/1907.05600.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 84,
+    "video_title": "[84]. WGAN：论文精读【每天一个宝藏论文】",
+    "bvid": "BV176Js6DELe",
+    "papers": [
+      {
+        "paper_title": "Wasserstein GAN",
+        "paper_link": "https://arxiv.org/pdf/1701.07875.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 83,
+    "video_title": "[83]. 思维树：论文精读【每天一个宝藏论文】",
+    "bvid": "BV176Js6DEsq",
+    "papers": [
+      {
+        "paper_title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+        "paper_link": "https://arxiv.org/pdf/2305.10601.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 82,
+    "video_title": "[82]. 思维链：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1q6Js6DEaQ",
+    "papers": [
+      {
+        "paper_title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+        "paper_link": "https://arxiv.org/pdf/2201.11903.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 81,
+    "video_title": "[81]. ProgressiveDistillation：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1q6Js6DE2b",
+    "papers": [
+      {
+        "paper_title": "Progressive Distillation for Fast Sampling of Diffusion Models",
+        "paper_link": "https://arxiv.org/pdf/2202.00512.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 80,
     "video_title": "[80]. GAN：论文精读【每天一个宝藏论文】",
     "bvid": "BV176Js6DEPp",

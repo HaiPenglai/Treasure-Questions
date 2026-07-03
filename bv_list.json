@@ -1,5 +1,101 @@
 [
   {
+    "bvid": "BV13e7p6cEF4",
+    "title": "157. 为什么Adam除以√vt让稳定的梯度项归一化，振荡的梯度项归零化【每天一个宝藏问题】",
+    "created": 1782993600,
+    "pic": "http://i0.hdslb.com/bfs/archive/ecddee2c164584582a4e1d71d608eb7041310e3c.png"
+  },
+  {
+    "bvid": "BV1kv7q6REEK",
+    "title": "[88]. DiffusionBeatGANs：论文精读【每天一个宝藏论文】",
+    "created": 1782993600,
+    "pic": "http://i2.hdslb.com/bfs/archive/8344365fb9662fb9e0c9f5c972053062ed31251d.png"
+  },
+  {
+    "bvid": "BV18e7p6FE1J",
+    "title": "156. 最简单的transformer反向传播可视化能有多简单？【每天一个宝藏问题】",
+    "created": 1782907200,
+    "pic": "http://i1.hdslb.com/bfs/archive/45ab4b28f9cebb38b0e0c864fc321bd5a02830a1.png"
+  },
+  {
+    "bvid": "BV1kv7q6REtL",
+    "title": "[87]. ScoreSDE：论文精读【每天一个宝藏论文】",
+    "created": 1782907200,
+    "pic": "http://i2.hdslb.com/bfs/archive/dd49389a885882910f85de40ca1f0488a8d02bf2.png"
+  },
+  {
+    "bvid": "BV18e7p6FEZ1",
+    "title": "155. 为什么信息熵=最优码长，交叉熵=实际码长，KL散度=浪费码长【每天一个宝藏问题】",
+    "created": 1782820800,
+    "pic": "http://i1.hdslb.com/bfs/archive/5d8d247dfa61e22b497fa79cb3e18c9876e4b8f1.png"
+  },
+  {
+    "bvid": "BV1LXjg6vEPM",
+    "title": "[86]. DDIM：论文精读【每天一个宝藏论文】",
+    "created": 1782820800,
+    "pic": "http://i1.hdslb.com/bfs/archive/1827fee393a1b41fe9e4ac40fc9cac85b945e4f6.png"
+  },
+  {
+    "bvid": "BV1De7p6FEL3",
+    "title": "154. 为什么投机解码确保每轮至少产出一个 token？【每天一个宝藏问题】",
+    "created": 1782734400,
+    "pic": "http://i0.hdslb.com/bfs/archive/6e6f0c36e8381540534e5d8b12c7d4c1349ca922.png"
+  },
+  {
+    "bvid": "BV1LXjg6vEhk",
+    "title": "[85]. NCSN：论文精读【每天一个宝藏论文】",
+    "created": 1782734400,
+    "pic": "http://i1.hdslb.com/bfs/archive/d1eba6ea23b8d1c7d33151f501114b317eeed210.png"
+  },
+  {
+    "bvid": "BV1he7p6FEp1",
+    "title": "153. 从等比数列求和理解Adam优化器训练初期动量修正【每天一个宝藏问题】",
+    "created": 1782648000,
+    "pic": "http://i2.hdslb.com/bfs/archive/cf0c00f9bedde4882bf3438550f8894a8c62d85c.png"
+  },
+  {
+    "bvid": "BV176Js6DELe",
+    "title": "[84]. WGAN：论文精读【每天一个宝藏论文】",
+    "created": 1782648000,
+    "pic": "http://i2.hdslb.com/bfs/archive/04a56a88240ca128222d41842b3037b79a1b8fb9.png"
+  },
+  {
+    "bvid": "BV1bv7p6bEeG",
+    "title": "152. 为什么前向残差连接对应反向残差连接【每天一个宝藏问题】",
+    "created": 1782561600,
+    "pic": "http://i2.hdslb.com/bfs/archive/d12b36040f7a1c71c2577c75fbc5b0201f40a247.png"
+  },
+  {
+    "bvid": "BV176Js6DEsq",
+    "title": "[83]. 思维树：论文精读【每天一个宝藏论文】",
+    "created": 1782561600,
+    "pic": "http://i2.hdslb.com/bfs/archive/9b8d2b861bdd6dd2ad0ef73f6a01760a7bf78509.png"
+  },
+  {
+    "bvid": "BV1gAj36ZEmj",
+    "title": "151. 如何可视化MQA？【每天一个宝藏问题】",
+    "created": 1782475200,
+    "pic": "http://i0.hdslb.com/bfs/archive/c1c901f395cd2c10e7af8bfa8fcf01d89cefb07f.png"
+  },
+  {
+    "bvid": "BV1q6Js6DEaQ",
+    "title": "[82]. 思维链：论文精读【每天一个宝藏论文】",
+    "created": 1782475200,
+    "pic": "http://i2.hdslb.com/bfs/archive/9f7e4d43e2523f445da470af673b89d5bd2d6a85.png"
+  },
+  {
+    "bvid": "BV1hAj36ZE8a",
+    "title": "150. 对比注意力池和注意力温度对注意力汇聚有什么影响？【每天一个宝藏问题】",
+    "created": 1782388800,
+    "pic": "http://i2.hdslb.com/bfs/archive/d289b91089eb97452e872b7935f8fa59f1d5f418.png"
+  },
+  {
+    "bvid": "BV1q6Js6DE2b",
+    "title": "[81]. ProgressiveDistillation：论文精读【每天一个宝藏论文】",
+    "created": 1782388800,
+    "pic": "http://i2.hdslb.com/bfs/archive/0d3524c093a05c8113e756de94a5b97294ec401e.png"
+  },
+  {
     "bvid": "BV1gAj36ZEY3",
     "title": "149. 为什么投机解码最多可以比K个Token多生成一个Token？【每天一个宝藏问题】",
     "created": 1782302400,

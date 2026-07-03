@@ -3,9 +3,57 @@
 - **作者**：b站**海安雨**。
 - **使用方法**：点击**宝藏论文链接大全**文件夹可阅读所有论文，点击**观看视频**可跳转到b站视频。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**126**个宝藏问题`手稿`和**73**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**134**个宝藏问题`手稿`和**81**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 157. 为什么Adam除以√vt让稳定的梯度项归一化，振荡的梯度项归零化【每天一个宝藏问题】
+- 观看视频：[BV13e7p6cEF4](https://www.bilibili.com/video/BV13e7p6cEF4)
+
+[![](./assets/questions/BV13e7p6cEF4.jpg)](https://www.bilibili.com/video/BV13e7p6cEF4)
+---
+
+### 156. 最简单的transformer反向传播可视化能有多简单？【每天一个宝藏问题】
+- 观看视频：[BV18e7p6FE1J](https://www.bilibili.com/video/BV18e7p6FE1J)
+
+[![](./assets/questions/BV18e7p6FE1J.jpg)](https://www.bilibili.com/video/BV18e7p6FE1J)
+---
+
+### 155. 为什么信息熵=最优码长，交叉熵=实际码长，KL散度=浪费码长【每天一个宝藏问题】
+- 观看视频：[BV18e7p6FEZ1](https://www.bilibili.com/video/BV18e7p6FEZ1)
+
+[![](./assets/questions/BV18e7p6FEZ1.jpg)](https://www.bilibili.com/video/BV18e7p6FEZ1)
+---
+
+### 154. 为什么投机解码确保每轮至少产出一个 token？【每天一个宝藏问题】
+- 观看视频：[BV1De7p6FEL3](https://www.bilibili.com/video/BV1De7p6FEL3)
+
+[![](./assets/questions/BV1De7p6FEL3.jpg)](https://www.bilibili.com/video/BV1De7p6FEL3)
+---
+
+### 153. 从等比数列求和理解Adam优化器训练初期动量修正【每天一个宝藏问题】
+- 观看视频：[BV1he7p6FEp1](https://www.bilibili.com/video/BV1he7p6FEp1)
+
+[![](./assets/questions/BV1he7p6FEp1.jpg)](https://www.bilibili.com/video/BV1he7p6FEp1)
+---
+
+### 152. 为什么前向残差连接对应反向残差连接【每天一个宝藏问题】
+- 观看视频：[BV1bv7p6bEeG](https://www.bilibili.com/video/BV1bv7p6bEeG)
+
+[![](./assets/questions/BV1bv7p6bEeG.jpg)](https://www.bilibili.com/video/BV1bv7p6bEeG)
+---
+
+### 151. 如何可视化MQA？【每天一个宝藏问题】
+- 观看视频：[BV1gAj36ZEmj](https://www.bilibili.com/video/BV1gAj36ZEmj)
+
+[![](./assets/questions/BV1gAj36ZEmj.jpg)](https://www.bilibili.com/video/BV1gAj36ZEmj)
+---
+
+### 150. 对比注意力池和注意力温度对注意力汇聚有什么影响？【每天一个宝藏问题】
+- 观看视频：[BV1hAj36ZE8a](https://www.bilibili.com/video/BV1hAj36ZE8a)
+
+[![](./assets/questions/BV1hAj36ZE8a.jpg)](https://www.bilibili.com/video/BV1hAj36ZE8a)
+---
 
 ### 149. 为什么投机解码最多可以比K个Token多生成一个Token？【每天一个宝藏问题】
 - 观看视频：[BV1gAj36ZEY3](https://www.bilibili.com/video/BV1gAj36ZEY3)
@@ -904,6 +952,54 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [88]. DiffusionBeatGANs：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1kv7q6REEK](https://www.bilibili.com/video/BV1kv7q6REEK)
+
+[![](./assets/papers/BV1kv7q6REEK.jpg)](https://www.bilibili.com/video/BV1kv7q6REEK)
+---
+
+### [87]. ScoreSDE：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1kv7q6REtL](https://www.bilibili.com/video/BV1kv7q6REtL)
+
+[![](./assets/papers/BV1kv7q6REtL.jpg)](https://www.bilibili.com/video/BV1kv7q6REtL)
+---
+
+### [86]. DDIM：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1LXjg6vEPM](https://www.bilibili.com/video/BV1LXjg6vEPM)
+
+[![](./assets/papers/BV1LXjg6vEPM.jpg)](https://www.bilibili.com/video/BV1LXjg6vEPM)
+---
+
+### [85]. NCSN：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1LXjg6vEhk](https://www.bilibili.com/video/BV1LXjg6vEhk)
+
+[![](./assets/papers/BV1LXjg6vEhk.jpg)](https://www.bilibili.com/video/BV1LXjg6vEhk)
+---
+
+### [84]. WGAN：论文精读【每天一个宝藏论文】
+- 观看视频：[BV176Js6DELe](https://www.bilibili.com/video/BV176Js6DELe)
+
+[![](./assets/papers/BV176Js6DELe.jpg)](https://www.bilibili.com/video/BV176Js6DELe)
+---
+
+### [83]. 思维树：论文精读【每天一个宝藏论文】
+- 观看视频：[BV176Js6DEsq](https://www.bilibili.com/video/BV176Js6DEsq)
+
+[![](./assets/papers/BV176Js6DEsq.jpg)](https://www.bilibili.com/video/BV176Js6DEsq)
+---
+
+### [82]. 思维链：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1q6Js6DEaQ](https://www.bilibili.com/video/BV1q6Js6DEaQ)
+
+[![](./assets/papers/BV1q6Js6DEaQ.jpg)](https://www.bilibili.com/video/BV1q6Js6DEaQ)
+---
+
+### [81]. ProgressiveDistillation：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1q6Js6DE2b](https://www.bilibili.com/video/BV1q6Js6DE2b)
+
+[![](./assets/papers/BV1q6Js6DE2b.jpg)](https://www.bilibili.com/video/BV1q6Js6DE2b)
+---
 
 ### [80]. GAN：论文精读【每天一个宝藏论文】
 - 观看视频：[BV176Js6DEPp](https://www.bilibili.com/video/BV176Js6DEPp)

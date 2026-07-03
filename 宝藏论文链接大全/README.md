@@ -1,4 +1,60 @@
 # 宝藏论文链接大全
+### [88]. DiffusionBeatGANs：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1kv7q6REEK](https://www.bilibili.com/video/BV1kv7q6REEK)
+
+- 阅读论文：[Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/pdf/2105.05233.pdf)
+
+---
+
+### [87]. ScoreSDE：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1kv7q6REtL](https://www.bilibili.com/video/BV1kv7q6REtL)
+
+- 阅读论文：[Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/pdf/2011.13456.pdf)
+
+---
+
+### [86]. DDIM：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1LXjg6vEPM](https://www.bilibili.com/video/BV1LXjg6vEPM)
+
+- 阅读论文：[Denoising Diffusion Implicit Models](https://arxiv.org/pdf/2010.02502.pdf)
+
+---
+
+### [85]. NCSN：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1LXjg6vEhk](https://www.bilibili.com/video/BV1LXjg6vEhk)
+
+- 阅读论文：[Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/pdf/1907.05600.pdf)
+
+---
+
+### [84]. WGAN：论文精读【每天一个宝藏论文】
+- 观看视频：[BV176Js6DELe](https://www.bilibili.com/video/BV176Js6DELe)
+
+- 阅读论文：[Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)
+
+---
+
+### [83]. 思维树：论文精读【每天一个宝藏论文】
+- 观看视频：[BV176Js6DEsq](https://www.bilibili.com/video/BV176Js6DEsq)
+
+- 阅读论文：[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/pdf/2305.10601.pdf)
+
+---
+
+### [82]. 思维链：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1q6Js6DEaQ](https://www.bilibili.com/video/BV1q6Js6DEaQ)
+
+- 阅读论文：[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf)
+
+---
+
+### [81]. ProgressiveDistillation：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1q6Js6DE2b](https://www.bilibili.com/video/BV1q6Js6DE2b)
+
+- 阅读论文：[Progressive Distillation for Fast Sampling of Diffusion Models](https://arxiv.org/pdf/2202.00512.pdf)
+
+---
+
 ### [80]. GAN：论文精读【每天一个宝藏论文】
 - 观看视频：[BV176Js6DEPp](https://www.bilibili.com/video/BV176Js6DEPp)
 
