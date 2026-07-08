@@ -3,9 +3,45 @@
 - **作者**：b站**海安雨**。
 - **使用方法**：点击**宝藏论文链接大全**文件夹可阅读所有论文，点击**观看视频**可跳转到b站视频。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**134**个宝藏问题`手稿`和**81**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**140**个宝藏问题`手稿`和**87**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 163. 张量并行中的列并行和行并行是如何切分W和X矩阵的？【每天一个宝藏问题】
+- 观看视频：[BV1rJTb6qEYr](https://www.bilibili.com/video/BV1rJTb6qEYr)
+
+[![](./assets/questions/BV1rJTb6qEYr.jpg)](https://www.bilibili.com/video/BV1rJTb6qEYr)
+---
+
+### 162. 如何可视化GEMM？【每天一个宝藏问题】
+- 观看视频：[BV1tWTj6jEGU](https://www.bilibili.com/video/BV1tWTj6jEGU)
+
+[![](./assets/questions/BV1tWTj6jEGU.jpg)](https://www.bilibili.com/video/BV1tWTj6jEGU)
+---
+
+### 161. MoE每个token都要选专家，那prefill要如何并行？【每天一个宝藏问题】
+- 观看视频：[BV1foTi6sEyH](https://www.bilibili.com/video/BV1foTi6sEyH)
+
+[![](./assets/questions/BV1foTi6sEyH.jpg)](https://www.bilibili.com/video/BV1foTi6sEyH)
+---
+
+### 160. 如何对注意力头剪枝？【每天一个宝藏问题】
+- 观看视频：[BV1YCTY6qEMZ](https://www.bilibili.com/video/BV1YCTY6qEMZ)
+
+[![](./assets/questions/BV1YCTY6qEMZ.jpg)](https://www.bilibili.com/video/BV1YCTY6qEMZ)
+---
+
+### 159. 如何可视化MTP？【每天一个宝藏问题】
+- 观看视频：[BV1rtTc6tEqd](https://www.bilibili.com/video/BV1rtTc6tEqd)
+
+[![](./assets/questions/BV1rtTc6tEqd.jpg)](https://www.bilibili.com/video/BV1rtTc6tEqd)
+---
+
+### 158. 最简单的含RoPE的Transformer可视化有多简单？【每天一个宝藏问题】
+- 观看视频：[BV18e7p6FEeD](https://www.bilibili.com/video/BV18e7p6FEeD)
+
+[![](./assets/questions/BV18e7p6FEeD.jpg)](https://www.bilibili.com/video/BV18e7p6FEeD)
+---
 
 ### 157. 为什么Adam除以√vt让稳定的梯度项归一化，振荡的梯度项归零化【每天一个宝藏问题】
 - 观看视频：[BV13e7p6cEF4](https://www.bilibili.com/video/BV13e7p6cEF4)
@@ -952,6 +988,42 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [94]. BPE：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1kv7q6REeS](https://www.bilibili.com/video/BV1kv7q6REeS)
+
+[![](./assets/papers/BV1kv7q6REeS.jpg)](https://www.bilibili.com/video/BV1kv7q6REeS)
+---
+
+### [93]. PyTorch_2：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1kv7q6RE7a](https://www.bilibili.com/video/BV1kv7q6RE7a)
+
+[![](./assets/papers/BV1kv7q6RE7a.jpg)](https://www.bilibili.com/video/BV1kv7q6RE7a)
+---
+
+### [92]. TVM：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1kv7q6REVg](https://www.bilibili.com/video/BV1kv7q6REVg)
+
+[![](./assets/papers/BV1kv7q6REVg.jpg)](https://www.bilibili.com/video/BV1kv7q6REVg)
+---
+
+### [91]. ConsistencyModels：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1wv7q6dEtL](https://www.bilibili.com/video/BV1wv7q6dEtL)
+
+[![](./assets/papers/BV1wv7q6dEtL.jpg)](https://www.bilibili.com/video/BV1wv7q6dEtL)
+---
+
+### [90]. EDM：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1kv7q6REvQ](https://www.bilibili.com/video/BV1kv7q6REvQ)
+
+[![](./assets/papers/BV1kv7q6REvQ.jpg)](https://www.bilibili.com/video/BV1kv7q6REvQ)
+---
+
+### [89]. LDM：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1Av7q6dEKW](https://www.bilibili.com/video/BV1Av7q6dEKW)
+
+[![](./assets/papers/BV1Av7q6dEKW.jpg)](https://www.bilibili.com/video/BV1Av7q6dEKW)
+---
 
 ### [88]. DiffusionBeatGANs：论文精读【每天一个宝藏论文】
 - 观看视频：[BV1kv7q6REEK](https://www.bilibili.com/video/BV1kv7q6REEK)

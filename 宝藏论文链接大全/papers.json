@@ -1,5 +1,71 @@
 [
   {
+    "video_id": 94,
+    "video_title": "[94]. BPE：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1kv7q6REeS",
+    "papers": [
+      {
+        "paper_title": "Neural Machine Translation of Rare Words with Subword Units",
+        "paper_link": "https://arxiv.org/pdf/1508.07909.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 93,
+    "video_title": "[93]. PyTorch_2：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1kv7q6RE7a",
+    "papers": [
+      {
+        "paper_title": "PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode Transformation and Graph Compilation",
+        "paper_link": "https://pytorch.org/assets/pytorch2-2.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 92,
+    "video_title": "[92]. TVM：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1kv7q6REVg",
+    "papers": [
+      {
+        "paper_title": "TVM: An Automated End-to-End Optimizing Compiler for Deep Learning",
+        "paper_link": "https://arxiv.org/pdf/1802.04799.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 91,
+    "video_title": "[91]. ConsistencyModels：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1wv7q6dEtL",
+    "papers": [
+      {
+        "paper_title": "Consistency Models",
+        "paper_link": "https://arxiv.org/pdf/2303.01469.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 90,
+    "video_title": "[90]. EDM：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1kv7q6REvQ",
+    "papers": [
+      {
+        "paper_title": "Elucidating the Design Space of Diffusion-Based Generative Models",
+        "paper_link": "https://arxiv.org/pdf/2206.00364.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 89,
+    "video_title": "[89]. LDM：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1Av7q6dEKW",
+    "papers": [
+      {
+        "paper_title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+        "paper_link": "https://arxiv.org/pdf/2112.10752.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 88,
     "video_title": "[88]. DiffusionBeatGANs：论文精读【每天一个宝藏论文】",
     "bvid": "BV1kv7q6REEK",

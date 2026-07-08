@@ -1,4 +1,46 @@
 # 宝藏论文链接大全
+### [94]. BPE：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1kv7q6REeS](https://www.bilibili.com/video/BV1kv7q6REeS)
+
+- 阅读论文：[Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/pdf/1508.07909.pdf)
+
+---
+
+### [93]. PyTorch_2：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1kv7q6RE7a](https://www.bilibili.com/video/BV1kv7q6RE7a)
+
+- 阅读论文：[PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode Transformation and Graph Compilation](https://pytorch.org/assets/pytorch2-2.pdf)
+
+---
+
+### [92]. TVM：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1kv7q6REVg](https://www.bilibili.com/video/BV1kv7q6REVg)
+
+- 阅读论文：[TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://arxiv.org/pdf/1802.04799.pdf)
+
+---
+
+### [91]. ConsistencyModels：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1wv7q6dEtL](https://www.bilibili.com/video/BV1wv7q6dEtL)
+
+- 阅读论文：[Consistency Models](https://arxiv.org/pdf/2303.01469.pdf)
+
+---
+
+### [90]. EDM：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1kv7q6REvQ](https://www.bilibili.com/video/BV1kv7q6REvQ)
+
+- 阅读论文：[Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/pdf/2206.00364.pdf)
+
+---
+
+### [89]. LDM：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1Av7q6dEKW](https://www.bilibili.com/video/BV1Av7q6dEKW)
+
+- 阅读论文：[High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752.pdf)
+
+---
+
 ### [88]. DiffusionBeatGANs：论文精读【每天一个宝藏论文】
 - 观看视频：[BV1kv7q6REEK](https://www.bilibili.com/video/BV1kv7q6REEK)
 

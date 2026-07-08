@@ -1,5 +1,77 @@
 [
   {
+    "bvid": "BV1rJTb6qEYr",
+    "title": "163. 张量并行中的列并行和行并行是如何切分W和X矩阵的？【每天一个宝藏问题】",
+    "created": 1783512000,
+    "pic": "http://i0.hdslb.com/bfs/archive/f6d005e847618f910fa5f0a09674c52f97ea7992.png"
+  },
+  {
+    "bvid": "BV1kv7q6REeS",
+    "title": "[94]. BPE：论文精读【每天一个宝藏论文】",
+    "created": 1783512000,
+    "pic": "http://i2.hdslb.com/bfs/archive/d5ff604332451c7d574d4988f2cf21ab90c84420.png"
+  },
+  {
+    "bvid": "BV1tWTj6jEGU",
+    "title": "162. 如何可视化GEMM？【每天一个宝藏问题】",
+    "created": 1783425600,
+    "pic": "http://i0.hdslb.com/bfs/archive/74ffc470be8726e25924d0cdf2271a7605c0bf41.png"
+  },
+  {
+    "bvid": "BV1kv7q6RE7a",
+    "title": "[93]. PyTorch_2：论文精读【每天一个宝藏论文】",
+    "created": 1783425600,
+    "pic": "http://i2.hdslb.com/bfs/archive/45a65ac6f82a3f432a847eefdd441e9a3299dd78.png"
+  },
+  {
+    "bvid": "BV1foTi6sEyH",
+    "title": "161. MoE每个token都要选专家，那prefill要如何并行？【每天一个宝藏问题】",
+    "created": 1783339200,
+    "pic": "http://i2.hdslb.com/bfs/archive/2346320c1cc4e3adb0af2cd6f3191221d236b210.png"
+  },
+  {
+    "bvid": "BV1kv7q6REVg",
+    "title": "[92]. TVM：论文精读【每天一个宝藏论文】",
+    "created": 1783339200,
+    "pic": "http://i2.hdslb.com/bfs/archive/275da05f3e26afa05d170435e9fbae958f993273.png"
+  },
+  {
+    "bvid": "BV1YCTY6qEMZ",
+    "title": "160. 如何对注意力头剪枝？【每天一个宝藏问题】",
+    "created": 1783252800,
+    "pic": "http://i1.hdslb.com/bfs/archive/edcf022d6914ac7061e7a886ed1f89f2dc01f4e4.png"
+  },
+  {
+    "bvid": "BV1wv7q6dEtL",
+    "title": "[91]. ConsistencyModels：论文精读【每天一个宝藏论文】",
+    "created": 1783252800,
+    "pic": "http://i2.hdslb.com/bfs/archive/124a95dfac46a75d4a75aa48ef935f7d0f295838.png"
+  },
+  {
+    "bvid": "BV1rtTc6tEqd",
+    "title": "159. 如何可视化MTP？【每天一个宝藏问题】",
+    "created": 1783166400,
+    "pic": "http://i1.hdslb.com/bfs/archive/fe0cd97dfcb5e655a2580a312dda5ea6f59a0a7d.png"
+  },
+  {
+    "bvid": "BV1kv7q6REvQ",
+    "title": "[90]. EDM：论文精读【每天一个宝藏论文】",
+    "created": 1783166400,
+    "pic": "http://i0.hdslb.com/bfs/archive/19e7d1101480c3cb99d60b2337354e5ad27de506.png"
+  },
+  {
+    "bvid": "BV18e7p6FEeD",
+    "title": "158. 最简单的含RoPE的Transformer可视化有多简单？【每天一个宝藏问题】",
+    "created": 1783080000,
+    "pic": "http://i1.hdslb.com/bfs/archive/e95da146bd8dc82d95d74b8211cc7fe3a56c65e1.png"
+  },
+  {
+    "bvid": "BV1Av7q6dEKW",
+    "title": "[89]. LDM：论文精读【每天一个宝藏论文】",
+    "created": 1783080000,
+    "pic": "http://i0.hdslb.com/bfs/archive/d5210eca5f07606735ba83a76be92116f5da045d.png"
+  },
+  {
     "bvid": "BV13e7p6cEF4",
     "title": "157. 为什么Adam除以√vt让稳定的梯度项归一化，振荡的梯度项归零化【每天一个宝藏问题】",
     "created": 1782993600,
