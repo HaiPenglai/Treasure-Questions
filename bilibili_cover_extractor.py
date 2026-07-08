@@ -25,6 +25,7 @@ OUTPUT_DIR = "assets"
 BV_LIST_FILE = "bv_list.json"
 README_FILE = "README.md"
 CREDENTIAL_FILE = "credential.json"
+QUESTIONS_LIST_FILE = os.path.join("宝藏资源链接大全", "宝藏问题大全.md")
 
 # 尝试读取登录凭证（如果存在）
 def load_credential():
@@ -103,8 +104,14 @@ def simplify_title(title: str) -> str:
     # 去掉所有分类标签
     for keyword in CATEGORIES.values():
         title = re.sub(rf'【{keyword}】', '', title)
-        title = re.sub(rf'\[每天一个[^\]]+\]', '', title)
-        title = re.sub(rf'\[每周一个[^\]]+\]', '', title)
+    
+    # 去掉【每天一个...】和【每周一个...】后缀（兼容中文方括号）
+    title = re.sub(r'【每天一个[^】]*】', '', title)
+    title = re.sub(r'【每周一个[^】]*】', '', title)
+    
+    # 去掉英文方括号版本
+    title = re.sub(rf'\[每天一个[^\]]+\]', '', title)
+    title = re.sub(rf'\[每周一个[^\]]+\]', '', title)
     
     # 清理首尾空格
     return title.strip()
@@ -492,6 +499,24 @@ def update_readme(bv_list):
     print(f"[README] 已更新 {README_FILE}")
 
 
+def update_question_list(bv_list):
+    """更新宝藏问题大全.md：按序号升序列出所有宝藏问题，去掉【每天一个宝藏问题】后缀"""
+    questions = [item for item in bv_list if "宝藏问题" in item["title"]]
+    questions.sort(key=lambda x: extract_number(x["title"]))
+    
+    lines = []
+    for item in questions:
+        title = simplify_title(item["title"])
+        if title:
+            lines.append(title)
+    
+    os.makedirs(os.path.dirname(QUESTIONS_LIST_FILE), exist_ok=True)
+    with open(QUESTIONS_LIST_FILE, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
+    
+    print(f"[Questions] 已更新 {QUESTIONS_LIST_FILE}，共 {len(lines)} 个问题")
+
+
 async def main():
     ensure_dir()
     
@@ -546,6 +571,10 @@ async def main():
     # 步骤3：更新 README.md（每次都会刷新，无论是否有新下载）
     if bv_list:
         update_readme(bv_list)
+    
+    # 步骤4：更新宝藏问题大全.md
+    if bv_list:
+        update_question_list(bv_list)
 
 
 if __name__ == "__main__":
