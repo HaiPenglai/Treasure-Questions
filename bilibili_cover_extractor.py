@@ -26,6 +26,7 @@ BV_LIST_FILE = "bv_list.json"
 README_FILE = "README.md"
 CREDENTIAL_FILE = "credential.json"
 QUESTIONS_LIST_FILE = os.path.join("宝藏资源链接大全", "宝藏问题大全.md")
+PAPERS_LIST_FILE = os.path.join("宝藏资源链接大全", "宝藏论文大全.md")
 
 # 尝试读取登录凭证（如果存在）
 def load_credential():
@@ -517,6 +518,42 @@ def update_question_list(bv_list):
     print(f"[Questions] 已更新 {QUESTIONS_LIST_FILE}，共 {len(lines)} 个问题")
 
 
+def update_paper_list(bv_list):
+    """更新宝藏论文大全.md：按序号升序列出所有宝藏论文，去掉中括号和论文精读/解读等后缀"""
+    papers = [item for item in bv_list if "宝藏论文" in item["title"]]
+    papers.sort(key=lambda x: extract_number(x["title"]))
+    
+    lines = []
+    for item in papers:
+        title = item["title"]
+        
+        # 去掉【每天/每周一个宝藏论文】后缀（中文方括号）
+        title = re.sub(r'【每天一个[^】]*】', '', title)
+        title = re.sub(r'【每周一个[^】]*】', '', title)
+        # 去掉[每天/每周一个...]后缀（英文方括号）
+        title = re.sub(r'\[每天一个[^\]]*\]', '', title)
+        title = re.sub(r'\[每周一个[^\]]*\]', '', title)
+        # 去掉：论文精读 / ：论文解读 等后缀（冒号可省略）
+        title = re.sub(r'[:：]?\s*(论文精读|论文解读)\s*$', '', title)
+        
+        # 提取序号
+        num = extract_number(title)
+        
+        # 去掉开头的序号和中括号，如 [13]、［13］、【13】、13.、13、等
+        title = re.sub(r'^[\[【［]\d+[\]】］][\.\s、]*\s*', '', title)
+        title = re.sub(r'^\d+[\.\s、：:]\s*', '', title)
+        title = title.strip(' \t\n\r：:.')
+        
+        if title:
+            lines.append(f"{num} {title}")
+    
+    os.makedirs(os.path.dirname(PAPERS_LIST_FILE), exist_ok=True)
+    with open(PAPERS_LIST_FILE, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
+    
+    print(f"[Papers] 已更新 {PAPERS_LIST_FILE}，共 {len(lines)} 篇论文")
+
+
 async def main():
     ensure_dir()
     
@@ -575,6 +612,10 @@ async def main():
     # 步骤4：更新宝藏问题大全.md
     if bv_list:
         update_question_list(bv_list)
+    
+    # 步骤5：更新宝藏论文大全.md
+    if bv_list:
+        update_paper_list(bv_list)
 
 
 if __name__ == "__main__":
