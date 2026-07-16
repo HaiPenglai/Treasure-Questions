@@ -1,5 +1,93 @@
 [
   {
+    "video_id": 102,
+    "video_title": "[102]. ReAct：Agent经典论文精读【每天一个宝藏论文】",
+    "bvid": "BV1FRTi6oEz2",
+    "papers": [
+      {
+        "paper_title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "paper_link": "https://arxiv.org/pdf/2210.03629.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 101,
+    "video_title": "[101]. H2O：KV缓存压缩论文精读【每天一个宝藏论文】",
+    "bvid": "BV1ktTc6tEce",
+    "papers": [
+      {
+        "paper_title": "H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models",
+        "paper_link": "https://arxiv.org/pdf/2306.14048.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 100,
+    "video_title": "[100]. FlashDecoding的改进：FlashDecoding++论文精读【每天一个宝藏论文】",
+    "bvid": "BV1rtTc6tEen",
+    "papers": [
+      {
+        "paper_title": "FlashDecoding++: Faster Large Language Model Inference on GPUs",
+        "paper_link": "https://arxiv.org/pdf/2311.01282.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 99,
+    "video_title": "[99]. Medusa：投机解码和树形注意力论文精读【每天一个宝藏论文】",
+    "bvid": "BV1NsKQ6zENp",
+    "papers": [
+      {
+        "paper_title": "Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads",
+        "paper_link": "https://arxiv.org/pdf/2401.10774.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 98,
+    "video_title": "[98]. TurboQuant：KV Cache量化论文精读【每天一个宝藏论文】",
+    "bvid": "BV11sKQ6zEFj",
+    "papers": [
+      {
+        "paper_title": "TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate",
+        "paper_link": "https://arxiv.org/pdf/2504.19874.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 97,
+    "video_title": "[97]. RaBitQ的改进工作：论文精读【每天一个宝藏论文】",
+    "bvid": "BV18e7p6FEU6",
+    "papers": [
+      {
+        "paper_title": "Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search",
+        "paper_link": "https://arxiv.org/pdf/2409.09913.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 96,
+    "video_title": "[96]. Mamba_2：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1Av7q6dEpF",
+    "papers": [
+      {
+        "paper_title": "Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality",
+        "paper_link": "https://arxiv.org/pdf/2405.21060.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 95,
+    "video_title": "[95]. SAM_2：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1kv7q6RELS",
+    "papers": [
+      {
+        "paper_title": "SAM 2: Segment Anything in Images and Videos",
+        "paper_link": "https://arxiv.org/pdf/2408.00714.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 94,
     "video_title": "[94]. BPE：论文精读【每天一个宝藏论文】",
     "bvid": "BV1kv7q6REeS",

@@ -1,5 +1,101 @@
 [
   {
+    "bvid": "BV1MRTd6bEbH",
+    "title": "171. 如何可视化 DeepSeek MLA（简化版）？【每天一个宝藏问题】",
+    "created": 1784203200,
+    "pic": "http://i2.hdslb.com/bfs/archive/c5c446e274b40d045c05736fb2727083ac71e0be.jpg"
+  },
+  {
+    "bvid": "BV1FRTi6oEz2",
+    "title": "[102]. ReAct：Agent经典论文精读【每天一个宝藏论文】",
+    "created": 1784203200,
+    "pic": "http://i2.hdslb.com/bfs/archive/638281863c6536a9f264309657a1d713ffa02809.png"
+  },
+  {
+    "bvid": "BV1hETD6mERB",
+    "title": "170. vLLM 投机解码首token合并 prefill 这个小技巧是怎么来的？【每天一个宝藏问题】",
+    "created": 1784116800,
+    "pic": "http://i0.hdslb.com/bfs/archive/cc50ec92bf0c47f71cf5f461195b3513f140f9fe.png"
+  },
+  {
+    "bvid": "BV1ktTc6tEce",
+    "title": "[101]. H2O：KV缓存压缩论文精读【每天一个宝藏论文】",
+    "created": 1784116800,
+    "pic": "http://i2.hdslb.com/bfs/archive/7f3843b717ce54f16253f5a7947fb34ef8dbd04c.png"
+  },
+  {
+    "bvid": "BV1aDMu6BEDb",
+    "title": "169. MTP为什么能一次预测多个未来 token？【每天一个宝藏问题】",
+    "created": 1784030400,
+    "pic": "http://i1.hdslb.com/bfs/archive/abc91f3317c47984eacf46945d639d51dd6a0e9d.png"
+  },
+  {
+    "bvid": "BV1rtTc6tEen",
+    "title": "[100]. FlashDecoding的改进：FlashDecoding++论文精读【每天一个宝藏论文】",
+    "created": 1784030400,
+    "pic": "http://i1.hdslb.com/bfs/archive/40dea396add967dcec35e765f8206c3fb018f1af.png"
+  },
+  {
+    "bvid": "BV1zTMP6YEqg",
+    "title": "168. Megatron张量并行如何用列切分加行切分降低FFN层的通信？【每天一个宝藏问题】",
+    "created": 1783944000,
+    "pic": "http://i0.hdslb.com/bfs/archive/57d3160713add65eedbaa037f8850144ef90d86e.png"
+  },
+  {
+    "bvid": "BV1NsKQ6zENp",
+    "title": "[99]. Medusa：投机解码和树形注意力论文精读【每天一个宝藏论文】",
+    "created": 1783944000,
+    "pic": "http://i0.hdslb.com/bfs/archive/e83c66a0d297d59e2792900aa23a23318119f5b0.png"
+  },
+  {
+    "bvid": "BV1fTMP6YEtZ",
+    "title": "167. 为什么KL散度非负和信息熵是最优码长这两件事是等价的？【每天一个宝藏问题】",
+    "created": 1783857600,
+    "pic": "http://i1.hdslb.com/bfs/archive/2f465614dd66607b9f471681e83990b32b8b5a40.png"
+  },
+  {
+    "bvid": "BV11sKQ6zEFj",
+    "title": "[98]. TurboQuant：KV Cache量化论文精读【每天一个宝藏论文】",
+    "created": 1783857600,
+    "pic": "http://i2.hdslb.com/bfs/archive/54c3d70b13c9745456f2a2b8ca4b636d1f1e0729.png"
+  },
+  {
+    "bvid": "BV1WzMP6rEN6",
+    "title": "166. 如何用双缓冲优化GEMM？【每天一个宝藏问题】",
+    "created": 1783771200,
+    "pic": "http://i1.hdslb.com/bfs/archive/e73751c283f508fd29d55a9e78fcf2d311efd7d4.png"
+  },
+  {
+    "bvid": "BV18e7p6FEU6",
+    "title": "[97]. RaBitQ的改进工作：论文精读【每天一个宝藏论文】",
+    "created": 1783771200,
+    "pic": "http://i2.hdslb.com/bfs/archive/ad433a4db23492a513365bf8aeeca9f4be30db4b.png"
+  },
+  {
+    "bvid": "BV1AzMP6kE62",
+    "title": "165. 残差连接在Transformer反向传播中可视化出来是什么样的？【每天一个宝藏问题】",
+    "created": 1783684800,
+    "pic": "http://i2.hdslb.com/bfs/archive/282013250a106fd7d9d07107d884a75525273003.png"
+  },
+  {
+    "bvid": "BV1Av7q6dEpF",
+    "title": "[96]. Mamba_2：论文精读【每天一个宝藏论文】",
+    "created": 1783684800,
+    "pic": "http://i1.hdslb.com/bfs/archive/5f65206b4925a0b26cc72013578376fca6098108.png"
+  },
+  {
+    "bvid": "BV1AzMP6rE61",
+    "title": "164. 为什么环形All-Reduce 时，4卡和128卡单卡通信量差不多？【每天一个宝藏问题】",
+    "created": 1783598400,
+    "pic": "http://i0.hdslb.com/bfs/archive/1f8a6e69f6bad7d14bd34d74c6faf4632c3f7238.png"
+  },
+  {
+    "bvid": "BV1kv7q6RELS",
+    "title": "[95]. SAM_2：论文精读【每天一个宝藏论文】",
+    "created": 1783598400,
+    "pic": "http://i2.hdslb.com/bfs/archive/63cf6441dac2a38c693ac9b1fc4ba1498c9c8403.png"
+  },
+  {
     "bvid": "BV1rJTb6qEYr",
     "title": "163. 张量并行中的列并行和行并行是如何切分W和X矩阵的？【每天一个宝藏问题】",
     "created": 1783512000,

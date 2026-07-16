@@ -1,4 +1,60 @@
 # 宝藏论文链接大全
+### [102]. ReAct：Agent经典论文精读【每天一个宝藏论文】
+- 观看视频：[BV1FRTi6oEz2](https://www.bilibili.com/video/BV1FRTi6oEz2)
+
+- 阅读论文：[ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/pdf/2210.03629.pdf)
+
+---
+
+### [101]. H2O：KV缓存压缩论文精读【每天一个宝藏论文】
+- 观看视频：[BV1ktTc6tEce](https://www.bilibili.com/video/BV1ktTc6tEce)
+
+- 阅读论文：[H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models](https://arxiv.org/pdf/2306.14048.pdf)
+
+---
+
+### [100]. FlashDecoding的改进：FlashDecoding++论文精读【每天一个宝藏论文】
+- 观看视频：[BV1rtTc6tEen](https://www.bilibili.com/video/BV1rtTc6tEen)
+
+- 阅读论文：[FlashDecoding++: Faster Large Language Model Inference on GPUs](https://arxiv.org/pdf/2311.01282.pdf)
+
+---
+
+### [99]. Medusa：投机解码和树形注意力论文精读【每天一个宝藏论文】
+- 观看视频：[BV1NsKQ6zENp](https://www.bilibili.com/video/BV1NsKQ6zENp)
+
+- 阅读论文：[Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](https://arxiv.org/pdf/2401.10774.pdf)
+
+---
+
+### [98]. TurboQuant：KV Cache量化论文精读【每天一个宝藏论文】
+- 观看视频：[BV11sKQ6zEFj](https://www.bilibili.com/video/BV11sKQ6zEFj)
+
+- 阅读论文：[TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate](https://arxiv.org/pdf/2504.19874.pdf)
+
+---
+
+### [97]. RaBitQ的改进工作：论文精读【每天一个宝藏论文】
+- 观看视频：[BV18e7p6FEU6](https://www.bilibili.com/video/BV18e7p6FEU6)
+
+- 阅读论文：[Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search](https://arxiv.org/pdf/2409.09913.pdf)
+
+---
+
+### [96]. Mamba_2：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1Av7q6dEpF](https://www.bilibili.com/video/BV1Av7q6dEpF)
+
+- 阅读论文：[Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality](https://arxiv.org/pdf/2405.21060.pdf)
+
+---
+
+### [95]. SAM_2：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1kv7q6RELS](https://www.bilibili.com/video/BV1kv7q6RELS)
+
+- 阅读论文：[SAM 2: Segment Anything in Images and Videos](https://arxiv.org/pdf/2408.00714.pdf)
+
+---
+
 ### [94]. BPE：论文精读【每天一个宝藏论文】
 - 观看视频：[BV1kv7q6REeS](https://www.bilibili.com/video/BV1kv7q6REeS)
 
