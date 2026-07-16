@@ -5,6 +5,8 @@
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
 - **迄今为止**：已经整理了**140**个宝藏问题`手稿`和**87**篇宝藏论文的`参考文献`。
 
+测试相对路径：F:\project-shadow\Treasure-Questions\assets\questions\BV1a89kB3EVu.jpg
+
 ## 每天一个宝藏问题
 
 ### 163. 张量并行中的列并行和行并行是如何切分W和X矩阵的？【每天一个宝藏问题】
