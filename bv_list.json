@@ -1,5 +1,89 @@
 [
   {
+    "bvid": "BV1XEKG6gERb",
+    "title": "178. 如何在SRAM和寄存器两个层级同时使用双缓冲优化GEMM？【每天一个宝藏问题】",
+    "created": 1784808000,
+    "pic": "http://i1.hdslb.com/bfs/archive/47e398fc9b781ce4996b4ad452a9a5e2a626e084.png"
+  },
+  {
+    "bvid": "BV1eKMn6MEMr",
+    "title": "[109]. AdamW：论文精读【每天一个宝藏论文】",
+    "created": 1784808000,
+    "pic": "http://i0.hdslb.com/bfs/archive/87a35db56896cee5a7150cd72d21f464e40674ad.png"
+  },
+  {
+    "bvid": "BV1GEKG63EUT",
+    "title": "177. Megatron张量并行如何用列切分加行切分降低注意力层的通信？【每天一个宝藏问题】",
+    "created": 1784721600,
+    "pic": "http://i1.hdslb.com/bfs/archive/9e13d31fb7ecc85242399220549646dce195a4f3.png"
+  },
+  {
+    "bvid": "BV1HtME6LEWp",
+    "title": "[108]. deepseek的NSA：论文精读【每天一个宝藏论文】",
+    "created": 1784721600,
+    "pic": "http://i0.hdslb.com/bfs/archive/951cf6340592b389718de71801980e8169233317.png"
+  },
+  {
+    "bvid": "BV1RVKG6CEhW",
+    "title": "176. 如何可视化交叉注意力【每天一个宝藏问题】",
+    "created": 1784635200,
+    "pic": "http://i0.hdslb.com/bfs/archive/ef675bcac238109f519cbee4ac1af66352e74a1f.png"
+  },
+  {
+    "bvid": "BV1rtME6LEfy",
+    "title": "[107]. 微软的1.58bit量化：论文精读【每天一个宝藏论文】",
+    "created": 1784635200,
+    "pic": "http://i1.hdslb.com/bfs/archive/7d1f0f63973190bb2f3f81a8478b3031f47d902a.png"
+  },
+  {
+    "bvid": "BV1eVKG6CEZH",
+    "title": "175. 如何理解正态分布的多元扩展？【每天一个宝藏问题】",
+    "created": 1784548800,
+    "pic": "http://i0.hdslb.com/bfs/archive/8208599f5ebb6d99300b2a20294da468867c5ae4.png"
+  },
+  {
+    "bvid": "BV1MRME6oE2V",
+    "title": "[106]. RWKV，一种序列模型：论文精读【每天一个宝藏论文】",
+    "created": 1784548800,
+    "pic": "http://i1.hdslb.com/bfs/archive/f63a0e20ab1b38d0b616c8f1d01f7c7f0628dcba.png"
+  },
+  {
+    "bvid": "BV1vAN36BEit",
+    "title": "174. 为什么DDPM加噪相当于90°旋转插值？【每天一个宝藏问题】",
+    "created": 1784462400,
+    "pic": "http://i2.hdslb.com/bfs/archive/aad1ae5eca8dec7232c0e42e3d4cfa891e75286f.jpg"
+  },
+  {
+    "bvid": "BV1MRME6oE3a",
+    "title": "[105]. TTT，一种序列模型：论文精读【每天一个宝藏论文】",
+    "created": 1784462400,
+    "pic": "http://i1.hdslb.com/bfs/archive/1c220980b9c662c2cdde6dfa2b408af8162718ac.png"
+  },
+  {
+    "bvid": "BV1MRME6oEhx",
+    "title": "[104]. kimi的注意力残差：论文精读【每天一个宝藏论文】",
+    "created": 1784376000,
+    "pic": "http://i1.hdslb.com/bfs/archive/d232cbfeec86a433afbac71e3650f01cb4e449ae.png"
+  },
+  {
+    "bvid": "BV1HNM76GEo8",
+    "title": "173. 如何证明任意两句话的公共前缀都有相同的KV Cache？【每天一个宝藏问题】",
+    "created": 1784376000,
+    "pic": "http://i2.hdslb.com/bfs/archive/573d899faace585ef20dde9de0b07a1f226ba6d2.png"
+  },
+  {
+    "bvid": "BV1E9Mb6MEeq",
+    "title": "172. 如何用外积优化GEMM？【每天一个宝藏问题】",
+    "created": 1784289600,
+    "pic": "http://i1.hdslb.com/bfs/archive/4eba7217425d2cf87853f66a09ce0ab045be594c.png"
+  },
+  {
+    "bvid": "BV1cJTb6BE3S",
+    "title": "[103]. Reflexion：Agent经典论文精读【每天一个宝藏论文】",
+    "created": 1784289600,
+    "pic": "http://i1.hdslb.com/bfs/archive/ec6a866fa7a5fda5569cd659aa84eedea96156aa.png"
+  },
+  {
     "bvid": "BV1MRTd6bEbH",
     "title": "171. 如何可视化 DeepSeek MLA（简化版）？【每天一个宝藏问题】",
     "created": 1784203200,

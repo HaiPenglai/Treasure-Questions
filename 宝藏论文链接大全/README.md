@@ -1,4 +1,53 @@
 # 宝藏论文链接大全
+### [109]. AdamW：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1eKMn6MEMr](https://www.bilibili.com/video/BV1eKMn6MEMr)
+
+- 阅读论文：[Decoupled Weight Decay Regularization](https://arxiv.org/pdf/1711.05101.pdf)
+
+---
+
+### [108]. deepseek的NSA：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1HtME6LEWp](https://www.bilibili.com/video/BV1HtME6LEWp)
+
+- 阅读论文：[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/pdf/2502.11089.pdf)
+
+---
+
+### [107]. 微软的1.58bit量化：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1rtME6LEfy](https://www.bilibili.com/video/BV1rtME6LEfy)
+
+- 阅读论文：[The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/pdf/2402.17764.pdf)
+
+---
+
+### [106]. RWKV，一种序列模型：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1MRME6oE2V](https://www.bilibili.com/video/BV1MRME6oE2V)
+
+- 阅读论文：[RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/pdf/2305.13048.pdf)
+
+---
+
+### [105]. TTT，一种序列模型：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1MRME6oE3a](https://www.bilibili.com/video/BV1MRME6oE3a)
+
+- 阅读论文：[Learning to (Learn at Test Time): RNNs with Expressive Hidden States](https://arxiv.org/pdf/2407.04620.pdf)
+
+---
+
+### [104]. kimi的注意力残差：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1MRME6oEhx](https://www.bilibili.com/video/BV1MRME6oEhx)
+
+- 阅读论文：[Attention Residuals](https://arxiv.org/pdf/2603.15031.pdf)
+
+---
+
+### [103]. Reflexion：Agent经典论文精读【每天一个宝藏论文】
+- 观看视频：[BV1cJTb6BE3S](https://www.bilibili.com/video/BV1cJTb6BE3S)
+
+- 阅读论文：[Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/pdf/2303.11366.pdf)
+
+---
+
 ### [102]. ReAct：Agent经典论文精读【每天一个宝藏论文】
 - 观看视频：[BV1FRTi6oEz2](https://www.bilibili.com/video/BV1FRTi6oEz2)
 

@@ -3,9 +3,58 @@
 - **作者**：b站**海安雨**。
 - **使用方法**：点击**宝藏论文链接大全**文件夹可阅读所有论文，点击**观看视频**可跳转到b站视频。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**148**个宝藏问题`手稿`和**95**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**155**个宝藏问题`手稿`和**102**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 178. 如何在SRAM和寄存器两个层级同时使用双缓冲优化GEMM？【每天一个宝藏问题】
+- 观看视频：[视频BV1XEKG6gERb](https://www.bilibili.com/video/BV1XEKG6gERb)
+- 查看封面：[图片BV1XEKG6gERb](./assets/questions/BV1XEKG6gERb.jpg)
+
+[![](./assets/questions/BV1XEKG6gERb.jpg)](https://www.bilibili.com/video/BV1XEKG6gERb)
+---
+
+### 177. Megatron张量并行如何用列切分加行切分降低注意力层的通信？【每天一个宝藏问题】
+- 观看视频：[视频BV1GEKG63EUT](https://www.bilibili.com/video/BV1GEKG63EUT)
+- 查看封面：[图片BV1GEKG63EUT](./assets/questions/BV1GEKG63EUT.jpg)
+
+[![](./assets/questions/BV1GEKG63EUT.jpg)](https://www.bilibili.com/video/BV1GEKG63EUT)
+---
+
+### 176. 如何可视化交叉注意力【每天一个宝藏问题】
+- 观看视频：[视频BV1RVKG6CEhW](https://www.bilibili.com/video/BV1RVKG6CEhW)
+- 查看封面：[图片BV1RVKG6CEhW](./assets/questions/BV1RVKG6CEhW.jpg)
+
+[![](./assets/questions/BV1RVKG6CEhW.jpg)](https://www.bilibili.com/video/BV1RVKG6CEhW)
+---
+
+### 175. 如何理解正态分布的多元扩展？【每天一个宝藏问题】
+- 观看视频：[视频BV1eVKG6CEZH](https://www.bilibili.com/video/BV1eVKG6CEZH)
+- 查看封面：[图片BV1eVKG6CEZH](./assets/questions/BV1eVKG6CEZH.jpg)
+
+[![](./assets/questions/BV1eVKG6CEZH.jpg)](https://www.bilibili.com/video/BV1eVKG6CEZH)
+---
+
+### 174. 为什么DDPM加噪相当于90°旋转插值？【每天一个宝藏问题】
+- 观看视频：[视频BV1vAN36BEit](https://www.bilibili.com/video/BV1vAN36BEit)
+- 查看封面：[图片BV1vAN36BEit](./assets/questions/BV1vAN36BEit.jpg)
+
+[![](./assets/questions/BV1vAN36BEit.jpg)](https://www.bilibili.com/video/BV1vAN36BEit)
+---
+
+### 173. 如何证明任意两句话的公共前缀都有相同的KV Cache？【每天一个宝藏问题】
+- 观看视频：[视频BV1HNM76GEo8](https://www.bilibili.com/video/BV1HNM76GEo8)
+- 查看封面：[图片BV1HNM76GEo8](./assets/questions/BV1HNM76GEo8.jpg)
+
+[![](./assets/questions/BV1HNM76GEo8.jpg)](https://www.bilibili.com/video/BV1HNM76GEo8)
+---
+
+### 172. 如何用外积优化GEMM？【每天一个宝藏问题】
+- 观看视频：[视频BV1E9Mb6MEeq](https://www.bilibili.com/video/BV1E9Mb6MEeq)
+- 查看封面：[图片BV1E9Mb6MEeq](./assets/questions/BV1E9Mb6MEeq.jpg)
+
+[![](./assets/questions/BV1E9Mb6MEeq.jpg)](https://www.bilibili.com/video/BV1E9Mb6MEeq)
+---
 
 ### 171. 如何可视化 DeepSeek MLA（简化版）？【每天一个宝藏问题】
 - 观看视频：[视频BV1MRTd6bEbH](https://www.bilibili.com/video/BV1MRTd6bEbH)
@@ -1207,6 +1256,55 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [109]. AdamW：论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1eKMn6MEMr](https://www.bilibili.com/video/BV1eKMn6MEMr)
+- 查看封面：[图片BV1eKMn6MEMr](./assets/papers/BV1eKMn6MEMr.jpg)
+
+[![](./assets/papers/BV1eKMn6MEMr.jpg)](https://www.bilibili.com/video/BV1eKMn6MEMr)
+---
+
+### [108]. deepseek的NSA：论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1HtME6LEWp](https://www.bilibili.com/video/BV1HtME6LEWp)
+- 查看封面：[图片BV1HtME6LEWp](./assets/papers/BV1HtME6LEWp.jpg)
+
+[![](./assets/papers/BV1HtME6LEWp.jpg)](https://www.bilibili.com/video/BV1HtME6LEWp)
+---
+
+### [107]. 微软的1.58bit量化：论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1rtME6LEfy](https://www.bilibili.com/video/BV1rtME6LEfy)
+- 查看封面：[图片BV1rtME6LEfy](./assets/papers/BV1rtME6LEfy.jpg)
+
+[![](./assets/papers/BV1rtME6LEfy.jpg)](https://www.bilibili.com/video/BV1rtME6LEfy)
+---
+
+### [106]. RWKV，一种序列模型：论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1MRME6oE2V](https://www.bilibili.com/video/BV1MRME6oE2V)
+- 查看封面：[图片BV1MRME6oE2V](./assets/papers/BV1MRME6oE2V.jpg)
+
+[![](./assets/papers/BV1MRME6oE2V.jpg)](https://www.bilibili.com/video/BV1MRME6oE2V)
+---
+
+### [105]. TTT，一种序列模型：论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1MRME6oE3a](https://www.bilibili.com/video/BV1MRME6oE3a)
+- 查看封面：[图片BV1MRME6oE3a](./assets/papers/BV1MRME6oE3a.jpg)
+
+[![](./assets/papers/BV1MRME6oE3a.jpg)](https://www.bilibili.com/video/BV1MRME6oE3a)
+---
+
+### [104]. kimi的注意力残差：论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1MRME6oEhx](https://www.bilibili.com/video/BV1MRME6oEhx)
+- 查看封面：[图片BV1MRME6oEhx](./assets/papers/BV1MRME6oEhx.jpg)
+
+[![](./assets/papers/BV1MRME6oEhx.jpg)](https://www.bilibili.com/video/BV1MRME6oEhx)
+---
+
+### [103]. Reflexion：Agent经典论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1cJTb6BE3S](https://www.bilibili.com/video/BV1cJTb6BE3S)
+- 查看封面：[图片BV1cJTb6BE3S](./assets/papers/BV1cJTb6BE3S.jpg)
+
+[![](./assets/papers/BV1cJTb6BE3S.jpg)](https://www.bilibili.com/video/BV1cJTb6BE3S)
+---
 
 ### [102]. ReAct：Agent经典论文精读【每天一个宝藏论文】
 - 观看视频：[视频BV1FRTi6oEz2](https://www.bilibili.com/video/BV1FRTi6oEz2)

@@ -1,5 +1,82 @@
 [
   {
+    "video_id": 109,
+    "video_title": "[109]. AdamW：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1eKMn6MEMr",
+    "papers": [
+      {
+        "paper_title": "Decoupled Weight Decay Regularization",
+        "paper_link": "https://arxiv.org/pdf/1711.05101.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 108,
+    "video_title": "[108]. deepseek的NSA：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1HtME6LEWp",
+    "papers": [
+      {
+        "paper_title": "Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention",
+        "paper_link": "https://arxiv.org/pdf/2502.11089.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 107,
+    "video_title": "[107]. 微软的1.58bit量化：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1rtME6LEfy",
+    "papers": [
+      {
+        "paper_title": "The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits",
+        "paper_link": "https://arxiv.org/pdf/2402.17764.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 106,
+    "video_title": "[106]. RWKV，一种序列模型：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1MRME6oE2V",
+    "papers": [
+      {
+        "paper_title": "RWKV: Reinventing RNNs for the Transformer Era",
+        "paper_link": "https://arxiv.org/pdf/2305.13048.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 105,
+    "video_title": "[105]. TTT，一种序列模型：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1MRME6oE3a",
+    "papers": [
+      {
+        "paper_title": "Learning to (Learn at Test Time): RNNs with Expressive Hidden States",
+        "paper_link": "https://arxiv.org/pdf/2407.04620.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 104,
+    "video_title": "[104]. kimi的注意力残差：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1MRME6oEhx",
+    "papers": [
+      {
+        "paper_title": "Attention Residuals",
+        "paper_link": "https://arxiv.org/pdf/2603.15031.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 103,
+    "video_title": "[103]. Reflexion：Agent经典论文精读【每天一个宝藏论文】",
+    "bvid": "BV1cJTb6BE3S",
+    "papers": [
+      {
+        "paper_title": "Reflexion: Language Agents with Verbal Reinforcement Learning",
+        "paper_link": "https://arxiv.org/pdf/2303.11366.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 102,
     "video_title": "[102]. ReAct：Agent经典论文精读【每天一个宝藏论文】",
     "bvid": "BV1FRTi6oEz2",
