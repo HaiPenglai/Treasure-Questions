@@ -19,6 +19,13 @@ import asyncio
 import time
 from bilibili_api import user, video
 from bilibili_api.login_v2 import Credential
+from bilibili_api.utils.network import request_settings
+
+# 禁用环境变量中的代理，避免 FlClash 等本地代理中断封面下载
+for _proxy_key in ("HTTP_PROXY", "HTTPS_PROXY", "ALL_PROXY",
+                    "http_proxy", "https_proxy", "all_proxy"):
+    os.environ.pop(_proxy_key, None)
+request_settings.set_trust_env(False)
 
 MID = 2071007724
 OUTPUT_DIR = "assets"
