@@ -1,5 +1,115 @@
 [
   {
+    "video_id": 119,
+    "video_title": "[119]. LookAhead：投机解码论文精读【每天一个宝藏论文】",
+    "bvid": "BV1hrKp6NEp3",
+    "papers": [
+      {
+        "paper_title": "Scaling Speculative Decoding with Lookahead Reasoning",
+        "paper_link": "https://arxiv.org/pdf/2506.19830.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 118,
+    "video_title": "[118]. Rectified Flow：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1hrKp6NEj5",
+    "papers": [
+      {
+        "paper_title": "Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow",
+        "paper_link": "https://arxiv.org/pdf/2209.03003.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 117,
+    "video_title": "[117]. Kimi 的混合线性注意力：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1TUKp6hEi6",
+    "papers": [
+      {
+        "paper_title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
+        "paper_link": "https://arxiv.org/pdf/2510.26692.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 116,
+    "video_title": "[116] Deepseek的DSpark：投机解码论文精读【每天一个宝藏论文】",
+    "bvid": "BV1SCK36PEGX",
+    "papers": [
+      {
+        "paper_title": "DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation",
+        "paper_link": "https://arxiv.org/pdf/2607.05147.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 115,
+    "video_title": "[115] Kimi K3 技术报告：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1uyK36eEcT",
+    "papers": [
+      {
+        "paper_title": "Kimi K3: Open Frontier Intelligence",
+        "paper_link": "https://arxiv.org/pdf/2607.24653.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 114,
+    "video_title": "[114]. DiT：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1UyK36YED6",
+    "papers": [
+      {
+        "paper_title": "Scalable Diffusion Models with Transformers",
+        "paper_link": "https://arxiv.org/pdf/2212.09748.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 113,
+    "video_title": "[113]. GRU：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1LwN36uEbV",
+    "papers": [
+      {
+        "paper_title": "Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation",
+        "paper_link": "https://arxiv.org/pdf/1406.1078.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 112,
+    "video_title": "[112]. SAM 3：论文精读【每天一个宝藏论文】",
+    "bvid": "BV15wN36uEXx",
+    "papers": [
+      {
+        "paper_title": "SAM 3: Segment Anything with Concepts",
+        "paper_link": "https://arxiv.org/pdf/2511.16719.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 111,
+    "video_title": "[111]. Stable Diffusion：论文精读【每天一个宝藏论文】",
+    "bvid": "BV19AN36iE8n",
+    "papers": [
+      {
+        "paper_title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+        "paper_link": "https://arxiv.org/pdf/2112.10752.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 110,
+    "video_title": "[110]. EAGLE：投机解码论文精读【每天一个宝藏论文】",
+    "bvid": "BV1BZMJ6CEa6",
+    "papers": [
+      {
+        "paper_title": "EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty",
+        "paper_link": "https://arxiv.org/pdf/2401.15077.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 109,
     "video_title": "[109]. AdamW：论文精读【每天一个宝藏论文】",
     "bvid": "BV1eKMn6MEMr",

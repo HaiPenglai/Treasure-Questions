@@ -1,5 +1,125 @@
 [
   {
+    "bvid": "BV1Qz3g61EAe",
+    "title": "188. 预训练和SFT产生的初始梯度有何不同？【每天一个宝藏问题】",
+    "created": 1785672000,
+    "pic": "http://i0.hdslb.com/bfs/archive/28e4a57fea0e6416f0d58cd8b0f8c6317c85cf19.png"
+  },
+  {
+    "bvid": "BV1hrKp6NEp3",
+    "title": "[119]. LookAhead：投机解码论文精读【每天一个宝藏论文】",
+    "created": 1785672000,
+    "pic": "http://i2.hdslb.com/bfs/archive/90da77a1f6ff325786b4f2fd9a60ab9370056037.png"
+  },
+  {
+    "bvid": "BV19s3K6zEXQ",
+    "title": "187. 为什么MLA无需显式解压Q和K？【每天一个宝藏问题】",
+    "created": 1785585600,
+    "pic": "http://i1.hdslb.com/bfs/archive/f9115995595bb8b19067278aa227fbb9466b680b.png"
+  },
+  {
+    "bvid": "BV1hrKp6NEj5",
+    "title": "[118]. Rectified Flow：论文精读【每天一个宝藏论文】",
+    "created": 1785585600,
+    "pic": "http://i1.hdslb.com/bfs/archive/9cbe459ec0de5f8840b1e54f83aa20eb80e9231e.png"
+  },
+  {
+    "bvid": "BV1G2gh6BEg6",
+    "title": "186. 为什么交叉熵梯度相当于特殊的策略梯度？【每天一个宝藏问题】",
+    "created": 1785499200,
+    "pic": "http://i2.hdslb.com/bfs/archive/515352105662e9161bf404fd372af1e53ac6562a.png"
+  },
+  {
+    "bvid": "BV1TUKp6hEi6",
+    "title": "[117]. Kimi 的混合线性注意力：论文精读【每天一个宝藏论文】",
+    "created": 1785499200,
+    "pic": "http://i1.hdslb.com/bfs/archive/3c0567615ff3f8a33cc981ee73521a6f62e75c0c.png"
+  },
+  {
+    "bvid": "BV1qBKb6hEkq",
+    "title": "185. 如何可视化kimi的注意力残差？【每天一个宝藏问题】",
+    "created": 1785412800,
+    "pic": "http://i0.hdslb.com/bfs/archive/e50b839da2dfc31abca93d84fc656a6bae39ce15.jpg"
+  },
+  {
+    "bvid": "BV1SCK36PEGX",
+    "title": "[116] Deepseek的DSpark：投机解码论文精读【每天一个宝藏论文】",
+    "created": 1785412800,
+    "pic": "http://i1.hdslb.com/bfs/archive/410b151b174997c7819dedc619361b88fb86a813.jpg"
+  },
+  {
+    "bvid": "BV1LvKw6UEuM",
+    "title": "184. 一口气看完：正态分布，梯度下降、泰勒展开一元推广到多元【每天一个宝藏问题】",
+    "created": 1785326400,
+    "pic": "http://i0.hdslb.com/bfs/archive/d61ee01efdf7f103ddd7b1e80b91f81457c3076f.png"
+  },
+  {
+    "bvid": "BV1uyK36eEcT",
+    "title": "[115] Kimi K3 技术报告：论文精读【每天一个宝藏论文】",
+    "created": 1785326400,
+    "pic": "http://i0.hdslb.com/bfs/archive/d13aeeb0ebaa7f9c2547dc795b92ca8af9d1c316.jpg"
+  },
+  {
+    "bvid": "BV1byK36eEUT",
+    "title": "183. 为什么注意力要除以√dk而不是√d model【每天一个宝藏问题】",
+    "created": 1785240000,
+    "pic": "http://i2.hdslb.com/bfs/archive/5afac55f49ec9c26d1f806908e900056cd46c8cc.png"
+  },
+  {
+    "bvid": "BV1UyK36YED6",
+    "title": "[114]. DiT：论文精读【每天一个宝藏论文】",
+    "created": 1785240000,
+    "pic": "http://i0.hdslb.com/bfs/archive/600a3c1f8bb979a9dc3635bc7fa533761070fd6a.png"
+  },
+  {
+    "bvid": "BV1UyK36YE3Z",
+    "title": "182. 如何可视化知识蒸馏？【每天一个宝藏问题】",
+    "created": 1785153600,
+    "pic": "http://i2.hdslb.com/bfs/archive/1187b36e60b5748a925212c7950890726cb8953d.png"
+  },
+  {
+    "bvid": "BV1LwN36uEbV",
+    "title": "[113]. GRU：论文精读【每天一个宝藏论文】",
+    "created": 1785153600,
+    "pic": "http://i2.hdslb.com/bfs/archive/94b92a48f5b9dc32dc24fdc663d535535403a604.png"
+  },
+  {
+    "bvid": "BV1YjKG6rEhy",
+    "title": "181. 为什么 DDPM 加噪旋转角是不均匀的？【每天一个宝藏问题】",
+    "created": 1785067200,
+    "pic": "http://i0.hdslb.com/bfs/archive/12608307742d91c0c0ff28f6332230918cf7dae5.png"
+  },
+  {
+    "bvid": "BV15wN36uEXx",
+    "title": "[112]. SAM 3：论文精读【每天一个宝藏论文】",
+    "created": 1785067200,
+    "pic": "http://i2.hdslb.com/bfs/archive/3526accd898b73d231fa7aa6a0fe90b5f62ca32c.png"
+  },
+  {
+    "bvid": "BV1VjKG6kEpR",
+    "title": "180. 向量如何对向量求导？推广到矩阵、张量呢？【每天一个宝藏问题】",
+    "created": 1784980800,
+    "pic": "http://i1.hdslb.com/bfs/archive/911ccd9c573f719cb68d26448283579c3936f7c0.png"
+  },
+  {
+    "bvid": "BV19AN36iE8n",
+    "title": "[111]. Stable Diffusion：论文精读【每天一个宝藏论文】",
+    "created": 1784980800,
+    "pic": "http://i2.hdslb.com/bfs/archive/dd7c921e47cccbf6b5d4fa6e547d26297c99de1f.png"
+  },
+  {
+    "bvid": "BV1GEKG6uEgV",
+    "title": "179. 如何用高中导数证明 KL 散度非负？【每天一个宝藏问题】",
+    "created": 1784894400,
+    "pic": "http://i2.hdslb.com/bfs/archive/1cf5ecce5240bedb2f60cd9f3d9ed4bbb6e6e65d.png"
+  },
+  {
+    "bvid": "BV1BZMJ6CEa6",
+    "title": "[110]. EAGLE：投机解码论文精读【每天一个宝藏论文】",
+    "created": 1784894400,
+    "pic": "http://i1.hdslb.com/bfs/archive/4000981ebfdb03895ce1bec8314bb517d0097c21.png"
+  },
+  {
     "bvid": "BV1XEKG6gERb",
     "title": "178. 如何在SRAM和寄存器两个层级同时使用双缓冲优化GEMM？【每天一个宝藏问题】",
     "created": 1784808000,

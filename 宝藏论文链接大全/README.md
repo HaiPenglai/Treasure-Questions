@@ -1,4 +1,74 @@
 # 宝藏论文链接大全
+### [119]. LookAhead：投机解码论文精读【每天一个宝藏论文】
+- 观看视频：[BV1hrKp6NEp3](https://www.bilibili.com/video/BV1hrKp6NEp3)
+
+- 阅读论文：[Scaling Speculative Decoding with Lookahead Reasoning](https://arxiv.org/pdf/2506.19830.pdf)
+
+---
+
+### [118]. Rectified Flow：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1hrKp6NEj5](https://www.bilibili.com/video/BV1hrKp6NEj5)
+
+- 阅读论文：[Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow](https://arxiv.org/pdf/2209.03003.pdf)
+
+---
+
+### [117]. Kimi 的混合线性注意力：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1TUKp6hEi6](https://www.bilibili.com/video/BV1TUKp6hEi6)
+
+- 阅读论文：[Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/pdf/2510.26692.pdf)
+
+---
+
+### [116] Deepseek的DSpark：投机解码论文精读【每天一个宝藏论文】
+- 观看视频：[BV1SCK36PEGX](https://www.bilibili.com/video/BV1SCK36PEGX)
+
+- 阅读论文：[DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation](https://arxiv.org/pdf/2607.05147.pdf)
+
+---
+
+### [115] Kimi K3 技术报告：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1uyK36eEcT](https://www.bilibili.com/video/BV1uyK36eEcT)
+
+- 阅读论文：[Kimi K3: Open Frontier Intelligence](https://arxiv.org/pdf/2607.24653.pdf)
+
+---
+
+### [114]. DiT：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1UyK36YED6](https://www.bilibili.com/video/BV1UyK36YED6)
+
+- 阅读论文：[Scalable Diffusion Models with Transformers](https://arxiv.org/pdf/2212.09748.pdf)
+
+---
+
+### [113]. GRU：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1LwN36uEbV](https://www.bilibili.com/video/BV1LwN36uEbV)
+
+- 阅读论文：[Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078.pdf)
+
+---
+
+### [112]. SAM 3：论文精读【每天一个宝藏论文】
+- 观看视频：[BV15wN36uEXx](https://www.bilibili.com/video/BV15wN36uEXx)
+
+- 阅读论文：[SAM 3: Segment Anything with Concepts](https://arxiv.org/pdf/2511.16719.pdf)
+
+---
+
+### [111]. Stable Diffusion：论文精读【每天一个宝藏论文】
+- 观看视频：[BV19AN36iE8n](https://www.bilibili.com/video/BV19AN36iE8n)
+
+- 阅读论文：[High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752.pdf)
+
+---
+
+### [110]. EAGLE：投机解码论文精读【每天一个宝藏论文】
+- 观看视频：[BV1BZMJ6CEa6](https://www.bilibili.com/video/BV1BZMJ6CEa6)
+
+- 阅读论文：[EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty](https://arxiv.org/pdf/2401.15077.pdf)
+
+---
+
 ### [109]. AdamW：论文精读【每天一个宝藏论文】
 - 观看视频：[BV1eKMn6MEMr](https://www.bilibili.com/video/BV1eKMn6MEMr)
 

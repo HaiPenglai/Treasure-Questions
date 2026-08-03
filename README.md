@@ -3,9 +3,79 @@
 - **作者**：b站**海安雨**。
 - **使用方法**：点击**宝藏论文链接大全**文件夹可阅读所有论文，点击**观看视频**可跳转到b站视频。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**155**个宝藏问题`手稿`和**102**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**165**个宝藏问题`手稿`和**112**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 188. 预训练和SFT产生的初始梯度有何不同？【每天一个宝藏问题】
+- 观看视频：[视频BV1Qz3g61EAe](https://www.bilibili.com/video/BV1Qz3g61EAe)
+- 查看封面：[图片BV1Qz3g61EAe](./assets/questions/BV1Qz3g61EAe.jpg)
+
+[![](./assets/questions/BV1Qz3g61EAe.jpg)](https://www.bilibili.com/video/BV1Qz3g61EAe)
+---
+
+### 187. 为什么MLA无需显式解压Q和K？【每天一个宝藏问题】
+- 观看视频：[视频BV19s3K6zEXQ](https://www.bilibili.com/video/BV19s3K6zEXQ)
+- 查看封面：[图片BV19s3K6zEXQ](./assets/questions/BV19s3K6zEXQ.jpg)
+
+[![](./assets/questions/BV19s3K6zEXQ.jpg)](https://www.bilibili.com/video/BV19s3K6zEXQ)
+---
+
+### 186. 为什么交叉熵梯度相当于特殊的策略梯度？【每天一个宝藏问题】
+- 观看视频：[视频BV1G2gh6BEg6](https://www.bilibili.com/video/BV1G2gh6BEg6)
+- 查看封面：[图片BV1G2gh6BEg6](./assets/questions/BV1G2gh6BEg6.jpg)
+
+[![](./assets/questions/BV1G2gh6BEg6.jpg)](https://www.bilibili.com/video/BV1G2gh6BEg6)
+---
+
+### 185. 如何可视化kimi的注意力残差？【每天一个宝藏问题】
+- 观看视频：[视频BV1qBKb6hEkq](https://www.bilibili.com/video/BV1qBKb6hEkq)
+- 查看封面：[图片BV1qBKb6hEkq](./assets/questions/BV1qBKb6hEkq.jpg)
+
+[![](./assets/questions/BV1qBKb6hEkq.jpg)](https://www.bilibili.com/video/BV1qBKb6hEkq)
+---
+
+### 184. 一口气看完：正态分布，梯度下降、泰勒展开一元推广到多元【每天一个宝藏问题】
+- 观看视频：[视频BV1LvKw6UEuM](https://www.bilibili.com/video/BV1LvKw6UEuM)
+- 查看封面：[图片BV1LvKw6UEuM](./assets/questions/BV1LvKw6UEuM.jpg)
+
+[![](./assets/questions/BV1LvKw6UEuM.jpg)](https://www.bilibili.com/video/BV1LvKw6UEuM)
+---
+
+### 183. 为什么注意力要除以√dk而不是√d model【每天一个宝藏问题】
+- 观看视频：[视频BV1byK36eEUT](https://www.bilibili.com/video/BV1byK36eEUT)
+- 查看封面：[图片BV1byK36eEUT](./assets/questions/BV1byK36eEUT.jpg)
+
+[![](./assets/questions/BV1byK36eEUT.jpg)](https://www.bilibili.com/video/BV1byK36eEUT)
+---
+
+### 182. 如何可视化知识蒸馏？【每天一个宝藏问题】
+- 观看视频：[视频BV1UyK36YE3Z](https://www.bilibili.com/video/BV1UyK36YE3Z)
+- 查看封面：[图片BV1UyK36YE3Z](./assets/questions/BV1UyK36YE3Z.jpg)
+
+[![](./assets/questions/BV1UyK36YE3Z.jpg)](https://www.bilibili.com/video/BV1UyK36YE3Z)
+---
+
+### 181. 为什么 DDPM 加噪旋转角是不均匀的？【每天一个宝藏问题】
+- 观看视频：[视频BV1YjKG6rEhy](https://www.bilibili.com/video/BV1YjKG6rEhy)
+- 查看封面：[图片BV1YjKG6rEhy](./assets/questions/BV1YjKG6rEhy.jpg)
+
+[![](./assets/questions/BV1YjKG6rEhy.jpg)](https://www.bilibili.com/video/BV1YjKG6rEhy)
+---
+
+### 180. 向量如何对向量求导？推广到矩阵、张量呢？【每天一个宝藏问题】
+- 观看视频：[视频BV1VjKG6kEpR](https://www.bilibili.com/video/BV1VjKG6kEpR)
+- 查看封面：[图片BV1VjKG6kEpR](./assets/questions/BV1VjKG6kEpR.jpg)
+
+[![](./assets/questions/BV1VjKG6kEpR.jpg)](https://www.bilibili.com/video/BV1VjKG6kEpR)
+---
+
+### 179. 如何用高中导数证明 KL 散度非负？【每天一个宝藏问题】
+- 观看视频：[视频BV1GEKG6uEgV](https://www.bilibili.com/video/BV1GEKG6uEgV)
+- 查看封面：[图片BV1GEKG6uEgV](./assets/questions/BV1GEKG6uEgV.jpg)
+
+[![](./assets/questions/BV1GEKG6uEgV.jpg)](https://www.bilibili.com/video/BV1GEKG6uEgV)
+---
 
 ### 178. 如何在SRAM和寄存器两个层级同时使用双缓冲优化GEMM？【每天一个宝藏问题】
 - 观看视频：[视频BV1XEKG6gERb](https://www.bilibili.com/video/BV1XEKG6gERb)
@@ -1256,6 +1326,76 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [119]. LookAhead：投机解码论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1hrKp6NEp3](https://www.bilibili.com/video/BV1hrKp6NEp3)
+- 查看封面：[图片BV1hrKp6NEp3](./assets/papers/BV1hrKp6NEp3.jpg)
+
+[![](./assets/papers/BV1hrKp6NEp3.jpg)](https://www.bilibili.com/video/BV1hrKp6NEp3)
+---
+
+### [118]. Rectified Flow：论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1hrKp6NEj5](https://www.bilibili.com/video/BV1hrKp6NEj5)
+- 查看封面：[图片BV1hrKp6NEj5](./assets/papers/BV1hrKp6NEj5.jpg)
+
+[![](./assets/papers/BV1hrKp6NEj5.jpg)](https://www.bilibili.com/video/BV1hrKp6NEj5)
+---
+
+### [117]. Kimi 的混合线性注意力：论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1TUKp6hEi6](https://www.bilibili.com/video/BV1TUKp6hEi6)
+- 查看封面：[图片BV1TUKp6hEi6](./assets/papers/BV1TUKp6hEi6.jpg)
+
+[![](./assets/papers/BV1TUKp6hEi6.jpg)](https://www.bilibili.com/video/BV1TUKp6hEi6)
+---
+
+### [116] Deepseek的DSpark：投机解码论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1SCK36PEGX](https://www.bilibili.com/video/BV1SCK36PEGX)
+- 查看封面：[图片BV1SCK36PEGX](./assets/papers/BV1SCK36PEGX.jpg)
+
+[![](./assets/papers/BV1SCK36PEGX.jpg)](https://www.bilibili.com/video/BV1SCK36PEGX)
+---
+
+### [115] Kimi K3 技术报告：论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1uyK36eEcT](https://www.bilibili.com/video/BV1uyK36eEcT)
+- 查看封面：[图片BV1uyK36eEcT](./assets/papers/BV1uyK36eEcT.jpg)
+
+[![](./assets/papers/BV1uyK36eEcT.jpg)](https://www.bilibili.com/video/BV1uyK36eEcT)
+---
+
+### [114]. DiT：论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1UyK36YED6](https://www.bilibili.com/video/BV1UyK36YED6)
+- 查看封面：[图片BV1UyK36YED6](./assets/papers/BV1UyK36YED6.jpg)
+
+[![](./assets/papers/BV1UyK36YED6.jpg)](https://www.bilibili.com/video/BV1UyK36YED6)
+---
+
+### [113]. GRU：论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1LwN36uEbV](https://www.bilibili.com/video/BV1LwN36uEbV)
+- 查看封面：[图片BV1LwN36uEbV](./assets/papers/BV1LwN36uEbV.jpg)
+
+[![](./assets/papers/BV1LwN36uEbV.jpg)](https://www.bilibili.com/video/BV1LwN36uEbV)
+---
+
+### [112]. SAM 3：论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV15wN36uEXx](https://www.bilibili.com/video/BV15wN36uEXx)
+- 查看封面：[图片BV15wN36uEXx](./assets/papers/BV15wN36uEXx.jpg)
+
+[![](./assets/papers/BV15wN36uEXx.jpg)](https://www.bilibili.com/video/BV15wN36uEXx)
+---
+
+### [111]. Stable Diffusion：论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV19AN36iE8n](https://www.bilibili.com/video/BV19AN36iE8n)
+- 查看封面：[图片BV19AN36iE8n](./assets/papers/BV19AN36iE8n.jpg)
+
+[![](./assets/papers/BV19AN36iE8n.jpg)](https://www.bilibili.com/video/BV19AN36iE8n)
+---
+
+### [110]. EAGLE：投机解码论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1BZMJ6CEa6](https://www.bilibili.com/video/BV1BZMJ6CEa6)
+- 查看封面：[图片BV1BZMJ6CEa6](./assets/papers/BV1BZMJ6CEa6.jpg)
+
+[![](./assets/papers/BV1BZMJ6CEa6.jpg)](https://www.bilibili.com/video/BV1BZMJ6CEa6)
+---
 
 ### [109]. AdamW：论文精读【每天一个宝藏论文】
 - 观看视频：[视频BV1eKMn6MEMr](https://www.bilibili.com/video/BV1eKMn6MEMr)
