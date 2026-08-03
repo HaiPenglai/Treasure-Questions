@@ -2,7 +2,7 @@
 ### [119]. LookAhead：投机解码论文精读【每天一个宝藏论文】
 - 观看视频：[BV1hrKp6NEp3](https://www.bilibili.com/video/BV1hrKp6NEp3)
 
-- 阅读论文：[Scaling Speculative Decoding with Lookahead Reasoning](https://arxiv.org/pdf/2506.19830.pdf)
+- 阅读论文：[Lookahead: An Inference Acceleration Framework for Large Language Model with Lossless Generation Accuracy](https://arxiv.org/pdf/2312.12728.pdf)
 
 ---
 

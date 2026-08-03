@@ -5,8 +5,8 @@
     "bvid": "BV1hrKp6NEp3",
     "papers": [
       {
-        "paper_title": "Scaling Speculative Decoding with Lookahead Reasoning",
-        "paper_link": "https://arxiv.org/pdf/2506.19830.pdf"
+        "paper_title": "Lookahead: An Inference Acceleration Framework for Large Language Model with Lossless Generation Accuracy",
+        "paper_link": "https://arxiv.org/pdf/2312.12728.pdf"
       }
     ]
   },
