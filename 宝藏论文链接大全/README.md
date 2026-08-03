@@ -44,7 +44,7 @@
 ### [113]. GRU：论文精读【每天一个宝藏论文】
 - 观看视频：[BV1LwN36uEbV](https://www.bilibili.com/video/BV1LwN36uEbV)
 
-- 阅读论文：[Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078.pdf)
+- 阅读论文：[Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/pdf/1412.3555.pdf)
 
 ---
 

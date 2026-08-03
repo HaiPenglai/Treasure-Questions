@@ -71,8 +71,8 @@
     "bvid": "BV1LwN36uEbV",
     "papers": [
       {
-        "paper_title": "Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation",
-        "paper_link": "https://arxiv.org/pdf/1406.1078.pdf"
+        "paper_title": "Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling",
+        "paper_link": "https://arxiv.org/pdf/1412.3555.pdf"
       }
     ]
   },
