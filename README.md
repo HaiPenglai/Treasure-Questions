@@ -3,9 +3,44 @@
 - **作者**：b站**海安雨**。
 - **使用方法**：点击**宝藏论文链接大全**文件夹可阅读所有论文，点击**观看视频**可跳转到b站视频。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**165**个宝藏问题`手稿`和**112**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**170**个宝藏问题`手稿`和**117**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 193. 为什么前向KL让生成模型倾向平均，反向KL倾向专精？【每天一个宝藏问题】
+- 观看视频：[视频BV1vo3w6wE6J](https://www.bilibili.com/video/BV1vo3w6wE6J)
+- 查看封面：[图片BV1vo3w6wE6J](./assets/questions/BV1vo3w6wE6J.jpg)
+
+[![](./assets/questions/BV1vo3w6wE6J.jpg)](https://www.bilibili.com/video/BV1vo3w6wE6J)
+---
+
+### 192. 如何证明注意力右上角加-∞就看不到后面了？【每天一个宝藏问题】
+- 观看视频：[视频BV1N8gZ6NEzg](https://www.bilibili.com/video/BV1N8gZ6NEzg)
+- 查看封面：[图片BV1N8gZ6NEzg](./assets/questions/BV1N8gZ6NEzg.jpg)
+
+[![](./assets/questions/BV1N8gZ6NEzg.jpg)](https://www.bilibili.com/video/BV1N8gZ6NEzg)
+---
+
+### 191. 如何可视化LoRA？【每天一个宝藏问题】
+- 观看视频：[视频BV1Zq3j63Eeu](https://www.bilibili.com/video/BV1Zq3j63Eeu)
+- 查看封面：[图片BV1Zq3j63Eeu](./assets/questions/BV1Zq3j63Eeu.jpg)
+
+[![](./assets/questions/BV1Zq3j63Eeu.jpg)](https://www.bilibili.com/video/BV1Zq3j63Eeu)
+---
+
+### 190. 为什么扩散模型采样高斯噪声相当于在球壳上选点？【每天一个宝藏问题】
+- 观看视频：[视频BV16V3762ECA](https://www.bilibili.com/video/BV16V3762ECA)
+- 查看封面：[图片BV16V3762ECA](./assets/questions/BV16V3762ECA.jpg)
+
+[![](./assets/questions/BV16V3762ECA.jpg)](https://www.bilibili.com/video/BV16V3762ECA)
+---
+
+### 189. 为什么反向传播的本质是乘雅可比矩阵？【每天一个宝藏问题】
+- 观看视频：[视频BV17Y356TEZu](https://www.bilibili.com/video/BV17Y356TEZu)
+- 查看封面：[图片BV17Y356TEZu](./assets/questions/BV17Y356TEZu.jpg)
+
+[![](./assets/questions/BV17Y356TEZu.jpg)](https://www.bilibili.com/video/BV17Y356TEZu)
+---
 
 ### 188. 预训练和SFT产生的初始梯度有何不同？【每天一个宝藏问题】
 - 观看视频：[视频BV1Qz3g61EAe](https://www.bilibili.com/video/BV1Qz3g61EAe)
@@ -1326,6 +1361,41 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [124]. DINO v2：论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1H4gh6HEdj](https://www.bilibili.com/video/BV1H4gh6HEdj)
+- 查看封面：[图片BV1H4gh6HEdj](./assets/papers/BV1H4gh6HEdj.jpg)
+
+[![](./assets/papers/BV1H4gh6HEdj.jpg)](https://www.bilibili.com/video/BV1H4gh6HEdj)
+---
+
+### [123]. 向量检索ANNS经典论文：PQ论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1Kfgh68ErF](https://www.bilibili.com/video/BV1Kfgh68ErF)
+- 查看封面：[图片BV1Kfgh68ErF](./assets/papers/BV1Kfgh68ErF.jpg)
+
+[![](./assets/papers/BV1Kfgh68ErF.jpg)](https://www.bilibili.com/video/BV1Kfgh68ErF)
+---
+
+### [122]. MRP，借鉴MTP的思想用于扩散语言模型：论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV12Fga6fEuk](https://www.bilibili.com/video/BV12Fga6fEuk)
+- 查看封面：[图片BV12Fga6fEuk](./assets/papers/BV12Fga6fEuk.jpg)
+
+[![](./assets/papers/BV12Fga6fEuk.jpg)](https://www.bilibili.com/video/BV12Fga6fEuk)
+---
+
+### [121]. CNN，卷积网络经典重温：论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1Mdgh6aE5u](https://www.bilibili.com/video/BV1Mdgh6aE5u)
+- 查看封面：[图片BV1Mdgh6aE5u](./assets/papers/BV1Mdgh6aE5u.jpg)
+
+[![](./assets/papers/BV1Mdgh6aE5u.jpg)](https://www.bilibili.com/video/BV1Mdgh6aE5u)
+---
+
+### [120]. Performer，线性注意力：论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1hzKp6iE1b](https://www.bilibili.com/video/BV1hzKp6iE1b)
+- 查看封面：[图片BV1hzKp6iE1b](./assets/papers/BV1hzKp6iE1b.jpg)
+
+[![](./assets/papers/BV1hzKp6iE1b.jpg)](https://www.bilibili.com/video/BV1hzKp6iE1b)
+---
 
 ### [119]. LookAhead：投机解码论文精读【每天一个宝藏论文】
 - 观看视频：[视频BV1hrKp6NEp3](https://www.bilibili.com/video/BV1hrKp6NEp3)

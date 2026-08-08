@@ -1,5 +1,60 @@
 [
   {
+    "video_id": 124,
+    "video_title": "[124]. DINO v2：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1H4gh6HEdj",
+    "papers": [
+      {
+        "paper_title": "DINOv2: Learning Robust Visual Features without Supervision",
+        "paper_link": "https://arxiv.org/pdf/2304.07193.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 123,
+    "video_title": "[123]. 向量检索ANNS经典论文：PQ论文精读【每天一个宝藏论文】",
+    "bvid": "BV1Kfgh68ErF",
+    "papers": [
+      {
+        "paper_title": "Product Quantization for Nearest Neighbor Search",
+        "paper_link": "https://inria.hal.science/inria-00514462/file/jegou_pq_postprint.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 122,
+    "video_title": "[122]. MRP，借鉴MTP的思想用于扩散语言模型：论文精读【每天一个宝藏论文】",
+    "bvid": "BV12Fga6fEuk",
+    "papers": [
+      {
+        "paper_title": "Multi-token Residual Prediction",
+        "paper_link": "https://arxiv.org/pdf/2605.18817.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 121,
+    "video_title": "[121]. CNN，卷积网络经典重温：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1Mdgh6aE5u",
+    "papers": [
+      {
+        "paper_title": "Gradient-Based Learning Applied to Document Recognition",
+        "paper_link": "https://hal.science/hal-03926082v1/document"
+      }
+    ]
+  },
+  {
+    "video_id": 120,
+    "video_title": "[120]. Performer，线性注意力：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1hzKp6iE1b",
+    "papers": [
+      {
+        "paper_title": "Rethinking Attention with Performers",
+        "paper_link": "https://arxiv.org/pdf/2009.14794.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 119,
     "video_title": "[119]. LookAhead：投机解码论文精读【每天一个宝藏论文】",
     "bvid": "BV1hrKp6NEp3",

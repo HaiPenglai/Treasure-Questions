@@ -1,5 +1,65 @@
 [
   {
+    "bvid": "BV1vo3w6wE6J",
+    "title": "193. 为什么前向KL让生成模型倾向平均，反向KL倾向专精？【每天一个宝藏问题】",
+    "created": 1786104000,
+    "pic": "http://i0.hdslb.com/bfs/archive/e13fb2708c3f8870927f06f1971557a0ee5ffac7.png"
+  },
+  {
+    "bvid": "BV1H4gh6HEdj",
+    "title": "[124]. DINO v2：论文精读【每天一个宝藏论文】",
+    "created": 1786104000,
+    "pic": "http://i1.hdslb.com/bfs/archive/bef276d55016ff4d07949a5667b4cfb018f51402.png"
+  },
+  {
+    "bvid": "BV1N8gZ6NEzg",
+    "title": "192. 如何证明注意力右上角加-∞就看不到后面了？【每天一个宝藏问题】",
+    "created": 1786017600,
+    "pic": "http://i1.hdslb.com/bfs/archive/1268000845f655858ae0ff98e4668977a406b48a.png"
+  },
+  {
+    "bvid": "BV1Kfgh68ErF",
+    "title": "[123]. 向量检索ANNS经典论文：PQ论文精读【每天一个宝藏论文】",
+    "created": 1786017600,
+    "pic": "http://i1.hdslb.com/bfs/archive/993d84aaf6331048ebd4369eda43c8f79e69ef5e.png"
+  },
+  {
+    "bvid": "BV1Zq3j63Eeu",
+    "title": "191. 如何可视化LoRA？【每天一个宝藏问题】",
+    "created": 1785931200,
+    "pic": "http://i0.hdslb.com/bfs/archive/d0aa4a8e4495203c7f71f713983e4a01667b3290.png"
+  },
+  {
+    "bvid": "BV12Fga6fEuk",
+    "title": "[122]. MRP，借鉴MTP的思想用于扩散语言模型：论文精读【每天一个宝藏论文】",
+    "created": 1785931200,
+    "pic": "http://i1.hdslb.com/bfs/archive/e723bd9410b42928c5d0a7243265371e2a3cb65d.png"
+  },
+  {
+    "bvid": "BV16V3762ECA",
+    "title": "190. 为什么扩散模型采样高斯噪声相当于在球壳上选点？【每天一个宝藏问题】",
+    "created": 1785844800,
+    "pic": "http://i1.hdslb.com/bfs/archive/d0902b5809c151edfb8192c42ad47417f2cd59db.png"
+  },
+  {
+    "bvid": "BV1Mdgh6aE5u",
+    "title": "[121]. CNN，卷积网络经典重温：论文精读【每天一个宝藏论文】",
+    "created": 1785844800,
+    "pic": "http://i1.hdslb.com/bfs/archive/4c63250d49b31ffe5f01f5514e62287b45e00497.png"
+  },
+  {
+    "bvid": "BV17Y356TEZu",
+    "title": "189. 为什么反向传播的本质是乘雅可比矩阵？【每天一个宝藏问题】",
+    "created": 1785758400,
+    "pic": "http://i2.hdslb.com/bfs/archive/ad9bc853efdccf514d9b53d8f193c7de38af8179.png"
+  },
+  {
+    "bvid": "BV1hzKp6iE1b",
+    "title": "[120]. Performer，线性注意力：论文精读【每天一个宝藏论文】",
+    "created": 1785758400,
+    "pic": "http://i2.hdslb.com/bfs/archive/51142b52a3012516f04a33b2cd31480c81f7b5fd.png"
+  },
+  {
     "bvid": "BV1Qz3g61EAe",
     "title": "188. 预训练和SFT产生的初始梯度有何不同？【每天一个宝藏问题】",
     "created": 1785672000,

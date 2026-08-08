@@ -1,4 +1,39 @@
 # 宝藏论文链接大全
+### [124]. DINO v2：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1H4gh6HEdj](https://www.bilibili.com/video/BV1H4gh6HEdj)
+
+- 阅读论文：[DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/pdf/2304.07193.pdf)
+
+---
+
+### [123]. 向量检索ANNS经典论文：PQ论文精读【每天一个宝藏论文】
+- 观看视频：[BV1Kfgh68ErF](https://www.bilibili.com/video/BV1Kfgh68ErF)
+
+- 阅读论文：[Product Quantization for Nearest Neighbor Search](https://inria.hal.science/inria-00514462/file/jegou_pq_postprint.pdf)
+
+---
+
+### [122]. MRP，借鉴MTP的思想用于扩散语言模型：论文精读【每天一个宝藏论文】
+- 观看视频：[BV12Fga6fEuk](https://www.bilibili.com/video/BV12Fga6fEuk)
+
+- 阅读论文：[Multi-token Residual Prediction](https://arxiv.org/pdf/2605.18817.pdf)
+
+---
+
+### [121]. CNN，卷积网络经典重温：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1Mdgh6aE5u](https://www.bilibili.com/video/BV1Mdgh6aE5u)
+
+- 阅读论文：[Gradient-Based Learning Applied to Document Recognition](https://hal.science/hal-03926082v1/document)
+
+---
+
+### [120]. Performer，线性注意力：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1hzKp6iE1b](https://www.bilibili.com/video/BV1hzKp6iE1b)
+
+- 阅读论文：[Rethinking Attention with Performers](https://arxiv.org/pdf/2009.14794.pdf)
+
+---
+
 ### [119]. LookAhead：投机解码论文精读【每天一个宝藏论文】
 - 观看视频：[BV1hrKp6NEp3](https://www.bilibili.com/video/BV1hrKp6NEp3)
 
