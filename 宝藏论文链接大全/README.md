@@ -1,4 +1,70 @@
 # 宝藏论文链接大全
+### [133]. FlashDecoding：原始技术博客，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1xBuG6MEB3](https://www.bilibili.com/video/BV1xBuG6MEB3)
+
+- 阅读论文：[Flash-Decoding for Long-Context Inference](https://crfm.stanford.edu/2023/10/12/flashdecoding.html)
+- 阅读论文：[FlashDecoding++: Faster Large Language Model Inference on GPUs](https://arxiv.org/pdf/2311.01282.pdf)
+
+---
+
+### [132]. Conditional Flow Matching：条件流匹配，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1TYuG6rEX1](https://www.bilibili.com/video/BV1TYuG6rEX1)
+
+- 阅读论文：[Flow Matching for Generative Modeling](https://arxiv.org/pdf/2210.02747.pdf)
+- 阅读论文：[Improving and Generalizing Flow-Based Generative Models with Minibatch Optimal Transport](https://arxiv.org/pdf/2302.00482.pdf)
+
+---
+
+### [131]. A3C：首次用异步 actor-critic 把深度 RL 做稳定，是 PPO的基石，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1MYuG6rETy](https://www.bilibili.com/video/BV1MYuG6rETy)
+
+- 阅读论文：[Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
+
+---
+
+### [130]. App Agent：大模型操作手机，GUI Agent论文精读【每天一个宝藏论文】
+- 观看视频：[BV1mvuG6gEHj](https://www.bilibili.com/video/BV1mvuG6gEHj)
+
+- 阅读论文：[AppAgent: Multimodal Agents as Smartphone Users](https://arxiv.org/pdf/2312.13771.pdf)
+
+---
+
+### [129]. Muon 优化器：原始技术博客，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1hr3y6VEd6](https://www.bilibili.com/video/BV1hr3y6VEd6)
+
+- 阅读论文：[Muon: An Optimizer for Hidden Layers in Neural Networks](https://kellerjordan.github.io/posts/muon/)
+- 阅读论文：[Muon is Scalable for LLM Training](https://arxiv.org/pdf/2502.16982.pdf)
+
+---
+
+### [128]. DINOv3：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1Dr3y6GEDX](https://www.bilibili.com/video/BV1Dr3y6GEDX)
+
+- 阅读论文：[DINOv3](https://arxiv.org/pdf/2508.10104.pdf)
+
+---
+
+### [127]. LSTM：经典重温，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1Qr3y6VEt4](https://www.bilibili.com/video/BV1Qr3y6VEt4)
+
+- 阅读论文：[Long Short-Term Memory](https://www.bioinf.jku.at/publications/older/2604.pdf)
+
+---
+
+### [126]. DeepSeek OCR：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1vY3y6UEaG](https://www.bilibili.com/video/BV1vY3y6UEaG)
+
+- 阅读论文：[DeepSeek-OCR: Contexts Optical Compression](https://arxiv.org/pdf/2510.18234.pdf)
+
+---
+
+### [125]. ControlNet：论文精读【每天一个宝藏论文】
+- 观看视频：[BV1nB3r6UEPf](https://www.bilibili.com/video/BV1nB3r6UEPf)
+
+- 阅读论文：[Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/pdf/2302.05543.pdf)
+
+---
+
 ### [124]. DINO v2：论文精读【每天一个宝藏论文】
 - 观看视频：[BV1H4gh6HEdj](https://www.bilibili.com/video/BV1H4gh6HEdj)
 

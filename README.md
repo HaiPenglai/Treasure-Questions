@@ -3,9 +3,72 @@
 - **作者**：b站**海安雨**。
 - **使用方法**：点击**宝藏论文链接大全**文件夹可阅读所有论文，点击**观看视频**可跳转到b站视频。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**170**个宝藏问题`手稿`和**117**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**179**个宝藏问题`手稿`和**126**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 202. 如何像之前可视化Transformer那样可视化RNN？【每天一个宝藏问题】
+- 观看视频：[视频BV1njMy6UEzQ](https://www.bilibili.com/video/BV1njMy6UEzQ)
+- 查看封面：[图片BV1njMy6UEzQ](./assets/questions/BV1njMy6UEzQ.jpg)
+
+[![](./assets/questions/BV1njMy6UEzQ.jpg)](https://www.bilibili.com/video/BV1njMy6UEzQ)
+---
+
+### 201. 如何把RoPE算子融合到FlashAttention里？【每天一个宝藏问题】
+- 观看视频：[视频BV1pmuA6gEN7](https://www.bilibili.com/video/BV1pmuA6gEN7)
+- 查看封面：[图片BV1pmuA6gEN7](./assets/questions/BV1pmuA6gEN7.jpg)
+
+[![](./assets/questions/BV1pmuA6gEN7.jpg)](https://www.bilibili.com/video/BV1pmuA6gEN7)
+---
+
+### 200. 为什么线性层反向传播也可以用GEMM实现？——为什么前向全连接对应反向全连接？【每天一个宝藏问题】
+- 观看视频：[视频BV1t3uF6MEbd](https://www.bilibili.com/video/BV1t3uF6MEbd)
+- 查看封面：[图片BV1t3uF6MEbd](./assets/questions/BV1t3uF6MEbd.jpg)
+
+[![](./assets/questions/BV1t3uF6MEbd.jpg)](https://www.bilibili.com/video/BV1t3uF6MEbd)
+---
+
+### 199. FlashAttention如何加速滑动窗口注意力prefill？【每天一个宝藏问题】
+- 观看视频：[视频BV1VKMX6bEo1](https://www.bilibili.com/video/BV1VKMX6bEo1)
+- 查看封面：[图片BV1VKMX6bEo1](./assets/questions/BV1VKMX6bEo1.jpg)
+
+[![](./assets/questions/BV1VKMX6bEo1.jpg)](https://www.bilibili.com/video/BV1VKMX6bEo1)
+---
+
+### 198. 为什么逐点卷积可以用 GEMM 实现？【每天一个宝藏问题】
+- 观看视频：[视频BV1BB3t6gEtZ](https://www.bilibili.com/video/BV1BB3t6gEtZ)
+- 查看封面：[图片BV1BB3t6gEtZ](./assets/questions/BV1BB3t6gEtZ.jpg)
+
+[![](./assets/questions/BV1BB3t6gEtZ.jpg)](https://www.bilibili.com/video/BV1BB3t6gEtZ)
+---
+
+### 197. 为什么自动微分系统倾向于反向微分而非前向微分？【每天一个宝藏问题】
+- 观看视频：[视频BV1ct3x6gEkq](https://www.bilibili.com/video/BV1ct3x6gEkq)
+- 查看封面：[图片BV1ct3x6gEkq](./assets/questions/BV1ct3x6gEkq.jpg)
+
+[![](./assets/questions/BV1ct3x6gEkq.jpg)](https://www.bilibili.com/video/BV1ct3x6gEkq)
+---
+
+### 196. 为什么自注意力矩阵是正方形，而交叉注意力矩阵是长方形？【每天一个宝藏问题】
+- 观看视频：[视频BV17S316dExh](https://www.bilibili.com/video/BV17S316dExh)
+- 查看封面：[图片BV17S316dExh](./assets/questions/BV17S316dExh.jpg)
+
+[![](./assets/questions/BV17S316dExh.jpg)](https://www.bilibili.com/video/BV17S316dExh)
+---
+
+### 195. 如何用Tensor Core加速GEMM？【每天一个宝藏问题】
+- 观看视频：[视频BV1xT3k6ZEP8](https://www.bilibili.com/video/BV1xT3k6ZEP8)
+- 查看封面：[图片BV1xT3k6ZEP8](./assets/questions/BV1xT3k6ZEP8.jpg)
+
+[![](./assets/questions/BV1xT3k6ZEP8.jpg)](https://www.bilibili.com/video/BV1xT3k6ZEP8)
+---
+
+### 194. 为什么滑动窗口注意力在 decode 时要使用环形缓存？【每天一个宝藏问题】
+- 观看视频：[视频BV1WP3B65Eh5](https://www.bilibili.com/video/BV1WP3B65Eh5)
+- 查看封面：[图片BV1WP3B65Eh5](./assets/questions/BV1WP3B65Eh5.jpg)
+
+[![](./assets/questions/BV1WP3B65Eh5.jpg)](https://www.bilibili.com/video/BV1WP3B65Eh5)
+---
 
 ### 193. 为什么前向KL让生成模型倾向平均，反向KL倾向专精？【每天一个宝藏问题】
 - 观看视频：[视频BV1vo3w6wE6J](https://www.bilibili.com/video/BV1vo3w6wE6J)
@@ -1361,6 +1424,69 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [133]. FlashDecoding：原始技术博客，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1xBuG6MEB3](https://www.bilibili.com/video/BV1xBuG6MEB3)
+- 查看封面：[图片BV1xBuG6MEB3](./assets/papers/BV1xBuG6MEB3.jpg)
+
+[![](./assets/papers/BV1xBuG6MEB3.jpg)](https://www.bilibili.com/video/BV1xBuG6MEB3)
+---
+
+### [132]. Conditional Flow Matching：条件流匹配，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1TYuG6rEX1](https://www.bilibili.com/video/BV1TYuG6rEX1)
+- 查看封面：[图片BV1TYuG6rEX1](./assets/papers/BV1TYuG6rEX1.jpg)
+
+[![](./assets/papers/BV1TYuG6rEX1.jpg)](https://www.bilibili.com/video/BV1TYuG6rEX1)
+---
+
+### [131]. A3C：首次用异步 actor-critic 把深度 RL 做稳定，是 PPO的基石，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1MYuG6rETy](https://www.bilibili.com/video/BV1MYuG6rETy)
+- 查看封面：[图片BV1MYuG6rETy](./assets/papers/BV1MYuG6rETy.jpg)
+
+[![](./assets/papers/BV1MYuG6rETy.jpg)](https://www.bilibili.com/video/BV1MYuG6rETy)
+---
+
+### [130]. App Agent：大模型操作手机，GUI Agent论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1mvuG6gEHj](https://www.bilibili.com/video/BV1mvuG6gEHj)
+- 查看封面：[图片BV1mvuG6gEHj](./assets/papers/BV1mvuG6gEHj.jpg)
+
+[![](./assets/papers/BV1mvuG6gEHj.jpg)](https://www.bilibili.com/video/BV1mvuG6gEHj)
+---
+
+### [129]. Muon 优化器：原始技术博客，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1hr3y6VEd6](https://www.bilibili.com/video/BV1hr3y6VEd6)
+- 查看封面：[图片BV1hr3y6VEd6](./assets/papers/BV1hr3y6VEd6.jpg)
+
+[![](./assets/papers/BV1hr3y6VEd6.jpg)](https://www.bilibili.com/video/BV1hr3y6VEd6)
+---
+
+### [128]. DINOv3：论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1Dr3y6GEDX](https://www.bilibili.com/video/BV1Dr3y6GEDX)
+- 查看封面：[图片BV1Dr3y6GEDX](./assets/papers/BV1Dr3y6GEDX.jpg)
+
+[![](./assets/papers/BV1Dr3y6GEDX.jpg)](https://www.bilibili.com/video/BV1Dr3y6GEDX)
+---
+
+### [127]. LSTM：经典重温，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1Qr3y6VEt4](https://www.bilibili.com/video/BV1Qr3y6VEt4)
+- 查看封面：[图片BV1Qr3y6VEt4](./assets/papers/BV1Qr3y6VEt4.jpg)
+
+[![](./assets/papers/BV1Qr3y6VEt4.jpg)](https://www.bilibili.com/video/BV1Qr3y6VEt4)
+---
+
+### [126]. DeepSeek OCR：论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1vY3y6UEaG](https://www.bilibili.com/video/BV1vY3y6UEaG)
+- 查看封面：[图片BV1vY3y6UEaG](./assets/papers/BV1vY3y6UEaG.jpg)
+
+[![](./assets/papers/BV1vY3y6UEaG.jpg)](https://www.bilibili.com/video/BV1vY3y6UEaG)
+---
+
+### [125]. ControlNet：论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1nB3r6UEPf](https://www.bilibili.com/video/BV1nB3r6UEPf)
+- 查看封面：[图片BV1nB3r6UEPf](./assets/papers/BV1nB3r6UEPf.jpg)
+
+[![](./assets/papers/BV1nB3r6UEPf.jpg)](https://www.bilibili.com/video/BV1nB3r6UEPf)
+---
 
 ### [124]. DINO v2：论文精读【每天一个宝藏论文】
 - 观看视频：[视频BV1H4gh6HEdj](https://www.bilibili.com/video/BV1H4gh6HEdj)

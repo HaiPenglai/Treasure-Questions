@@ -1,5 +1,116 @@
 [
   {
+    "video_id": 133,
+    "video_title": "[133]. FlashDecoding：原始技术博客，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1xBuG6MEB3",
+    "papers": [
+      {
+        "paper_title": "Flash-Decoding for Long-Context Inference",
+        "paper_link": "https://crfm.stanford.edu/2023/10/12/flashdecoding.html"
+      },
+      {
+        "paper_title": "FlashDecoding++: Faster Large Language Model Inference on GPUs",
+        "paper_link": "https://arxiv.org/pdf/2311.01282.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 132,
+    "video_title": "[132]. Conditional Flow Matching：条件流匹配，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1TYuG6rEX1",
+    "papers": [
+      {
+        "paper_title": "Flow Matching for Generative Modeling",
+        "paper_link": "https://arxiv.org/pdf/2210.02747.pdf"
+      },
+      {
+        "paper_title": "Improving and Generalizing Flow-Based Generative Models with Minibatch Optimal Transport",
+        "paper_link": "https://arxiv.org/pdf/2302.00482.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 131,
+    "video_title": "[131]. A3C：首次用异步 actor-critic 把深度 RL 做稳定，是 PPO的基石，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1MYuG6rETy",
+    "papers": [
+      {
+        "paper_title": "Asynchronous Methods for Deep Reinforcement Learning",
+        "paper_link": "https://arxiv.org/pdf/1602.01783.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 130,
+    "video_title": "[130]. App Agent：大模型操作手机，GUI Agent论文精读【每天一个宝藏论文】",
+    "bvid": "BV1mvuG6gEHj",
+    "papers": [
+      {
+        "paper_title": "AppAgent: Multimodal Agents as Smartphone Users",
+        "paper_link": "https://arxiv.org/pdf/2312.13771.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 129,
+    "video_title": "[129]. Muon 优化器：原始技术博客，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1hr3y6VEd6",
+    "papers": [
+      {
+        "paper_title": "Muon: An Optimizer for Hidden Layers in Neural Networks",
+        "paper_link": "https://kellerjordan.github.io/posts/muon/"
+      },
+      {
+        "paper_title": "Muon is Scalable for LLM Training",
+        "paper_link": "https://arxiv.org/pdf/2502.16982.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 128,
+    "video_title": "[128]. DINOv3：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1Dr3y6GEDX",
+    "papers": [
+      {
+        "paper_title": "DINOv3",
+        "paper_link": "https://arxiv.org/pdf/2508.10104.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 127,
+    "video_title": "[127]. LSTM：经典重温，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1Qr3y6VEt4",
+    "papers": [
+      {
+        "paper_title": "Long Short-Term Memory",
+        "paper_link": "https://www.bioinf.jku.at/publications/older/2604.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 126,
+    "video_title": "[126]. DeepSeek OCR：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1vY3y6UEaG",
+    "papers": [
+      {
+        "paper_title": "DeepSeek-OCR: Contexts Optical Compression",
+        "paper_link": "https://arxiv.org/pdf/2510.18234.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 125,
+    "video_title": "[125]. ControlNet：论文精读【每天一个宝藏论文】",
+    "bvid": "BV1nB3r6UEPf",
+    "papers": [
+      {
+        "paper_title": "Adding Conditional Control to Text-to-Image Diffusion Models",
+        "paper_link": "https://arxiv.org/pdf/2302.05543.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 124,
     "video_title": "[124]. DINO v2：论文精读【每天一个宝藏论文】",
     "bvid": "BV1H4gh6HEdj",
