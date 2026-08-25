@@ -23,7 +23,7 @@
 ### [139]. RNN：循环神经网络经典重温，论文精读【每天一个宝藏论文】
 - 观看视频：[BV1KiuG6zE44](https://www.bilibili.com/video/BV1KiuG6zE44)
 
-- 阅读论文：[Finding Structure in Time](https://crl.ucsd.edu/~elman/Papers/fsit.pdf)
+- 阅读论文：[Finding Structure in Time](https://www.dlsi.ua.es/~mlf/nnafmc/papers/elman90finding.pdf)
 
 ---
 
