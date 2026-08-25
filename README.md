@@ -3,9 +3,72 @@
 - **作者**：b站**海安雨**。
 - **使用方法**：点击**宝藏论文链接大全**文件夹可阅读所有论文，点击**观看视频**可跳转到b站视频。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**179**个宝藏问题`手稿`和**126**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**188**个宝藏问题`手稿`和**135**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 211. 如何求PPO中每个token的梯度？【每天一个宝藏问题】
+- 观看视频：[视频BV1juhG6CEmD](https://www.bilibili.com/video/BV1juhG6CEmD)
+- 查看封面：[图片BV1juhG6CEmD](./assets/questions/BV1juhG6CEmD.jpg)
+
+[![](./assets/questions/BV1juhG6CEmD.jpg)](https://www.bilibili.com/video/BV1juhG6CEmD)
+---
+
+### 210. 为什么ViT展平像素这一步是用卷积实现的？【每天一个宝藏问题】
+- 观看视频：[视频BV16M8h6AEY6](https://www.bilibili.com/video/BV16M8h6AEY6)
+- 查看封面：[图片BV16M8h6AEY6](./assets/questions/BV16M8h6AEY6.jpg)
+
+[![](./assets/questions/BV16M8h6AEY6.jpg)](https://www.bilibili.com/video/BV16M8h6AEY6)
+---
+
+### 209. 为什么同样是依赖上一隐藏状态，RWKV可以并行训练，而RNN不行？【每天一个宝藏问题】
+- 观看视频：[视频BV1T8876rEaA](https://www.bilibili.com/video/BV1T8876rEaA)
+- 查看封面：[图片BV1T8876rEaA](./assets/questions/BV1T8876rEaA.jpg)
+
+[![](./assets/questions/BV1T8876rEaA.jpg)](https://www.bilibili.com/video/BV1T8876rEaA)
+---
+
+### 208. 如何证明Transformer本身不含位置信息？【每天一个宝藏问题】
+- 观看视频：[视频BV1ezbv6eEC6](https://www.bilibili.com/video/BV1ezbv6eEC6)
+- 查看封面：[图片BV1ezbv6eEC6](./assets/questions/BV1ezbv6eEC6.jpg)
+
+[![](./assets/questions/BV1ezbv6eEC6.jpg)](https://www.bilibili.com/video/BV1ezbv6eEC6)
+---
+
+### 207. 为什么MLA连V也不需要显式解压？【每天一个宝藏问题】
+- 观看视频：[视频BV1pPu26bELp](https://www.bilibili.com/video/BV1pPu26bELp)
+- 查看封面：[图片BV1pPu26bELp](./assets/questions/BV1pPu26bELp.jpg)
+
+[![](./assets/questions/BV1pPu26bELp.jpg)](https://www.bilibili.com/video/BV1pPu26bELp)
+---
+
+### 206. 为什么DDPM加噪图在椭圆上，而Flow Matching在直线上？【每天一个宝藏问题】
+- 观看视频：[视频BV1x2uN6SEAt](https://www.bilibili.com/video/BV1x2uN6SEAt)
+- 查看封面：[图片BV1x2uN6SEAt](./assets/questions/BV1x2uN6SEAt.jpg)
+
+[![](./assets/questions/BV1x2uN6SEAt.jpg)](https://www.bilibili.com/video/BV1x2uN6SEAt)
+---
+
+### 205. 如何可视化VIT？【每天一个宝藏问题】
+- 观看视频：[视频BV1t3up6iE8b](https://www.bilibili.com/video/BV1t3up6iE8b)
+- 查看封面：[图片BV1t3up6iE8b](./assets/questions/BV1t3up6iE8b.jpg)
+
+[![](./assets/questions/BV1t3up6iE8b.jpg)](https://www.bilibili.com/video/BV1t3up6iE8b)
+---
+
+### 204. 如何可视化 RWKV？【每天一个宝藏问题】
+- 观看视频：[视频BV1s5un6dEKR](https://www.bilibili.com/video/BV1s5un6dEKR)
+- 查看封面：[图片BV1s5un6dEKR](./assets/questions/BV1s5un6dEKR.jpg)
+
+[![](./assets/questions/BV1s5un6dEKR.jpg)](https://www.bilibili.com/video/BV1s5un6dEKR)
+---
+
+### 203. 推理时Q没有Cache，那训练时呢？【每天一个宝藏问题】
+- 观看视频：[视频BV1njMy6UEmC](https://www.bilibili.com/video/BV1njMy6UEmC)
+- 查看封面：[图片BV1njMy6UEmC](./assets/questions/BV1njMy6UEmC.jpg)
+
+[![](./assets/questions/BV1njMy6UEmC.jpg)](https://www.bilibili.com/video/BV1njMy6UEmC)
+---
 
 ### 202. 如何像之前可视化Transformer那样可视化RNN？【每天一个宝藏问题】
 - 观看视频：[视频BV1njMy6UEzQ](https://www.bilibili.com/video/BV1njMy6UEzQ)
@@ -1424,6 +1487,69 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [142]. LoRA：大模型微调经典重温，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1zxbY6vE5n](https://www.bilibili.com/video/BV1zxbY6vE5n)
+- 查看封面：[图片BV1zxbY6vE5n](./assets/papers/BV1zxbY6vE5n.jpg)
+
+[![](./assets/papers/BV1zxbY6vE5n.jpg)](https://www.bilibili.com/video/BV1zxbY6vE5n)
+---
+
+### [141]. Rainbow：把 DQN 的六大改进一次拼完，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1BtbY6PEfW](https://www.bilibili.com/video/BV1BtbY6PEfW)
+- 查看封面：[图片BV1BtbY6PEfW](./assets/papers/BV1BtbY6PEfW.jpg)
+
+[![](./assets/papers/BV1BtbY6PEfW.jpg)](https://www.bilibili.com/video/BV1BtbY6PEfW)
+---
+
+### [140]. Mobile Agent：大模型操作手机，GUI Agent论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1pPu26bEB6](https://www.bilibili.com/video/BV1pPu26bEB6)
+- 查看封面：[图片BV1pPu26bEB6](./assets/papers/BV1pPu26bEB6.jpg)
+
+[![](./assets/papers/BV1pPu26bEB6.jpg)](https://www.bilibili.com/video/BV1pPu26bEB6)
+---
+
+### [139]. RNN：循环神经网络经典重温，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1KiuG6zE44](https://www.bilibili.com/video/BV1KiuG6zE44)
+- 查看封面：[图片BV1KiuG6zE44](./assets/papers/BV1KiuG6zE44.jpg)
+
+[![](./assets/papers/BV1KiuG6zE44.jpg)](https://www.bilibili.com/video/BV1KiuG6zE44)
+---
+
+### [138]. Voyager：Agent玩我的世界，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1KiuG6zECG](https://www.bilibili.com/video/BV1KiuG6zECG)
+- 查看封面：[图片BV1KiuG6zECG](./assets/papers/BV1KiuG6zECG.jpg)
+
+[![](./assets/papers/BV1KiuG6zECG.jpg)](https://www.bilibili.com/video/BV1KiuG6zECG)
+---
+
+### [137]. MuZero：AlphaZero 之后关键的一步：直接学一个世界模型做 MCTS，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1KBuG6MEwe](https://www.bilibili.com/video/BV1KBuG6MEwe)
+- 查看封面：[图片BV1KBuG6MEwe](./assets/papers/BV1KBuG6MEwe.jpg)
+
+[![](./assets/papers/BV1KBuG6MEwe.jpg)](https://www.bilibili.com/video/BV1KBuG6MEwe)
+---
+
+### [136]. Toolformer：大模型自发调用工具的开山之作，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1NBuG6MEiP](https://www.bilibili.com/video/BV1NBuG6MEiP)
+- 查看封面：[图片BV1NBuG6MEiP](./assets/papers/BV1NBuG6MEiP.jpg)
+
+[![](./assets/papers/BV1NBuG6MEiP.jpg)](https://www.bilibili.com/video/BV1NBuG6MEiP)
+---
+
+### [135]. TRPO：PPO的前身，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1xBuG6MEYJ](https://www.bilibili.com/video/BV1xBuG6MEYJ)
+- 查看封面：[图片BV1xBuG6MEYJ](./assets/papers/BV1xBuG6MEYJ.jpg)
+
+[![](./assets/papers/BV1xBuG6MEYJ.jpg)](https://www.bilibili.com/video/BV1xBuG6MEYJ)
+---
+
+### [134]. SWE-agent：Agent处理GitHub issue的经典论文，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1xBuG6MEuX](https://www.bilibili.com/video/BV1xBuG6MEuX)
+- 查看封面：[图片BV1xBuG6MEuX](./assets/papers/BV1xBuG6MEuX.jpg)
+
+[![](./assets/papers/BV1xBuG6MEuX.jpg)](https://www.bilibili.com/video/BV1xBuG6MEuX)
+---
 
 ### [133]. FlashDecoding：原始技术博客，论文精读【每天一个宝藏论文】
 - 观看视频：[视频BV1xBuG6MEB3](https://www.bilibili.com/video/BV1xBuG6MEB3)

@@ -1,4 +1,67 @@
 # 宝藏论文链接大全
+### [142]. LoRA：大模型微调经典重温，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1zxbY6vE5n](https://www.bilibili.com/video/BV1zxbY6vE5n)
+
+- 阅读论文：[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)
+
+---
+
+### [141]. Rainbow：把 DQN 的六大改进一次拼完，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1BtbY6PEfW](https://www.bilibili.com/video/BV1BtbY6PEfW)
+
+- 阅读论文：[Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/pdf/1710.02298.pdf)
+
+---
+
+### [140]. Mobile Agent：大模型操作手机，GUI Agent论文精读【每天一个宝藏论文】
+- 观看视频：[BV1pPu26bEB6](https://www.bilibili.com/video/BV1pPu26bEB6)
+
+- 阅读论文：[Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception](https://arxiv.org/pdf/2401.16158.pdf)
+
+---
+
+### [139]. RNN：循环神经网络经典重温，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1KiuG6zE44](https://www.bilibili.com/video/BV1KiuG6zE44)
+
+- 阅读论文：[Finding Structure in Time](https://crl.ucsd.edu/~elman/Papers/fsit.pdf)
+
+---
+
+### [138]. Voyager：Agent玩我的世界，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1KiuG6zECG](https://www.bilibili.com/video/BV1KiuG6zECG)
+
+- 阅读论文：[Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/pdf/2305.16291.pdf)
+
+---
+
+### [137]. MuZero：AlphaZero 之后关键的一步：直接学一个世界模型做 MCTS，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1KBuG6MEwe](https://www.bilibili.com/video/BV1KBuG6MEwe)
+
+- 阅读论文：[Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/pdf/1911.08265.pdf)
+
+---
+
+### [136]. Toolformer：大模型自发调用工具的开山之作，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1NBuG6MEiP](https://www.bilibili.com/video/BV1NBuG6MEiP)
+
+- 阅读论文：[Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/pdf/2302.04761.pdf)
+
+---
+
+### [135]. TRPO：PPO的前身，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1xBuG6MEYJ](https://www.bilibili.com/video/BV1xBuG6MEYJ)
+
+- 阅读论文：[Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf)
+
+---
+
+### [134]. SWE-agent：Agent处理GitHub issue的经典论文，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1xBuG6MEuX](https://www.bilibili.com/video/BV1xBuG6MEuX)
+
+- 阅读论文：[SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering](https://arxiv.org/pdf/2405.15793.pdf)
+
+---
+
 ### [133]. FlashDecoding：原始技术博客，论文精读【每天一个宝藏论文】
 - 观看视频：[BV1xBuG6MEB3](https://www.bilibili.com/video/BV1xBuG6MEB3)
 

@@ -1,5 +1,104 @@
 [
   {
+    "video_id": 142,
+    "video_title": "[142]. LoRA：大模型微调经典重温，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1zxbY6vE5n",
+    "papers": [
+      {
+        "paper_title": "LoRA: Low-Rank Adaptation of Large Language Models",
+        "paper_link": "https://arxiv.org/pdf/2106.09685.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 141,
+    "video_title": "[141]. Rainbow：把 DQN 的六大改进一次拼完，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1BtbY6PEfW",
+    "papers": [
+      {
+        "paper_title": "Rainbow: Combining Improvements in Deep Reinforcement Learning",
+        "paper_link": "https://arxiv.org/pdf/1710.02298.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 140,
+    "video_title": "[140]. Mobile Agent：大模型操作手机，GUI Agent论文精读【每天一个宝藏论文】",
+    "bvid": "BV1pPu26bEB6",
+    "papers": [
+      {
+        "paper_title": "Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception",
+        "paper_link": "https://arxiv.org/pdf/2401.16158.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 139,
+    "video_title": "[139]. RNN：循环神经网络经典重温，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1KiuG6zE44",
+    "papers": [
+      {
+        "paper_title": "Finding Structure in Time",
+        "paper_link": "https://crl.ucsd.edu/~elman/Papers/fsit.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 138,
+    "video_title": "[138]. Voyager：Agent玩我的世界，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1KiuG6zECG",
+    "papers": [
+      {
+        "paper_title": "Voyager: An Open-Ended Embodied Agent with Large Language Models",
+        "paper_link": "https://arxiv.org/pdf/2305.16291.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 137,
+    "video_title": "[137]. MuZero：AlphaZero 之后关键的一步：直接学一个世界模型做 MCTS，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1KBuG6MEwe",
+    "papers": [
+      {
+        "paper_title": "Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model",
+        "paper_link": "https://arxiv.org/pdf/1911.08265.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 136,
+    "video_title": "[136]. Toolformer：大模型自发调用工具的开山之作，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1NBuG6MEiP",
+    "papers": [
+      {
+        "paper_title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "paper_link": "https://arxiv.org/pdf/2302.04761.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 135,
+    "video_title": "[135]. TRPO：PPO的前身，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1xBuG6MEYJ",
+    "papers": [
+      {
+        "paper_title": "Trust Region Policy Optimization",
+        "paper_link": "https://arxiv.org/pdf/1502.05477.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 134,
+    "video_title": "[134]. SWE-agent：Agent处理GitHub issue的经典论文，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1xBuG6MEuX",
+    "papers": [
+      {
+        "paper_title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "paper_link": "https://arxiv.org/pdf/2405.15793.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 133,
     "video_title": "[133]. FlashDecoding：原始技术博客，论文精读【每天一个宝藏论文】",
     "bvid": "BV1xBuG6MEB3",
