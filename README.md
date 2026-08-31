@@ -3,9 +3,44 @@
 - **作者**：b站**海安雨**。
 - **使用方法**：点击**宝藏论文链接大全**文件夹可阅读所有论文，点击**观看视频**可跳转到b站视频。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**188**个宝藏问题`手稿`和**135**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**193**个宝藏问题`手稿`和**140**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 216. 多轮对话中Decode之后还要增量Prefill，那新的KV如何并入KV Cache？(新版)【每天一个宝藏问题】
+- 观看视频：[视频BV1vYhF6zEud](https://www.bilibili.com/video/BV1vYhF6zEud)
+- 查看封面：[图片BV1vYhF6zEud](./assets/questions/BV1vYhF6zEud.jpg)
+
+[![](./assets/questions/BV1vYhF6zEud.jpg)](https://www.bilibili.com/video/BV1vYhF6zEud)
+---
+
+### 215. 连续批处理如何把Prefill和Decode请求的FFN拼成一次矩阵乘？【每天一个宝藏问题】
+- 观看视频：[视频BV1DrhF6PEtj](https://www.bilibili.com/video/BV1DrhF6PEtj)
+- 查看封面：[图片BV1DrhF6PEtj](./assets/questions/BV1DrhF6PEtj.jpg)
+
+[![](./assets/questions/BV1DrhF6PEtj.jpg)](https://www.bilibili.com/video/BV1DrhF6PEtj)
+---
+
+### 214. 为什么MLA无需显式解压K和Q？(新版)【每天一个宝藏问题】
+- 观看视频：[视频BV1FE8Z63E5v](https://www.bilibili.com/video/BV1FE8Z63E5v)
+- 查看封面：[图片BV1FE8Z63E5v](./assets/questions/BV1FE8Z63E5v.jpg)
+
+[![](./assets/questions/BV1FE8Z63E5v.jpg)](https://www.bilibili.com/video/BV1FE8Z63E5v)
+---
+
+### 213. 为什么GRPO可以扔掉价值网络？【每天一个宝藏问题】
+- 观看视频：[视频BV1WC896BEPW](https://www.bilibili.com/video/BV1WC896BEPW)
+- 查看封面：[图片BV1WC896BEPW](./assets/questions/BV1WC896BEPW.jpg)
+
+[![](./assets/questions/BV1WC896BEPW.jpg)](https://www.bilibili.com/video/BV1WC896BEPW)
+---
+
+### 212. 如何可视化UNet？【每天一个宝藏问题】
+- 观看视频：[视频BV1quhG6CEtf](https://www.bilibili.com/video/BV1quhG6CEtf)
+- 查看封面：[图片BV1quhG6CEtf](./assets/questions/BV1quhG6CEtf.jpg)
+
+[![](./assets/questions/BV1quhG6CEtf.jpg)](https://www.bilibili.com/video/BV1quhG6CEtf)
+---
 
 ### 211. 如何求PPO中每个token的梯度？【每天一个宝藏问题】
 - 观看视频：[视频BV1juhG6CEmD](https://www.bilibili.com/video/BV1juhG6CEmD)
@@ -1487,6 +1522,41 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [147]. AlexNet：深度学习名作经典重温，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1kEbY6gEvA](https://www.bilibili.com/video/BV1kEbY6gEvA)
+- 查看封面：[图片BV1kEbY6gEvA](./assets/papers/BV1kEbY6gEvA.jpg)
+
+[![](./assets/papers/BV1kEbY6gEvA.jpg)](https://www.bilibili.com/video/BV1kEbY6gEvA)
+---
+
+### [146]. Universal_Approximators：神经网络的万能近似定理，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1CEbY6gEHM](https://www.bilibili.com/video/BV1CEbY6gEHM)
+- 查看封面：[图片BV1CEbY6gEHM](./assets/papers/BV1CEbY6gEHM.jpg)
+
+[![](./assets/papers/BV1CEbY6gEHM.jpg)](https://www.bilibili.com/video/BV1CEbY6gEHM)
+---
+
+### [145]. 3D Gaussian Splatting：3D高斯实时渲染，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1zxbY6vEgk](https://www.bilibili.com/video/BV1zxbY6vEgk)
+- 查看封面：[图片BV1zxbY6vEgk](./assets/papers/BV1zxbY6vEgk.jpg)
+
+[![](./assets/papers/BV1zxbY6vEgk.jpg)](https://www.bilibili.com/video/BV1zxbY6vEgk)
+---
+
+### [144]. Megatron LM：大模型并行训练重要工作，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1BxbY6vE9J](https://www.bilibili.com/video/BV1BxbY6vE9J)
+- 查看封面：[图片BV1BxbY6vE9J](./assets/papers/BV1BxbY6vE9J.jpg)
+
+[![](./assets/papers/BV1BxbY6vE9J.jpg)](https://www.bilibili.com/video/BV1BxbY6vE9J)
+---
+
+### [143]. NeRF：神经辐射场三维重建，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1zxbY6vEy9](https://www.bilibili.com/video/BV1zxbY6vEy9)
+- 查看封面：[图片BV1zxbY6vEy9](./assets/papers/BV1zxbY6vEy9.jpg)
+
+[![](./assets/papers/BV1zxbY6vEy9.jpg)](https://www.bilibili.com/video/BV1zxbY6vEy9)
+---
 
 ### [142]. LoRA：大模型微调经典重温，论文精读【每天一个宝藏论文】
 - 观看视频：[视频BV1zxbY6vE5n](https://www.bilibili.com/video/BV1zxbY6vE5n)

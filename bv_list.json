@@ -1,5 +1,65 @@
 [
   {
+    "bvid": "BV1vYhF6zEud",
+    "title": "216. 多轮对话中Decode之后还要增量Prefill，那新的KV如何并入KV Cache？(新版)【每天一个宝藏问题】",
+    "created": 1788091200,
+    "pic": "http://i1.hdslb.com/bfs/archive/d5357ab2a85d0d1c0d7dff813d2cab6d8e6a91f5.png"
+  },
+  {
+    "bvid": "BV1kEbY6gEvA",
+    "title": "[147]. AlexNet：深度学习名作经典重温，论文精读【每天一个宝藏论文】",
+    "created": 1788091200,
+    "pic": "http://i2.hdslb.com/bfs/archive/59abbf7704ba6ee7888ce547554c053d4a74ba68.png"
+  },
+  {
+    "bvid": "BV1DrhF6PEtj",
+    "title": "215. 连续批处理如何把Prefill和Decode请求的FFN拼成一次矩阵乘？【每天一个宝藏问题】",
+    "created": 1788004800,
+    "pic": "http://i1.hdslb.com/bfs/archive/22154bd877f278afc21d61cfb04bcba9f5c59fad.png"
+  },
+  {
+    "bvid": "BV1CEbY6gEHM",
+    "title": "[146]. Universal_Approximators：神经网络的万能近似定理，论文精读【每天一个宝藏论文】",
+    "created": 1788004800,
+    "pic": "http://i0.hdslb.com/bfs/archive/fb812430f1fafc07d6cad5a15ccdd2ae2ee89638.png"
+  },
+  {
+    "bvid": "BV1FE8Z63E5v",
+    "title": "214. 为什么MLA无需显式解压K和Q？(新版)【每天一个宝藏问题】",
+    "created": 1787918400,
+    "pic": "http://i2.hdslb.com/bfs/archive/f3c29c1cd65d8bb06cb612138093e90552a751b5.png"
+  },
+  {
+    "bvid": "BV1zxbY6vEgk",
+    "title": "[145]. 3D Gaussian Splatting：3D高斯实时渲染，论文精读【每天一个宝藏论文】",
+    "created": 1787918400,
+    "pic": "http://i1.hdslb.com/bfs/archive/f9497074021e92510a5533addea32ae4329ff463.png"
+  },
+  {
+    "bvid": "BV1WC896BEPW",
+    "title": "213. 为什么GRPO可以扔掉价值网络？【每天一个宝藏问题】",
+    "created": 1787832000,
+    "pic": "http://i0.hdslb.com/bfs/archive/3923d144713e6e0caf4e91bd1ffa0f6359fd0637.png"
+  },
+  {
+    "bvid": "BV1BxbY6vE9J",
+    "title": "[144]. Megatron LM：大模型并行训练重要工作，论文精读【每天一个宝藏论文】",
+    "created": 1787832000,
+    "pic": "http://i0.hdslb.com/bfs/archive/64d8f4c235e09afd577a3f244bea68b1242d25e7.png"
+  },
+  {
+    "bvid": "BV1quhG6CEtf",
+    "title": "212. 如何可视化UNet？【每天一个宝藏问题】",
+    "created": 1787745600,
+    "pic": "http://i0.hdslb.com/bfs/archive/2a61cc33135bf4c258a629d81b4f2e65d04f9b29.png"
+  },
+  {
+    "bvid": "BV1zxbY6vEy9",
+    "title": "[143]. NeRF：神经辐射场三维重建，论文精读【每天一个宝藏论文】",
+    "created": 1787745600,
+    "pic": "http://i2.hdslb.com/bfs/archive/c805a1c60ef82447b6c4a33b845df8e9c1d0ebc4.png"
+  },
+  {
     "bvid": "BV1juhG6CEmD",
     "title": "211. 如何求PPO中每个token的梯度？【每天一个宝藏问题】",
     "created": 1787659200,

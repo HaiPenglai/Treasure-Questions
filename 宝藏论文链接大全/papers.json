@@ -1,5 +1,64 @@
 [
   {
+    "video_id": 147,
+    "video_title": "[147]. AlexNet：深度学习名作经典重温，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1kEbY6gEvA",
+    "papers": [
+      {
+        "paper_title": "ImageNet Classification with Deep Convolutional Neural Networks",
+        "paper_link": "https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 146,
+    "video_title": "[146]. Universal_Approximators：神经网络的万能近似定理，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1CEbY6gEHM",
+    "papers": [
+      {
+        "paper_title": "Multilayer Feedforward Networks Are Universal Approximators",
+        "paper_link": "https://www.sciencedirect.com/science/article/pii/0893608089900208"
+      },
+      {
+        "paper_title": "Approximation by Superpositions of a Sigmoidal Function",
+        "paper_link": "https://link.springer.com/article/10.1007/BF02551274"
+      }
+    ]
+  },
+  {
+    "video_id": 145,
+    "video_title": "[145]. 3D Gaussian Splatting：3D高斯实时渲染，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1zxbY6vEgk",
+    "papers": [
+      {
+        "paper_title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering",
+        "paper_link": "https://arxiv.org/pdf/2308.04079.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 144,
+    "video_title": "[144]. Megatron LM：大模型并行训练重要工作，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1BxbY6vE9J",
+    "papers": [
+      {
+        "paper_title": "Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism",
+        "paper_link": "https://arxiv.org/pdf/1909.08053.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 143,
+    "video_title": "[143]. NeRF：神经辐射场三维重建，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1zxbY6vEy9",
+    "papers": [
+      {
+        "paper_title": "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis",
+        "paper_link": "https://arxiv.org/pdf/2003.08934.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 142,
     "video_title": "[142]. LoRA：大模型微调经典重温，论文精读【每天一个宝藏论文】",
     "bvid": "BV1zxbY6vE5n",

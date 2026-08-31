@@ -1,4 +1,40 @@
 # 宝藏论文链接大全
+### [147]. AlexNet：深度学习名作经典重温，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1kEbY6gEvA](https://www.bilibili.com/video/BV1kEbY6gEvA)
+
+- 阅读论文：[ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
+
+---
+
+### [146]. Universal_Approximators：神经网络的万能近似定理，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1CEbY6gEHM](https://www.bilibili.com/video/BV1CEbY6gEHM)
+
+- 阅读论文：[Multilayer Feedforward Networks Are Universal Approximators](https://www.sciencedirect.com/science/article/pii/0893608089900208)
+- 阅读论文：[Approximation by Superpositions of a Sigmoidal Function](https://link.springer.com/article/10.1007/BF02551274)
+
+---
+
+### [145]. 3D Gaussian Splatting：3D高斯实时渲染，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1zxbY6vEgk](https://www.bilibili.com/video/BV1zxbY6vEgk)
+
+- 阅读论文：[3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/pdf/2308.04079.pdf)
+
+---
+
+### [144]. Megatron LM：大模型并行训练重要工作，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1BxbY6vE9J](https://www.bilibili.com/video/BV1BxbY6vE9J)
+
+- 阅读论文：[Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/pdf/1909.08053.pdf)
+
+---
+
+### [143]. NeRF：神经辐射场三维重建，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1zxbY6vEy9](https://www.bilibili.com/video/BV1zxbY6vEy9)
+
+- 阅读论文：[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/pdf/2003.08934.pdf)
+
+---
+
 ### [142]. LoRA：大模型微调经典重温，论文精读【每天一个宝藏论文】
 - 观看视频：[BV1zxbY6vE5n](https://www.bilibili.com/video/BV1zxbY6vE5n)
 
