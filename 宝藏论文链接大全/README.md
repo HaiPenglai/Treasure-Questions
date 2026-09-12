@@ -1,4 +1,95 @@
 # 宝藏论文链接大全
+### [160]. EAGLE-3：投机解码 EAGLE 的最新改进，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1xnth6KEFB](https://www.bilibili.com/video/BV1xnth6KEFB)
+
+- 阅读论文：[EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test](https://arxiv.org/pdf/2503.01840.pdf)
+
+---
+
+### [159]. MoBA：Kimi 的稀疏注意力，NSA 姊妹篇，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1ULth66EJ8](https://www.bilibili.com/video/BV1ULth66EJ8)
+
+- 阅读论文：[MoBA: Mixture of Block Attention for Long-Context LLMs](https://arxiv.org/pdf/2502.13189.pdf)
+
+---
+
+### [158]. Gated Attention：NeurIPS 2025 最佳论文，给注意力加个门，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1ULth66EHH](https://www.bilibili.com/video/BV1ULth66EHH)
+
+- 阅读论文：[Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free](https://arxiv.org/pdf/2505.06708.pdf)
+
+---
+
+### [157]. GSPO：GRPO 的改进，序列级重要性采样，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1T7th6gELe](https://www.bilibili.com/video/BV1T7th6gELe)
+
+- 阅读论文：[Group Sequence Policy Optimization](https://arxiv.org/pdf/2507.18071.pdf)
+
+---
+
+### [156]. UCB1：多臂老虎机，论文精读【每天一个宝藏论文】
+- 观看视频：[BV17MhG65E2o](https://www.bilibili.com/video/BV17MhG65E2o)
+
+- 阅读论文：[Finite-time Analysis of the Multiarmed Bandit Problem](https://homes.di.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf)
+
+---
+
+### [155]. CTC：语音识别的经典损失函数，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1f38h6cEcs](https://www.bilibili.com/video/BV1f38h6cEcs)
+
+- 阅读论文：[Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks](https://www.cs.toronto.edu/~graves/icml_2006.pdf)
+
+---
+
+### [154]. ZeRO：DeepSpeed 大模型显存优化，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1B38h6cEQP](https://www.bilibili.com/video/BV1B38h6cEQP)
+
+- 阅读论文：[ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/pdf/1910.02054.pdf)
+
+---
+
+### [153]. Bahdanau Attention：首次将注意力用于Seq2Seq，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1rK8h6eEGT](https://www.bilibili.com/video/BV1rK8h6eEGT)
+
+- 阅读论文：[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf)
+
+---
+
+### [152]. Distilling the Knowledge：知识蒸馏奠基之作，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1cK8h6vEVW](https://www.bilibili.com/video/BV1cK8h6vEVW)
+
+- 阅读论文：[Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf)
+
+---
+
+### [151]. Switch Transformer：稀疏专家模型，论文精读【每天一个宝藏论文】
+- 观看视频：[BV16K8h6eE2v](https://www.bilibili.com/video/BV16K8h6eE2v)
+
+- 阅读论文：[Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/pdf/2101.03961.pdf)
+
+---
+
+### [150]. Seq2Seq：序列到序列经典论文，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1Rf8J6bEDU](https://www.bilibili.com/video/BV1Rf8J6bEDU)
+
+- 阅读论文：[Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf)
+
+---
+
+### [149]. Batch Norm：批量归一化经典重温，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1ezbv6eEYm](https://www.bilibili.com/video/BV1ezbv6eEYm)
+
+- 阅读论文：[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
+
+---
+
+### [148]. Diffusion LM：扩散语言模型开山之作，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1AEbY63ETH](https://www.bilibili.com/video/BV1AEbY63ETH)
+
+- 阅读论文：[Diffusion-LM Improves Controllable Text Generation](https://arxiv.org/pdf/2205.14217.pdf)
+
+---
+
 ### [147]. AlexNet：深度学习名作经典重温，论文精读【每天一个宝藏论文】
 - 观看视频：[BV1kEbY6gEvA](https://www.bilibili.com/video/BV1kEbY6gEvA)
 

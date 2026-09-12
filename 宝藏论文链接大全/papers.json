@@ -1,5 +1,148 @@
 [
   {
+    "video_id": 160,
+    "video_title": "[160]. EAGLE-3：投机解码 EAGLE 的最新改进，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1xnth6KEFB",
+    "papers": [
+      {
+        "paper_title": "EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test",
+        "paper_link": "https://arxiv.org/pdf/2503.01840.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 159,
+    "video_title": "[159]. MoBA：Kimi 的稀疏注意力，NSA 姊妹篇，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1ULth66EJ8",
+    "papers": [
+      {
+        "paper_title": "MoBA: Mixture of Block Attention for Long-Context LLMs",
+        "paper_link": "https://arxiv.org/pdf/2502.13189.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 158,
+    "video_title": "[158]. Gated Attention：NeurIPS 2025 最佳论文，给注意力加个门，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1ULth66EHH",
+    "papers": [
+      {
+        "paper_title": "Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free",
+        "paper_link": "https://arxiv.org/pdf/2505.06708.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 157,
+    "video_title": "[157]. GSPO：GRPO 的改进，序列级重要性采样，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1T7th6gELe",
+    "papers": [
+      {
+        "paper_title": "Group Sequence Policy Optimization",
+        "paper_link": "https://arxiv.org/pdf/2507.18071.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 156,
+    "video_title": "[156]. UCB1：多臂老虎机，论文精读【每天一个宝藏论文】",
+    "bvid": "BV17MhG65E2o",
+    "papers": [
+      {
+        "paper_title": "Finite-time Analysis of the Multiarmed Bandit Problem",
+        "paper_link": "https://homes.di.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 155,
+    "video_title": "[155]. CTC：语音识别的经典损失函数，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1f38h6cEcs",
+    "papers": [
+      {
+        "paper_title": "Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks",
+        "paper_link": "https://www.cs.toronto.edu/~graves/icml_2006.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 154,
+    "video_title": "[154]. ZeRO：DeepSpeed 大模型显存优化，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1B38h6cEQP",
+    "papers": [
+      {
+        "paper_title": "ZeRO: Memory Optimizations Toward Training Trillion Parameter Models",
+        "paper_link": "https://arxiv.org/pdf/1910.02054.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 153,
+    "video_title": "[153]. Bahdanau Attention：首次将注意力用于Seq2Seq，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1rK8h6eEGT",
+    "papers": [
+      {
+        "paper_title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+        "paper_link": "https://arxiv.org/pdf/1409.0473.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 152,
+    "video_title": "[152]. Distilling the Knowledge：知识蒸馏奠基之作，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1cK8h6vEVW",
+    "papers": [
+      {
+        "paper_title": "Distilling the Knowledge in a Neural Network",
+        "paper_link": "https://arxiv.org/pdf/1503.02531.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 151,
+    "video_title": "[151]. Switch Transformer：稀疏专家模型，论文精读【每天一个宝藏论文】",
+    "bvid": "BV16K8h6eE2v",
+    "papers": [
+      {
+        "paper_title": "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity",
+        "paper_link": "https://arxiv.org/pdf/2101.03961.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 150,
+    "video_title": "[150]. Seq2Seq：序列到序列经典论文，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1Rf8J6bEDU",
+    "papers": [
+      {
+        "paper_title": "Sequence to Sequence Learning with Neural Networks",
+        "paper_link": "https://arxiv.org/pdf/1409.3215.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 149,
+    "video_title": "[149]. Batch Norm：批量归一化经典重温，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1ezbv6eEYm",
+    "papers": [
+      {
+        "paper_title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
+        "paper_link": "https://arxiv.org/pdf/1502.03167.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 148,
+    "video_title": "[148]. Diffusion LM：扩散语言模型开山之作，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1AEbY63ETH",
+    "papers": [
+      {
+        "paper_title": "Diffusion-LM Improves Controllable Text Generation",
+        "paper_link": "https://arxiv.org/pdf/2205.14217.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 147,
     "video_title": "[147]. AlexNet：深度学习名作经典重温，论文精读【每天一个宝藏论文】",
     "bvid": "BV1kEbY6gEvA",

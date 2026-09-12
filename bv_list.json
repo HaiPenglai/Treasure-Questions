@@ -1,5 +1,161 @@
 [
   {
+    "bvid": "BV151Yu6uERg",
+    "title": "229. 为什么PPO的优势A是每个token一个，而GRPO是整段回答一个？【每天一个宝藏问题】",
+    "created": 1789214400,
+    "pic": "http://i2.hdslb.com/bfs/archive/2f189e337a63d879ed3f04b79f2430c1ec272dc3.png"
+  },
+  {
+    "bvid": "BV1xnth6KEFB",
+    "title": "[160]. EAGLE-3：投机解码 EAGLE 的最新改进，论文精读【每天一个宝藏论文】",
+    "created": 1789214400,
+    "pic": "http://i1.hdslb.com/bfs/archive/0b2aa393bfe5c650f3cb466761f338060b681817.png"
+  },
+  {
+    "bvid": "BV163b46DE6F",
+    "title": "228. PPO的价值网络是如何根据写到一半的答案猜平均分的？【每天一个宝藏问题】",
+    "created": 1789128000,
+    "pic": "http://i2.hdslb.com/bfs/archive/56e313721b846884d214115d84ceffcab9962e3d.png"
+  },
+  {
+    "bvid": "BV1ULth66EJ8",
+    "title": "[159]. MoBA：Kimi 的稀疏注意力，NSA 姊妹篇，论文精读【每天一个宝藏论文】",
+    "created": 1789128000,
+    "pic": "http://i2.hdslb.com/bfs/archive/0ffb56b39f7b0a71de4c0909e5f3c155c4adfa39.png"
+  },
+  {
+    "bvid": "BV1mTtf6SEhx",
+    "title": "227. PPO中的优势A是怎么来的？【每天一个宝藏问题】",
+    "created": 1789041600,
+    "pic": "http://i1.hdslb.com/bfs/archive/5f4fc5c43e4daa3896bc3ff4164023c16980a815.jpg"
+  },
+  {
+    "bvid": "BV1ULth66EHH",
+    "title": "[158]. Gated Attention：NeurIPS 2025 最佳论文，给注意力加个门，论文精读【每天一个宝藏论文】",
+    "created": 1789041600,
+    "pic": "http://i1.hdslb.com/bfs/archive/85e20792661ccdca5a20086eebcb0589f20f7a09.png"
+  },
+  {
+    "bvid": "BV1BHto6aE7P",
+    "title": "226. 最简单的transformer反向传播可视化能有多简单？(新版)【每天一个宝藏问题】",
+    "created": 1788955200,
+    "pic": "http://i2.hdslb.com/bfs/archive/48577199ffaa8fc3b692b58576d38f4da6678121.png"
+  },
+  {
+    "bvid": "BV1T7th6gELe",
+    "title": "[157]. GSPO：GRPO 的改进，序列级重要性采样，论文精读【每天一个宝藏论文】",
+    "created": 1788955200,
+    "pic": "http://i0.hdslb.com/bfs/archive/a6baa1ac8b2621e9957e628196f53371b1269439.png"
+  },
+  {
+    "bvid": "BV1BWto6cEsD",
+    "title": "225. Deepseek的MLA是如何处理RoPE的？【每天一个宝藏问题】",
+    "created": 1788868800,
+    "pic": "http://i1.hdslb.com/bfs/archive/9cc92ece7e0b9168a238df26aea78bf51b310b7f.png"
+  },
+  {
+    "bvid": "BV17MhG65E2o",
+    "title": "[156]. UCB1：多臂老虎机，论文精读【每天一个宝藏论文】",
+    "created": 1788868800,
+    "pic": "http://i0.hdslb.com/bfs/archive/36e3ce24fe6ee986f11d0cd38f9796d0c2645f55.png"
+  },
+  {
+    "bvid": "BV1i2tG6qEZ8",
+    "title": "224. 如何证明因果掩码其实就已经内禀位置信息了？【每天一个宝藏问题】",
+    "created": 1788782400,
+    "pic": "http://i0.hdslb.com/bfs/archive/10bb390778e9426aa7b5072cc1da09001f4389b9.png"
+  },
+  {
+    "bvid": "BV1f38h6cEcs",
+    "title": "[155]. CTC：语音识别的经典损失函数，论文精读【每天一个宝藏论文】",
+    "created": 1788782400,
+    "pic": "http://i1.hdslb.com/bfs/archive/4e2e45e93de468bf1f3bea579e19d707872049b0.png"
+  },
+  {
+    "bvid": "BV1LUtG6KEkJ",
+    "title": "223. 如何可视化MOE？(新版)【每天一个宝藏问题】",
+    "created": 1788696000,
+    "pic": "http://i2.hdslb.com/bfs/archive/358af52184b41ab1aa1dea86f2053e3dbfafba92.png"
+  },
+  {
+    "bvid": "BV1B38h6cEQP",
+    "title": "[154]. ZeRO：DeepSpeed 大模型显存优化，论文精读【每天一个宝藏论文】",
+    "created": 1788696000,
+    "pic": "http://i1.hdslb.com/bfs/archive/a2b5481cc6356bf336058061260014dbbf6776a0.png"
+  },
+  {
+    "bvid": "BV16ath6fEMr",
+    "title": "222. 为什么传统位置编码只作用于词嵌入，而RoPE每层都作用？【每天一个宝藏问题】",
+    "created": 1788609600,
+    "pic": "http://i2.hdslb.com/bfs/archive/e1a2402baa95da588e158315d83aff5193544665.png"
+  },
+  {
+    "bvid": "BV1rK8h6eEGT",
+    "title": "[153]. Bahdanau Attention：首次将注意力用于Seq2Seq，论文精读【每天一个宝藏论文】",
+    "created": 1788609600,
+    "pic": "http://i0.hdslb.com/bfs/archive/84d2b1850f96790b3a4d90022dbc8a05d2310ed4.png"
+  },
+  {
+    "bvid": "BV16ath6fEbM",
+    "title": "221. 为什么很多强化学习框架要内置vLLM这样的推理引擎加速采样？【每天一个宝藏问题】",
+    "created": 1788523200,
+    "pic": "http://i0.hdslb.com/bfs/archive/b9a63752b6067f4ed7bb95d2b5a82beefae59f83.png"
+  },
+  {
+    "bvid": "BV1cK8h6vEVW",
+    "title": "[152]. Distilling the Knowledge：知识蒸馏奠基之作，论文精读【每天一个宝藏论文】",
+    "created": 1788523200,
+    "pic": "http://i0.hdslb.com/bfs/archive/abc5958d9b6ff28b1847cc7864c854f836388027.png"
+  },
+  {
+    "bvid": "BV14Ctp6JEp6",
+    "title": "220. PPO的损失计算和SFT有何异同？【每天一个宝藏问题】",
+    "created": 1788436800,
+    "pic": "http://i1.hdslb.com/bfs/archive/1172b26ba024416ac7555a56dfa635ddf5e8287c.png"
+  },
+  {
+    "bvid": "BV16K8h6eE2v",
+    "title": "[151]. Switch Transformer：稀疏专家模型，论文精读【每天一个宝藏论文】",
+    "created": 1788436800,
+    "pic": "http://i1.hdslb.com/bfs/archive/c071391eed5e390824b281bc173a92c058d0b2b1.png"
+  },
+  {
+    "bvid": "BV1rG4U6kE2E",
+    "title": "219. 为什么把权重置0就是在剪枝？(新版)【每天一个宝藏问题】",
+    "created": 1788350400,
+    "pic": "http://i0.hdslb.com/bfs/archive/c2c1c6b5a6fa13dcf0965d9ead845bfb0b4eef96.png"
+  },
+  {
+    "bvid": "BV1Rf8J6bEDU",
+    "title": "[150]. Seq2Seq：序列到序列经典论文，论文精读【每天一个宝藏论文】",
+    "created": 1788350400,
+    "pic": "http://i1.hdslb.com/bfs/archive/d67c0dd5d49ade1121f7eac0755a1adb3b3a3117.png"
+  },
+  {
+    "bvid": "BV1wk4k6fEsY",
+    "title": "218. 大模型的训练、推理、SFT、强化学习究竟有什么区别？【每天一个宝藏问题】",
+    "created": 1788264000,
+    "pic": "http://i0.hdslb.com/bfs/archive/25215dfe768dc40c8c6713c7c667da89e896b178.png"
+  },
+  {
+    "bvid": "BV1ezbv6eEYm",
+    "title": "[149]. Batch Norm：批量归一化经典重温，论文精读【每天一个宝藏论文】",
+    "created": 1788264000,
+    "pic": "http://i1.hdslb.com/bfs/archive/a01b0c7e27a2b2d1d43befb27a83c9bcb9870879.png"
+  },
+  {
+    "bvid": "BV12Xhw6YE5X",
+    "title": "217. Chunked Prefill为什么要给长Prefill分块？【每天一个宝藏问题】",
+    "created": 1788177600,
+    "pic": "http://i2.hdslb.com/bfs/archive/cacc3d8ba54dc1e70bfaf536b765a9094d776c69.jpg"
+  },
+  {
+    "bvid": "BV1AEbY63ETH",
+    "title": "[148]. Diffusion LM：扩散语言模型开山之作，论文精读【每天一个宝藏论文】",
+    "created": 1788177600,
+    "pic": "http://i0.hdslb.com/bfs/archive/c4ae21fb6752e7883875d0da9ff9c80bbcc01e07.png"
+  },
+  {
     "bvid": "BV1vYhF6zEud",
     "title": "216. 多轮对话中Decode之后还要增量Prefill，那新的KV如何并入KV Cache？(新版)【每天一个宝藏问题】",
     "created": 1788091200,
