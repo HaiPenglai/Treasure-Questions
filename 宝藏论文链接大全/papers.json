@@ -1,5 +1,126 @@
 [
   {
+    "video_id": 171,
+    "video_title": "[171]. MegaScale_MoE：字节 1440 卡训 352B MoE，比 Megatron 快 1.88 倍，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1F6Ye6SEAe",
+    "papers": [
+      {
+        "paper_title": "MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production",
+        "paper_link": "https://arxiv.org/pdf/2505.11432.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 170,
+    "video_title": "[170]. SOAP_Muon_and_Beyond：英伟达实测，万亿 token 上超越 AdamW 的优化器，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1piYe6pEcF",
+    "papers": [
+      {
+        "paper_title": "SOAP, Muon, and Beyond: Pushing LLM Pretraining Scales",
+        "paper_link": "https://arxiv.org/pdf/2607.20548.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 169,
+    "video_title": "[169]. NVFP4_Pretraining：英伟达用 4bit 预训练 12B 模型，10 万亿 token 不掉点，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1riYe6HEfk",
+    "papers": [
+      {
+        "paper_title": "Pretraining Large Language Models with NVFP4",
+        "paper_link": "https://arxiv.org/pdf/2509.25149.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 168,
+    "video_title": "[168]. Fast_dLLM：给扩散大模型加 KV Cache，免训练提速 27 倍，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1kiYe6HEFq",
+    "papers": [
+      {
+        "paper_title": "Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding",
+        "paper_link": "https://arxiv.org/pdf/2505.22618.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 167,
+    "video_title": "[167]. 投机解码：性能还是幻觉？MLSys 2026 在 vLLM 上的首次系统实测，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1riYe6HEX2",
+    "papers": [
+      {
+        "paper_title": "Speculative Decoding: Performance or Illusion?",
+        "paper_link": "https://arxiv.org/pdf/2601.11580.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 166,
+    "video_title": "[166]. FlashInfer：MLSys 2025 最佳论文，vLLM、SGLang 都在用的注意力引擎，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1cqYe6QEZC",
+    "papers": [
+      {
+        "paper_title": "FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving",
+        "paper_link": "https://arxiv.org/pdf/2501.01005.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 165,
+    "video_title": "[165]. Mooncake：Kimi 的推理架构，FAST 2025 最佳论文，KV Cache 中心的存算分离，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1cqYe6QEZW",
+    "papers": [
+      {
+        "paper_title": "Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving",
+        "paper_link": "https://arxiv.org/pdf/2407.00079.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 164,
+    "video_title": "[164]. InstructGPT：RLHF 的开山之作，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1j2tG6qE5e",
+    "papers": [
+      {
+        "paper_title": "Training language models to follow instructions with human feedback",
+        "paper_link": "https://arxiv.org/pdf/2203.02155.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 163,
+    "video_title": "[163]. Deep Compression：韩松的剪枝+量化经典，论文精读【每天一个宝藏论文】",
+    "bvid": "BV16ath6fEA4",
+    "papers": [
+      {
+        "paper_title": "Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding",
+        "paper_link": "https://arxiv.org/pdf/1510.00149.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 162,
+    "video_title": "[162]. 2D Gaussian Splatting：3D 高斯的改进，几何重建更准，论文精读【每天一个宝藏论文】",
+    "bvid": "BV12nth6TEAC",
+    "papers": [
+      {
+        "paper_title": "2D Gaussian Splatting for Geometrically Accurate Radiance Fields",
+        "paper_link": "https://arxiv.org/pdf/2403.17888.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 161,
+    "video_title": "[161]. Instant NGP：把 NeRF 加速到秒级的哈希编码，论文精读【每天一个宝藏论文】",
+    "bvid": "BV12nth6MEaj",
+    "papers": [
+      {
+        "paper_title": "Instant Neural Graphics Primitives with a Multiresolution Hash Encoding",
+        "paper_link": "https://arxiv.org/pdf/2201.05989.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 160,
     "video_title": "[160]. EAGLE-3：投机解码 EAGLE 的最新改进，论文精读【每天一个宝藏论文】",
     "bvid": "BV1xnth6KEFB",

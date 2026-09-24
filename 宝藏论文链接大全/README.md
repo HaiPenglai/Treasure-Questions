@@ -1,4 +1,81 @@
 # 宝藏论文链接大全
+### [171]. MegaScale_MoE：字节 1440 卡训 352B MoE，比 Megatron 快 1.88 倍，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1F6Ye6SEAe](https://www.bilibili.com/video/BV1F6Ye6SEAe)
+
+- 阅读论文：[MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production](https://arxiv.org/pdf/2505.11432.pdf)
+
+---
+
+### [170]. SOAP_Muon_and_Beyond：英伟达实测，万亿 token 上超越 AdamW 的优化器，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1piYe6pEcF](https://www.bilibili.com/video/BV1piYe6pEcF)
+
+- 阅读论文：[SOAP, Muon, and Beyond: Pushing LLM Pretraining Scales](https://arxiv.org/pdf/2607.20548.pdf)
+
+---
+
+### [169]. NVFP4_Pretraining：英伟达用 4bit 预训练 12B 模型，10 万亿 token 不掉点，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1riYe6HEfk](https://www.bilibili.com/video/BV1riYe6HEfk)
+
+- 阅读论文：[Pretraining Large Language Models with NVFP4](https://arxiv.org/pdf/2509.25149.pdf)
+
+---
+
+### [168]. Fast_dLLM：给扩散大模型加 KV Cache，免训练提速 27 倍，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1kiYe6HEFq](https://www.bilibili.com/video/BV1kiYe6HEFq)
+
+- 阅读论文：[Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://arxiv.org/pdf/2505.22618.pdf)
+
+---
+
+### [167]. 投机解码：性能还是幻觉？MLSys 2026 在 vLLM 上的首次系统实测，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1riYe6HEX2](https://www.bilibili.com/video/BV1riYe6HEX2)
+
+- 阅读论文：[Speculative Decoding: Performance or Illusion?](https://arxiv.org/pdf/2601.11580.pdf)
+
+---
+
+### [166]. FlashInfer：MLSys 2025 最佳论文，vLLM、SGLang 都在用的注意力引擎，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1cqYe6QEZC](https://www.bilibili.com/video/BV1cqYe6QEZC)
+
+- 阅读论文：[FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving](https://arxiv.org/pdf/2501.01005.pdf)
+
+---
+
+### [165]. Mooncake：Kimi 的推理架构，FAST 2025 最佳论文，KV Cache 中心的存算分离，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1cqYe6QEZW](https://www.bilibili.com/video/BV1cqYe6QEZW)
+
+- 阅读论文：[Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving](https://arxiv.org/pdf/2407.00079.pdf)
+
+---
+
+### [164]. InstructGPT：RLHF 的开山之作，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1j2tG6qE5e](https://www.bilibili.com/video/BV1j2tG6qE5e)
+
+- 阅读论文：[Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf)
+
+---
+
+### [163]. Deep Compression：韩松的剪枝+量化经典，论文精读【每天一个宝藏论文】
+- 观看视频：[BV16ath6fEA4](https://www.bilibili.com/video/BV16ath6fEA4)
+
+- 阅读论文：[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/pdf/1510.00149.pdf)
+
+---
+
+### [162]. 2D Gaussian Splatting：3D 高斯的改进，几何重建更准，论文精读【每天一个宝藏论文】
+- 观看视频：[BV12nth6TEAC](https://www.bilibili.com/video/BV12nth6TEAC)
+
+- 阅读论文：[2D Gaussian Splatting for Geometrically Accurate Radiance Fields](https://arxiv.org/pdf/2403.17888.pdf)
+
+---
+
+### [161]. Instant NGP：把 NeRF 加速到秒级的哈希编码，论文精读【每天一个宝藏论文】
+- 观看视频：[BV12nth6MEaj](https://www.bilibili.com/video/BV12nth6MEaj)
+
+- 阅读论文：[Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://arxiv.org/pdf/2201.05989.pdf)
+
+---
+
 ### [160]. EAGLE-3：投机解码 EAGLE 的最新改进，论文精读【每天一个宝藏论文】
 - 观看视频：[BV1xnth6KEFB](https://www.bilibili.com/video/BV1xnth6KEFB)
 

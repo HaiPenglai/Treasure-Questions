@@ -1,5 +1,137 @@
 [
   {
+    "bvid": "BV1MnhJ6JEKb",
+    "title": "240. 为什么注意力要除以√dk而不是√d model？(新版)【每天一个宝藏问题】",
+    "created": 1790164800,
+    "pic": "http://i1.hdslb.com/bfs/archive/d8f5690ad99fb48ec50944794860f8daf86d0606.png"
+  },
+  {
+    "bvid": "BV1F6Ye6SEAe",
+    "title": "[171]. MegaScale_MoE：字节 1440 卡训 352B MoE，比 Megatron 快 1.88 倍，论文精读【每天一个宝藏论文】",
+    "created": 1790164800,
+    "pic": "http://i1.hdslb.com/bfs/archive/2a0294fceaaaf9bfd5a25807c514e098f1588a21.png"
+  },
+  {
+    "bvid": "BV1mdhB6TEQE",
+    "title": "239. 如何可视化MTP？(新版)【每天一个宝藏问题】",
+    "created": 1790078400,
+    "pic": "http://i0.hdslb.com/bfs/archive/4bc8b743e1fd8a4182c0963ea98453a26e1c21e8.png"
+  },
+  {
+    "bvid": "BV1piYe6pEcF",
+    "title": "[170]. SOAP_Muon_and_Beyond：英伟达实测，万亿 token 上超越 AdamW 的优化器，论文精读【每天一个宝藏论文】",
+    "created": 1790078400,
+    "pic": "http://i2.hdslb.com/bfs/archive/c427d01dc6139437aeb3d3341ebd068360b959cf.png"
+  },
+  {
+    "bvid": "BV1mdhB6TEmr",
+    "title": "238. 扩散语言模型和自回归语言模型有何异同？【每天一个宝藏问题】",
+    "created": 1789992000,
+    "pic": "http://i1.hdslb.com/bfs/archive/95a3f5c19f70e5a4757302bd6a2dc7b1d1963e47.png"
+  },
+  {
+    "bvid": "BV1riYe6HEfk",
+    "title": "[169]. NVFP4_Pretraining：英伟达用 4bit 预训练 12B 模型，10 万亿 token 不掉点，论文精读【每天一个宝藏论文】",
+    "created": 1789992000,
+    "pic": "http://i1.hdslb.com/bfs/archive/349fea6c84a12694cc2bcf783006b3cedcfc8fc2.png"
+  },
+  {
+    "bvid": "BV1hheA6EEW2",
+    "title": "237. ViT如何使用RoPE？(1D简单版)【每天一个宝藏问题】",
+    "created": 1789905600,
+    "pic": "http://i2.hdslb.com/bfs/archive/fc167c05b35931d92733397ef842d70b755d0e3a.png"
+  },
+  {
+    "bvid": "BV1kiYe6HEFq",
+    "title": "[168]. Fast_dLLM：给扩散大模型加 KV Cache，免训练提速 27 倍，论文精读【每天一个宝藏论文】",
+    "created": 1789905600,
+    "pic": "http://i2.hdslb.com/bfs/archive/65a3a5efe4f0ecf01ddb788631a49ddd3ffd0759.png"
+  },
+  {
+    "bvid": "BV1cXeA6PEJR",
+    "title": "236. 为什么自注意力矩阵是正方形，而交叉注意力矩阵是长方形？(新版)【每天一个宝藏问题】",
+    "created": 1789819200,
+    "pic": "http://i2.hdslb.com/bfs/archive/cc6d7653cd8ca5841c1e3eabe0e77d44da40bcee.png"
+  },
+  {
+    "bvid": "BV1riYe6HEX2",
+    "title": "[167]. 投机解码：性能还是幻觉？MLSys 2026 在 vLLM 上的首次系统实测，论文精读【每天一个宝藏论文】",
+    "created": 1789819200,
+    "pic": "http://i0.hdslb.com/bfs/archive/0821451d46ec1965efb45ae0f9cfc0aae8dedf68.png"
+  },
+  {
+    "bvid": "BV1cXeA6PEVh",
+    "title": "235. 如何从PPO每个token的目标函数推导出梯度？【每天一个宝藏问题】",
+    "created": 1789732800,
+    "pic": "http://i0.hdslb.com/bfs/archive/2650d1aae13d3045ac617dc0dd39b44fff032796.png"
+  },
+  {
+    "bvid": "BV1cqYe6QEZC",
+    "title": "[166]. FlashInfer：MLSys 2025 最佳论文，vLLM、SGLang 都在用的注意力引擎，论文精读【每天一个宝藏论文】",
+    "created": 1789732800,
+    "pic": "http://i1.hdslb.com/bfs/archive/1b8e43e8798dac214d9536fd2b4b61330de8d084.png"
+  },
+  {
+    "bvid": "BV1YEeH6uECe",
+    "title": "234. 为什么MLA连V也不需要显式解压？（新版）【每天一个宝藏问题】",
+    "created": 1789646400,
+    "pic": "http://i2.hdslb.com/bfs/archive/893e73a77cbf80f922fbdfe9b9cff448e5e32686.png"
+  },
+  {
+    "bvid": "BV1cqYe6QEZW",
+    "title": "[165]. Mooncake：Kimi 的推理架构，FAST 2025 最佳论文，KV Cache 中心的存算分离，论文精读【每天一个宝藏论文】",
+    "created": 1789646400,
+    "pic": "http://i2.hdslb.com/bfs/archive/b3b43b4632f514b6b64e84c11523866338dc4f57.png"
+  },
+  {
+    "bvid": "BV1eEeH6uEiN",
+    "title": "233. 大模型强化学习的价值网络和围棋的价值网络有何异同？【每天一个宝藏问题】",
+    "created": 1789560000,
+    "pic": "http://i2.hdslb.com/bfs/archive/f419a8af6a2ce18fdc01c86604af161ec3df8e8c.png"
+  },
+  {
+    "bvid": "BV1j2tG6qE5e",
+    "title": "[164]. InstructGPT：RLHF 的开山之作，论文精读【每天一个宝藏论文】",
+    "created": 1789560000,
+    "pic": "http://i2.hdslb.com/bfs/archive/df2f4b33d67d7541630489d3da68a8501c7a113a.png"
+  },
+  {
+    "bvid": "BV1sce56BEk1",
+    "title": "232. 为什么滑动窗口注意力在decode时要使用环形缓存？（新版）【每天一个宝藏问题】",
+    "created": 1789473600,
+    "pic": "http://i1.hdslb.com/bfs/archive/898761a8e548e647f97b60f8daca20555c02291f.png"
+  },
+  {
+    "bvid": "BV16ath6fEA4",
+    "title": "[163]. Deep Compression：韩松的剪枝+量化经典，论文精读【每天一个宝藏论文】",
+    "created": 1789473600,
+    "pic": "http://i0.hdslb.com/bfs/archive/96e51c8b064439e7b2bafce67da9558ea733e5a2.png"
+  },
+  {
+    "bvid": "BV1fwY165Eeq",
+    "title": "231. 从prefill和decode角度理解投机解码何以加速？(新版)【每天一个宝藏问题】",
+    "created": 1789387200,
+    "pic": "http://i1.hdslb.com/bfs/archive/5e6af88868f02104c71eb137569abc5af0eb2cb2.png"
+  },
+  {
+    "bvid": "BV12nth6TEAC",
+    "title": "[162]. 2D Gaussian Splatting：3D 高斯的改进，几何重建更准，论文精读【每天一个宝藏论文】",
+    "created": 1789387200,
+    "pic": "http://i0.hdslb.com/bfs/archive/caaf978dfc14d6d3577fefbbf5034c80588ac434.png"
+  },
+  {
+    "bvid": "BV1weYR65EjZ",
+    "title": "230. PPO的GAE是如何计算的？【每天一个宝藏问题】",
+    "created": 1789300800,
+    "pic": "http://i0.hdslb.com/bfs/archive/5a2869e8fc5bcae395d8ee8e558aa341a6aa4b45.png"
+  },
+  {
+    "bvid": "BV12nth6MEaj",
+    "title": "[161]. Instant NGP：把 NeRF 加速到秒级的哈希编码，论文精读【每天一个宝藏论文】",
+    "created": 1789300800,
+    "pic": "http://i0.hdslb.com/bfs/archive/8c2a62bc4a4e8dd81130374066548ff3c53cbb14.png"
+  },
+  {
     "bvid": "BV151Yu6uERg",
     "title": "229. 为什么PPO的优势A是每个token一个，而GRPO是整段回答一个？【每天一个宝藏问题】",
     "created": 1789214400,

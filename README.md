@@ -3,9 +3,86 @@
 - **作者**：b站**海安雨**。
 - **使用方法**：点击**宝藏论文链接大全**文件夹可阅读所有论文，点击**观看视频**可跳转到b站视频。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**206**个宝藏问题`手稿`和**153**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**217**个宝藏问题`手稿`和**164**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 240. 为什么注意力要除以√dk而不是√d model？(新版)【每天一个宝藏问题】
+- 观看视频：[视频BV1MnhJ6JEKb](https://www.bilibili.com/video/BV1MnhJ6JEKb)
+- 查看封面：[图片BV1MnhJ6JEKb](./assets/questions/BV1MnhJ6JEKb.jpg)
+
+[![](./assets/questions/BV1MnhJ6JEKb.jpg)](https://www.bilibili.com/video/BV1MnhJ6JEKb)
+---
+
+### 239. 如何可视化MTP？(新版)【每天一个宝藏问题】
+- 观看视频：[视频BV1mdhB6TEQE](https://www.bilibili.com/video/BV1mdhB6TEQE)
+- 查看封面：[图片BV1mdhB6TEQE](./assets/questions/BV1mdhB6TEQE.jpg)
+
+[![](./assets/questions/BV1mdhB6TEQE.jpg)](https://www.bilibili.com/video/BV1mdhB6TEQE)
+---
+
+### 238. 扩散语言模型和自回归语言模型有何异同？【每天一个宝藏问题】
+- 观看视频：[视频BV1mdhB6TEmr](https://www.bilibili.com/video/BV1mdhB6TEmr)
+- 查看封面：[图片BV1mdhB6TEmr](./assets/questions/BV1mdhB6TEmr.jpg)
+
+[![](./assets/questions/BV1mdhB6TEmr.jpg)](https://www.bilibili.com/video/BV1mdhB6TEmr)
+---
+
+### 237. ViT如何使用RoPE？(1D简单版)【每天一个宝藏问题】
+- 观看视频：[视频BV1hheA6EEW2](https://www.bilibili.com/video/BV1hheA6EEW2)
+- 查看封面：[图片BV1hheA6EEW2](./assets/questions/BV1hheA6EEW2.jpg)
+
+[![](./assets/questions/BV1hheA6EEW2.jpg)](https://www.bilibili.com/video/BV1hheA6EEW2)
+---
+
+### 236. 为什么自注意力矩阵是正方形，而交叉注意力矩阵是长方形？(新版)【每天一个宝藏问题】
+- 观看视频：[视频BV1cXeA6PEJR](https://www.bilibili.com/video/BV1cXeA6PEJR)
+- 查看封面：[图片BV1cXeA6PEJR](./assets/questions/BV1cXeA6PEJR.jpg)
+
+[![](./assets/questions/BV1cXeA6PEJR.jpg)](https://www.bilibili.com/video/BV1cXeA6PEJR)
+---
+
+### 235. 如何从PPO每个token的目标函数推导出梯度？【每天一个宝藏问题】
+- 观看视频：[视频BV1cXeA6PEVh](https://www.bilibili.com/video/BV1cXeA6PEVh)
+- 查看封面：[图片BV1cXeA6PEVh](./assets/questions/BV1cXeA6PEVh.jpg)
+
+[![](./assets/questions/BV1cXeA6PEVh.jpg)](https://www.bilibili.com/video/BV1cXeA6PEVh)
+---
+
+### 234. 为什么MLA连V也不需要显式解压？（新版）【每天一个宝藏问题】
+- 观看视频：[视频BV1YEeH6uECe](https://www.bilibili.com/video/BV1YEeH6uECe)
+- 查看封面：[图片BV1YEeH6uECe](./assets/questions/BV1YEeH6uECe.jpg)
+
+[![](./assets/questions/BV1YEeH6uECe.jpg)](https://www.bilibili.com/video/BV1YEeH6uECe)
+---
+
+### 233. 大模型强化学习的价值网络和围棋的价值网络有何异同？【每天一个宝藏问题】
+- 观看视频：[视频BV1eEeH6uEiN](https://www.bilibili.com/video/BV1eEeH6uEiN)
+- 查看封面：[图片BV1eEeH6uEiN](./assets/questions/BV1eEeH6uEiN.jpg)
+
+[![](./assets/questions/BV1eEeH6uEiN.jpg)](https://www.bilibili.com/video/BV1eEeH6uEiN)
+---
+
+### 232. 为什么滑动窗口注意力在decode时要使用环形缓存？（新版）【每天一个宝藏问题】
+- 观看视频：[视频BV1sce56BEk1](https://www.bilibili.com/video/BV1sce56BEk1)
+- 查看封面：[图片BV1sce56BEk1](./assets/questions/BV1sce56BEk1.jpg)
+
+[![](./assets/questions/BV1sce56BEk1.jpg)](https://www.bilibili.com/video/BV1sce56BEk1)
+---
+
+### 231. 从prefill和decode角度理解投机解码何以加速？(新版)【每天一个宝藏问题】
+- 观看视频：[视频BV1fwY165Eeq](https://www.bilibili.com/video/BV1fwY165Eeq)
+- 查看封面：[图片BV1fwY165Eeq](./assets/questions/BV1fwY165Eeq.jpg)
+
+[![](./assets/questions/BV1fwY165Eeq.jpg)](https://www.bilibili.com/video/BV1fwY165Eeq)
+---
+
+### 230. PPO的GAE是如何计算的？【每天一个宝藏问题】
+- 观看视频：[视频BV1weYR65EjZ](https://www.bilibili.com/video/BV1weYR65EjZ)
+- 查看封面：[图片BV1weYR65EjZ](./assets/questions/BV1weYR65EjZ.jpg)
+
+[![](./assets/questions/BV1weYR65EjZ.jpg)](https://www.bilibili.com/video/BV1weYR65EjZ)
+---
 
 ### 229. 为什么PPO的优势A是每个token一个，而GRPO是整段回答一个？【每天一个宝藏问题】
 - 观看视频：[视频BV151Yu6uERg](https://www.bilibili.com/video/BV151Yu6uERg)
@@ -1613,6 +1690,83 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [171]. MegaScale_MoE：字节 1440 卡训 352B MoE，比 Megatron 快 1.88 倍，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1F6Ye6SEAe](https://www.bilibili.com/video/BV1F6Ye6SEAe)
+- 查看封面：[图片BV1F6Ye6SEAe](./assets/papers/BV1F6Ye6SEAe.jpg)
+
+[![](./assets/papers/BV1F6Ye6SEAe.jpg)](https://www.bilibili.com/video/BV1F6Ye6SEAe)
+---
+
+### [170]. SOAP_Muon_and_Beyond：英伟达实测，万亿 token 上超越 AdamW 的优化器，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1piYe6pEcF](https://www.bilibili.com/video/BV1piYe6pEcF)
+- 查看封面：[图片BV1piYe6pEcF](./assets/papers/BV1piYe6pEcF.jpg)
+
+[![](./assets/papers/BV1piYe6pEcF.jpg)](https://www.bilibili.com/video/BV1piYe6pEcF)
+---
+
+### [169]. NVFP4_Pretraining：英伟达用 4bit 预训练 12B 模型，10 万亿 token 不掉点，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1riYe6HEfk](https://www.bilibili.com/video/BV1riYe6HEfk)
+- 查看封面：[图片BV1riYe6HEfk](./assets/papers/BV1riYe6HEfk.jpg)
+
+[![](./assets/papers/BV1riYe6HEfk.jpg)](https://www.bilibili.com/video/BV1riYe6HEfk)
+---
+
+### [168]. Fast_dLLM：给扩散大模型加 KV Cache，免训练提速 27 倍，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1kiYe6HEFq](https://www.bilibili.com/video/BV1kiYe6HEFq)
+- 查看封面：[图片BV1kiYe6HEFq](./assets/papers/BV1kiYe6HEFq.jpg)
+
+[![](./assets/papers/BV1kiYe6HEFq.jpg)](https://www.bilibili.com/video/BV1kiYe6HEFq)
+---
+
+### [167]. 投机解码：性能还是幻觉？MLSys 2026 在 vLLM 上的首次系统实测，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1riYe6HEX2](https://www.bilibili.com/video/BV1riYe6HEX2)
+- 查看封面：[图片BV1riYe6HEX2](./assets/papers/BV1riYe6HEX2.jpg)
+
+[![](./assets/papers/BV1riYe6HEX2.jpg)](https://www.bilibili.com/video/BV1riYe6HEX2)
+---
+
+### [166]. FlashInfer：MLSys 2025 最佳论文，vLLM、SGLang 都在用的注意力引擎，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1cqYe6QEZC](https://www.bilibili.com/video/BV1cqYe6QEZC)
+- 查看封面：[图片BV1cqYe6QEZC](./assets/papers/BV1cqYe6QEZC.jpg)
+
+[![](./assets/papers/BV1cqYe6QEZC.jpg)](https://www.bilibili.com/video/BV1cqYe6QEZC)
+---
+
+### [165]. Mooncake：Kimi 的推理架构，FAST 2025 最佳论文，KV Cache 中心的存算分离，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1cqYe6QEZW](https://www.bilibili.com/video/BV1cqYe6QEZW)
+- 查看封面：[图片BV1cqYe6QEZW](./assets/papers/BV1cqYe6QEZW.jpg)
+
+[![](./assets/papers/BV1cqYe6QEZW.jpg)](https://www.bilibili.com/video/BV1cqYe6QEZW)
+---
+
+### [164]. InstructGPT：RLHF 的开山之作，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1j2tG6qE5e](https://www.bilibili.com/video/BV1j2tG6qE5e)
+- 查看封面：[图片BV1j2tG6qE5e](./assets/papers/BV1j2tG6qE5e.jpg)
+
+[![](./assets/papers/BV1j2tG6qE5e.jpg)](https://www.bilibili.com/video/BV1j2tG6qE5e)
+---
+
+### [163]. Deep Compression：韩松的剪枝+量化经典，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV16ath6fEA4](https://www.bilibili.com/video/BV16ath6fEA4)
+- 查看封面：[图片BV16ath6fEA4](./assets/papers/BV16ath6fEA4.jpg)
+
+[![](./assets/papers/BV16ath6fEA4.jpg)](https://www.bilibili.com/video/BV16ath6fEA4)
+---
+
+### [162]. 2D Gaussian Splatting：3D 高斯的改进，几何重建更准，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV12nth6TEAC](https://www.bilibili.com/video/BV12nth6TEAC)
+- 查看封面：[图片BV12nth6TEAC](./assets/papers/BV12nth6TEAC.jpg)
+
+[![](./assets/papers/BV12nth6TEAC.jpg)](https://www.bilibili.com/video/BV12nth6TEAC)
+---
+
+### [161]. Instant NGP：把 NeRF 加速到秒级的哈希编码，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV12nth6MEaj](https://www.bilibili.com/video/BV12nth6MEaj)
+- 查看封面：[图片BV12nth6MEaj](./assets/papers/BV12nth6MEaj.jpg)
+
+[![](./assets/papers/BV12nth6MEaj.jpg)](https://www.bilibili.com/video/BV12nth6MEaj)
+---
 
 ### [160]. EAGLE-3：投机解码 EAGLE 的最新改进，论文精读【每天一个宝藏论文】
 - 观看视频：[视频BV1xnth6KEFB](https://www.bilibili.com/video/BV1xnth6KEFB)
