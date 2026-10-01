@@ -17,6 +17,7 @@ import json
 import subprocess
 import asyncio
 import time
+import httpx
 from bilibili_api import user, video
 from bilibili_api.login_v2 import Credential
 from bilibili_api.utils.network import request_settings
@@ -271,6 +272,33 @@ async def fetch_all_bvs():
     return all_bvs
 
 
+def download_stream_prefix(url: str, target: int = 3_000_000) -> bytes:
+    """
+    流式拉取 DASH 视频流的开头若干字节（首帧就在最前面几 MB 内）。
+
+    用途：部分环境下 ffmpeg 的 schannel TLS 不可用（例如受限沙箱中报
+    0x8009030e），无法直接读取 https 视频流；此时改用 httpx 拉流再本地抽帧。
+    容忍 CDN 提前断流：只要拿到足够字节就返回。
+    """
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "Referer": "https://www.bilibili.com",
+    }
+    buf = bytearray()
+    try:
+        with httpx.Client(timeout=httpx.Timeout(60, read=60), follow_redirects=True) as client:
+            with client.stream("GET", url, headers=headers) as resp:
+                if resp.status_code not in (200, 206):
+                    return b""
+                for chunk in resp.iter_bytes(65536):
+                    buf.extend(chunk)
+                    if len(buf) >= target:
+                        break
+    except Exception:
+        pass  # 断流/超时都无所谓，下面按已拿到的字节数判断
+    return bytes(buf)
+
+
 async def extract_first_frame(bv: str, title: str) -> bool:
     """提取单个BV视频的第一帧，使用BVID作为文件名，自动分类"""
     # 确定分类和输出目录
@@ -292,7 +320,10 @@ async def extract_first_frame(bv: str, title: str) -> bool:
             print(f"  [{bv}] X 无法获取视频流")
             return False
         
-        # 2. ffmpeg 提取第一帧，最高质量 JPG
+        def _valid() -> bool:
+            return os.path.exists(output_path) and os.path.getsize(output_path) > 2000
+        
+        # 2. 首选：ffmpeg 直接读取视频流，提取第一帧，最高质量 JPG
         headers = (
             "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\r\n"
             "Referer: https://www.bilibili.com\r\n"
@@ -314,7 +345,30 @@ async def extract_first_frame(bv: str, title: str) -> bool:
             timeout=40
         )
         
-        if result.returncode == 0 and os.path.exists(output_path) and os.path.getsize(output_path) > 2000:
+        # 3. 回退：httpx 拉流后再用 ffmpeg 本地抽帧
+        if not (result.returncode == 0 and _valid()):
+            data = download_stream_prefix(stream_url)
+            if len(data) >= 300_000:
+                tmp_path = output_path + ".m4s"
+                try:
+                    with open(tmp_path, "wb") as f:
+                        f.write(data)
+                    result = subprocess.run(
+                        ["ffmpeg", "-y",
+                         "-i", tmp_path,
+                         "-frames:v", "1",
+                         "-q:v", "1",
+                         "-pix_fmt", "yuvj420p",
+                         output_path],
+                        stdout=subprocess.DEVNULL,
+                        stderr=subprocess.DEVNULL,
+                        timeout=40
+                    )
+                finally:
+                    if os.path.exists(tmp_path):
+                        os.remove(tmp_path)
+        
+        if result.returncode == 0 and _valid():
             size_kb = os.path.getsize(output_path) // 1024
             print(f"  [{bv}] OK {size_kb}KB -> {category}/{bv}.jpg")
             return True
