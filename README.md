@@ -3,9 +3,58 @@
 - **作者**：b站**海安雨**。
 - **使用方法**：点击**宝藏论文链接大全**文件夹可阅读所有论文，点击**观看视频**可跳转到b站视频。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**217**个宝藏问题`手稿`和**164**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**224**个宝藏问题`手稿`和**171**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 247. 交叉注意力需要做旋转位置编码吗？【每天一个宝藏问题】
+- 观看视频：[视频BV1Ksh96yEyN](https://www.bilibili.com/video/BV1Ksh96yEyN)
+- 查看封面：[图片BV1Ksh96yEyN](./assets/questions/BV1Ksh96yEyN.jpg)
+
+[![](./assets/questions/BV1Ksh96yEyN.jpg)](https://www.bilibili.com/video/BV1Ksh96yEyN)
+---
+
+### 246. 为什么大模型RL里每一步的奖励几乎都是0？【每天一个宝藏问题】
+- 观看视频：[视频BV1Tsh96yEAY](https://www.bilibili.com/video/BV1Tsh96yEAY)
+- 查看封面：[图片BV1Tsh96yEAY](./assets/questions/BV1Tsh96yEAY.jpg)
+
+[![](./assets/questions/BV1Tsh96yEAY.jpg)](https://www.bilibili.com/video/BV1Tsh96yEAY)
+---
+
+### 245. 为什么投机解码确保每轮至少产出一个 token？(新版)【每天一个宝藏问题】
+- 观看视频：[视频BV1CEhm6WER6](https://www.bilibili.com/video/BV1CEhm6WER6)
+- 查看封面：[图片BV1CEhm6WER6](./assets/questions/BV1CEhm6WER6.jpg)
+
+[![](./assets/questions/BV1CEhm6WER6.jpg)](https://www.bilibili.com/video/BV1CEhm6WER6)
+---
+
+### 244. 为什么KV Cache相当于Agent的短期记忆？【每天一个宝藏问题】
+- 观看视频：[视频BV1CEhm6WEX3](https://www.bilibili.com/video/BV1CEhm6WEX3)
+- 查看封面：[图片BV1CEhm6WEX3](./assets/questions/BV1CEhm6WEX3.jpg)
+
+[![](./assets/questions/BV1CEhm6WEX3.jpg)](https://www.bilibili.com/video/BV1CEhm6WEX3)
+---
+
+### 243. 为什么投机解码最多可以比K个Token多生成一个Token？(新版)【每天一个宝藏问题】
+- 观看视频：[视频BV11Vhm6oEZ4](https://www.bilibili.com/video/BV11Vhm6oEZ4)
+- 查看封面：[图片BV11Vhm6oEZ4](./assets/questions/BV11Vhm6oEZ4.jpg)
+
+[![](./assets/questions/BV11Vhm6oEZ4.jpg)](https://www.bilibili.com/video/BV11Vhm6oEZ4)
+---
+
+### 242. 交叉注意力输出的第i个向量代表什么？【每天一个宝藏问题】
+- 观看视频：[视频BV1cFaT6uEky](https://www.bilibili.com/video/BV1cFaT6uEky)
+- 查看封面：[图片BV1cFaT6uEky](./assets/questions/BV1cFaT6uEky.jpg)
+
+[![](./assets/questions/BV1cFaT6uEky.jpg)](https://www.bilibili.com/video/BV1cFaT6uEky)
+---
+
+### 241. 如何可视化GQA？【每天一个宝藏问题】
+- 观看视频：[视频BV1e1ac6VEJF](https://www.bilibili.com/video/BV1e1ac6VEJF)
+- 查看封面：[图片BV1e1ac6VEJF](./assets/questions/BV1e1ac6VEJF.jpg)
+
+[![](./assets/questions/BV1e1ac6VEJF.jpg)](https://www.bilibili.com/video/BV1e1ac6VEJF)
+---
 
 ### 240. 为什么注意力要除以√dk而不是√d model？(新版)【每天一个宝藏问题】
 - 观看视频：[视频BV1MnhJ6JEKb](https://www.bilibili.com/video/BV1MnhJ6JEKb)
@@ -1690,6 +1739,55 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [178]. QuaRot：旋转矩阵消除异常值，4 比特无损推理，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1jvep67Eoa](https://www.bilibili.com/video/BV1jvep67Eoa)
+- 查看封面：[图片BV1jvep67Eoa](./assets/papers/BV1jvep67Eoa.jpg)
+
+[![](./assets/papers/BV1jvep67Eoa.jpg)](https://www.bilibili.com/video/BV1jvep67Eoa)
+---
+
+### [177]. MiniMax_M1：Lightning Attention 撑起百万上下文推理，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1KFe56uEqn](https://www.bilibili.com/video/BV1KFe56uEqn)
+- 查看封面：[图片BV1KFe56uEqn](./assets/papers/BV1KFe56uEqn.jpg)
+
+[![](./assets/papers/BV1KFe56uEqn.jpg)](https://www.bilibili.com/video/BV1KFe56uEqn)
+---
+
+### [176]. Llama_3：Meta 405B 模型群，训练全细节公开，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1fwY165EyC](https://www.bilibili.com/video/BV1fwY165EyC)
+- 查看封面：[图片BV1fwY165EyC](./assets/papers/BV1fwY165EyC.jpg)
+
+[![](./assets/papers/BV1fwY165EyC.jpg)](https://www.bilibili.com/video/BV1fwY165EyC)
+---
+
+### [175]. Qwen3：快慢思考混合推理，多尺寸模型全家桶，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1BwY165E6E](https://www.bilibili.com/video/BV1BwY165E6E)
+- 查看封面：[图片BV1BwY165E6E](./assets/papers/BV1BwY165E6E.jpg)
+
+[![](./assets/papers/BV1BwY165E6E.jpg)](https://www.bilibili.com/video/BV1BwY165E6E)
+---
+
+### [174]. DeepSeek_V3_2：DSA 稀疏注意力，长上下文大幅提速，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1fwY165ES8](https://www.bilibili.com/video/BV1fwY165ES8)
+- 查看封面：[图片BV1fwY165ES8](./assets/papers/BV1fwY165ES8.jpg)
+
+[![](./assets/papers/BV1fwY165ES8.jpg)](https://www.bilibili.com/video/BV1fwY165ES8)
+---
+
+### [173]. Kimi_K2：万亿 MoE 开源 Agent 模型，MuonClip 稳训练，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1fwY165EtL](https://www.bilibili.com/video/BV1fwY165EtL)
+- 查看封面：[图片BV1fwY165EtL](./assets/papers/BV1fwY165EtL.jpg)
+
+[![](./assets/papers/BV1fwY165EtL.jpg)](https://www.bilibili.com/video/BV1fwY165EtL)
+---
+
+### [172]. DualKV：GRPO 里被复制 32 遍的 prompt，终于不重复算了，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1F6Ye6SEx6](https://www.bilibili.com/video/BV1F6Ye6SEx6)
+- 查看封面：[图片BV1F6Ye6SEx6](./assets/papers/BV1F6Ye6SEx6.jpg)
+
+[![](./assets/papers/BV1F6Ye6SEx6.jpg)](https://www.bilibili.com/video/BV1F6Ye6SEx6)
+---
 
 ### [171]. MegaScale_MoE：字节 1440 卡训 352B MoE，比 Megatron 快 1.88 倍，论文精读【每天一个宝藏论文】
 - 观看视频：[视频BV1F6Ye6SEAe](https://www.bilibili.com/video/BV1F6Ye6SEAe)

@@ -1,4 +1,53 @@
 # 宝藏论文链接大全
+### [178]. QuaRot：旋转矩阵消除异常值，4 比特无损推理，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1jvep67Eoa](https://www.bilibili.com/video/BV1jvep67Eoa)
+
+- 阅读论文：[QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs](https://arxiv.org/pdf/2404.00456.pdf)
+
+---
+
+### [177]. MiniMax_M1：Lightning Attention 撑起百万上下文推理，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1KFe56uEqn](https://www.bilibili.com/video/BV1KFe56uEqn)
+
+- 阅读论文：[MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention](https://arxiv.org/pdf/2506.13585.pdf)
+
+---
+
+### [176]. Llama_3：Meta 405B 模型群，训练全细节公开，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1fwY165EyC](https://www.bilibili.com/video/BV1fwY165EyC)
+
+- 阅读论文：[The Llama 3 Herd of Models](https://arxiv.org/pdf/2407.21783.pdf)
+
+---
+
+### [175]. Qwen3：快慢思考混合推理，多尺寸模型全家桶，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1BwY165E6E](https://www.bilibili.com/video/BV1BwY165E6E)
+
+- 阅读论文：[Qwen3 Technical Report](https://arxiv.org/pdf/2505.09388.pdf)
+
+---
+
+### [174]. DeepSeek_V3_2：DSA 稀疏注意力，长上下文大幅提速，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1fwY165ES8](https://www.bilibili.com/video/BV1fwY165ES8)
+
+- 阅读论文：[DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://arxiv.org/pdf/2512.02556.pdf)
+
+---
+
+### [173]. Kimi_K2：万亿 MoE 开源 Agent 模型，MuonClip 稳训练，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1fwY165EtL](https://www.bilibili.com/video/BV1fwY165EtL)
+
+- 阅读论文：[Kimi K2: Open Agentic Intelligence](https://arxiv.org/pdf/2507.20534.pdf)
+
+---
+
+### [172]. DualKV：GRPO 里被复制 32 遍的 prompt，终于不重复算了，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1F6Ye6SEx6](https://www.bilibili.com/video/BV1F6Ye6SEx6)
+
+- 阅读论文：[DualKV: Shared-Prompt Flash Attention for Efficient RL Training with Large Rollouts and Long Contexts](https://arxiv.org/pdf/2605.15422.pdf)
+
+---
+
 ### [171]. MegaScale_MoE：字节 1440 卡训 352B MoE，比 Megatron 快 1.88 倍，论文精读【每天一个宝藏论文】
 - 观看视频：[BV1F6Ye6SEAe](https://www.bilibili.com/video/BV1F6Ye6SEAe)
 

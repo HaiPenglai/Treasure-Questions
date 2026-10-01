@@ -1,5 +1,89 @@
 [
   {
+    "bvid": "BV1Ksh96yEyN",
+    "title": "247. 交叉注意力需要做旋转位置编码吗？【每天一个宝藏问题】",
+    "created": 1790769600,
+    "pic": "http://i2.hdslb.com/bfs/archive/4b9f565d6be6c170220c477f3fa48187d1da1cc3.png"
+  },
+  {
+    "bvid": "BV1jvep67Eoa",
+    "title": "[178]. QuaRot：旋转矩阵消除异常值，4 比特无损推理，论文精读【每天一个宝藏论文】",
+    "created": 1790769600,
+    "pic": "http://i0.hdslb.com/bfs/archive/7f6e7c783c8cd8dab52de98734c2167ffc8b4829.png"
+  },
+  {
+    "bvid": "BV1Tsh96yEAY",
+    "title": "246. 为什么大模型RL里每一步的奖励几乎都是0？【每天一个宝藏问题】",
+    "created": 1790683200,
+    "pic": "http://i0.hdslb.com/bfs/archive/0c6c5627bc596ea06f03f7451948c67b556396a5.png"
+  },
+  {
+    "bvid": "BV1KFe56uEqn",
+    "title": "[177]. MiniMax_M1：Lightning Attention 撑起百万上下文推理，论文精读【每天一个宝藏论文】",
+    "created": 1790683200,
+    "pic": "http://i0.hdslb.com/bfs/archive/049b8f66b473a152ac8afa4f0b732991d77c0a7b.png"
+  },
+  {
+    "bvid": "BV1CEhm6WER6",
+    "title": "245. 为什么投机解码确保每轮至少产出一个 token？(新版)【每天一个宝藏问题】",
+    "created": 1790596800,
+    "pic": "http://i0.hdslb.com/bfs/archive/d1eeb46d10b0b1e05581b2995252da9b1cba9476.png"
+  },
+  {
+    "bvid": "BV1fwY165EyC",
+    "title": "[176]. Llama_3：Meta 405B 模型群，训练全细节公开，论文精读【每天一个宝藏论文】",
+    "created": 1790596800,
+    "pic": "http://i2.hdslb.com/bfs/archive/2f0934ef4a9e9dc62a23cb6727008a3eaf1862b8.png"
+  },
+  {
+    "bvid": "BV1CEhm6WEX3",
+    "title": "244. 为什么KV Cache相当于Agent的短期记忆？【每天一个宝藏问题】",
+    "created": 1790510400,
+    "pic": "http://i2.hdslb.com/bfs/archive/6cf2adebea244a061b95bdabfd92267320dea140.png"
+  },
+  {
+    "bvid": "BV1BwY165E6E",
+    "title": "[175]. Qwen3：快慢思考混合推理，多尺寸模型全家桶，论文精读【每天一个宝藏论文】",
+    "created": 1790510400,
+    "pic": "http://i0.hdslb.com/bfs/archive/289e2b5cbc86884e9eb623cb530fe393276d655f.png"
+  },
+  {
+    "bvid": "BV11Vhm6oEZ4",
+    "title": "243. 为什么投机解码最多可以比K个Token多生成一个Token？(新版)【每天一个宝藏问题】",
+    "created": 1790424000,
+    "pic": "http://i0.hdslb.com/bfs/archive/d71f417280f6469e07ab4694b18f9651da1fe343.png"
+  },
+  {
+    "bvid": "BV1fwY165ES8",
+    "title": "[174]. DeepSeek_V3_2：DSA 稀疏注意力，长上下文大幅提速，论文精读【每天一个宝藏论文】",
+    "created": 1790424000,
+    "pic": "http://i0.hdslb.com/bfs/archive/e939c1dbe9118b3de6998cb55e0c017cb015210e.png"
+  },
+  {
+    "bvid": "BV1cFaT6uEky",
+    "title": "242. 交叉注意力输出的第i个向量代表什么？【每天一个宝藏问题】",
+    "created": 1790337600,
+    "pic": "http://i0.hdslb.com/bfs/archive/a8e6eacc19e772b2751dc50b436b0238956878fd.png"
+  },
+  {
+    "bvid": "BV1fwY165EtL",
+    "title": "[173]. Kimi_K2：万亿 MoE 开源 Agent 模型，MuonClip 稳训练，论文精读【每天一个宝藏论文】",
+    "created": 1790337600,
+    "pic": "http://i1.hdslb.com/bfs/archive/876c038f32af8f1cf9fc3ae8137ae0cf4571d823.png"
+  },
+  {
+    "bvid": "BV1e1ac6VEJF",
+    "title": "241. 如何可视化GQA？【每天一个宝藏问题】",
+    "created": 1790251200,
+    "pic": "http://i1.hdslb.com/bfs/archive/310b5022fedad67325c97a4e5451ead547d4a3e4.png"
+  },
+  {
+    "bvid": "BV1F6Ye6SEx6",
+    "title": "[172]. DualKV：GRPO 里被复制 32 遍的 prompt，终于不重复算了，论文精读【每天一个宝藏论文】",
+    "created": 1790251200,
+    "pic": "http://i1.hdslb.com/bfs/archive/7be99dccb99476ea91a4879d80895512ec9e9bb3.png"
+  },
+  {
     "bvid": "BV1MnhJ6JEKb",
     "title": "240. 为什么注意力要除以√dk而不是√d model？(新版)【每天一个宝藏问题】",
     "created": 1790164800,
