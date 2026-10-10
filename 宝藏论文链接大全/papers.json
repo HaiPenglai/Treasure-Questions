@@ -1,5 +1,123 @@
 [
   {
+    "video_id": 188,
+    "video_title": "[188]. Scaling SAE：OpenAI 的稀疏自编码器缩放定律，可解释性工作，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1b3Hv6MEod",
+    "papers": [
+      {
+        "paper_title": "Scaling and evaluating sparse autoencoders",
+        "paper_link": "https://arxiv.org/pdf/2406.04093.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 187,
+    "video_title": "[187]. Gemini 2.5：谷歌经典模型，长上下文 + 多模态撬动 Agent 工作流，论文精读【每天一个宝藏论文】",
+    "bvid": "BV183Hv6ME7a",
+    "papers": [
+      {
+        "paper_title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "paper_link": "https://arxiv.org/pdf/2507.06261.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 186,
+    "video_title": "[186]. GLM OCR：0.9B 小模型 + 多 token 预测，OCR 解码不再逐字蹦，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1QKHv6rEeg",
+    "papers": [
+      {
+        "paper_title": "GLM-OCR Technical Report",
+        "paper_link": "https://arxiv.org/pdf/2603.10910.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 185,
+    "video_title": "[185]. DeepSeek DSec：为 Agent 强化学习打造的沙箱基础设施，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1hKHv6rEme",
+    "papers": [
+      {
+        "paper_title": "DeepSeek Elastic Compute (DSec): A Sandbox Infrastructure for Effective Agentic Training at Scale",
+        "paper_link": "https://arxiv.org/pdf/2609.22978.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 184,
+    "video_title": "[184]. DeepSeek V4.1 Flash：KV Cache 压到 890 字节每 token，论文精读【每天一个宝藏论文】",
+    "bvid": "BV13KHv66EtS",
+    "papers": [
+      {
+        "paper_title": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
+        "paper_link": "https://arxiv.org/pdf/2609.19969.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 183,
+    "video_title": "[183]. Complex KDA：把 Kimi Delta Attention 升级到复数域，表达能力大幅增强，论文精读【每天一个宝藏论文】",
+    "bvid": "BV15rHv6mEXm",
+    "papers": [
+      {
+        "paper_title": "Complex KDA: Understanding and Enhancing the Expressivity of Kimi Delta Attention",
+        "paper_link": "https://arxiv.org/pdf/2609.24797.pdf"
+      },
+      {
+        "paper_title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
+        "paper_link": "https://arxiv.org/pdf/2510.26692.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 182,
+    "video_title": "[182]. Qwen3.5 Omni：混合注意力 MoE 全模态，ARIA 让语音合成更自然，论文精读【每天一个宝藏论文】",
+    "bvid": "BV15rHv6mEjH",
+    "papers": [
+      {
+        "paper_title": "Qwen3.5-Omni Technical Report",
+        "paper_link": "https://arxiv.org/pdf/2604.15804.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 181,
+    "video_title": "[181]. GLM 5：智谱新一代旗舰，DSA 稀疏注意力 + 异步 RL 做 Agent 工程，论文精读【每天一个宝藏论文】",
+    "bvid": "BV15rHv6mEMH",
+    "papers": [
+      {
+        "paper_title": "GLM-5: from Vibe Coding to Agentic Engineering",
+        "paper_link": "https://arxiv.org/pdf/2602.15763.pdf"
+      },
+      {
+        "paper_title": "DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models",
+        "paper_link": "https://arxiv.org/pdf/2512.02556.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 180,
+    "video_title": "[180]. PyramidKV：金字塔式 KV 压缩，省显存保性能，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1TdhB6MEm7",
+    "papers": [
+      {
+        "paper_title": "PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling",
+        "paper_link": "https://arxiv.org/pdf/2406.02069.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 179,
+    "video_title": "[179]. Orca：迭代级调度开创者，LLM 服务系统鼻祖，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1GueP6pE7P",
+    "papers": [
+      {
+        "paper_title": "Orca: A Distributed Serving System for Transformer-Based Generative Models",
+        "paper_link": "https://www.usenix.org/system/files/osdi22-yu.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 178,
     "video_title": "[178]. QuaRot：旋转矩阵消除异常值，4 比特无损推理，论文精读【每天一个宝藏论文】",
     "bvid": "BV1jvep67Eoa",

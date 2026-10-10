@@ -1,4 +1,76 @@
 # 宝藏论文链接大全
+### [188]. Scaling SAE：OpenAI 的稀疏自编码器缩放定律，可解释性工作，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1b3Hv6MEod](https://www.bilibili.com/video/BV1b3Hv6MEod)
+
+- 阅读论文：[Scaling and evaluating sparse autoencoders](https://arxiv.org/pdf/2406.04093.pdf)
+
+---
+
+### [187]. Gemini 2.5：谷歌经典模型，长上下文 + 多模态撬动 Agent 工作流，论文精读【每天一个宝藏论文】
+- 观看视频：[BV183Hv6ME7a](https://www.bilibili.com/video/BV183Hv6ME7a)
+
+- 阅读论文：[Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities](https://arxiv.org/pdf/2507.06261.pdf)
+
+---
+
+### [186]. GLM OCR：0.9B 小模型 + 多 token 预测，OCR 解码不再逐字蹦，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1QKHv6rEeg](https://www.bilibili.com/video/BV1QKHv6rEeg)
+
+- 阅读论文：[GLM-OCR Technical Report](https://arxiv.org/pdf/2603.10910.pdf)
+
+---
+
+### [185]. DeepSeek DSec：为 Agent 强化学习打造的沙箱基础设施，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1hKHv6rEme](https://www.bilibili.com/video/BV1hKHv6rEme)
+
+- 阅读论文：[DeepSeek Elastic Compute (DSec): A Sandbox Infrastructure for Effective Agentic Training at Scale](https://arxiv.org/pdf/2609.22978.pdf)
+
+---
+
+### [184]. DeepSeek V4.1 Flash：KV Cache 压到 890 字节每 token，论文精读【每天一个宝藏论文】
+- 观看视频：[BV13KHv66EtS](https://www.bilibili.com/video/BV13KHv66EtS)
+
+- 阅读论文：[DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://arxiv.org/pdf/2609.19969.pdf)
+
+---
+
+### [183]. Complex KDA：把 Kimi Delta Attention 升级到复数域，表达能力大幅增强，论文精读【每天一个宝藏论文】
+- 观看视频：[BV15rHv6mEXm](https://www.bilibili.com/video/BV15rHv6mEXm)
+
+- 阅读论文：[Complex KDA: Understanding and Enhancing the Expressivity of Kimi Delta Attention](https://arxiv.org/pdf/2609.24797.pdf)
+- 阅读论文：[Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/pdf/2510.26692.pdf)
+
+---
+
+### [182]. Qwen3.5 Omni：混合注意力 MoE 全模态，ARIA 让语音合成更自然，论文精读【每天一个宝藏论文】
+- 观看视频：[BV15rHv6mEjH](https://www.bilibili.com/video/BV15rHv6mEjH)
+
+- 阅读论文：[Qwen3.5-Omni Technical Report](https://arxiv.org/pdf/2604.15804.pdf)
+
+---
+
+### [181]. GLM 5：智谱新一代旗舰，DSA 稀疏注意力 + 异步 RL 做 Agent 工程，论文精读【每天一个宝藏论文】
+- 观看视频：[BV15rHv6mEMH](https://www.bilibili.com/video/BV15rHv6mEMH)
+
+- 阅读论文：[GLM-5: from Vibe Coding to Agentic Engineering](https://arxiv.org/pdf/2602.15763.pdf)
+- 阅读论文：[DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://arxiv.org/pdf/2512.02556.pdf)
+
+---
+
+### [180]. PyramidKV：金字塔式 KV 压缩，省显存保性能，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1TdhB6MEm7](https://www.bilibili.com/video/BV1TdhB6MEm7)
+
+- 阅读论文：[PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling](https://arxiv.org/pdf/2406.02069.pdf)
+
+---
+
+### [179]. Orca：迭代级调度开创者，LLM 服务系统鼻祖，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1GueP6pE7P](https://www.bilibili.com/video/BV1GueP6pE7P)
+
+- 阅读论文：[Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/system/files/osdi22-yu.pdf)
+
+---
+
 ### [178]. QuaRot：旋转矩阵消除异常值，4 比特无损推理，论文精读【每天一个宝藏论文】
 - 观看视频：[BV1jvep67Eoa](https://www.bilibili.com/video/BV1jvep67Eoa)
 

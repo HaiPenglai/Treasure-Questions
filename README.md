@@ -3,9 +3,79 @@
 - **作者**：b站**海安雨**。
 - **使用方法**：点击**宝藏论文链接大全**文件夹可阅读所有论文，点击**观看视频**可跳转到b站视频。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**224**个宝藏问题`手稿`和**171**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**234**个宝藏问题`手稿`和**181**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 257. 一棵完美二叉树的树形注意力掩码是什么样的？【每天一个宝藏问题】
+- 观看视频：[视频BV1mVHd64EGJ](https://www.bilibili.com/video/BV1mVHd64EGJ)
+- 查看封面：[图片BV1mVHd64EGJ](./assets/questions/BV1mVHd64EGJ.jpg)
+
+[![](./assets/questions/BV1mVHd64EGJ.jpg)](https://www.bilibili.com/video/BV1mVHd64EGJ)
+---
+
+### 256. 为什么PPO里的KL约束用的是反向KL而非前向KL？【每天一个宝藏问题】
+- 观看视频：[视频BV163Hm6dECv](https://www.bilibili.com/video/BV163Hm6dECv)
+- 查看封面：[图片BV163Hm6dECv](./assets/questions/BV163Hm6dECv.jpg)
+
+[![](./assets/questions/BV163Hm6dECv.jpg)](https://www.bilibili.com/video/BV163Hm6dECv)
+---
+
+### 255. 树形注意力如何一次前向并行验证整棵草稿树？【每天一个宝藏问题】
+- 观看视频：[视频BV1MRH26BE6z](https://www.bilibili.com/video/BV1MRH26BE6z)
+- 查看封面：[图片BV1MRH26BE6z](./assets/questions/BV1MRH26BE6z.jpg)
+
+[![](./assets/questions/BV1MRH26BE6z.jpg)](https://www.bilibili.com/video/BV1MRH26BE6z)
+---
+
+### 254. PPO里面的KL约束到底在防什么？【每天一个宝藏问题】
+- 观看视频：[视频BV1L5HC6uE4H](https://www.bilibili.com/video/BV1L5HC6uE4H)
+- 查看封面：[图片BV1L5HC6uE4H](./assets/questions/BV1L5HC6uE4H.jpg)
+
+[![](./assets/questions/BV1L5HC6uE4H.jpg)](https://www.bilibili.com/video/BV1L5HC6uE4H)
+---
+
+### 253. 什么是树形掩码？它和因果掩码有何异同？【每天一个宝藏问题】
+- 观看视频：[视频BV14UHJ6oE9E](https://www.bilibili.com/video/BV14UHJ6oE9E)
+- 查看封面：[图片BV14UHJ6oE9E](./assets/questions/BV14UHJ6oE9E.jpg)
+
+[![](./assets/questions/BV14UHJ6oE9E.jpg)](https://www.bilibili.com/video/BV14UHJ6oE9E)
+---
+
+### 252. KV Cache相当于RNN中的什么东西？【每天一个宝藏问题】
+- 观看视频：[视频BV1FcHr6gEDq](https://www.bilibili.com/video/BV1FcHr6gEDq)
+- 查看封面：[图片BV1FcHr6gEDq](./assets/questions/BV1FcHr6gEDq.jpg)
+
+[![](./assets/questions/BV1FcHr6gEDq.jpg)](https://www.bilibili.com/video/BV1FcHr6gEDq)
+---
+
+### 251. Pyramid KV为什么用金字塔形KV Cache？【每天一个宝藏问题】
+- 观看视频：[视频BV1zcHr6uE2N](https://www.bilibili.com/video/BV1zcHr6uE2N)
+- 查看封面：[图片BV1zcHr6uE2N](./assets/questions/BV1zcHr6uE2N.jpg)
+
+[![](./assets/questions/BV1zcHr6uE2N.jpg)](https://www.bilibili.com/video/BV1zcHr6uE2N)
+---
+
+### 250. prefill和decode相当于RNN中的什么操作？【每天一个宝藏问题】
+- 观看视频：[视频BV1s6He68EcV](https://www.bilibili.com/video/BV1s6He68EcV)
+- 查看封面：[图片BV1s6He68EcV](./assets/questions/BV1s6He68EcV.jpg)
+
+[![](./assets/questions/BV1s6He68EcV.jpg)](https://www.bilibili.com/video/BV1s6He68EcV)
+---
+
+### 249. 最近大火的Jev和传统的LLM有何异同？【每天一个宝藏问题】
+- 观看视频：[视频BV1MKa66VEJ4](https://www.bilibili.com/video/BV1MKa66VEJ4)
+- 查看封面：[图片BV1MKa66VEJ4](./assets/questions/BV1MKa66VEJ4.jpg)
+
+[![](./assets/questions/BV1MKa66VEJ4.jpg)](https://www.bilibili.com/video/BV1MKa66VEJ4)
+---
+
+### 248. 新加坡-2026-会议留影【每天一个宝藏问题】
+- 观看视频：[视频BV1bsaz63EV5](https://www.bilibili.com/video/BV1bsaz63EV5)
+- 查看封面：[图片BV1bsaz63EV5](./assets/questions/BV1bsaz63EV5.jpg)
+
+[![](./assets/questions/BV1bsaz63EV5.jpg)](https://www.bilibili.com/video/BV1bsaz63EV5)
+---
 
 ### 247. 交叉注意力需要做旋转位置编码吗？【每天一个宝藏问题】
 - 观看视频：[视频BV1Ksh96yEyN](https://www.bilibili.com/video/BV1Ksh96yEyN)
@@ -1739,6 +1809,76 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [188]. Scaling SAE：OpenAI 的稀疏自编码器缩放定律，可解释性工作，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1b3Hv6MEod](https://www.bilibili.com/video/BV1b3Hv6MEod)
+- 查看封面：[图片BV1b3Hv6MEod](./assets/papers/BV1b3Hv6MEod.jpg)
+
+[![](./assets/papers/BV1b3Hv6MEod.jpg)](https://www.bilibili.com/video/BV1b3Hv6MEod)
+---
+
+### [187]. Gemini 2.5：谷歌经典模型，长上下文 + 多模态撬动 Agent 工作流，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV183Hv6ME7a](https://www.bilibili.com/video/BV183Hv6ME7a)
+- 查看封面：[图片BV183Hv6ME7a](./assets/papers/BV183Hv6ME7a.jpg)
+
+[![](./assets/papers/BV183Hv6ME7a.jpg)](https://www.bilibili.com/video/BV183Hv6ME7a)
+---
+
+### [186]. GLM OCR：0.9B 小模型 + 多 token 预测，OCR 解码不再逐字蹦，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1QKHv6rEeg](https://www.bilibili.com/video/BV1QKHv6rEeg)
+- 查看封面：[图片BV1QKHv6rEeg](./assets/papers/BV1QKHv6rEeg.jpg)
+
+[![](./assets/papers/BV1QKHv6rEeg.jpg)](https://www.bilibili.com/video/BV1QKHv6rEeg)
+---
+
+### [185]. DeepSeek DSec：为 Agent 强化学习打造的沙箱基础设施，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1hKHv6rEme](https://www.bilibili.com/video/BV1hKHv6rEme)
+- 查看封面：[图片BV1hKHv6rEme](./assets/papers/BV1hKHv6rEme.jpg)
+
+[![](./assets/papers/BV1hKHv6rEme.jpg)](https://www.bilibili.com/video/BV1hKHv6rEme)
+---
+
+### [184]. DeepSeek V4.1 Flash：KV Cache 压到 890 字节每 token，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV13KHv66EtS](https://www.bilibili.com/video/BV13KHv66EtS)
+- 查看封面：[图片BV13KHv66EtS](./assets/papers/BV13KHv66EtS.jpg)
+
+[![](./assets/papers/BV13KHv66EtS.jpg)](https://www.bilibili.com/video/BV13KHv66EtS)
+---
+
+### [183]. Complex KDA：把 Kimi Delta Attention 升级到复数域，表达能力大幅增强，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV15rHv6mEXm](https://www.bilibili.com/video/BV15rHv6mEXm)
+- 查看封面：[图片BV15rHv6mEXm](./assets/papers/BV15rHv6mEXm.jpg)
+
+[![](./assets/papers/BV15rHv6mEXm.jpg)](https://www.bilibili.com/video/BV15rHv6mEXm)
+---
+
+### [182]. Qwen3.5 Omni：混合注意力 MoE 全模态，ARIA 让语音合成更自然，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV15rHv6mEjH](https://www.bilibili.com/video/BV15rHv6mEjH)
+- 查看封面：[图片BV15rHv6mEjH](./assets/papers/BV15rHv6mEjH.jpg)
+
+[![](./assets/papers/BV15rHv6mEjH.jpg)](https://www.bilibili.com/video/BV15rHv6mEjH)
+---
+
+### [181]. GLM 5：智谱新一代旗舰，DSA 稀疏注意力 + 异步 RL 做 Agent 工程，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV15rHv6mEMH](https://www.bilibili.com/video/BV15rHv6mEMH)
+- 查看封面：[图片BV15rHv6mEMH](./assets/papers/BV15rHv6mEMH.jpg)
+
+[![](./assets/papers/BV15rHv6mEMH.jpg)](https://www.bilibili.com/video/BV15rHv6mEMH)
+---
+
+### [180]. PyramidKV：金字塔式 KV 压缩，省显存保性能，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1TdhB6MEm7](https://www.bilibili.com/video/BV1TdhB6MEm7)
+- 查看封面：[图片BV1TdhB6MEm7](./assets/papers/BV1TdhB6MEm7.jpg)
+
+[![](./assets/papers/BV1TdhB6MEm7.jpg)](https://www.bilibili.com/video/BV1TdhB6MEm7)
+---
+
+### [179]. Orca：迭代级调度开创者，LLM 服务系统鼻祖，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1GueP6pE7P](https://www.bilibili.com/video/BV1GueP6pE7P)
+- 查看封面：[图片BV1GueP6pE7P](./assets/papers/BV1GueP6pE7P.jpg)
+
+[![](./assets/papers/BV1GueP6pE7P.jpg)](https://www.bilibili.com/video/BV1GueP6pE7P)
+---
 
 ### [178]. QuaRot：旋转矩阵消除异常值，4 比特无损推理，论文精读【每天一个宝藏论文】
 - 观看视频：[视频BV1jvep67Eoa](https://www.bilibili.com/video/BV1jvep67Eoa)

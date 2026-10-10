@@ -1,5 +1,125 @@
 [
   {
+    "bvid": "BV1mVHd64EGJ",
+    "title": "257. 一棵完美二叉树的树形注意力掩码是什么样的？【每天一个宝藏问题】",
+    "created": 1791633600,
+    "pic": "http://i1.hdslb.com/bfs/archive/f6d0924d88b617e21c1f0fed0b17512ff800c784.png"
+  },
+  {
+    "bvid": "BV1b3Hv6MEod",
+    "title": "[188]. Scaling SAE：OpenAI 的稀疏自编码器缩放定律，可解释性工作，论文精读【每天一个宝藏论文】",
+    "created": 1791633600,
+    "pic": "http://i2.hdslb.com/bfs/archive/cc8f8ef915ab7a3809cd2c871c9b8e1474cc1f37.png"
+  },
+  {
+    "bvid": "BV163Hm6dECv",
+    "title": "256. 为什么PPO里的KL约束用的是反向KL而非前向KL？【每天一个宝藏问题】",
+    "created": 1791547200,
+    "pic": "http://i0.hdslb.com/bfs/archive/398434400b3b6cc4f71c7c10b5bacdc99f1f63e9.png"
+  },
+  {
+    "bvid": "BV183Hv6ME7a",
+    "title": "[187]. Gemini 2.5：谷歌经典模型，长上下文 + 多模态撬动 Agent 工作流，论文精读【每天一个宝藏论文】",
+    "created": 1791547200,
+    "pic": "http://i1.hdslb.com/bfs/archive/240fc11af5c74bacbde0299ccf1a633e1f53a1d0.png"
+  },
+  {
+    "bvid": "BV1MRH26BE6z",
+    "title": "255. 树形注意力如何一次前向并行验证整棵草稿树？【每天一个宝藏问题】",
+    "created": 1791460800,
+    "pic": "http://i1.hdslb.com/bfs/archive/81c88a204e8b5c4c74920e02e13256d2830e717a.png"
+  },
+  {
+    "bvid": "BV1QKHv6rEeg",
+    "title": "[186]. GLM OCR：0.9B 小模型 + 多 token 预测，OCR 解码不再逐字蹦，论文精读【每天一个宝藏论文】",
+    "created": 1791460800,
+    "pic": "http://i0.hdslb.com/bfs/archive/eaa93c8dba82183fdfa29f6d01de6f8e82301528.png"
+  },
+  {
+    "bvid": "BV1L5HC6uE4H",
+    "title": "254. PPO里面的KL约束到底在防什么？【每天一个宝藏问题】",
+    "created": 1791374400,
+    "pic": "http://i0.hdslb.com/bfs/archive/03884e9988063d360c5c5e994009e1f66d2c2c53.jpg"
+  },
+  {
+    "bvid": "BV1hKHv6rEme",
+    "title": "[185]. DeepSeek DSec：为 Agent 强化学习打造的沙箱基础设施，论文精读【每天一个宝藏论文】",
+    "created": 1791374400,
+    "pic": "http://i2.hdslb.com/bfs/archive/f5e747649495d49a153a0c9205b3cf6d83a75d6f.png"
+  },
+  {
+    "bvid": "BV14UHJ6oE9E",
+    "title": "253. 什么是树形掩码？它和因果掩码有何异同？【每天一个宝藏问题】",
+    "created": 1791288000,
+    "pic": "http://i2.hdslb.com/bfs/archive/4ba56bb196e806b8b80481f72ba923711d42372a.png"
+  },
+  {
+    "bvid": "BV13KHv66EtS",
+    "title": "[184]. DeepSeek V4.1 Flash：KV Cache 压到 890 字节每 token，论文精读【每天一个宝藏论文】",
+    "created": 1791288000,
+    "pic": "http://i1.hdslb.com/bfs/archive/e58435c0c854d3a9e0a907797c380dbe68656ac4.png"
+  },
+  {
+    "bvid": "BV1FcHr6gEDq",
+    "title": "252. KV Cache相当于RNN中的什么东西？【每天一个宝藏问题】",
+    "created": 1791201600,
+    "pic": "http://i0.hdslb.com/bfs/archive/9d1b97f7b7a2d3277f7b1fb2737cd5b863701f93.png"
+  },
+  {
+    "bvid": "BV15rHv6mEXm",
+    "title": "[183]. Complex KDA：把 Kimi Delta Attention 升级到复数域，表达能力大幅增强，论文精读【每天一个宝藏论文】",
+    "created": 1791201600,
+    "pic": "http://i2.hdslb.com/bfs/archive/efe21e55436e20ca41444f64fa85d74168079a59.png"
+  },
+  {
+    "bvid": "BV1zcHr6uE2N",
+    "title": "251. Pyramid KV为什么用金字塔形KV Cache？【每天一个宝藏问题】",
+    "created": 1791115200,
+    "pic": "http://i0.hdslb.com/bfs/archive/1599ad251f87750608116e9977013431ae694d47.png"
+  },
+  {
+    "bvid": "BV15rHv6mEjH",
+    "title": "[182]. Qwen3.5 Omni：混合注意力 MoE 全模态，ARIA 让语音合成更自然，论文精读【每天一个宝藏论文】",
+    "created": 1791115200,
+    "pic": "http://i0.hdslb.com/bfs/archive/9950165b9a49ca9f0bfdae410a2bfe113210b2e4.png"
+  },
+  {
+    "bvid": "BV1s6He68EcV",
+    "title": "250. prefill和decode相当于RNN中的什么操作？【每天一个宝藏问题】",
+    "created": 1791028800,
+    "pic": "http://i0.hdslb.com/bfs/archive/77583f3405a506ca4f9f55362b3263501a29148a.jpg"
+  },
+  {
+    "bvid": "BV15rHv6mEMH",
+    "title": "[181]. GLM 5：智谱新一代旗舰，DSA 稀疏注意力 + 异步 RL 做 Agent 工程，论文精读【每天一个宝藏论文】",
+    "created": 1791028800,
+    "pic": "http://i0.hdslb.com/bfs/archive/83da39064231a49434e1940f7ddb49df546d5fd9.png"
+  },
+  {
+    "bvid": "BV1MKa66VEJ4",
+    "title": "249. 最近大火的Jev和传统的LLM有何异同？【每天一个宝藏问题】",
+    "created": 1790942400,
+    "pic": "http://i2.hdslb.com/bfs/archive/d0acf2a4e3f1670830f59c49262831eb4116fdf3.jpg"
+  },
+  {
+    "bvid": "BV1TdhB6MEm7",
+    "title": "[180]. PyramidKV：金字塔式 KV 压缩，省显存保性能，论文精读【每天一个宝藏论文】",
+    "created": 1790942400,
+    "pic": "http://i2.hdslb.com/bfs/archive/97234fe3e133a44560f7d110b72bc5900d3b26ac.png"
+  },
+  {
+    "bvid": "BV1bsaz63EV5",
+    "title": "248. 新加坡-2026-会议留影【每天一个宝藏问题】",
+    "created": 1790856000,
+    "pic": "http://i2.hdslb.com/bfs/archive/7d2475ffbf7251197252ff6d324a1cb1172c232a.jpg"
+  },
+  {
+    "bvid": "BV1GueP6pE7P",
+    "title": "[179]. Orca：迭代级调度开创者，LLM 服务系统鼻祖，论文精读【每天一个宝藏论文】",
+    "created": 1790856000,
+    "pic": "http://i2.hdslb.com/bfs/archive/a38fc14e58bed858d2ab98cfa0957f93b2375f06.png"
+  },
+  {
     "bvid": "BV1Ksh96yEyN",
     "title": "247. 交叉注意力需要做旋转位置编码吗？【每天一个宝藏问题】",
     "created": 1790769600,
