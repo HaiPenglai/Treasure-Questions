@@ -1,5 +1,148 @@
 [
   {
+    "video_id": 201,
+    "video_title": "[201]. ICML 2026 荣誉提名 Obfuscation Atlas：拿测谎探针训 RL，模型学会两种撒谎姿势，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1ggpn6iEdU",
+    "papers": [
+      {
+        "paper_title": "The Obfuscation Atlas: Mapping Where Honesty Emerges in RLVR with Deception Probes",
+        "paper_link": "https://arxiv.org/pdf/2602.15515.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 200,
+    "video_title": "[200]. CVPR 2026 最佳论文 D4RT：一个 Transformer 吃段视频，吐出深度、相机参数和 3D 坐标，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1ggpn6iEBy",
+    "papers": [
+      {
+        "paper_title": "Efficiently Reconstructing Dynamic Scenes One D4RT at a Time",
+        "paper_link": "https://arxiv.org/pdf/2512.08924.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 199,
+    "video_title": "[199]. BaseModels Cue：把回答头 2 个 Token 固定成 Okay，基模反超 RL 版，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1hgpn6iEMq",
+    "papers": [
+      {
+        "paper_title": "Base Models Can Reason By Taking a Cue From Training Data",
+        "paper_link": "https://arxiv.org/pdf/2610.06851.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 198,
+    "video_title": "[198]. LongCat 2.0：1.6T 总参数，五万卡国产算力跑通，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1gGpn6NE8V",
+    "papers": [
+      {
+        "paper_title": "LongCat-2.0 Technical Report",
+        "paper_link": "https://longcat.chat/blog/longcat-2.0"
+      }
+    ]
+  },
+  {
+    "video_id": 197,
+    "video_title": "[197]. Qwen3.8-Omni：原生全模态 Agent，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1uGpn6NE91",
+    "papers": [
+      {
+        "paper_title": "Qwen3.8-Omni: Towards Native Omni-Modal Agents",
+        "paper_link": "https://arxiv.org/pdf/2609.25611.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 196,
+    "video_title": "[196]. Qwen3.8-Flash-Next：125B 稀疏 MoE 追平 397B 前代，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1ovpE66EFC",
+    "papers": [
+      {
+        "paper_title": "On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability",
+        "paper_link": "https://arxiv.org/pdf/2608.30320.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 195,
+    "video_title": "[195]. ICML 2026 杰出论文：扩散语言模型的「任意顺序」是陷阱，扔掉它用 JustGRPO 反而最强，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1ovpE66Em9",
+    "papers": [
+      {
+        "paper_title": "The Flexibility Trap: Rethinking the Value of Arbitrary Order in Diffusion Language Models",
+        "paper_link": "https://arxiv.org/pdf/2601.15165.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 194,
+    "video_title": "[194]. 小米 MiMo-V2.6：单次大规模混合任务 RL 烧掉 260 万美元，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1LqpE6gEUS",
+    "papers": [
+      {
+        "paper_title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement",
+        "paper_link": "https://arxiv.org/pdf/2610.11959.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 193,
+    "video_title": "[193]. OSDI 2026 最佳论文：3 万训练任务的产线数据，把预训练数据管线的三个瓶颈掐掉，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1iqpE6gEqb",
+    "papers": [
+      {
+        "paper_title": "Teaching The Old Dog New Tricks: Building Efficient Data Pipelines for Large-Scale LLM Pre-training (Operational Systems)",
+        "paper_link": "https://www.usenix.org/system/files/osdi26-chen-luofan.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 192,
+    "video_title": "[192]. 苹果拆自家台：多 Agent 编排框架打不过最简 coding agent，backbone 是唯一变量，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1oqpE6uEPz",
+    "papers": [
+      {
+        "paper_title": "How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?",
+        "paper_link": "https://arxiv.org/pdf/2609.40303.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 191,
+    "video_title": "[191]. Jev RL：不生成 Token 的 Jev 决策模型，被塞进 RL 训练当参考策略，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1jqpE6gEL9",
+    "papers": [
+      {
+        "paper_title": "Can Jev be Your Q or Policy in Reinforcement Learning?",
+        "paper_link": "https://arxiv.org/pdf/2610.11692.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 190,
+    "video_title": "[190]. 字节 Seed 逮到 DeepSeek「神鬼二象性」：分块 KV Cache 带来 4-Token 周期，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1ZapE6kEUj",
+    "papers": [
+      {
+        "paper_title": "Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression",
+        "paper_link": "https://arxiv.org/pdf/2609.36322.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 189,
+    "video_title": "[189]. GLM 5.3：智谱基座没换，纯靠后训练 Scaling 编程暴涨，论文阅读【每天一个宝藏论文】",
+    "bvid": "BV1YCpE6KEW1",
+    "papers": [
+      {
+        "paper_title": "GLM-5.3: Frontier Coding and Emergent Cybersecurity Capabilities",
+        "paper_link": "https://z.ai/blog/glm-5.3"
+      }
+    ]
+  },
+  {
     "video_id": 188,
     "video_title": "[188]. Scaling SAE：OpenAI 的稀疏自编码器缩放定律，可解释性工作，论文精读【每天一个宝藏论文】",
     "bvid": "BV1b3Hv6MEod",

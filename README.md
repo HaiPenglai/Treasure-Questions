@@ -3,9 +3,100 @@
 - **作者**：b站**海安雨**。
 - **使用方法**：点击**宝藏论文链接大全**文件夹可阅读所有论文，点击**观看视频**可跳转到b站视频。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**234**个宝藏问题`手稿`和**181**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**247**个宝藏问题`手稿`和**194**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 270. 如何可视化多头注意力？(新版)【每天一个宝藏问题】
+- 观看视频：[视频BV1n6Jb6TEZn](https://www.bilibili.com/video/BV1n6Jb6TEZn)
+- 查看封面：[图片BV1n6Jb6TEZn](./assets/questions/BV1n6Jb6TEZn.jpg)
+
+[![](./assets/questions/BV1n6Jb6TEZn.jpg)](https://www.bilibili.com/video/BV1n6Jb6TEZn)
+---
+
+### 269. MoE中的dispatch和combine是什么？【每天一个宝藏问题】
+- 观看视频：[视频BV1pnJX6MEFe](https://www.bilibili.com/video/BV1pnJX6MEFe)
+- 查看封面：[图片BV1pnJX6MEFe](./assets/questions/BV1pnJX6MEFe.jpg)
+
+[![](./assets/questions/BV1pnJX6MEFe.jpg)](https://www.bilibili.com/video/BV1pnJX6MEFe)
+---
+
+### 268. FlashAttention和线性注意力有何异同？【每天一个宝藏问题】
+- 观看视频：[视频BV1nHJX6qEfd](https://www.bilibili.com/video/BV1nHJX6qEfd)
+- 查看封面：[图片BV1nHJX6qEfd](./assets/questions/BV1nHJX6qEfd.jpg)
+
+[![](./assets/questions/BV1nHJX6qEfd.jpg)](https://www.bilibili.com/video/BV1nHJX6qEfd)
+---
+
+### 267. MOE中先求Top K后Softmax，与先求Softmax后重归一化能一样？(新版)【每天一个宝藏问题】
+- 观看视频：[视频BV1V8JU61EaM](https://www.bilibili.com/video/BV1V8JU61EaM)
+- 查看封面：[图片BV1V8JU61EaM](./assets/questions/BV1V8JU61EaM.jpg)
+
+[![](./assets/questions/BV1V8JU61EaM.jpg)](https://www.bilibili.com/video/BV1V8JU61EaM)
+---
+
+### 266. 树形投机解码中，被拒绝分支的KV Cache去哪了？【每天一个宝藏问题】
+- 观看视频：[视频BV1V8JU61E4j](https://www.bilibili.com/video/BV1V8JU61E4j)
+- 查看封面：[图片BV1V8JU61E4j](./assets/questions/BV1V8JU61E4j.jpg)
+
+[![](./assets/questions/BV1V8JU61E4j.jpg)](https://www.bilibili.com/video/BV1V8JU61E4j)
+---
+
+### 265. 为什么线性注意力只换个括号就能加速？【每天一个宝藏问题】
+- 观看视频：[视频BV14dJC6pELC](https://www.bilibili.com/video/BV14dJC6pELC)
+- 查看封面：[图片BV14dJC6pELC](./assets/questions/BV14dJC6pELC.jpg)
+
+[![](./assets/questions/BV14dJC6pELC.jpg)](https://www.bilibili.com/video/BV14dJC6pELC)
+---
+
+### 264. LoRA微调中A、B都随机初始化或全零初始化分别会带来什么问题？(新版)【每天一个宝藏问题】
+- 观看视频：[视频BV1aCJC6hE17](https://www.bilibili.com/video/BV1aCJC6hE17)
+- 查看封面：[图片BV1aCJC6hE17](./assets/questions/BV1aCJC6hE17.jpg)
+
+[![](./assets/questions/BV1aCJC6hE17.jpg)](https://www.bilibili.com/video/BV1aCJC6hE17)
+---
+
+### 263. 从公共前缀KV相同角度理解：用LayerNorm而非BatchNorm的原因【每天一个宝藏问题】
+- 观看视频：[视频BV1Dkpq6UEeQ](https://www.bilibili.com/video/BV1Dkpq6UEeQ)
+- 查看封面：[图片BV1Dkpq6UEeQ](./assets/questions/BV1Dkpq6UEeQ.jpg)
+
+[![](./assets/questions/BV1Dkpq6UEeQ.jpg)](https://www.bilibili.com/video/BV1Dkpq6UEeQ)
+---
+
+### 262. MoE每个token都要选专家，那prefill要如何并行？(新版)【每天一个宝藏问题】
+- 观看视频：[视频BV1NjWw6CE16](https://www.bilibili.com/video/BV1NjWw6CE16)
+- 查看封面：[图片BV1NjWw6CE16](./assets/questions/BV1NjWw6CE16.jpg)
+
+[![](./assets/questions/BV1NjWw6CE16.jpg)](https://www.bilibili.com/video/BV1NjWw6CE16)
+---
+
+### 261. Transformer诞生前夕，RNN是如何使用注意力机制的？【每天一个宝藏问题】
+- 观看视频：[视频BV1iLWA6AEd4](https://www.bilibili.com/video/BV1iLWA6AEd4)
+- 查看封面：[图片BV1iLWA6AEd4](./assets/questions/BV1iLWA6AEd4.jpg)
+
+[![](./assets/questions/BV1iLWA6AEd4.jpg)](https://www.bilibili.com/video/BV1iLWA6AEd4)
+---
+
+### 260. FlashAttention如何加速滑动窗口注意力prefill？（新版）【每天一个宝藏问题】
+- 观看视频：[视频BV1EgWA6iEq6](https://www.bilibili.com/video/BV1EgWA6iEq6)
+- 查看封面：[图片BV1EgWA6iEq6](./assets/questions/BV1EgWA6iEq6.jpg)
+
+[![](./assets/questions/BV1EgWA6iEq6.jpg)](https://www.bilibili.com/video/BV1EgWA6iEq6)
+---
+
+### 259. 如何证明任意两句话的公共前缀都有相同的KV Cache？(新版)【每天一个宝藏问题】
+- 观看视频：[视频BV1SGpn6NEfF](https://www.bilibili.com/video/BV1SGpn6NEfF)
+- 查看封面：[图片BV1SGpn6NEfF](./assets/questions/BV1SGpn6NEfF.jpg)
+
+[![](./assets/questions/BV1SGpn6NEfF.jpg)](https://www.bilibili.com/video/BV1SGpn6NEfF)
+---
+
+### 258. 什么是OPD（On-Policy Distillation）？【每天一个宝藏问题】
+- 观看视频：[视频BV1oQHR6rEvQ](https://www.bilibili.com/video/BV1oQHR6rEvQ)
+- 查看封面：[图片BV1oQHR6rEvQ](./assets/questions/BV1oQHR6rEvQ.jpg)
+
+[![](./assets/questions/BV1oQHR6rEvQ.jpg)](https://www.bilibili.com/video/BV1oQHR6rEvQ)
+---
 
 ### 257. 一棵完美二叉树的树形注意力掩码是什么样的？【每天一个宝藏问题】
 - 观看视频：[视频BV1mVHd64EGJ](https://www.bilibili.com/video/BV1mVHd64EGJ)
@@ -1809,6 +1900,97 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [201]. ICML 2026 荣誉提名 Obfuscation Atlas：拿测谎探针训 RL，模型学会两种撒谎姿势，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1ggpn6iEdU](https://www.bilibili.com/video/BV1ggpn6iEdU)
+- 查看封面：[图片BV1ggpn6iEdU](./assets/papers/BV1ggpn6iEdU.jpg)
+
+[![](./assets/papers/BV1ggpn6iEdU.jpg)](https://www.bilibili.com/video/BV1ggpn6iEdU)
+---
+
+### [200]. CVPR 2026 最佳论文 D4RT：一个 Transformer 吃段视频，吐出深度、相机参数和 3D 坐标，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1ggpn6iEBy](https://www.bilibili.com/video/BV1ggpn6iEBy)
+- 查看封面：[图片BV1ggpn6iEBy](./assets/papers/BV1ggpn6iEBy.jpg)
+
+[![](./assets/papers/BV1ggpn6iEBy.jpg)](https://www.bilibili.com/video/BV1ggpn6iEBy)
+---
+
+### [199]. BaseModels Cue：把回答头 2 个 Token 固定成 Okay，基模反超 RL 版，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1hgpn6iEMq](https://www.bilibili.com/video/BV1hgpn6iEMq)
+- 查看封面：[图片BV1hgpn6iEMq](./assets/papers/BV1hgpn6iEMq.jpg)
+
+[![](./assets/papers/BV1hgpn6iEMq.jpg)](https://www.bilibili.com/video/BV1hgpn6iEMq)
+---
+
+### [198]. LongCat 2.0：1.6T 总参数，五万卡国产算力跑通，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1gGpn6NE8V](https://www.bilibili.com/video/BV1gGpn6NE8V)
+- 查看封面：[图片BV1gGpn6NE8V](./assets/papers/BV1gGpn6NE8V.jpg)
+
+[![](./assets/papers/BV1gGpn6NE8V.jpg)](https://www.bilibili.com/video/BV1gGpn6NE8V)
+---
+
+### [197]. Qwen3.8-Omni：原生全模态 Agent，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1uGpn6NE91](https://www.bilibili.com/video/BV1uGpn6NE91)
+- 查看封面：[图片BV1uGpn6NE91](./assets/papers/BV1uGpn6NE91.jpg)
+
+[![](./assets/papers/BV1uGpn6NE91.jpg)](https://www.bilibili.com/video/BV1uGpn6NE91)
+---
+
+### [196]. Qwen3.8-Flash-Next：125B 稀疏 MoE 追平 397B 前代，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1ovpE66EFC](https://www.bilibili.com/video/BV1ovpE66EFC)
+- 查看封面：[图片BV1ovpE66EFC](./assets/papers/BV1ovpE66EFC.jpg)
+
+[![](./assets/papers/BV1ovpE66EFC.jpg)](https://www.bilibili.com/video/BV1ovpE66EFC)
+---
+
+### [195]. ICML 2026 杰出论文：扩散语言模型的「任意顺序」是陷阱，扔掉它用 JustGRPO 反而最强，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1ovpE66Em9](https://www.bilibili.com/video/BV1ovpE66Em9)
+- 查看封面：[图片BV1ovpE66Em9](./assets/papers/BV1ovpE66Em9.jpg)
+
+[![](./assets/papers/BV1ovpE66Em9.jpg)](https://www.bilibili.com/video/BV1ovpE66Em9)
+---
+
+### [194]. 小米 MiMo-V2.6：单次大规模混合任务 RL 烧掉 260 万美元，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1LqpE6gEUS](https://www.bilibili.com/video/BV1LqpE6gEUS)
+- 查看封面：[图片BV1LqpE6gEUS](./assets/papers/BV1LqpE6gEUS.jpg)
+
+[![](./assets/papers/BV1LqpE6gEUS.jpg)](https://www.bilibili.com/video/BV1LqpE6gEUS)
+---
+
+### [193]. OSDI 2026 最佳论文：3 万训练任务的产线数据，把预训练数据管线的三个瓶颈掐掉，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1iqpE6gEqb](https://www.bilibili.com/video/BV1iqpE6gEqb)
+- 查看封面：[图片BV1iqpE6gEqb](./assets/papers/BV1iqpE6gEqb.jpg)
+
+[![](./assets/papers/BV1iqpE6gEqb.jpg)](https://www.bilibili.com/video/BV1iqpE6gEqb)
+---
+
+### [192]. 苹果拆自家台：多 Agent 编排框架打不过最简 coding agent，backbone 是唯一变量，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1oqpE6uEPz](https://www.bilibili.com/video/BV1oqpE6uEPz)
+- 查看封面：[图片BV1oqpE6uEPz](./assets/papers/BV1oqpE6uEPz.jpg)
+
+[![](./assets/papers/BV1oqpE6uEPz.jpg)](https://www.bilibili.com/video/BV1oqpE6uEPz)
+---
+
+### [191]. Jev RL：不生成 Token 的 Jev 决策模型，被塞进 RL 训练当参考策略，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1jqpE6gEL9](https://www.bilibili.com/video/BV1jqpE6gEL9)
+- 查看封面：[图片BV1jqpE6gEL9](./assets/papers/BV1jqpE6gEL9.jpg)
+
+[![](./assets/papers/BV1jqpE6gEL9.jpg)](https://www.bilibili.com/video/BV1jqpE6gEL9)
+---
+
+### [190]. 字节 Seed 逮到 DeepSeek「神鬼二象性」：分块 KV Cache 带来 4-Token 周期，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1ZapE6kEUj](https://www.bilibili.com/video/BV1ZapE6kEUj)
+- 查看封面：[图片BV1ZapE6kEUj](./assets/papers/BV1ZapE6kEUj.jpg)
+
+[![](./assets/papers/BV1ZapE6kEUj.jpg)](https://www.bilibili.com/video/BV1ZapE6kEUj)
+---
+
+### [189]. GLM 5.3：智谱基座没换，纯靠后训练 Scaling 编程暴涨，论文阅读【每天一个宝藏论文】
+- 观看视频：[视频BV1YCpE6KEW1](https://www.bilibili.com/video/BV1YCpE6KEW1)
+- 查看封面：[图片BV1YCpE6KEW1](./assets/papers/BV1YCpE6KEW1.jpg)
+
+[![](./assets/papers/BV1YCpE6KEW1.jpg)](https://www.bilibili.com/video/BV1YCpE6KEW1)
+---
 
 ### [188]. Scaling SAE：OpenAI 的稀疏自编码器缩放定律，可解释性工作，论文精读【每天一个宝藏论文】
 - 观看视频：[视频BV1b3Hv6MEod](https://www.bilibili.com/video/BV1b3Hv6MEod)

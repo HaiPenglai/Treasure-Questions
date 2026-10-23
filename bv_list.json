@@ -1,5 +1,161 @@
 [
   {
+    "bvid": "BV1n6Jb6TEZn",
+    "title": "270. 如何可视化多头注意力？(新版)【每天一个宝藏问题】",
+    "created": 1792756800,
+    "pic": "http://i2.hdslb.com/bfs/archive/3c41a0080697bc230670cead328de47242fc2e77.png"
+  },
+  {
+    "bvid": "BV1ggpn6iEdU",
+    "title": "[201]. ICML 2026 荣誉提名 Obfuscation Atlas：拿测谎探针训 RL，模型学会两种撒谎姿势，论文精读【每天一个宝藏论文】",
+    "created": 1792756800,
+    "pic": "http://i1.hdslb.com/bfs/archive/245cf1b9d41a59b169807632a4d83908fe798a22.png"
+  },
+  {
+    "bvid": "BV1pnJX6MEFe",
+    "title": "269. MoE中的dispatch和combine是什么？【每天一个宝藏问题】",
+    "created": 1792670400,
+    "pic": "http://i2.hdslb.com/bfs/archive/1565fde606c9897e0edbd7529d3fada2b5e9a15b.png"
+  },
+  {
+    "bvid": "BV1ggpn6iEBy",
+    "title": "[200]. CVPR 2026 最佳论文 D4RT：一个 Transformer 吃段视频，吐出深度、相机参数和 3D 坐标，论文精读【每天一个宝藏论文】",
+    "created": 1792670400,
+    "pic": "http://i2.hdslb.com/bfs/archive/e18b53e5faa4325609c4ead129ceaee73bcbbe17.png"
+  },
+  {
+    "bvid": "BV1nHJX6qEfd",
+    "title": "268. FlashAttention和线性注意力有何异同？【每天一个宝藏问题】",
+    "created": 1792584000,
+    "pic": "http://i0.hdslb.com/bfs/archive/ff7e05e8b00fb07abe7ce9fc01d584accc14d26b.png"
+  },
+  {
+    "bvid": "BV1hgpn6iEMq",
+    "title": "[199]. BaseModels Cue：把回答头 2 个 Token 固定成 Okay，基模反超 RL 版，论文精读【每天一个宝藏论文】",
+    "created": 1792584000,
+    "pic": "http://i1.hdslb.com/bfs/archive/5bab1d23360dfc3060ba7ca98c33cdf1724e32ac.png"
+  },
+  {
+    "bvid": "BV1V8JU61EaM",
+    "title": "267. MOE中先求Top K后Softmax，与先求Softmax后重归一化能一样？(新版)【每天一个宝藏问题】",
+    "created": 1792497600,
+    "pic": "http://i1.hdslb.com/bfs/archive/9addf29e2fa469c3284e2b4bc5bcebf515c9700d.png"
+  },
+  {
+    "bvid": "BV1gGpn6NE8V",
+    "title": "[198]. LongCat 2.0：1.6T 总参数，五万卡国产算力跑通，论文精读【每天一个宝藏论文】",
+    "created": 1792497600,
+    "pic": "http://i1.hdslb.com/bfs/archive/194882c0c4bbaa2d9d406affeaca06c35cb7b486.png"
+  },
+  {
+    "bvid": "BV1V8JU61E4j",
+    "title": "266. 树形投机解码中，被拒绝分支的KV Cache去哪了？【每天一个宝藏问题】",
+    "created": 1792411200,
+    "pic": "http://i2.hdslb.com/bfs/archive/4f9df33d5828e75defbe8142de93a5d80fb28080.png"
+  },
+  {
+    "bvid": "BV1uGpn6NE91",
+    "title": "[197]. Qwen3.8-Omni：原生全模态 Agent，论文精读【每天一个宝藏论文】",
+    "created": 1792411200,
+    "pic": "http://i1.hdslb.com/bfs/archive/88d3823628ce375380d7e3133963c3e6e97bcb51.png"
+  },
+  {
+    "bvid": "BV14dJC6pELC",
+    "title": "265. 为什么线性注意力只换个括号就能加速？【每天一个宝藏问题】",
+    "created": 1792324800,
+    "pic": "http://i2.hdslb.com/bfs/archive/2fbdd47ccc191671dd3071c1676bc5855b843a58.png"
+  },
+  {
+    "bvid": "BV1ovpE66EFC",
+    "title": "[196]. Qwen3.8-Flash-Next：125B 稀疏 MoE 追平 397B 前代，论文精读【每天一个宝藏论文】",
+    "created": 1792324800,
+    "pic": "http://i1.hdslb.com/bfs/archive/7e8564443b1689f36eb65e6851efeaed174edc46.png"
+  },
+  {
+    "bvid": "BV1aCJC6hE17",
+    "title": "264. LoRA微调中A、B都随机初始化或全零初始化分别会带来什么问题？(新版)【每天一个宝藏问题】",
+    "created": 1792238400,
+    "pic": "http://i2.hdslb.com/bfs/archive/5ae1b2c9f498c04caa0c06a1396971eded21e51b.jpg"
+  },
+  {
+    "bvid": "BV1ovpE66Em9",
+    "title": "[195]. ICML 2026 杰出论文：扩散语言模型的「任意顺序」是陷阱，扔掉它用 JustGRPO 反而最强，论文精读【每天一个宝藏论文】",
+    "created": 1792238400,
+    "pic": "http://i0.hdslb.com/bfs/archive/035f2b9ed2c0db6444de120b1095d9cc06b7fb88.png"
+  },
+  {
+    "bvid": "BV1Dkpq6UEeQ",
+    "title": "263. 从公共前缀KV相同角度理解：用LayerNorm而非BatchNorm的原因【每天一个宝藏问题】",
+    "created": 1792152000,
+    "pic": "http://i1.hdslb.com/bfs/archive/384e202a5da9e50cd9a7c53050739c30254e01f9.jpg"
+  },
+  {
+    "bvid": "BV1LqpE6gEUS",
+    "title": "[194]. 小米 MiMo-V2.6：单次大规模混合任务 RL 烧掉 260 万美元，论文精读【每天一个宝藏论文】",
+    "created": 1792152000,
+    "pic": "http://i0.hdslb.com/bfs/archive/f470aa3e3395b840c6f41b46a41698564c1ca059.png"
+  },
+  {
+    "bvid": "BV1NjWw6CE16",
+    "title": "262. MoE每个token都要选专家，那prefill要如何并行？(新版)【每天一个宝藏问题】",
+    "created": 1792065600,
+    "pic": "http://i1.hdslb.com/bfs/archive/573d7144322feff1faee91e34f1a8f59f6f460e8.jpg"
+  },
+  {
+    "bvid": "BV1iqpE6gEqb",
+    "title": "[193]. OSDI 2026 最佳论文：3 万训练任务的产线数据，把预训练数据管线的三个瓶颈掐掉，论文精读【每天一个宝藏论文】",
+    "created": 1792065600,
+    "pic": "http://i2.hdslb.com/bfs/archive/1031e98f7d99746823538a6eb9c8947d2093bca1.png"
+  },
+  {
+    "bvid": "BV1iLWA6AEd4",
+    "title": "261. Transformer诞生前夕，RNN是如何使用注意力机制的？【每天一个宝藏问题】",
+    "created": 1791979200,
+    "pic": "http://i1.hdslb.com/bfs/archive/aeb121ddc838c83b3ab86e5f7d2bd00bee3bf949.jpg"
+  },
+  {
+    "bvid": "BV1oqpE6uEPz",
+    "title": "[192]. 苹果拆自家台：多 Agent 编排框架打不过最简 coding agent，backbone 是唯一变量，论文精读【每天一个宝藏论文】",
+    "created": 1791979200,
+    "pic": "http://i2.hdslb.com/bfs/archive/d4bdf8f77a1b378fc6c7a41b75284052736c91cb.png"
+  },
+  {
+    "bvid": "BV1EgWA6iEq6",
+    "title": "260. FlashAttention如何加速滑动窗口注意力prefill？（新版）【每天一个宝藏问题】",
+    "created": 1791892800,
+    "pic": "http://i1.hdslb.com/bfs/archive/ab411f64b3d2bc19ee4bf8f3717ecb7d92573d3c.jpg"
+  },
+  {
+    "bvid": "BV1jqpE6gEL9",
+    "title": "[191]. Jev RL：不生成 Token 的 Jev 决策模型，被塞进 RL 训练当参考策略，论文精读【每天一个宝藏论文】",
+    "created": 1791892800,
+    "pic": "http://i2.hdslb.com/bfs/archive/7cbe386ce9e1713b1513cb4dee5dcfdf444fb6ee.png"
+  },
+  {
+    "bvid": "BV1SGpn6NEfF",
+    "title": "259. 如何证明任意两句话的公共前缀都有相同的KV Cache？(新版)【每天一个宝藏问题】",
+    "created": 1791806400,
+    "pic": "http://i0.hdslb.com/bfs/archive/57b70e3abe2962e3f2954822279ed6c1aed82059.png"
+  },
+  {
+    "bvid": "BV1ZapE6kEUj",
+    "title": "[190]. 字节 Seed 逮到 DeepSeek「神鬼二象性」：分块 KV Cache 带来 4-Token 周期，论文精读【每天一个宝藏论文】",
+    "created": 1791806400,
+    "pic": "http://i2.hdslb.com/bfs/archive/9d4cda52adf77487e1c18135e0f90d80f4f7918f.png"
+  },
+  {
+    "bvid": "BV1YCpE6KEW1",
+    "title": "[189]. GLM 5.3：智谱基座没换，纯靠后训练 Scaling 编程暴涨，论文阅读【每天一个宝藏论文】",
+    "created": 1791720000,
+    "pic": "http://i0.hdslb.com/bfs/archive/a1685b4521208e9ae539f46fd43dc62e49a8fd8d.png"
+  },
+  {
+    "bvid": "BV1oQHR6rEvQ",
+    "title": "258. 什么是OPD（On-Policy Distillation）？【每天一个宝藏问题】",
+    "created": 1791720000,
+    "pic": "http://i2.hdslb.com/bfs/archive/e40c250022f39edd715604afd0d42ab7036870d1.png"
+  },
+  {
     "bvid": "BV1mVHd64EGJ",
     "title": "257. 一棵完美二叉树的树形注意力掩码是什么样的？【每天一个宝藏问题】",
     "created": 1791633600,

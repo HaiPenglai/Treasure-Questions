@@ -1,4 +1,95 @@
 # 宝藏论文链接大全
+### [201]. ICML 2026 荣誉提名 Obfuscation Atlas：拿测谎探针训 RL，模型学会两种撒谎姿势，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1ggpn6iEdU](https://www.bilibili.com/video/BV1ggpn6iEdU)
+
+- 阅读论文：[The Obfuscation Atlas: Mapping Where Honesty Emerges in RLVR with Deception Probes](https://arxiv.org/pdf/2602.15515.pdf)
+
+---
+
+### [200]. CVPR 2026 最佳论文 D4RT：一个 Transformer 吃段视频，吐出深度、相机参数和 3D 坐标，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1ggpn6iEBy](https://www.bilibili.com/video/BV1ggpn6iEBy)
+
+- 阅读论文：[Efficiently Reconstructing Dynamic Scenes One D4RT at a Time](https://arxiv.org/pdf/2512.08924.pdf)
+
+---
+
+### [199]. BaseModels Cue：把回答头 2 个 Token 固定成 Okay，基模反超 RL 版，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1hgpn6iEMq](https://www.bilibili.com/video/BV1hgpn6iEMq)
+
+- 阅读论文：[Base Models Can Reason By Taking a Cue From Training Data](https://arxiv.org/pdf/2610.06851.pdf)
+
+---
+
+### [198]. LongCat 2.0：1.6T 总参数，五万卡国产算力跑通，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1gGpn6NE8V](https://www.bilibili.com/video/BV1gGpn6NE8V)
+
+- 阅读论文：[LongCat-2.0 Technical Report](https://longcat.chat/blog/longcat-2.0)
+
+---
+
+### [197]. Qwen3.8-Omni：原生全模态 Agent，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1uGpn6NE91](https://www.bilibili.com/video/BV1uGpn6NE91)
+
+- 阅读论文：[Qwen3.8-Omni: Towards Native Omni-Modal Agents](https://arxiv.org/pdf/2609.25611.pdf)
+
+---
+
+### [196]. Qwen3.8-Flash-Next：125B 稀疏 MoE 追平 397B 前代，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1ovpE66EFC](https://www.bilibili.com/video/BV1ovpE66EFC)
+
+- 阅读论文：[On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability](https://arxiv.org/pdf/2608.30320.pdf)
+
+---
+
+### [195]. ICML 2026 杰出论文：扩散语言模型的「任意顺序」是陷阱，扔掉它用 JustGRPO 反而最强，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1ovpE66Em9](https://www.bilibili.com/video/BV1ovpE66Em9)
+
+- 阅读论文：[The Flexibility Trap: Rethinking the Value of Arbitrary Order in Diffusion Language Models](https://arxiv.org/pdf/2601.15165.pdf)
+
+---
+
+### [194]. 小米 MiMo-V2.6：单次大规模混合任务 RL 烧掉 260 万美元，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1LqpE6gEUS](https://www.bilibili.com/video/BV1LqpE6gEUS)
+
+- 阅读论文：[MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement](https://arxiv.org/pdf/2610.11959.pdf)
+
+---
+
+### [193]. OSDI 2026 最佳论文：3 万训练任务的产线数据，把预训练数据管线的三个瓶颈掐掉，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1iqpE6gEqb](https://www.bilibili.com/video/BV1iqpE6gEqb)
+
+- 阅读论文：[Teaching The Old Dog New Tricks: Building Efficient Data Pipelines for Large-Scale LLM Pre-training (Operational Systems)](https://www.usenix.org/system/files/osdi26-chen-luofan.pdf)
+
+---
+
+### [192]. 苹果拆自家台：多 Agent 编排框架打不过最简 coding agent，backbone 是唯一变量，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1oqpE6uEPz](https://www.bilibili.com/video/BV1oqpE6uEPz)
+
+- 阅读论文：[How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?](https://arxiv.org/pdf/2609.40303.pdf)
+
+---
+
+### [191]. Jev RL：不生成 Token 的 Jev 决策模型，被塞进 RL 训练当参考策略，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1jqpE6gEL9](https://www.bilibili.com/video/BV1jqpE6gEL9)
+
+- 阅读论文：[Can Jev be Your Q or Policy in Reinforcement Learning?](https://arxiv.org/pdf/2610.11692.pdf)
+
+---
+
+### [190]. 字节 Seed 逮到 DeepSeek「神鬼二象性」：分块 KV Cache 带来 4-Token 周期，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1ZapE6kEUj](https://www.bilibili.com/video/BV1ZapE6kEUj)
+
+- 阅读论文：[Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression](https://arxiv.org/pdf/2609.36322.pdf)
+
+---
+
+### [189]. GLM 5.3：智谱基座没换，纯靠后训练 Scaling 编程暴涨，论文阅读【每天一个宝藏论文】
+- 观看视频：[BV1YCpE6KEW1](https://www.bilibili.com/video/BV1YCpE6KEW1)
+
+- 阅读论文：[GLM-5.3: Frontier Coding and Emergent Cybersecurity Capabilities](https://z.ai/blog/glm-5.3)
+
+---
+
 ### [188]. Scaling SAE：OpenAI 的稀疏自编码器缩放定律，可解释性工作，论文精读【每天一个宝藏论文】
 - 观看视频：[BV1b3Hv6MEod](https://www.bilibili.com/video/BV1b3Hv6MEod)
 
