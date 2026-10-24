@@ -12,6 +12,7 @@
 - 查看封面：[图片BV1n6Jb6TEZn](./assets/questions/BV1n6Jb6TEZn.jpg)
 
 [![](./assets/questions/BV1n6Jb6TEZn.jpg)](https://www.bilibili.com/video/BV1n6Jb6TEZn)
+
 ---
 
 ### 269. MoE中的dispatch和combine是什么？【每天一个宝藏问题】
@@ -19,6 +20,7 @@
 - 查看封面：[图片BV1pnJX6MEFe](./assets/questions/BV1pnJX6MEFe.jpg)
 
 [![](./assets/questions/BV1pnJX6MEFe.jpg)](https://www.bilibili.com/video/BV1pnJX6MEFe)
+
 ---
 
 ### 268. FlashAttention和线性注意力有何异同？【每天一个宝藏问题】
@@ -26,6 +28,7 @@
 - 查看封面：[图片BV1nHJX6qEfd](./assets/questions/BV1nHJX6qEfd.jpg)
 
 [![](./assets/questions/BV1nHJX6qEfd.jpg)](https://www.bilibili.com/video/BV1nHJX6qEfd)
+
 ---
 
 ### 267. MOE中先求Top K后Softmax，与先求Softmax后重归一化能一样？(新版)【每天一个宝藏问题】
@@ -33,6 +36,7 @@
 - 查看封面：[图片BV1V8JU61EaM](./assets/questions/BV1V8JU61EaM.jpg)
 
 [![](./assets/questions/BV1V8JU61EaM.jpg)](https://www.bilibili.com/video/BV1V8JU61EaM)
+
 ---
 
 ### 266. 树形投机解码中，被拒绝分支的KV Cache去哪了？【每天一个宝藏问题】
@@ -40,6 +44,7 @@
 - 查看封面：[图片BV1V8JU61E4j](./assets/questions/BV1V8JU61E4j.jpg)
 
 [![](./assets/questions/BV1V8JU61E4j.jpg)](https://www.bilibili.com/video/BV1V8JU61E4j)
+
 ---
 
 ### 265. 为什么线性注意力只换个括号就能加速？【每天一个宝藏问题】
@@ -47,6 +52,7 @@
 - 查看封面：[图片BV14dJC6pELC](./assets/questions/BV14dJC6pELC.jpg)
 
 [![](./assets/questions/BV14dJC6pELC.jpg)](https://www.bilibili.com/video/BV14dJC6pELC)
+
 ---
 
 ### 264. LoRA微调中A、B都随机初始化或全零初始化分别会带来什么问题？(新版)【每天一个宝藏问题】
@@ -54,6 +60,7 @@
 - 查看封面：[图片BV1aCJC6hE17](./assets/questions/BV1aCJC6hE17.jpg)
 
 [![](./assets/questions/BV1aCJC6hE17.jpg)](https://www.bilibili.com/video/BV1aCJC6hE17)
+
 ---
 
 ### 263. 从公共前缀KV相同角度理解：用LayerNorm而非BatchNorm的原因【每天一个宝藏问题】
@@ -61,6 +68,7 @@
 - 查看封面：[图片BV1Dkpq6UEeQ](./assets/questions/BV1Dkpq6UEeQ.jpg)
 
 [![](./assets/questions/BV1Dkpq6UEeQ.jpg)](https://www.bilibili.com/video/BV1Dkpq6UEeQ)
+
 ---
 
 ### 262. MoE每个token都要选专家，那prefill要如何并行？(新版)【每天一个宝藏问题】
@@ -68,6 +76,7 @@
 - 查看封面：[图片BV1NjWw6CE16](./assets/questions/BV1NjWw6CE16.jpg)
 
 [![](./assets/questions/BV1NjWw6CE16.jpg)](https://www.bilibili.com/video/BV1NjWw6CE16)
+
 ---
 
 ### 261. Transformer诞生前夕，RNN是如何使用注意力机制的？【每天一个宝藏问题】
@@ -75,6 +84,7 @@
 - 查看封面：[图片BV1iLWA6AEd4](./assets/questions/BV1iLWA6AEd4.jpg)
 
 [![](./assets/questions/BV1iLWA6AEd4.jpg)](https://www.bilibili.com/video/BV1iLWA6AEd4)
+
 ---
 
 ### 260. FlashAttention如何加速滑动窗口注意力prefill？（新版）【每天一个宝藏问题】
@@ -82,6 +92,7 @@
 - 查看封面：[图片BV1EgWA6iEq6](./assets/questions/BV1EgWA6iEq6.jpg)
 
 [![](./assets/questions/BV1EgWA6iEq6.jpg)](https://www.bilibili.com/video/BV1EgWA6iEq6)
+
 ---
 
 ### 259. 如何证明任意两句话的公共前缀都有相同的KV Cache？(新版)【每天一个宝藏问题】
@@ -89,6 +100,7 @@
 - 查看封面：[图片BV1SGpn6NEfF](./assets/questions/BV1SGpn6NEfF.jpg)
 
 [![](./assets/questions/BV1SGpn6NEfF.jpg)](https://www.bilibili.com/video/BV1SGpn6NEfF)
+
 ---
 
 ### 258. 什么是OPD（On-Policy Distillation）？【每天一个宝藏问题】
@@ -96,6 +108,7 @@
 - 查看封面：[图片BV1oQHR6rEvQ](./assets/questions/BV1oQHR6rEvQ.jpg)
 
 [![](./assets/questions/BV1oQHR6rEvQ.jpg)](https://www.bilibili.com/video/BV1oQHR6rEvQ)
+
 ---
 
 ### 257. 一棵完美二叉树的树形注意力掩码是什么样的？【每天一个宝藏问题】
@@ -103,6 +116,7 @@
 - 查看封面：[图片BV1mVHd64EGJ](./assets/questions/BV1mVHd64EGJ.jpg)
 
 [![](./assets/questions/BV1mVHd64EGJ.jpg)](https://www.bilibili.com/video/BV1mVHd64EGJ)
+
 ---
 
 ### 256. 为什么PPO里的KL约束用的是反向KL而非前向KL？【每天一个宝藏问题】
@@ -110,6 +124,7 @@
 - 查看封面：[图片BV163Hm6dECv](./assets/questions/BV163Hm6dECv.jpg)
 
 [![](./assets/questions/BV163Hm6dECv.jpg)](https://www.bilibili.com/video/BV163Hm6dECv)
+
 ---
 
 ### 255. 树形注意力如何一次前向并行验证整棵草稿树？【每天一个宝藏问题】
@@ -117,6 +132,7 @@
 - 查看封面：[图片BV1MRH26BE6z](./assets/questions/BV1MRH26BE6z.jpg)
 
 [![](./assets/questions/BV1MRH26BE6z.jpg)](https://www.bilibili.com/video/BV1MRH26BE6z)
+
 ---
 
 ### 254. PPO里面的KL约束到底在防什么？【每天一个宝藏问题】
@@ -124,6 +140,7 @@
 - 查看封面：[图片BV1L5HC6uE4H](./assets/questions/BV1L5HC6uE4H.jpg)
 
 [![](./assets/questions/BV1L5HC6uE4H.jpg)](https://www.bilibili.com/video/BV1L5HC6uE4H)
+
 ---
 
 ### 253. 什么是树形掩码？它和因果掩码有何异同？【每天一个宝藏问题】
@@ -131,6 +148,7 @@
 - 查看封面：[图片BV14UHJ6oE9E](./assets/questions/BV14UHJ6oE9E.jpg)
 
 [![](./assets/questions/BV14UHJ6oE9E.jpg)](https://www.bilibili.com/video/BV14UHJ6oE9E)
+
 ---
 
 ### 252. KV Cache相当于RNN中的什么东西？【每天一个宝藏问题】
@@ -138,6 +156,7 @@
 - 查看封面：[图片BV1FcHr6gEDq](./assets/questions/BV1FcHr6gEDq.jpg)
 
 [![](./assets/questions/BV1FcHr6gEDq.jpg)](https://www.bilibili.com/video/BV1FcHr6gEDq)
+
 ---
 
 ### 251. Pyramid KV为什么用金字塔形KV Cache？【每天一个宝藏问题】
@@ -145,6 +164,7 @@
 - 查看封面：[图片BV1zcHr6uE2N](./assets/questions/BV1zcHr6uE2N.jpg)
 
 [![](./assets/questions/BV1zcHr6uE2N.jpg)](https://www.bilibili.com/video/BV1zcHr6uE2N)
+
 ---
 
 ### 250. prefill和decode相当于RNN中的什么操作？【每天一个宝藏问题】
@@ -152,6 +172,7 @@
 - 查看封面：[图片BV1s6He68EcV](./assets/questions/BV1s6He68EcV.jpg)
 
 [![](./assets/questions/BV1s6He68EcV.jpg)](https://www.bilibili.com/video/BV1s6He68EcV)
+
 ---
 
 ### 249. 最近大火的Jev和传统的LLM有何异同？【每天一个宝藏问题】
@@ -159,6 +180,7 @@
 - 查看封面：[图片BV1MKa66VEJ4](./assets/questions/BV1MKa66VEJ4.jpg)
 
 [![](./assets/questions/BV1MKa66VEJ4.jpg)](https://www.bilibili.com/video/BV1MKa66VEJ4)
+
 ---
 
 ### 248. 新加坡-2026-会议留影【每天一个宝藏问题】
@@ -166,6 +188,7 @@
 - 查看封面：[图片BV1bsaz63EV5](./assets/questions/BV1bsaz63EV5.jpg)
 
 [![](./assets/questions/BV1bsaz63EV5.jpg)](https://www.bilibili.com/video/BV1bsaz63EV5)
+
 ---
 
 ### 247. 交叉注意力需要做旋转位置编码吗？【每天一个宝藏问题】
@@ -173,6 +196,7 @@
 - 查看封面：[图片BV1Ksh96yEyN](./assets/questions/BV1Ksh96yEyN.jpg)
 
 [![](./assets/questions/BV1Ksh96yEyN.jpg)](https://www.bilibili.com/video/BV1Ksh96yEyN)
+
 ---
 
 ### 246. 为什么大模型RL里每一步的奖励几乎都是0？【每天一个宝藏问题】
@@ -180,6 +204,7 @@
 - 查看封面：[图片BV1Tsh96yEAY](./assets/questions/BV1Tsh96yEAY.jpg)
 
 [![](./assets/questions/BV1Tsh96yEAY.jpg)](https://www.bilibili.com/video/BV1Tsh96yEAY)
+
 ---
 
 ### 245. 为什么投机解码确保每轮至少产出一个 token？(新版)【每天一个宝藏问题】
@@ -187,6 +212,7 @@
 - 查看封面：[图片BV1CEhm6WER6](./assets/questions/BV1CEhm6WER6.jpg)
 
 [![](./assets/questions/BV1CEhm6WER6.jpg)](https://www.bilibili.com/video/BV1CEhm6WER6)
+
 ---
 
 ### 244. 为什么KV Cache相当于Agent的短期记忆？【每天一个宝藏问题】
@@ -194,6 +220,7 @@
 - 查看封面：[图片BV1CEhm6WEX3](./assets/questions/BV1CEhm6WEX3.jpg)
 
 [![](./assets/questions/BV1CEhm6WEX3.jpg)](https://www.bilibili.com/video/BV1CEhm6WEX3)
+
 ---
 
 ### 243. 为什么投机解码最多可以比K个Token多生成一个Token？(新版)【每天一个宝藏问题】
@@ -201,6 +228,7 @@
 - 查看封面：[图片BV11Vhm6oEZ4](./assets/questions/BV11Vhm6oEZ4.jpg)
 
 [![](./assets/questions/BV11Vhm6oEZ4.jpg)](https://www.bilibili.com/video/BV11Vhm6oEZ4)
+
 ---
 
 ### 242. 交叉注意力输出的第i个向量代表什么？【每天一个宝藏问题】
@@ -208,6 +236,7 @@
 - 查看封面：[图片BV1cFaT6uEky](./assets/questions/BV1cFaT6uEky.jpg)
 
 [![](./assets/questions/BV1cFaT6uEky.jpg)](https://www.bilibili.com/video/BV1cFaT6uEky)
+
 ---
 
 ### 241. 如何可视化GQA？【每天一个宝藏问题】
@@ -215,6 +244,7 @@
 - 查看封面：[图片BV1e1ac6VEJF](./assets/questions/BV1e1ac6VEJF.jpg)
 
 [![](./assets/questions/BV1e1ac6VEJF.jpg)](https://www.bilibili.com/video/BV1e1ac6VEJF)
+
 ---
 
 ### 240. 为什么注意力要除以√dk而不是√d model？(新版)【每天一个宝藏问题】
@@ -222,6 +252,7 @@
 - 查看封面：[图片BV1MnhJ6JEKb](./assets/questions/BV1MnhJ6JEKb.jpg)
 
 [![](./assets/questions/BV1MnhJ6JEKb.jpg)](https://www.bilibili.com/video/BV1MnhJ6JEKb)
+
 ---
 
 ### 239. 如何可视化MTP？(新版)【每天一个宝藏问题】
@@ -229,6 +260,7 @@
 - 查看封面：[图片BV1mdhB6TEQE](./assets/questions/BV1mdhB6TEQE.jpg)
 
 [![](./assets/questions/BV1mdhB6TEQE.jpg)](https://www.bilibili.com/video/BV1mdhB6TEQE)
+
 ---
 
 ### 238. 扩散语言模型和自回归语言模型有何异同？【每天一个宝藏问题】
@@ -236,6 +268,7 @@
 - 查看封面：[图片BV1mdhB6TEmr](./assets/questions/BV1mdhB6TEmr.jpg)
 
 [![](./assets/questions/BV1mdhB6TEmr.jpg)](https://www.bilibili.com/video/BV1mdhB6TEmr)
+
 ---
 
 ### 237. ViT如何使用RoPE？(1D简单版)【每天一个宝藏问题】
@@ -243,6 +276,7 @@
 - 查看封面：[图片BV1hheA6EEW2](./assets/questions/BV1hheA6EEW2.jpg)
 
 [![](./assets/questions/BV1hheA6EEW2.jpg)](https://www.bilibili.com/video/BV1hheA6EEW2)
+
 ---
 
 ### 236. 为什么自注意力矩阵是正方形，而交叉注意力矩阵是长方形？(新版)【每天一个宝藏问题】
@@ -250,6 +284,7 @@
 - 查看封面：[图片BV1cXeA6PEJR](./assets/questions/BV1cXeA6PEJR.jpg)
 
 [![](./assets/questions/BV1cXeA6PEJR.jpg)](https://www.bilibili.com/video/BV1cXeA6PEJR)
+
 ---
 
 ### 235. 如何从PPO每个token的目标函数推导出梯度？【每天一个宝藏问题】
@@ -257,6 +292,7 @@
 - 查看封面：[图片BV1cXeA6PEVh](./assets/questions/BV1cXeA6PEVh.jpg)
 
 [![](./assets/questions/BV1cXeA6PEVh.jpg)](https://www.bilibili.com/video/BV1cXeA6PEVh)
+
 ---
 
 ### 234. 为什么MLA连V也不需要显式解压？（新版）【每天一个宝藏问题】
@@ -264,6 +300,7 @@
 - 查看封面：[图片BV1YEeH6uECe](./assets/questions/BV1YEeH6uECe.jpg)
 
 [![](./assets/questions/BV1YEeH6uECe.jpg)](https://www.bilibili.com/video/BV1YEeH6uECe)
+
 ---
 
 ### 233. 大模型强化学习的价值网络和围棋的价值网络有何异同？【每天一个宝藏问题】
@@ -271,6 +308,7 @@
 - 查看封面：[图片BV1eEeH6uEiN](./assets/questions/BV1eEeH6uEiN.jpg)
 
 [![](./assets/questions/BV1eEeH6uEiN.jpg)](https://www.bilibili.com/video/BV1eEeH6uEiN)
+
 ---
 
 ### 232. 为什么滑动窗口注意力在decode时要使用环形缓存？（新版）【每天一个宝藏问题】
@@ -278,6 +316,7 @@
 - 查看封面：[图片BV1sce56BEk1](./assets/questions/BV1sce56BEk1.jpg)
 
 [![](./assets/questions/BV1sce56BEk1.jpg)](https://www.bilibili.com/video/BV1sce56BEk1)
+
 ---
 
 ### 231. 从prefill和decode角度理解投机解码何以加速？(新版)【每天一个宝藏问题】
@@ -285,6 +324,7 @@
 - 查看封面：[图片BV1fwY165Eeq](./assets/questions/BV1fwY165Eeq.jpg)
 
 [![](./assets/questions/BV1fwY165Eeq.jpg)](https://www.bilibili.com/video/BV1fwY165Eeq)
+
 ---
 
 ### 230. PPO的GAE是如何计算的？【每天一个宝藏问题】
@@ -292,6 +332,7 @@
 - 查看封面：[图片BV1weYR65EjZ](./assets/questions/BV1weYR65EjZ.jpg)
 
 [![](./assets/questions/BV1weYR65EjZ.jpg)](https://www.bilibili.com/video/BV1weYR65EjZ)
+
 ---
 
 ### 229. 为什么PPO的优势A是每个token一个，而GRPO是整段回答一个？【每天一个宝藏问题】
@@ -299,6 +340,7 @@
 - 查看封面：[图片BV151Yu6uERg](./assets/questions/BV151Yu6uERg.jpg)
 
 [![](./assets/questions/BV151Yu6uERg.jpg)](https://www.bilibili.com/video/BV151Yu6uERg)
+
 ---
 
 ### 228. PPO的价值网络是如何根据写到一半的答案猜平均分的？【每天一个宝藏问题】
@@ -306,6 +348,7 @@
 - 查看封面：[图片BV163b46DE6F](./assets/questions/BV163b46DE6F.jpg)
 
 [![](./assets/questions/BV163b46DE6F.jpg)](https://www.bilibili.com/video/BV163b46DE6F)
+
 ---
 
 ### 227. PPO中的优势A是怎么来的？【每天一个宝藏问题】
@@ -313,6 +356,7 @@
 - 查看封面：[图片BV1mTtf6SEhx](./assets/questions/BV1mTtf6SEhx.jpg)
 
 [![](./assets/questions/BV1mTtf6SEhx.jpg)](https://www.bilibili.com/video/BV1mTtf6SEhx)
+
 ---
 
 ### 226. 最简单的transformer反向传播可视化能有多简单？(新版)【每天一个宝藏问题】
@@ -320,6 +364,7 @@
 - 查看封面：[图片BV1BHto6aE7P](./assets/questions/BV1BHto6aE7P.jpg)
 
 [![](./assets/questions/BV1BHto6aE7P.jpg)](https://www.bilibili.com/video/BV1BHto6aE7P)
+
 ---
 
 ### 225. Deepseek的MLA是如何处理RoPE的？【每天一个宝藏问题】
@@ -327,6 +372,7 @@
 - 查看封面：[图片BV1BWto6cEsD](./assets/questions/BV1BWto6cEsD.jpg)
 
 [![](./assets/questions/BV1BWto6cEsD.jpg)](https://www.bilibili.com/video/BV1BWto6cEsD)
+
 ---
 
 ### 224. 如何证明因果掩码其实就已经内禀位置信息了？【每天一个宝藏问题】
@@ -334,6 +380,7 @@
 - 查看封面：[图片BV1i2tG6qEZ8](./assets/questions/BV1i2tG6qEZ8.jpg)
 
 [![](./assets/questions/BV1i2tG6qEZ8.jpg)](https://www.bilibili.com/video/BV1i2tG6qEZ8)
+
 ---
 
 ### 223. 如何可视化MOE？(新版)【每天一个宝藏问题】
@@ -341,6 +388,7 @@
 - 查看封面：[图片BV1LUtG6KEkJ](./assets/questions/BV1LUtG6KEkJ.jpg)
 
 [![](./assets/questions/BV1LUtG6KEkJ.jpg)](https://www.bilibili.com/video/BV1LUtG6KEkJ)
+
 ---
 
 ### 222. 为什么传统位置编码只作用于词嵌入，而RoPE每层都作用？【每天一个宝藏问题】
@@ -348,6 +396,7 @@
 - 查看封面：[图片BV16ath6fEMr](./assets/questions/BV16ath6fEMr.jpg)
 
 [![](./assets/questions/BV16ath6fEMr.jpg)](https://www.bilibili.com/video/BV16ath6fEMr)
+
 ---
 
 ### 221. 为什么很多强化学习框架要内置vLLM这样的推理引擎加速采样？【每天一个宝藏问题】
@@ -355,6 +404,7 @@
 - 查看封面：[图片BV16ath6fEbM](./assets/questions/BV16ath6fEbM.jpg)
 
 [![](./assets/questions/BV16ath6fEbM.jpg)](https://www.bilibili.com/video/BV16ath6fEbM)
+
 ---
 
 ### 220. PPO的损失计算和SFT有何异同？【每天一个宝藏问题】
@@ -362,6 +412,7 @@
 - 查看封面：[图片BV14Ctp6JEp6](./assets/questions/BV14Ctp6JEp6.jpg)
 
 [![](./assets/questions/BV14Ctp6JEp6.jpg)](https://www.bilibili.com/video/BV14Ctp6JEp6)
+
 ---
 
 ### 219. 为什么把权重置0就是在剪枝？(新版)【每天一个宝藏问题】
@@ -369,6 +420,7 @@
 - 查看封面：[图片BV1rG4U6kE2E](./assets/questions/BV1rG4U6kE2E.jpg)
 
 [![](./assets/questions/BV1rG4U6kE2E.jpg)](https://www.bilibili.com/video/BV1rG4U6kE2E)
+
 ---
 
 ### 218. 大模型的训练、推理、SFT、强化学习究竟有什么区别？【每天一个宝藏问题】
@@ -376,6 +428,7 @@
 - 查看封面：[图片BV1wk4k6fEsY](./assets/questions/BV1wk4k6fEsY.jpg)
 
 [![](./assets/questions/BV1wk4k6fEsY.jpg)](https://www.bilibili.com/video/BV1wk4k6fEsY)
+
 ---
 
 ### 217. Chunked Prefill为什么要给长Prefill分块？【每天一个宝藏问题】
@@ -383,6 +436,7 @@
 - 查看封面：[图片BV12Xhw6YE5X](./assets/questions/BV12Xhw6YE5X.jpg)
 
 [![](./assets/questions/BV12Xhw6YE5X.jpg)](https://www.bilibili.com/video/BV12Xhw6YE5X)
+
 ---
 
 ### 216. 多轮对话中Decode之后还要增量Prefill，那新的KV如何并入KV Cache？(新版)【每天一个宝藏问题】
@@ -390,6 +444,7 @@
 - 查看封面：[图片BV1vYhF6zEud](./assets/questions/BV1vYhF6zEud.jpg)
 
 [![](./assets/questions/BV1vYhF6zEud.jpg)](https://www.bilibili.com/video/BV1vYhF6zEud)
+
 ---
 
 ### 215. 连续批处理如何把Prefill和Decode请求的FFN拼成一次矩阵乘？【每天一个宝藏问题】
@@ -397,6 +452,7 @@
 - 查看封面：[图片BV1DrhF6PEtj](./assets/questions/BV1DrhF6PEtj.jpg)
 
 [![](./assets/questions/BV1DrhF6PEtj.jpg)](https://www.bilibili.com/video/BV1DrhF6PEtj)
+
 ---
 
 ### 214. 为什么MLA无需显式解压K和Q？(新版)【每天一个宝藏问题】
@@ -404,6 +460,7 @@
 - 查看封面：[图片BV1FE8Z63E5v](./assets/questions/BV1FE8Z63E5v.jpg)
 
 [![](./assets/questions/BV1FE8Z63E5v.jpg)](https://www.bilibili.com/video/BV1FE8Z63E5v)
+
 ---
 
 ### 213. 为什么GRPO可以扔掉价值网络？【每天一个宝藏问题】
@@ -411,6 +468,7 @@
 - 查看封面：[图片BV1WC896BEPW](./assets/questions/BV1WC896BEPW.jpg)
 
 [![](./assets/questions/BV1WC896BEPW.jpg)](https://www.bilibili.com/video/BV1WC896BEPW)
+
 ---
 
 ### 212. 如何可视化UNet？【每天一个宝藏问题】
@@ -418,6 +476,7 @@
 - 查看封面：[图片BV1quhG6CEtf](./assets/questions/BV1quhG6CEtf.jpg)
 
 [![](./assets/questions/BV1quhG6CEtf.jpg)](https://www.bilibili.com/video/BV1quhG6CEtf)
+
 ---
 
 ### 211. 如何求PPO中每个token的梯度？【每天一个宝藏问题】
@@ -425,6 +484,7 @@
 - 查看封面：[图片BV1juhG6CEmD](./assets/questions/BV1juhG6CEmD.jpg)
 
 [![](./assets/questions/BV1juhG6CEmD.jpg)](https://www.bilibili.com/video/BV1juhG6CEmD)
+
 ---
 
 ### 210. 为什么ViT展平像素这一步是用卷积实现的？【每天一个宝藏问题】
@@ -432,6 +492,7 @@
 - 查看封面：[图片BV16M8h6AEY6](./assets/questions/BV16M8h6AEY6.jpg)
 
 [![](./assets/questions/BV16M8h6AEY6.jpg)](https://www.bilibili.com/video/BV16M8h6AEY6)
+
 ---
 
 ### 209. 为什么同样是依赖上一隐藏状态，RWKV可以并行训练，而RNN不行？【每天一个宝藏问题】
@@ -439,6 +500,7 @@
 - 查看封面：[图片BV1T8876rEaA](./assets/questions/BV1T8876rEaA.jpg)
 
 [![](./assets/questions/BV1T8876rEaA.jpg)](https://www.bilibili.com/video/BV1T8876rEaA)
+
 ---
 
 ### 208. 如何证明Transformer本身不含位置信息？【每天一个宝藏问题】
@@ -446,6 +508,7 @@
 - 查看封面：[图片BV1ezbv6eEC6](./assets/questions/BV1ezbv6eEC6.jpg)
 
 [![](./assets/questions/BV1ezbv6eEC6.jpg)](https://www.bilibili.com/video/BV1ezbv6eEC6)
+
 ---
 
 ### 207. 为什么MLA连V也不需要显式解压？【每天一个宝藏问题】
@@ -453,6 +516,7 @@
 - 查看封面：[图片BV1pPu26bELp](./assets/questions/BV1pPu26bELp.jpg)
 
 [![](./assets/questions/BV1pPu26bELp.jpg)](https://www.bilibili.com/video/BV1pPu26bELp)
+
 ---
 
 ### 206. 为什么DDPM加噪图在椭圆上，而Flow Matching在直线上？【每天一个宝藏问题】
@@ -460,6 +524,7 @@
 - 查看封面：[图片BV1x2uN6SEAt](./assets/questions/BV1x2uN6SEAt.jpg)
 
 [![](./assets/questions/BV1x2uN6SEAt.jpg)](https://www.bilibili.com/video/BV1x2uN6SEAt)
+
 ---
 
 ### 205. 如何可视化VIT？【每天一个宝藏问题】
@@ -467,6 +532,7 @@
 - 查看封面：[图片BV1t3up6iE8b](./assets/questions/BV1t3up6iE8b.jpg)
 
 [![](./assets/questions/BV1t3up6iE8b.jpg)](https://www.bilibili.com/video/BV1t3up6iE8b)
+
 ---
 
 ### 204. 如何可视化 RWKV？【每天一个宝藏问题】
@@ -474,6 +540,7 @@
 - 查看封面：[图片BV1s5un6dEKR](./assets/questions/BV1s5un6dEKR.jpg)
 
 [![](./assets/questions/BV1s5un6dEKR.jpg)](https://www.bilibili.com/video/BV1s5un6dEKR)
+
 ---
 
 ### 203. 推理时Q没有Cache，那训练时呢？【每天一个宝藏问题】
@@ -481,6 +548,7 @@
 - 查看封面：[图片BV1njMy6UEmC](./assets/questions/BV1njMy6UEmC.jpg)
 
 [![](./assets/questions/BV1njMy6UEmC.jpg)](https://www.bilibili.com/video/BV1njMy6UEmC)
+
 ---
 
 ### 202. 如何像之前可视化Transformer那样可视化RNN？【每天一个宝藏问题】
@@ -488,6 +556,7 @@
 - 查看封面：[图片BV1njMy6UEzQ](./assets/questions/BV1njMy6UEzQ.jpg)
 
 [![](./assets/questions/BV1njMy6UEzQ.jpg)](https://www.bilibili.com/video/BV1njMy6UEzQ)
+
 ---
 
 ### 201. 如何把RoPE算子融合到FlashAttention里？【每天一个宝藏问题】
@@ -495,6 +564,7 @@
 - 查看封面：[图片BV1pmuA6gEN7](./assets/questions/BV1pmuA6gEN7.jpg)
 
 [![](./assets/questions/BV1pmuA6gEN7.jpg)](https://www.bilibili.com/video/BV1pmuA6gEN7)
+
 ---
 
 ### 200. 为什么线性层反向传播也可以用GEMM实现？——为什么前向全连接对应反向全连接？【每天一个宝藏问题】
@@ -502,6 +572,7 @@
 - 查看封面：[图片BV1t3uF6MEbd](./assets/questions/BV1t3uF6MEbd.jpg)
 
 [![](./assets/questions/BV1t3uF6MEbd.jpg)](https://www.bilibili.com/video/BV1t3uF6MEbd)
+
 ---
 
 ### 199. FlashAttention如何加速滑动窗口注意力prefill？【每天一个宝藏问题】
@@ -509,6 +580,7 @@
 - 查看封面：[图片BV1VKMX6bEo1](./assets/questions/BV1VKMX6bEo1.jpg)
 
 [![](./assets/questions/BV1VKMX6bEo1.jpg)](https://www.bilibili.com/video/BV1VKMX6bEo1)
+
 ---
 
 ### 198. 为什么逐点卷积可以用 GEMM 实现？【每天一个宝藏问题】
@@ -516,6 +588,7 @@
 - 查看封面：[图片BV1BB3t6gEtZ](./assets/questions/BV1BB3t6gEtZ.jpg)
 
 [![](./assets/questions/BV1BB3t6gEtZ.jpg)](https://www.bilibili.com/video/BV1BB3t6gEtZ)
+
 ---
 
 ### 197. 为什么自动微分系统倾向于反向微分而非前向微分？【每天一个宝藏问题】
@@ -523,6 +596,7 @@
 - 查看封面：[图片BV1ct3x6gEkq](./assets/questions/BV1ct3x6gEkq.jpg)
 
 [![](./assets/questions/BV1ct3x6gEkq.jpg)](https://www.bilibili.com/video/BV1ct3x6gEkq)
+
 ---
 
 ### 196. 为什么自注意力矩阵是正方形，而交叉注意力矩阵是长方形？【每天一个宝藏问题】
@@ -530,6 +604,7 @@
 - 查看封面：[图片BV17S316dExh](./assets/questions/BV17S316dExh.jpg)
 
 [![](./assets/questions/BV17S316dExh.jpg)](https://www.bilibili.com/video/BV17S316dExh)
+
 ---
 
 ### 195. 如何用Tensor Core加速GEMM？【每天一个宝藏问题】
@@ -537,6 +612,7 @@
 - 查看封面：[图片BV1xT3k6ZEP8](./assets/questions/BV1xT3k6ZEP8.jpg)
 
 [![](./assets/questions/BV1xT3k6ZEP8.jpg)](https://www.bilibili.com/video/BV1xT3k6ZEP8)
+
 ---
 
 ### 194. 为什么滑动窗口注意力在 decode 时要使用环形缓存？【每天一个宝藏问题】
@@ -544,6 +620,7 @@
 - 查看封面：[图片BV1WP3B65Eh5](./assets/questions/BV1WP3B65Eh5.jpg)
 
 [![](./assets/questions/BV1WP3B65Eh5.jpg)](https://www.bilibili.com/video/BV1WP3B65Eh5)
+
 ---
 
 ### 193. 为什么前向KL让生成模型倾向平均，反向KL倾向专精？【每天一个宝藏问题】
@@ -551,6 +628,7 @@
 - 查看封面：[图片BV1vo3w6wE6J](./assets/questions/BV1vo3w6wE6J.jpg)
 
 [![](./assets/questions/BV1vo3w6wE6J.jpg)](https://www.bilibili.com/video/BV1vo3w6wE6J)
+
 ---
 
 ### 192. 如何证明注意力右上角加-∞就看不到后面了？【每天一个宝藏问题】
@@ -558,6 +636,7 @@
 - 查看封面：[图片BV1N8gZ6NEzg](./assets/questions/BV1N8gZ6NEzg.jpg)
 
 [![](./assets/questions/BV1N8gZ6NEzg.jpg)](https://www.bilibili.com/video/BV1N8gZ6NEzg)
+
 ---
 
 ### 191. 如何可视化LoRA？【每天一个宝藏问题】
@@ -565,6 +644,7 @@
 - 查看封面：[图片BV1Zq3j63Eeu](./assets/questions/BV1Zq3j63Eeu.jpg)
 
 [![](./assets/questions/BV1Zq3j63Eeu.jpg)](https://www.bilibili.com/video/BV1Zq3j63Eeu)
+
 ---
 
 ### 190. 为什么扩散模型采样高斯噪声相当于在球壳上选点？【每天一个宝藏问题】
@@ -572,6 +652,7 @@
 - 查看封面：[图片BV16V3762ECA](./assets/questions/BV16V3762ECA.jpg)
 
 [![](./assets/questions/BV16V3762ECA.jpg)](https://www.bilibili.com/video/BV16V3762ECA)
+
 ---
 
 ### 189. 为什么反向传播的本质是乘雅可比矩阵？【每天一个宝藏问题】
@@ -579,6 +660,7 @@
 - 查看封面：[图片BV17Y356TEZu](./assets/questions/BV17Y356TEZu.jpg)
 
 [![](./assets/questions/BV17Y356TEZu.jpg)](https://www.bilibili.com/video/BV17Y356TEZu)
+
 ---
 
 ### 188. 预训练和SFT产生的初始梯度有何不同？【每天一个宝藏问题】
@@ -586,6 +668,7 @@
 - 查看封面：[图片BV1Qz3g61EAe](./assets/questions/BV1Qz3g61EAe.jpg)
 
 [![](./assets/questions/BV1Qz3g61EAe.jpg)](https://www.bilibili.com/video/BV1Qz3g61EAe)
+
 ---
 
 ### 187. 为什么MLA无需显式解压Q和K？【每天一个宝藏问题】
@@ -593,6 +676,7 @@
 - 查看封面：[图片BV19s3K6zEXQ](./assets/questions/BV19s3K6zEXQ.jpg)
 
 [![](./assets/questions/BV19s3K6zEXQ.jpg)](https://www.bilibili.com/video/BV19s3K6zEXQ)
+
 ---
 
 ### 186. 为什么交叉熵梯度相当于特殊的策略梯度？【每天一个宝藏问题】
@@ -600,6 +684,7 @@
 - 查看封面：[图片BV1G2gh6BEg6](./assets/questions/BV1G2gh6BEg6.jpg)
 
 [![](./assets/questions/BV1G2gh6BEg6.jpg)](https://www.bilibili.com/video/BV1G2gh6BEg6)
+
 ---
 
 ### 185. 如何可视化kimi的注意力残差？【每天一个宝藏问题】
@@ -607,6 +692,7 @@
 - 查看封面：[图片BV1qBKb6hEkq](./assets/questions/BV1qBKb6hEkq.jpg)
 
 [![](./assets/questions/BV1qBKb6hEkq.jpg)](https://www.bilibili.com/video/BV1qBKb6hEkq)
+
 ---
 
 ### 184. 一口气看完：正态分布，梯度下降、泰勒展开一元推广到多元【每天一个宝藏问题】
@@ -614,6 +700,7 @@
 - 查看封面：[图片BV1LvKw6UEuM](./assets/questions/BV1LvKw6UEuM.jpg)
 
 [![](./assets/questions/BV1LvKw6UEuM.jpg)](https://www.bilibili.com/video/BV1LvKw6UEuM)
+
 ---
 
 ### 183. 为什么注意力要除以√dk而不是√d model【每天一个宝藏问题】
@@ -621,6 +708,7 @@
 - 查看封面：[图片BV1byK36eEUT](./assets/questions/BV1byK36eEUT.jpg)
 
 [![](./assets/questions/BV1byK36eEUT.jpg)](https://www.bilibili.com/video/BV1byK36eEUT)
+
 ---
 
 ### 182. 如何可视化知识蒸馏？【每天一个宝藏问题】
@@ -628,6 +716,7 @@
 - 查看封面：[图片BV1UyK36YE3Z](./assets/questions/BV1UyK36YE3Z.jpg)
 
 [![](./assets/questions/BV1UyK36YE3Z.jpg)](https://www.bilibili.com/video/BV1UyK36YE3Z)
+
 ---
 
 ### 181. 为什么 DDPM 加噪旋转角是不均匀的？【每天一个宝藏问题】
@@ -635,6 +724,7 @@
 - 查看封面：[图片BV1YjKG6rEhy](./assets/questions/BV1YjKG6rEhy.jpg)
 
 [![](./assets/questions/BV1YjKG6rEhy.jpg)](https://www.bilibili.com/video/BV1YjKG6rEhy)
+
 ---
 
 ### 180. 向量如何对向量求导？推广到矩阵、张量呢？【每天一个宝藏问题】
@@ -642,6 +732,7 @@
 - 查看封面：[图片BV1VjKG6kEpR](./assets/questions/BV1VjKG6kEpR.jpg)
 
 [![](./assets/questions/BV1VjKG6kEpR.jpg)](https://www.bilibili.com/video/BV1VjKG6kEpR)
+
 ---
 
 ### 179. 如何用高中导数证明 KL 散度非负？【每天一个宝藏问题】
@@ -649,6 +740,7 @@
 - 查看封面：[图片BV1GEKG6uEgV](./assets/questions/BV1GEKG6uEgV.jpg)
 
 [![](./assets/questions/BV1GEKG6uEgV.jpg)](https://www.bilibili.com/video/BV1GEKG6uEgV)
+
 ---
 
 ### 178. 如何在SRAM和寄存器两个层级同时使用双缓冲优化GEMM？【每天一个宝藏问题】
@@ -656,6 +748,7 @@
 - 查看封面：[图片BV1XEKG6gERb](./assets/questions/BV1XEKG6gERb.jpg)
 
 [![](./assets/questions/BV1XEKG6gERb.jpg)](https://www.bilibili.com/video/BV1XEKG6gERb)
+
 ---
 
 ### 177. Megatron张量并行如何用列切分加行切分降低注意力层的通信？【每天一个宝藏问题】
@@ -663,6 +756,7 @@
 - 查看封面：[图片BV1GEKG63EUT](./assets/questions/BV1GEKG63EUT.jpg)
 
 [![](./assets/questions/BV1GEKG63EUT.jpg)](https://www.bilibili.com/video/BV1GEKG63EUT)
+
 ---
 
 ### 176. 如何可视化交叉注意力【每天一个宝藏问题】
@@ -670,6 +764,7 @@
 - 查看封面：[图片BV1RVKG6CEhW](./assets/questions/BV1RVKG6CEhW.jpg)
 
 [![](./assets/questions/BV1RVKG6CEhW.jpg)](https://www.bilibili.com/video/BV1RVKG6CEhW)
+
 ---
 
 ### 175. 如何理解正态分布的多元扩展？【每天一个宝藏问题】
@@ -677,6 +772,7 @@
 - 查看封面：[图片BV1eVKG6CEZH](./assets/questions/BV1eVKG6CEZH.jpg)
 
 [![](./assets/questions/BV1eVKG6CEZH.jpg)](https://www.bilibili.com/video/BV1eVKG6CEZH)
+
 ---
 
 ### 174. 为什么DDPM加噪相当于90°旋转插值？【每天一个宝藏问题】
@@ -684,6 +780,7 @@
 - 查看封面：[图片BV1vAN36BEit](./assets/questions/BV1vAN36BEit.jpg)
 
 [![](./assets/questions/BV1vAN36BEit.jpg)](https://www.bilibili.com/video/BV1vAN36BEit)
+
 ---
 
 ### 173. 如何证明任意两句话的公共前缀都有相同的KV Cache？【每天一个宝藏问题】
@@ -691,6 +788,7 @@
 - 查看封面：[图片BV1HNM76GEo8](./assets/questions/BV1HNM76GEo8.jpg)
 
 [![](./assets/questions/BV1HNM76GEo8.jpg)](https://www.bilibili.com/video/BV1HNM76GEo8)
+
 ---
 
 ### 172. 如何用外积优化GEMM？【每天一个宝藏问题】
@@ -698,6 +796,7 @@
 - 查看封面：[图片BV1E9Mb6MEeq](./assets/questions/BV1E9Mb6MEeq.jpg)
 
 [![](./assets/questions/BV1E9Mb6MEeq.jpg)](https://www.bilibili.com/video/BV1E9Mb6MEeq)
+
 ---
 
 ### 171. 如何可视化 DeepSeek MLA（简化版）？【每天一个宝藏问题】
@@ -705,6 +804,7 @@
 - 查看封面：[图片BV1MRTd6bEbH](./assets/questions/BV1MRTd6bEbH.jpg)
 
 [![](./assets/questions/BV1MRTd6bEbH.jpg)](https://www.bilibili.com/video/BV1MRTd6bEbH)
+
 ---
 
 ### 170. vLLM 投机解码首token合并 prefill 这个小技巧是怎么来的？【每天一个宝藏问题】
@@ -712,6 +812,7 @@
 - 查看封面：[图片BV1hETD6mERB](./assets/questions/BV1hETD6mERB.jpg)
 
 [![](./assets/questions/BV1hETD6mERB.jpg)](https://www.bilibili.com/video/BV1hETD6mERB)
+
 ---
 
 ### 169. MTP为什么能一次预测多个未来 token？【每天一个宝藏问题】
@@ -719,6 +820,7 @@
 - 查看封面：[图片BV1aDMu6BEDb](./assets/questions/BV1aDMu6BEDb.jpg)
 
 [![](./assets/questions/BV1aDMu6BEDb.jpg)](https://www.bilibili.com/video/BV1aDMu6BEDb)
+
 ---
 
 ### 168. Megatron张量并行如何用列切分加行切分降低FFN层的通信？【每天一个宝藏问题】
@@ -726,6 +828,7 @@
 - 查看封面：[图片BV1zTMP6YEqg](./assets/questions/BV1zTMP6YEqg.jpg)
 
 [![](./assets/questions/BV1zTMP6YEqg.jpg)](https://www.bilibili.com/video/BV1zTMP6YEqg)
+
 ---
 
 ### 167. 为什么KL散度非负和信息熵是最优码长这两件事是等价的？【每天一个宝藏问题】
@@ -733,6 +836,7 @@
 - 查看封面：[图片BV1fTMP6YEtZ](./assets/questions/BV1fTMP6YEtZ.jpg)
 
 [![](./assets/questions/BV1fTMP6YEtZ.jpg)](https://www.bilibili.com/video/BV1fTMP6YEtZ)
+
 ---
 
 ### 166. 如何用双缓冲优化GEMM？【每天一个宝藏问题】
@@ -740,6 +844,7 @@
 - 查看封面：[图片BV1WzMP6rEN6](./assets/questions/BV1WzMP6rEN6.jpg)
 
 [![](./assets/questions/BV1WzMP6rEN6.jpg)](https://www.bilibili.com/video/BV1WzMP6rEN6)
+
 ---
 
 ### 165. 残差连接在Transformer反向传播中可视化出来是什么样的？【每天一个宝藏问题】
@@ -747,6 +852,7 @@
 - 查看封面：[图片BV1AzMP6kE62](./assets/questions/BV1AzMP6kE62.jpg)
 
 [![](./assets/questions/BV1AzMP6kE62.jpg)](https://www.bilibili.com/video/BV1AzMP6kE62)
+
 ---
 
 ### 164. 为什么环形All-Reduce 时，4卡和128卡单卡通信量差不多？【每天一个宝藏问题】
@@ -754,6 +860,7 @@
 - 查看封面：[图片BV1AzMP6rE61](./assets/questions/BV1AzMP6rE61.jpg)
 
 [![](./assets/questions/BV1AzMP6rE61.jpg)](https://www.bilibili.com/video/BV1AzMP6rE61)
+
 ---
 
 ### 163. 张量并行中的列并行和行并行是如何切分W和X矩阵的？【每天一个宝藏问题】
@@ -761,6 +868,7 @@
 - 查看封面：[图片BV1rJTb6qEYr](./assets/questions/BV1rJTb6qEYr.jpg)
 
 [![](./assets/questions/BV1rJTb6qEYr.jpg)](https://www.bilibili.com/video/BV1rJTb6qEYr)
+
 ---
 
 ### 162. 如何可视化GEMM？【每天一个宝藏问题】
@@ -768,6 +876,7 @@
 - 查看封面：[图片BV1tWTj6jEGU](./assets/questions/BV1tWTj6jEGU.jpg)
 
 [![](./assets/questions/BV1tWTj6jEGU.jpg)](https://www.bilibili.com/video/BV1tWTj6jEGU)
+
 ---
 
 ### 161. MoE每个token都要选专家，那prefill要如何并行？【每天一个宝藏问题】
@@ -775,6 +884,7 @@
 - 查看封面：[图片BV1foTi6sEyH](./assets/questions/BV1foTi6sEyH.jpg)
 
 [![](./assets/questions/BV1foTi6sEyH.jpg)](https://www.bilibili.com/video/BV1foTi6sEyH)
+
 ---
 
 ### 160. 如何对注意力头剪枝？【每天一个宝藏问题】
@@ -782,6 +892,7 @@
 - 查看封面：[图片BV1YCTY6qEMZ](./assets/questions/BV1YCTY6qEMZ.jpg)
 
 [![](./assets/questions/BV1YCTY6qEMZ.jpg)](https://www.bilibili.com/video/BV1YCTY6qEMZ)
+
 ---
 
 ### 159. 如何可视化MTP？【每天一个宝藏问题】
@@ -789,6 +900,7 @@
 - 查看封面：[图片BV1rtTc6tEqd](./assets/questions/BV1rtTc6tEqd.jpg)
 
 [![](./assets/questions/BV1rtTc6tEqd.jpg)](https://www.bilibili.com/video/BV1rtTc6tEqd)
+
 ---
 
 ### 158. 最简单的含RoPE的Transformer可视化有多简单？【每天一个宝藏问题】
@@ -796,6 +908,7 @@
 - 查看封面：[图片BV18e7p6FEeD](./assets/questions/BV18e7p6FEeD.jpg)
 
 [![](./assets/questions/BV18e7p6FEeD.jpg)](https://www.bilibili.com/video/BV18e7p6FEeD)
+
 ---
 
 ### 157. 为什么Adam除以√vt让稳定的梯度项归一化，振荡的梯度项归零化【每天一个宝藏问题】
@@ -803,6 +916,7 @@
 - 查看封面：[图片BV13e7p6cEF4](./assets/questions/BV13e7p6cEF4.jpg)
 
 [![](./assets/questions/BV13e7p6cEF4.jpg)](https://www.bilibili.com/video/BV13e7p6cEF4)
+
 ---
 
 ### 156. 最简单的transformer反向传播可视化能有多简单？【每天一个宝藏问题】
@@ -810,6 +924,7 @@
 - 查看封面：[图片BV18e7p6FE1J](./assets/questions/BV18e7p6FE1J.jpg)
 
 [![](./assets/questions/BV18e7p6FE1J.jpg)](https://www.bilibili.com/video/BV18e7p6FE1J)
+
 ---
 
 ### 155. 为什么信息熵=最优码长，交叉熵=实际码长，KL散度=浪费码长【每天一个宝藏问题】
@@ -817,6 +932,7 @@
 - 查看封面：[图片BV18e7p6FEZ1](./assets/questions/BV18e7p6FEZ1.jpg)
 
 [![](./assets/questions/BV18e7p6FEZ1.jpg)](https://www.bilibili.com/video/BV18e7p6FEZ1)
+
 ---
 
 ### 154. 为什么投机解码确保每轮至少产出一个 token？【每天一个宝藏问题】
@@ -824,6 +940,7 @@
 - 查看封面：[图片BV1De7p6FEL3](./assets/questions/BV1De7p6FEL3.jpg)
 
 [![](./assets/questions/BV1De7p6FEL3.jpg)](https://www.bilibili.com/video/BV1De7p6FEL3)
+
 ---
 
 ### 153. 从等比数列求和理解Adam优化器训练初期动量修正【每天一个宝藏问题】
@@ -831,6 +948,7 @@
 - 查看封面：[图片BV1he7p6FEp1](./assets/questions/BV1he7p6FEp1.jpg)
 
 [![](./assets/questions/BV1he7p6FEp1.jpg)](https://www.bilibili.com/video/BV1he7p6FEp1)
+
 ---
 
 ### 152. 为什么前向残差连接对应反向残差连接【每天一个宝藏问题】
@@ -838,6 +956,7 @@
 - 查看封面：[图片BV1bv7p6bEeG](./assets/questions/BV1bv7p6bEeG.jpg)
 
 [![](./assets/questions/BV1bv7p6bEeG.jpg)](https://www.bilibili.com/video/BV1bv7p6bEeG)
+
 ---
 
 ### 151. 如何可视化MQA？【每天一个宝藏问题】
@@ -845,6 +964,7 @@
 - 查看封面：[图片BV1gAj36ZEmj](./assets/questions/BV1gAj36ZEmj.jpg)
 
 [![](./assets/questions/BV1gAj36ZEmj.jpg)](https://www.bilibili.com/video/BV1gAj36ZEmj)
+
 ---
 
 ### 150. 对比注意力池和注意力温度对注意力汇聚有什么影响？【每天一个宝藏问题】
@@ -852,6 +972,7 @@
 - 查看封面：[图片BV1hAj36ZE8a](./assets/questions/BV1hAj36ZE8a.jpg)
 
 [![](./assets/questions/BV1hAj36ZE8a.jpg)](https://www.bilibili.com/video/BV1hAj36ZE8a)
+
 ---
 
 ### 149. 为什么投机解码最多可以比K个Token多生成一个Token？【每天一个宝藏问题】
@@ -859,6 +980,7 @@
 - 查看封面：[图片BV1gAj36ZEY3](./assets/questions/BV1gAj36ZEY3.jpg)
 
 [![](./assets/questions/BV1gAj36ZEY3.jpg)](https://www.bilibili.com/video/BV1gAj36ZEY3)
+
 ---
 
 ### 148. 超连接中的连边和感知机的连边有何异同？【每天一个宝藏问题】
@@ -866,6 +988,7 @@
 - 查看封面：[图片BV1DAj36ZEZD](./assets/questions/BV1DAj36ZEZD.jpg)
 
 [![](./assets/questions/BV1DAj36ZEZD.jpg)](https://www.bilibili.com/video/BV1DAj36ZEZD)
+
 ---
 
 ### 147. 如何直观理解RoPE的平移不变性【每天一个宝藏问题】
@@ -873,6 +996,7 @@
 - 查看封面：[图片BV18Aj36ZEZP](./assets/questions/BV18Aj36ZEZP.jpg)
 
 [![](./assets/questions/BV18Aj36ZEZP.jpg)](https://www.bilibili.com/video/BV18Aj36ZEZP)
+
 ---
 
 ### 146. 能否有一种方法同时可视化注意力的前向和反向传播？【每天一个宝藏问题】
@@ -880,6 +1004,7 @@
 - 查看封面：[图片BV1gAj36ZEUA](./assets/questions/BV1gAj36ZEUA.jpg)
 
 [![](./assets/questions/BV1gAj36ZEUA.jpg)](https://www.bilibili.com/video/BV1gAj36ZEUA)
+
 ---
 
 ### 145. 从prefill和decode角度理解投机解码何以加速？【每天一个宝藏问题】
@@ -887,6 +1012,7 @@
 - 查看封面：[图片BV1hAj36ZE7E](./assets/questions/BV1hAj36ZE7E.jpg)
 
 [![](./assets/questions/BV1hAj36ZE7E.jpg)](https://www.bilibili.com/video/BV1hAj36ZE7E)
+
 ---
 
 ### 144. 如何可视化Transformer的残差连接？【每天一个宝藏问题】
@@ -894,6 +1020,7 @@
 - 查看封面：[图片BV1DAj36ZE2E](./assets/questions/BV1DAj36ZE2E.jpg)
 
 [![](./assets/questions/BV1DAj36ZE2E.jpg)](https://www.bilibili.com/video/BV1DAj36ZE2E)
+
 ---
 
 ### 143. 如何可视化SGLang中的KV Cache？【每天一个宝藏问题】
@@ -901,6 +1028,7 @@
 - 查看封面：[图片BV13Aj36ZEcC](./assets/questions/BV13Aj36ZEcC.jpg)
 
 [![](./assets/questions/BV13Aj36ZEcC.jpg)](https://www.bilibili.com/video/BV13Aj36ZEcC)
+
 ---
 
 ### 142. 如何可视化前馈网络｜线性层的反向传播？【每天一个宝藏问题】
@@ -908,6 +1036,7 @@
 - 查看封面：[图片BV1gAj36ZELC](./assets/questions/BV1gAj36ZELC.jpg)
 
 [![](./assets/questions/BV1gAj36ZELC.jpg)](https://www.bilibili.com/video/BV1gAj36ZELC)
+
 ---
 
 ### 141. 多轮对话中Decode之后还要增量Prefill，那新的KV如何并入KV Cache？【每天一个宝藏问题】
@@ -915,6 +1044,7 @@
 - 查看封面：[图片BV1zCjg6rE9F](./assets/questions/BV1zCjg6rE9F.jpg)
 
 [![](./assets/questions/BV1zCjg6rE9F.jpg)](https://www.bilibili.com/video/BV1zCjg6rE9F)
+
 ---
 
 ### 140. 稀疏矩阵乘稠密向量SpMV是如何跳过0值计算的？【每天一个宝藏问题】
@@ -922,6 +1052,7 @@
 - 查看封面：[图片BV1AG7m6HEEW](./assets/questions/BV1AG7m6HEEW.jpg)
 
 [![](./assets/questions/BV1AG7m6HEEW.jpg)](https://www.bilibili.com/video/BV1AG7m6HEEW)
+
 ---
 
 ### 139. 为什么传统残差连接是mhc残差流扩展率=1 的特例？【每天一个宝藏问题】
@@ -929,6 +1060,7 @@
 - 查看封面：[图片BV1zRVE6sExg](./assets/questions/BV1zRVE6sExg.jpg)
 
 [![](./assets/questions/BV1zRVE6sExg.jpg)](https://www.bilibili.com/video/BV1zRVE6sExg)
+
 ---
 
 ### 138. 如何可视化含RoPE的注意力分数矩阵【每天一个宝藏问题】
@@ -936,6 +1068,7 @@
 - 查看封面：[图片BV1FRVE6xEap](./assets/questions/BV1FRVE6xEap.jpg)
 
 [![](./assets/questions/BV1FRVE6xEap.jpg)](https://www.bilibili.com/video/BV1FRVE6xEap)
+
 ---
 
 ### 137. HC=？会让超连接退化为preNorm传统残差连接？【每天一个宝藏问题】
@@ -943,6 +1076,7 @@
 - 查看封面：[图片BV1zRVE6sE2x](./assets/questions/BV1zRVE6sE2x.jpg)
 
 [![](./assets/questions/BV1zRVE6sE2x.jpg)](https://www.bilibili.com/video/BV1zRVE6sE2x)
+
 ---
 
 ### 136. BERT和GPT的可视化有多像？【每天一个宝藏问题】
@@ -950,6 +1084,7 @@
 - 查看封面：[图片BV1LsG26dEuq](./assets/questions/BV1LsG26dEuq.jpg)
 
 [![](./assets/questions/BV1LsG26dEuq.jpg)](https://www.bilibili.com/video/BV1LsG26dEuq)
+
 ---
 
 ### 135. 如何直观理解超连接中的残差流？【每天一个宝藏问题】
@@ -957,6 +1092,7 @@
 - 查看封面：[图片BV1bGVK6iE2B](./assets/questions/BV1bGVK6iE2B.jpg)
 
 [![](./assets/questions/BV1bGVK6iE2B.jpg)](https://www.bilibili.com/video/BV1bGVK6iE2B)
+
 ---
 
 ### 134. 为什么RoPE中旋转矩阵R0是单位阵？【每天一个宝藏问题】
@@ -964,6 +1100,7 @@
 - 查看封面：[图片BV1UGVK6vEzn](./assets/questions/BV1UGVK6vEzn.jpg)
 
 [![](./assets/questions/BV1UGVK6vEzn.jpg)](https://www.bilibili.com/video/BV1UGVK6vEzn)
+
 ---
 
 ### 133. 如何可视化超连接？【每天一个宝藏问题】
@@ -971,6 +1108,7 @@
 - 查看封面：[图片BV1h1GE6BEMm](./assets/questions/BV1h1GE6BEMm.jpg)
 
 [![](./assets/questions/BV1h1GE6BEMm.jpg)](https://www.bilibili.com/video/BV1h1GE6BEMm)
+
 ---
 
 ### 132. 为什么只用柱状图就能证明投机解码是无损的？【每天一个宝藏问题】
@@ -978,6 +1116,7 @@
 - 查看封面：[图片BV1UHGB6REeL](./assets/questions/BV1UHGB6REeL.jpg)
 
 [![](./assets/questions/BV1UHGB6REeL.jpg)](https://www.bilibili.com/video/BV1UHGB6REeL)
+
 ---
 
 ### 131. 折扣因子γ是如何改变未来的奖励重要程度的？【每天一个宝藏问题】
@@ -985,6 +1124,7 @@
 - 查看封面：[图片BV1AtGe6KEuk](./assets/questions/BV1AtGe6KEuk.jpg)
 
 [![](./assets/questions/BV1AtGe6KEuk.jpg)](https://www.bilibili.com/video/BV1AtGe6KEuk)
+
 ---
 
 ### 130. 如何从概率树理解投机解码是无损的？【每天一个宝藏问题】
@@ -992,6 +1132,7 @@
 - 查看封面：[图片BV1ktGe6NEtg](./assets/questions/BV1ktGe6NEtg.jpg)
 
 [![](./assets/questions/BV1ktGe6NEtg.jpg)](https://www.bilibili.com/video/BV1ktGe6NEtg)
+
 ---
 
 ### 129. 举例说明DPO论文里三行核心代码是啥意思？【每天一个宝藏问题】
@@ -999,6 +1140,7 @@
 - 查看封面：[图片BV1AtGe6KEbW](./assets/questions/BV1AtGe6KEbW.jpg)
 
 [![](./assets/questions/BV1AtGe6KEbW.jpg)](https://www.bilibili.com/video/BV1AtGe6KEbW)
+
 ---
 
 ### 128. 为什么4D并行的四个任务划分维度是正交的？【每天一个宝藏问题】
@@ -1006,6 +1148,7 @@
 - 查看封面：[图片BV1ZzLC6bEbU](./assets/questions/BV1ZzLC6bEbU.jpg)
 
 [![](./assets/questions/BV1ZzLC6bEbU.jpg)](https://www.bilibili.com/video/BV1ZzLC6bEbU)
+
 ---
 
 ### 127. 为什么Adam优化器相当于在求19日EMA均线？【每天一个宝藏问题】
@@ -1013,6 +1156,7 @@
 - 查看封面：[图片BV1FGLM6wEbm](./assets/questions/BV1FGLM6wEbm.jpg)
 
 [![](./assets/questions/BV1FGLM6wEbm.jpg)](https://www.bilibili.com/video/BV1FGLM6wEbm)
+
 ---
 
 ### 126. 举例说明投机解码如何拒绝采样？【每天一个宝藏问题】
@@ -1020,6 +1164,7 @@
 - 查看封面：[图片BV1EVLM6bEuU](./assets/questions/BV1EVLM6bEuU.jpg)
 
 [![](./assets/questions/BV1EVLM6bEuU.jpg)](https://www.bilibili.com/video/BV1EVLM6bEuU)
+
 ---
 
 ### 125. 为什么Token数相同的批次未必是负载均衡的？以WLB LLM为例【每天一个宝藏问题】
@@ -1027,6 +1172,7 @@
 - 查看封面：[图片BV1FXLJ6YEiX](./assets/questions/BV1FXLJ6YEiX.jpg)
 
 [![](./assets/questions/BV1FXLJ6YEiX.jpg)](https://www.bilibili.com/video/BV1FXLJ6YEiX)
+
 ---
 
 ### 124. 训练时是如何恰好错开一个token的？【每天一个宝藏问题】
@@ -1034,6 +1180,7 @@
 - 查看封面：[图片BV1FXLJ6YE1L](./assets/questions/BV1FXLJ6YE1L.jpg)
 
 [![](./assets/questions/BV1FXLJ6YE1L.jpg)](https://www.bilibili.com/video/BV1FXLJ6YE1L)
+
 ---
 
 ### 123. 如何用CPU内存的残差修正量化误差？以DecDEC为例【每天一个宝藏问题】
@@ -1041,6 +1188,7 @@
 - 查看封面：[图片BV1FXLJ6YEEv](./assets/questions/BV1FXLJ6YEEv.jpg)
 
 [![](./assets/questions/BV1FXLJ6YEEv.jpg)](https://www.bilibili.com/video/BV1FXLJ6YEEv)
+
 ---
 
 ### 122. 为什么只有单个词嵌入就能构成二元语言模型？【每天一个宝藏问题】
@@ -1048,6 +1196,7 @@
 - 查看封面：[图片BV1FXLJ6YEwC](./assets/questions/BV1FXLJ6YEwC.jpg)
 
 [![](./assets/questions/BV1FXLJ6YEwC.jpg)](https://www.bilibili.com/video/BV1FXLJ6YEwC)
+
 ---
 
 ### 121. 为什么GQA是MQA过渡到MHA的插值？【每天一个宝藏问题】
@@ -1055,6 +1204,7 @@
 - 查看封面：[图片BV16XLJ6YEVP](./assets/questions/BV16XLJ6YEVP.jpg)
 
 [![](./assets/questions/BV16XLJ6YEVP.jpg)](https://www.bilibili.com/video/BV16XLJ6YEVP)
+
 ---
 
 ### 120. 任意矩阵满足什么性质就能成为RoPE旋转矩阵？【每天一个宝藏问题】
@@ -1062,6 +1212,7 @@
 - 查看封面：[图片BV1TN5b6YE5q](./assets/questions/BV1TN5b6YE5q.jpg)
 
 [![](./assets/questions/BV1TN5b6YE5q.jpg)](https://www.bilibili.com/video/BV1TN5b6YE5q)
+
 ---
 
 ### 119. 如何可视化多头注意力？【每天一个宝藏问题】
@@ -1069,6 +1220,7 @@
 - 查看封面：[图片BV1235J6qENx](./assets/questions/BV1235J6qENx.jpg)
 
 [![](./assets/questions/BV1235J6qENx.jpg)](https://www.bilibili.com/video/BV1235J6qENx)
+
 ---
 
 ### 118. 为什么Deepseek V3不用辅助损失也能做到MoE负载均衡？【每天一个宝藏问题】
@@ -1076,6 +1228,7 @@
 - 查看封面：[图片BV1MyRXBvEG1](./assets/questions/BV1MyRXBvEG1.jpg)
 
 [![](./assets/questions/BV1MyRXBvEG1.jpg)](https://www.bilibili.com/video/BV1MyRXBvEG1)
+
 ---
 
 ### 117. 如何用动态规划理解在线softmax的循环与归约？【每天一个宝藏问题】
@@ -1083,6 +1236,7 @@
 - 查看封面：[图片BV1SHR9BuEBH](./assets/questions/BV1SHR9BuEBH.jpg)
 
 [![](./assets/questions/BV1SHR9BuEBH.jpg)](https://www.bilibili.com/video/BV1SHR9BuEBH)
+
 ---
 
 ### 116. 如何从动态规划和记忆化搜索理解DQN？【每天一个宝藏问题】
@@ -1090,6 +1244,7 @@
 - 查看封面：[图片BV1ygRXBZEQf](./assets/questions/BV1ygRXBZEQf.jpg)
 
 [![](./assets/questions/BV1ygRXBZEQf.jpg)](https://www.bilibili.com/video/BV1ygRXBZEQf)
+
 ---
 
 ### 115. 为什么梯度下降、泰勒展开、正态分布都有多元扩展？【每天一个宝藏问题】
@@ -1097,6 +1252,7 @@
 - 查看封面：[图片BV1M5RmBDENg](./assets/questions/BV1M5RmBDENg.jpg)
 
 [![](./assets/questions/BV1M5RmBDENg.jpg)](https://www.bilibili.com/video/BV1M5RmBDENg)
+
 ---
 
 ### 114. 为什么除以√dk是在给注意力升温？【每天一个宝藏问题】
@@ -1104,6 +1260,7 @@
 - 查看封面：[图片BV1m5RmBSEkF](./assets/questions/BV1m5RmBSEkF.jpg)
 
 [![](./assets/questions/BV1m5RmBSEkF.jpg)](https://www.bilibili.com/video/BV1m5RmBSEkF)
+
 ---
 
 ### 113. 如何理解梯度下降的多元函数扩展？【每天一个宝藏问题】
@@ -1111,6 +1268,7 @@
 - 查看封面：[图片BV1m5RmBSENE](./assets/questions/BV1m5RmBSENE.jpg)
 
 [![](./assets/questions/BV1m5RmBSENE.jpg)](https://www.bilibili.com/video/BV1m5RmBSENE)
+
 ---
 
 ### 112. 如何可视化MOE？【每天一个宝藏问题】
@@ -1118,6 +1276,7 @@
 - 查看封面：[图片BV1uGdgBnE65](./assets/questions/BV1uGdgBnE65.jpg)
 
 [![](./assets/questions/BV1uGdgBnE65.jpg)](https://www.bilibili.com/video/BV1uGdgBnE65)
+
 ---
 
 ### 111. 如何直观理解KV Cache的显存计算公式？以Llama2-7B为例。【每天一个宝藏问题】
@@ -1125,6 +1284,7 @@
 - 查看封面：[图片BV1Tf9XBwEzM](./assets/questions/BV1Tf9XBwEzM.jpg)
 
 [![](./assets/questions/BV1Tf9XBwEzM.jpg)](https://www.bilibili.com/video/BV1Tf9XBwEzM)
+
 ---
 
 ### 110. 为什么激活值per channel量化比per token量化难加速得多？【每天一个宝藏问题】
@@ -1132,6 +1292,7 @@
 - 查看封面：[图片BV1k7RuBPEqt](./assets/questions/BV1k7RuBPEqt.jpg)
 
 [![](./assets/questions/BV1k7RuBPEqt.jpg)](https://www.bilibili.com/video/BV1k7RuBPEqt)
+
 ---
 
 ### 109. 最简单的Transformer可视化能有多简单？【每天一个宝藏问题】
@@ -1139,6 +1300,7 @@
 - 查看封面：[图片BV1A7RuBNETS](./assets/questions/BV1A7RuBNETS.jpg)
 
 [![](./assets/questions/BV1A7RuBNETS.jpg)](https://www.bilibili.com/video/BV1A7RuBNETS)
+
 ---
 
 ### 108. 如何用前缀和理解稀疏矩阵的CSR格式？【每天一个宝藏问题】
@@ -1146,6 +1308,7 @@
 - 查看封面：[图片BV1k7RuBPEsV](./assets/questions/BV1k7RuBPEsV.jpg)
 
 [![](./assets/questions/BV1k7RuBPEsV.jpg)](https://www.bilibili.com/video/BV1k7RuBPEsV)
+
 ---
 
 ### 107. DeepSeek V4如何使用Attention Sink忽略上下文？【每天一个宝藏问题】
@@ -1153,6 +1316,7 @@
 - 查看封面：[图片BV1389kB3Ek4](./assets/questions/BV1389kB3Ek4.jpg)
 
 [![](./assets/questions/BV1389kB3Ek4.jpg)](https://www.bilibili.com/video/BV1389kB3Ek4)
+
 ---
 
 ### 106. Flash Attention反向传播也做到线性显存了吗？【每天一个宝藏问题】
@@ -1160,6 +1324,7 @@
 - 查看封面：[图片BV1a89kB3EVu](./assets/questions/BV1a89kB3EVu.jpg)
 
 [![](./assets/questions/BV1a89kB3EVu.jpg)](https://www.bilibili.com/video/BV1a89kB3EVu)
+
 ---
 
 ### 105. K-Means聚类和中垂线有什么关系？【每天一个宝藏问题】
@@ -1167,6 +1332,7 @@
 - 查看封面：[图片BV1Kk9kBAEnC](./assets/questions/BV1Kk9kBAEnC.jpg)
 
 [![](./assets/questions/BV1Kk9kBAEnC.jpg)](https://www.bilibili.com/video/BV1Kk9kBAEnC)
+
 ---
 
 ### 104. 为什么训练时是同时预测token的？【每天一个宝藏问题】
@@ -1174,6 +1340,7 @@
 - 查看封面：[图片BV1jNoRBoE9b](./assets/questions/BV1jNoRBoE9b.jpg)
 
 [![](./assets/questions/BV1jNoRBoE9b.jpg)](https://www.bilibili.com/video/BV1jNoRBoE9b)
+
 ---
 
 ### 103. 多个线程执行同一段算子代码时发生了什么？【每天一个宝藏问题】
@@ -1181,6 +1348,7 @@
 - 查看封面：[图片BV1JcoRB8EGb](./assets/questions/BV1JcoRB8EGb.jpg)
 
 [![](./assets/questions/BV1JcoRB8EGb.jpg)](https://www.bilibili.com/video/BV1JcoRB8EGb)
+
 ---
 
 ### 102. PagedAttention是如何减少内存浪费的？【每天一个宝藏问题】
@@ -1188,6 +1356,7 @@
 - 查看封面：[图片BV1EwoRBfExe](./assets/questions/BV1EwoRBfExe.jpg)
 
 [![](./assets/questions/BV1EwoRBfExe.jpg)](https://www.bilibili.com/video/BV1EwoRBfExe)
+
 ---
 
 ### 101. 如何用矩阵乘法链式法则速推Flash Attention梯度？【每天一个宝藏问题】
@@ -1195,6 +1364,7 @@
 - 查看封面：[图片BV12CoMB5EDJ](./assets/questions/BV12CoMB5EDJ.jpg)
 
 [![](./assets/questions/BV12CoMB5EDJ.jpg)](https://www.bilibili.com/video/BV12CoMB5EDJ)
+
 ---
 
 ### 100. 为什么神经网络连接可以用矩阵乘法实现？【每天一个宝藏问题】
@@ -1202,6 +1372,7 @@
 - 查看封面：[图片BV1SBoMBmEVB](./assets/questions/BV1SBoMBmEVB.jpg)
 
 [![](./assets/questions/BV1SBoMBmEVB.jpg)](https://www.bilibili.com/video/BV1SBoMBmEVB)
+
 ---
 
 ### 99. MOE中先求Top K后Softmax，与先求Softmax后重归一化能一样？【每天一个宝藏问题】
@@ -1209,6 +1380,7 @@
 - 查看封面：[图片BV1U6oMBjE1D](./assets/questions/BV1U6oMBjE1D.jpg)
 
 [![](./assets/questions/BV1U6oMBjE1D.jpg)](https://www.bilibili.com/video/BV1U6oMBjE1D)
+
 ---
 
 ### 98. 为什么训练时上个词的概率预测不直接影响下个词？【每天一个宝藏问题】
@@ -1216,6 +1388,7 @@
 - 查看封面：[图片BV1CSoMBgEUA](./assets/questions/BV1CSoMBgEUA.jpg)
 
 [![](./assets/questions/BV1CSoMBgEUA.jpg)](https://www.bilibili.com/video/BV1CSoMBgEUA)
+
 ---
 
 ### 97. 张量广播的线性索引是如何对应的？【每天一个宝藏问题】
@@ -1223,6 +1396,7 @@
 - 查看封面：[图片BV1KyoMByEdR](./assets/questions/BV1KyoMByEdR.jpg)
 
 [![](./assets/questions/BV1KyoMByEdR.jpg)](https://www.bilibili.com/video/BV1KyoMByEdR)
+
 ---
 
 ### 96. LoRA微调中A、B都随机初始化或全零初始化分别会带来什么问题？【每天一个宝藏问题】
@@ -1230,6 +1404,7 @@
 - 查看封面：[图片BV15GdjByEpy](./assets/questions/BV15GdjByEpy.jpg)
 
 [![](./assets/questions/BV15GdjByEpy.jpg)](https://www.bilibili.com/video/BV15GdjByEpy)
+
 ---
 
 ### 95. 标量乘法的链式法则可以推广到矩阵吗？【每天一个宝藏问题】
@@ -1237,6 +1412,7 @@
 - 查看封面：[图片BV1D8daB7En5](./assets/questions/BV1D8daB7En5.jpg)
 
 [![](./assets/questions/BV1D8daB7En5.jpg)](https://www.bilibili.com/video/BV1D8daB7En5)
+
 ---
 
 ### 94. 量化感知训练中为什么要STE来处理round梯度？【每天一个宝藏问题】
@@ -1244,6 +1420,7 @@
 - 查看封面：[图片BV12qdaBkERq](./assets/questions/BV12qdaBkERq.jpg)
 
 [![](./assets/questions/BV12qdaBkERq.jpg)](https://www.bilibili.com/video/BV12qdaBkERq)
+
 ---
 
 ### 93. 为什么Transformer的核心公式是在做加权平均？【每天一个宝藏问题】
@@ -1251,6 +1428,7 @@
 - 查看封面：[图片BV1CkQjBJE8K](./assets/questions/BV1CkQjBJE8K.jpg)
 
 [![](./assets/questions/BV1CkQjBJE8K.jpg)](https://www.bilibili.com/video/BV1CkQjBJE8K)
+
 ---
 
 ### 92. 为什么量化会让损失“山谷”变成“台阶”？【每天一个宝藏问题】
@@ -1258,6 +1436,7 @@
 - 查看封面：[图片BV1eoQvBQEMF](./assets/questions/BV1eoQvBQEMF.jpg)
 
 [![](./assets/questions/BV1eoQvBQEMF.jpg)](https://www.bilibili.com/video/BV1eoQvBQEMF)
+
 ---
 
 ### 91. 游戏AI和LLM的πθ(a∣s)有何异同？【每天一个宝藏问题】
@@ -1265,6 +1444,7 @@
 - 查看封面：[图片BV1TeD9B4EbF](./assets/questions/BV1TeD9B4EbF.jpg)
 
 [![](./assets/questions/BV1TeD9B4EbF.jpg)](https://www.bilibili.com/video/BV1TeD9B4EbF)
+
 ---
 
 ### 90. OBQ如何将最小化剪枝损失推广到量化？【每天一个宝藏问题】
@@ -1272,6 +1452,7 @@
 - 查看封面：[图片BV1kkDQBVE4y](./assets/questions/BV1kkDQBVE4y.jpg)
 
 [![](./assets/questions/BV1kkDQBVE4y.jpg)](https://www.bilibili.com/video/BV1kkDQBVE4y)
+
 ---
 
 ### 89. 量化感知训练是如何感知到量化的？【每天一个宝藏问题】
@@ -1279,6 +1460,7 @@
 - 查看封面：[图片BV1d9QABeEdC](./assets/questions/BV1d9QABeEdC.jpg)
 
 [![](./assets/questions/BV1d9QABeEdC.jpg)](https://www.bilibili.com/video/BV1d9QABeEdC)
+
 ---
 
 ### 88. 量化后微调为什么要对聚类中心求和？【每天一个宝藏问题】
@@ -1286,6 +1468,7 @@
 - 查看封面：[图片BV1fcD4BPEo7](./assets/questions/BV1fcD4BPEo7.jpg)
 
 [![](./assets/questions/BV1fcD4BPEo7.jpg)](https://www.bilibili.com/video/BV1fcD4BPEo7)
+
 ---
 
 ### 87. 为什么前向广播对应着反向归约？【每天一个宝藏问题】
@@ -1293,6 +1476,7 @@
 - 查看封面：[图片BV177DWBdEoV](./assets/questions/BV177DWBdEoV.jpg)
 
 [![](./assets/questions/BV177DWBdEoV.jpg)](https://www.bilibili.com/video/BV177DWBdEoV)
+
 ---
 
 ### 86. 为什么矩阵乘法可以看作标量乘法的拓展？【每天一个宝藏问题】
@@ -1300,6 +1484,7 @@
 - 查看封面：[图片BV1WxDeBcExC](./assets/questions/BV1WxDeBcExC.jpg)
 
 [![](./assets/questions/BV1WxDeBcExC.jpg)](https://www.bilibili.com/video/BV1WxDeBcExC)
+
 ---
 
 ### 85. 为什么prefill和decode都可以跳过掩码上三角计算？【每天一个宝藏问题】
@@ -1307,6 +1492,7 @@
 - 查看封面：[图片BV1ZEDvB9E6Y](./assets/questions/BV1ZEDvB9E6Y.jpg)
 
 [![](./assets/questions/BV1ZEDvB9E6Y.jpg)](https://www.bilibili.com/video/BV1ZEDvB9E6Y)
+
 ---
 
 ### 84. LoRA要增加旁路，微调前后模型结构却可以不变，为什么？【每天一个宝藏问题】
@@ -1314,6 +1500,7 @@
 - 查看封面：[图片BV1cQSSBvE8N](./assets/questions/BV1cQSSBvE8N.jpg)
 
 [![](./assets/questions/BV1cQSSBvE8N.jpg)](https://www.bilibili.com/video/BV1cQSSBvE8N)
+
 ---
 
 ### 83. Flash Attention的线性显存比平方显存增长慢了多少？【每天一个宝藏问题】
@@ -1321,6 +1508,7 @@
 - 查看封面：[图片BV1baNGzmEzn](./assets/questions/BV1baNGzmEzn.jpg)
 
 [![](./assets/questions/BV1baNGzmEzn.jpg)](https://www.bilibili.com/video/BV1baNGzmEzn)
+
 ---
 
 ### 82. 在线Softmax和Flash Attention分别维护了多少个“动态规划量”？【每天一个宝藏问题】
@@ -1328,6 +1516,7 @@
 - 查看封面：[图片BV1oA93BtETZ](./assets/questions/BV1oA93BtETZ.jpg)
 
 [![](./assets/questions/BV1oA93BtETZ.jpg)](https://www.bilibili.com/video/BV1oA93BtETZ)
+
 ---
 
 ### 81. 量化后微调让聚在一起的权重分家了怎么办？【每天一个宝藏问题】
@@ -1335,6 +1524,7 @@
 - 查看封面：[图片BV1zf9gBwEqd](./assets/questions/BV1zf9gBwEqd.jpg)
 
 [![](./assets/questions/BV1zf9gBwEqd.jpg)](https://www.bilibili.com/video/BV1zf9gBwEqd)
+
 ---
 
 ### 80. 剪枝后微调让被置零的权重不再为零怎么办？【每天一个宝藏问题】
@@ -1342,6 +1532,7 @@
 - 查看封面：[图片BV16E9cBqEK8](./assets/questions/BV16E9cBqEK8.jpg)
 
 [![](./assets/questions/BV16E9cBqEK8.jpg)](https://www.bilibili.com/video/BV16E9cBqEK8)
+
 ---
 
 ### 79. 为什么基于权重大小剪枝是特殊的OBD、OBS、OBQ？【每天一个宝藏问题】
@@ -1349,6 +1540,7 @@
 - 查看封面：[图片BV1fn9cBKEbt](./assets/questions/BV1fn9cBKEbt.jpg)
 
 [![](./assets/questions/BV1fn9cBKEbt.jpg)](https://www.bilibili.com/video/BV1fn9cBKEbt)
+
 ---
 
 ### 78. GPTQ量化的最小化目标如何写成类似OBS形式的？【每天一个宝藏问题】
@@ -1356,6 +1548,7 @@
 - 查看封面：[图片BV1679cBME93](./assets/questions/BV1679cBME93.jpg)
 
 [![](./assets/questions/BV1679cBME93.jpg)](https://www.bilibili.com/video/BV1679cBME93)
+
 ---
 
 ### 77. 为什么训练时教师强制是只“感觉”不“生成”的？【每天一个宝藏问题】
@@ -1363,6 +1556,7 @@
 - 查看封面：[图片BV14BXoBMEsk](./assets/questions/BV14BXoBMEsk.jpg)
 
 [![](./assets/questions/BV14BXoBMEsk.jpg)](https://www.bilibili.com/video/BV14BXoBMEsk)
+
 ---
 
 ### 76. 为什么OBS剪枝可看作特殊的OBQ量化？【每天一个宝藏问题】
@@ -1370,6 +1564,7 @@
 - 查看封面：[图片BV1cKX1BhED8](./assets/questions/BV1cKX1BhED8.jpg)
 
 [![](./assets/questions/BV1cKX1BhED8.jpg)](https://www.bilibili.com/video/BV1cKX1BhED8)
+
 ---
 
 ### 75. OBS剪枝是如何选择被剪枝的权重的？【每天一个宝藏问题】
@@ -1377,6 +1572,7 @@
 - 查看封面：[图片BV1AwX1BPE1g](./assets/questions/BV1AwX1BPE1g.jpg)
 
 [![](./assets/questions/BV1AwX1BPE1g.jpg)](https://www.bilibili.com/video/BV1AwX1BPE1g)
+
 ---
 
 ### 74. 为什么OBD剪枝是特殊的OBS剪枝？【每天一个宝藏问题】
@@ -1384,6 +1580,7 @@
 - 查看封面：[图片BV1xTXKB4Ecn](./assets/questions/BV1xTXKB4Ecn.jpg)
 
 [![](./assets/questions/BV1xTXKB4Ecn.jpg)](https://www.bilibili.com/video/BV1xTXKB4Ecn)
+
 ---
 
 ### 73. OBS剪枝保留与修改了OBD剪枝的哪些假设？【每天一个宝藏问题】
@@ -1391,6 +1588,7 @@
 - 查看封面：[图片BV1njXKBnEBg](./assets/questions/BV1njXKBnEBg.jpg)
 
 [![](./assets/questions/BV1njXKBnEBg.jpg)](https://www.bilibili.com/video/BV1njXKBnEBg)
+
 ---
 
 ### 72. 如何从几何视角理解拉格朗日乘子法？【每天一个宝藏问题】
@@ -1398,6 +1596,7 @@
 - 查看封面：[图片BV1C3XKB9EHm](./assets/questions/BV1C3XKB9EHm.jpg)
 
 [![](./assets/questions/BV1C3XKB9EHm.jpg)](https://www.bilibili.com/video/BV1C3XKB9EHm)
+
 ---
 
 ### 71. OBD剪枝假设山谷是什么样的？【每天一个宝藏问题】
@@ -1405,6 +1604,7 @@
 - 查看封面：[图片BV11RQfB3Eot](./assets/questions/BV11RQfB3Eot.jpg)
 
 [![](./assets/questions/BV11RQfB3Eot.jpg)](https://www.bilibili.com/video/BV11RQfB3Eot)
+
 ---
 
 ### 70. 如何理解泰勒展开的多元函数扩展？【每天一个宝藏问题】
@@ -1412,6 +1612,7 @@
 - 查看封面：[图片BV1HVXKBpE9p](./assets/questions/BV1HVXKBpE9p.jpg)
 
 [![](./assets/questions/BV1HVXKBpE9p.jpg)](https://www.bilibili.com/video/BV1HVXKBpE9p)
+
 ---
 
 ### 69. 深度学习中两种常用的矩阵微积分是怎么来的？【每天一个宝藏问题】
@@ -1419,6 +1620,7 @@
 - 查看封面：[图片BV1a9XNBTERT](./assets/questions/BV1a9XNBTERT.jpg)
 
 [![](./assets/questions/BV1a9XNBTERT.jpg)](https://www.bilibili.com/video/BV1a9XNBTERT)
+
 ---
 
 ### 68. prefill和decode时KV Cache是如何"堆积"的？【每天一个宝藏问题】
@@ -1426,6 +1628,7 @@
 - 查看封面：[图片BV1AYQdBfEDS](./assets/questions/BV1AYQdBfEDS.jpg)
 
 [![](./assets/questions/BV1AYQdBfEDS.jpg)](https://www.bilibili.com/video/BV1AYQdBfEDS)
+
 ---
 
 ### 67. 为何圆形山谷会让OBD剪枝退化为基于大小剪枝？【每天一个宝藏问题】
@@ -1433,6 +1636,7 @@
 - 查看封面：[图片BV1qAA5ztELy](./assets/questions/BV1qAA5ztELy.jpg)
 
 [![](./assets/questions/BV1qAA5ztELy.jpg)](https://www.bilibili.com/video/BV1qAA5ztELy)
+
 ---
 
 ### 66. LLM.int8与SmoothQuant解决离群值的思路有何异同？【每天一个宝藏问题】
@@ -1440,6 +1644,7 @@
 - 查看封面：[图片BV13rwCzwEKX](./assets/questions/BV13rwCzwEKX.jpg)
 
 [![](./assets/questions/BV13rwCzwEKX.jpg)](https://www.bilibili.com/video/BV13rwCzwEKX)
+
 ---
 
 ### 65. 从校准集说明为何SmoothQuant中的S无需矩阵乘算子【每天一个宝藏问题】
@@ -1447,6 +1652,7 @@
 - 查看封面：[图片BV12DwRz9E4j](./assets/questions/BV12DwRz9E4j.jpg)
 
 [![](./assets/questions/BV12DwRz9E4j.jpg)](https://www.bilibili.com/video/BV12DwRz9E4j)
+
 ---
 
 ### 64. SmoothQuant量化中有没有用到外积思想？【每天一个宝藏问题】
@@ -1454,6 +1660,7 @@
 - 查看封面：[图片BV1DMwmzgEyV](./assets/questions/BV1DMwmzgEyV.jpg)
 
 [![](./assets/questions/BV1DMwmzgEyV.jpg)](https://www.bilibili.com/video/BV1DMwmzgEyV)
+
 ---
 
 ### 63. 举例说明SmoothQuant量化对角矩阵乘法的正确性？【每天一个宝藏问题】
@@ -1461,6 +1668,7 @@
 - 查看封面：[图片BV1VTw7zbEzq](./assets/questions/BV1VTw7zbEzq.jpg)
 
 [![](./assets/questions/BV1VTw7zbEzq.jpg)](https://www.bilibili.com/video/BV1VTw7zbEzq)
+
 ---
 
 ### 62．LLM.int8是如何利用向量外积进行量化的？【每天一个宝藏问题】
@@ -1468,6 +1676,7 @@
 - 查看封面：[图片BV17pwEzMETL](./assets/questions/BV17pwEzMETL.jpg)
 
 [![](./assets/questions/BV17pwEzMETL.jpg)](https://www.bilibili.com/video/BV17pwEzMETL)
+
 ---
 
 ### 61. 含广播的偏置b的梯度如何计算？【每天一个宝藏问题】
@@ -1475,6 +1684,7 @@
 - 查看封面：[图片BV1WWXWBzELJ](./assets/questions/BV1WWXWBzELJ.jpg)
 
 [![](./assets/questions/BV1WWXWBzELJ.jpg)](https://www.bilibili.com/video/BV1WWXWBzELJ)
+
 ---
 
 ### 60. LoRA微调和向量外积为何长得很像？【每天一个宝藏问题】
@@ -1482,6 +1692,7 @@
 - 查看封面：[图片BV1pKwjz3E1P](./assets/questions/BV1pKwjz3E1P.jpg)
 
 [![](./assets/questions/BV1pKwjz3E1P.jpg)](https://www.bilibili.com/video/BV1pKwjz3E1P)
+
 ---
 
 ### 59. DeepSeek OCR比较人性化的可视化可能是什么样的？【每天一个宝藏问题】
@@ -1489,6 +1700,7 @@
 - 查看封面：[图片BV13gcCzbE7y](./assets/questions/BV13gcCzbE7y.jpg)
 
 [![](./assets/questions/BV13gcCzbE7y.jpg)](https://www.bilibili.com/video/BV13gcCzbE7y)
+
 ---
 
 ### 58. 如何根据答案倒推合成思维链做SFT？以AscendKernelGen为例【每天一个宝藏问题】
@@ -1496,6 +1708,7 @@
 - 查看封面：[图片BV1DvcyzcEa4](./assets/questions/BV1DvcyzcEa4.jpg)
 
 [![](./assets/questions/BV1DvcyzcEa4.jpg)](https://www.bilibili.com/video/BV1DvcyzcEa4)
+
 ---
 
 ### 57. 网格步进是如何加速张量计算的？【每天一个宝藏问题】
@@ -1503,6 +1716,7 @@
 - 查看封面：[图片BV1SSNFz2EDK](./assets/questions/BV1SSNFz2EDK.jpg)
 
 [![](./assets/questions/BV1SSNFz2EDK.jpg)](https://www.bilibili.com/video/BV1SSNFz2EDK)
+
 ---
 
 ### 56. 为什么多个Sub-Agent也可以共享前缀KV Cache？【每天一个宝藏问题】
@@ -1510,6 +1724,7 @@
 - 查看封面：[图片BV1cPAuzpE6e](./assets/questions/BV1cPAuzpE6e.jpg)
 
 [![](./assets/questions/BV1cPAuzpE6e.jpg)](https://www.bilibili.com/video/BV1cPAuzpE6e)
+
 ---
 
 ### 55. 为什么KV Cache也有LRU等缓存替换策略?【每天一个宝藏问题】
@@ -1517,6 +1732,7 @@
 - 查看封面：[图片BV1YdANzcESN](./assets/questions/BV1YdANzcESN.jpg)
 
 [![](./assets/questions/BV1YdANzcESN.jpg)](https://www.bilibili.com/video/BV1YdANzcESN)
+
 ---
 
 ### 53. 如何加速两个张量之和？【每天一个宝藏问题】
@@ -1524,6 +1740,7 @@
 - 查看封面：[图片BV1SqPhzAErH](./assets/questions/BV1SqPhzAErH.jpg)
 
 [![](./assets/questions/BV1SqPhzAErH.jpg)](https://www.bilibili.com/video/BV1SqPhzAErH)
+
 ---
 
 ### 52 简单的梯度算子是如何定义的【每天一个宝藏问题】
@@ -1531,6 +1748,7 @@
 - 查看封面：[图片BV1TUPWzkEgW](./assets/questions/BV1TUPWzkEgW.jpg)
 
 [![](./assets/questions/BV1TUPWzkEgW.jpg)](https://www.bilibili.com/video/BV1TUPWzkEgW)
+
 ---
 
 ### 51 矩阵乘法对权重的梯度是怎么来的？【每天一个宝藏问题】
@@ -1538,6 +1756,7 @@
 - 查看封面：[图片BV1TUPWzkE6U](./assets/questions/BV1TUPWzkE6U.jpg)
 
 [![](./assets/questions/BV1TUPWzkE6U.jpg)](https://www.bilibili.com/video/BV1TUPWzkE6U)
+
 ---
 
 ### 49. 双缓冲是如何加速张量计算的？【每天一个宝藏问题】
@@ -1545,6 +1764,7 @@
 - 查看封面：[图片BV1bUP5zDER5](./assets/questions/BV1bUP5zDER5.jpg)
 
 [![](./assets/questions/BV1bUP5zDER5.jpg)](https://www.bilibili.com/video/BV1bUP5zDER5)
+
 ---
 
 ### 47 CLIP比较人性化的可视化可能长什么样？【每天一个宝藏问题】
@@ -1552,6 +1772,7 @@
 - 查看封面：[图片BV1k4PDzrE9X](./assets/questions/BV1k4PDzrE9X.jpg)
 
 [![](./assets/questions/BV1k4PDzrE9X.jpg)](https://www.bilibili.com/video/BV1k4PDzrE9X)
+
 ---
 
 ### 46. 矩阵乘法对激活的梯度是怎么来的？【每天一个宝藏问题】
@@ -1559,6 +1780,7 @@
 - 查看封面：[图片BV1ioArzKEMB](./assets/questions/BV1ioArzKEMB.jpg)
 
 [![](./assets/questions/BV1ioArzKEMB.jpg)](https://www.bilibili.com/video/BV1ioArzKEMB)
+
 ---
 
 ### 45. SIMD是如何加速张量计算的(简单理解)【每天一个宝藏问题】
@@ -1566,6 +1788,7 @@
 - 查看封面：[图片BV1doArzKExB](./assets/questions/BV1doArzKExB.jpg)
 
 [![](./assets/questions/BV1doArzKExB.jpg)](https://www.bilibili.com/video/BV1doArzKExB)
+
 ---
 
 ### 44. 为什么把权重置0就是在剪枝？【每天一个宝藏问题】
@@ -1573,6 +1796,7 @@
 - 查看封面：[图片BV1B9ArzuEP3](./assets/questions/BV1B9ArzuEP3.jpg)
 
 [![](./assets/questions/BV1B9ArzuEP3.jpg)](https://www.bilibili.com/video/BV1B9ArzuEP3)
+
 ---
 
 ### 42. 聚类量化和线性量化有何不同？【每天一个宝藏问题】
@@ -1580,6 +1804,7 @@
 - 查看封面：[图片BV1yBArzEEeE](./assets/questions/BV1yBArzEEeE.jpg)
 
 [![](./assets/questions/BV1yBArzEEeE.jpg)](https://www.bilibili.com/video/BV1yBArzEEeE)
+
 ---
 
 ### 41 Flash Attention之前的那种N^2注意力不好在哪里？【每天一个宝藏问题】
@@ -1587,6 +1812,7 @@
 - 查看封面：[图片BV1WzArzUEdr](./assets/questions/BV1WzArzUEdr.jpg)
 
 [![](./assets/questions/BV1WzArzUEdr.jpg)](https://www.bilibili.com/video/BV1WzArzUEdr)
+
 ---
 
 ### 40. Temperature、TopK/P退化为贪婪解码的三种条件是？【每天一个宝藏问题】
@@ -1594,6 +1820,7 @@
 - 查看封面：[图片BV1AzArzUEh1](./assets/questions/BV1AzArzUEh1.jpg)
 
 [![](./assets/questions/BV1AzArzUEh1.jpg)](https://www.bilibili.com/video/BV1AzArzUEh1)
+
 ---
 
 ### 39. FlashAttention V2中为何要先循环Q后循环K？【每天一个宝藏问题】
@@ -1601,6 +1828,7 @@
 - 查看封面：[图片BV1yiArzSEs1](./assets/questions/BV1yiArzSEs1.jpg)
 
 [![](./assets/questions/BV1yiArzSEs1.jpg)](https://www.bilibili.com/video/BV1yiArzSEs1)
+
 ---
 
 ### 37. GQA中讲的共享指的是Token还是Head？【每天一个宝藏问题】
@@ -1608,6 +1836,7 @@
 - 查看封面：[图片BV1cTZyBzEjv](./assets/questions/BV1cTZyBzEjv.jpg)
 
 [![](./assets/questions/BV1cTZyBzEjv.jpg)](https://www.bilibili.com/video/BV1cTZyBzEjv)
+
 ---
 
 ### 36. 为什么推理时prefill是GEMM，而decode是（Batched）GEMV？【每天一个宝藏问题】
@@ -1615,6 +1844,7 @@
 - 查看封面：[图片BV1UtZkBjEZP](./assets/questions/BV1UtZkBjEZP.jpg)
 
 [![](./assets/questions/BV1UtZkBjEZP.jpg)](https://www.bilibili.com/video/BV1UtZkBjEZP)
+
 ---
 
 ### 35. Transformer暗含多少种分块矩阵乘法的理解方式？【每天一个宝藏问题】
@@ -1622,6 +1852,7 @@
 - 查看封面：[图片BV1pRZtBaEYv](./assets/questions/BV1pRZtBaEYv.jpg)
 
 [![](./assets/questions/BV1pRZtBaEYv.jpg)](https://www.bilibili.com/video/BV1pRZtBaEYv)
+
 ---
 
 ### 34. BERT为什么没有KV Cache/KV Cache何以存在？【每天一个宝藏问题】
@@ -1629,6 +1860,7 @@
 - 查看封面：[图片BV1qKZ7BsEs5](./assets/questions/BV1qKZ7BsEs5.jpg)
 
 [![](./assets/questions/BV1qKZ7BsEs5.jpg)](https://www.bilibili.com/video/BV1qKZ7BsEs5)
+
 ---
 
 ### 33. 用户改提示词为什么不会影响前面的KV Cache？【每天一个宝藏问题】
@@ -1636,6 +1868,7 @@
 - 查看封面：[图片BV1dgZ7BQEHL](./assets/questions/BV1dgZ7BQEHL.jpg)
 
 [![](./assets/questions/BV1dgZ7BQEHL.jpg)](https://www.bilibili.com/video/BV1dgZ7BQEHL)
+
 ---
 
 ### 32. 一种人性化的Transformer可视化可能是什么样的？【每天一个宝藏问题】
@@ -1643,6 +1876,7 @@
 - 查看封面：[图片BV13FZEBEE6y](./assets/questions/BV13FZEBEE6y.jpg)
 
 [![](./assets/questions/BV13FZEBEE6y.jpg)](https://www.bilibili.com/video/BV13FZEBEE6y)
+
 ---
 
 ### 31. FlashAttention v2版本如何省略掩码上三角矩阵计算？【每天一个宝藏问题】
@@ -1650,6 +1884,7 @@
 - 查看封面：[图片BV16qZLBxEZt](./assets/questions/BV16qZLBxEZt.jpg)
 
 [![](./assets/questions/BV16qZLBxEZt.jpg)](https://www.bilibili.com/video/BV16qZLBxEZt)
+
 ---
 
 ### 30. 举例说明SlimAttention的分块矩阵乘法的正确性？【每天一个宝藏问题】
@@ -1657,6 +1892,7 @@
 - 查看封面：[图片BV11KcWz8EZm](./assets/questions/BV11KcWz8EZm.jpg)
 
 [![](./assets/questions/BV11KcWz8EZm.jpg)](https://www.bilibili.com/video/BV11KcWz8EZm)
+
 ---
 
 ### 29. 以逐元素乘加为例，算子融合为什么能提高计算效率？【每天一个宝藏问题】
@@ -1664,6 +1900,7 @@
 - 查看封面：[图片BV19PcnzPEQp](./assets/questions/BV19PcnzPEQp.jpg)
 
 [![](./assets/questions/BV19PcnzPEQp.jpg)](https://www.bilibili.com/video/BV19PcnzPEQp)
+
 ---
 
 ### 28. 为什么在线Softmax比安全Softmax可以少一次循环？【每天一个宝藏问题】
@@ -1671,6 +1908,7 @@
 - 查看封面：[图片BV1i6cnzzE2x](./assets/questions/BV1i6cnzzE2x.jpg)
 
 [![](./assets/questions/BV1i6cnzzE2x.jpg)](https://www.bilibili.com/video/BV1i6cnzzE2x)
+
 ---
 
 ### 23. Llama的旋转位置编码实现和RoPE原论文有何不同？【每天一个宝藏问题】
@@ -1678,6 +1916,7 @@
 - 查看封面：[图片BV15EcbzoEY7](./assets/questions/BV15EcbzoEY7.jpg)
 
 [![](./assets/questions/BV15EcbzoEY7.jpg)](https://www.bilibili.com/video/BV15EcbzoEY7)
+
 ---
 
 ### 22. 为什么transformers.Llama的实现和RoPE原论文不一致？【每天一个宝藏问题】
@@ -1685,6 +1924,7 @@
 - 查看封面：[图片BV1nUcbzTEGi](./assets/questions/BV1nUcbzTEGi.jpg)
 
 [![](./assets/questions/BV1nUcbzTEGi.jpg)](https://www.bilibili.com/video/BV1nUcbzTEGi)
+
 ---
 
 ### 21. 为什么增大旋转位置编码中10000可提高模型外推能力【每天一个宝藏问题】
@@ -1692,6 +1932,7 @@
 - 查看封面：[图片BV1o5FozuEz2](./assets/questions/BV1o5FozuEz2.jpg)
 
 [![](./assets/questions/BV1o5FozuEz2.jpg)](https://www.bilibili.com/video/BV1o5FozuEz2)
+
 ---
 
 ### 20. RoPE注意力的绝对位置无关性和欧拉公式有什么关系？【每天一个宝藏问题】
@@ -1699,6 +1940,7 @@
 - 查看封面：[图片BV1fFFDzsEt6](./assets/questions/BV1fFFDzsEt6.jpg)
 
 [![](./assets/questions/BV1fFFDzsEt6.jpg)](https://www.bilibili.com/video/BV1fFFDzsEt6)
+
 ---
 
 ### 19. 为什么RoPE中旋转矩阵R实际上不需要矩阵乘算子？【每天一个宝藏问题】
@@ -1706,6 +1948,7 @@
 - 查看封面：[图片BV1XyFyzcEN6](./assets/questions/BV1XyFyzcEN6.jpg)
 
 [![](./assets/questions/BV1XyFyzcEN6.jpg)](https://www.bilibili.com/video/BV1XyFyzcEN6)
+
 ---
 
 ### 17. 为什么正余弦位置编码的注意力是和绝对位置相关的？【每天一个宝藏问题】
@@ -1713,6 +1956,7 @@
 - 查看封面：[图片BV1mZcuztEw2](./assets/questions/BV1mZcuztEw2.jpg)
 
 [![](./assets/questions/BV1mZcuztEw2.jpg)](https://www.bilibili.com/video/BV1mZcuztEw2)
+
 ---
 
 ### 16. RoPE如何从2维推广到任意偶数维，奇数维咋办？【每天一个宝藏问题】
@@ -1720,6 +1964,7 @@
 - 查看封面：[图片BV1FgcMzkE5h](./assets/questions/BV1FgcMzkE5h.jpg)
 
 [![](./assets/questions/BV1FgcMzkE5h.jpg)](https://www.bilibili.com/video/BV1FgcMzkE5h)
+
 ---
 
 ### 14. 旋转位置编码和高中三角函数和差角公式有什么关系？【每天一个宝藏问题】
@@ -1727,6 +1972,7 @@
 - 查看封面：[图片BV1uoFxzgEWz](./assets/questions/BV1uoFxzgEWz.jpg)
 
 [![](./assets/questions/BV1uoFxzgEWz.jpg)](https://www.bilibili.com/video/BV1uoFxzgEWz)
+
 ---
 
 ### 13. 旋转位置编码和复数欧拉公式有什么关系？【每天一个宝藏问题】
@@ -1734,6 +1980,7 @@
 - 查看封面：[图片BV1qzFxzQES2](./assets/questions/BV1qzFxzQES2.jpg)
 
 [![](./assets/questions/BV1qzFxzQES2.jpg)](https://www.bilibili.com/video/BV1qzFxzQES2)
+
 ---
 
 ## 每天一个宝藏名词
@@ -1743,6 +1990,7 @@
 - 查看封面：[图片BV1DvPhzeE3R](./assets/terms/BV1DvPhzeE3R.jpg)
 
 [![](./assets/terms/BV1DvPhzeE3R.jpg)](https://www.bilibili.com/video/BV1DvPhzeE3R)
+
 ---
 
 ### 50. 环境变量的工作原理：控制台启动时自动执行命令，让简写命令找到在哪执行【每天一个宝藏名词】
@@ -1750,6 +1998,7 @@
 - 查看封面：[图片BV1zXP7zyEbD](./assets/terms/BV1zXP7zyEbD.jpg)
 
 [![](./assets/terms/BV1zXP7zyEbD.jpg)](https://www.bilibili.com/video/BV1zXP7zyEbD)
+
 ---
 
 ### 48. NoteBookLM：Google的PPT制作神器，还有思维导图等一系列功能【每天一个宝藏名词】
@@ -1757,6 +2006,7 @@
 - 查看封面：[图片BV1MUP5zDEmj](./assets/terms/BV1MUP5zDEmj.jpg)
 
 [![](./assets/terms/BV1MUP5zDEmj.jpg)](https://www.bilibili.com/video/BV1MUP5zDEmj)
+
 ---
 
 ### 43. everything：比Windows默认文件搜索工具快很多，2MB的免费小工具【每天一个宝藏名词】
@@ -1764,6 +2014,7 @@
 - 查看封面：[图片BV1iRArzqEvU](./assets/terms/BV1iRArzqEvU.jpg)
 
 [![](./assets/terms/BV1iRArzqEvU.jpg)](https://www.bilibili.com/video/BV1iRArzqEvU)
+
 ---
 
 ### 38. miniSGLang：一个简化版SGLang，仅5000行python【每天一个宝藏名词】
@@ -1771,6 +2022,7 @@
 - 查看封面：[图片BV1obA6zeEtE](./assets/terms/BV1obA6zeEtE.jpg)
 
 [![](./assets/terms/BV1obA6zeEtE.jpg)](https://www.bilibili.com/video/BV1obA6zeEtE)
+
 ---
 
 ### 27. 在线Softmax：通过修正比安全Softmax减少了一次循环【每天一个宝藏名词】
@@ -1778,6 +2030,7 @@
 - 查看封面：[图片BV1c1c7zzEb4](./assets/terms/BV1c1c7zzEb4.jpg)
 
 [![](./assets/terms/BV1c1c7zzEb4.jpg)](https://www.bilibili.com/video/BV1c1c7zzEb4)
+
 ---
 
 ### 26. TinyML：MIT推出的大模型轻量化课，亲手量化一个本地llama模型【每天一个宝藏名词】
@@ -1785,6 +2038,7 @@
 - 查看封面：[图片BV1CPcJzLELq](./assets/terms/BV1CPcJzLELq.jpg)
 
 [![](./assets/terms/BV1CPcJzLELq.jpg)](https://www.bilibili.com/video/BV1CPcJzLELq)
+
 ---
 
 ### 25. 举例说明FlashAttention的分块矩阵乘法的正确性？【每天一个宝藏名词】
@@ -1792,6 +2046,7 @@
 - 查看封面：[图片BV18pcLz2E3P](./assets/terms/BV18pcLz2E3P.jpg)
 
 [![](./assets/terms/BV18pcLz2E3P.jpg)](https://www.bilibili.com/video/BV18pcLz2E3P)
+
 ---
 
 ### 24. 思维树：大模型+DFS玩24点游戏成功率大增【每天一个宝藏名词】
@@ -1799,6 +2054,7 @@
 - 查看封面：[图片BV1gtcbzDENr](./assets/terms/BV1gtcbzDENr.jpg)
 
 [![](./assets/terms/BV1gtcbzDENr.jpg)](https://www.bilibili.com/video/BV1gtcbzDENr)
+
 ---
 
 ### 18. CCF-DDL：一个统计CCF分类和倒计时的宝藏网站【每天一个宝藏名词】
@@ -1806,6 +2062,7 @@
 - 查看封面：[图片BV1Jif9BeEYE](./assets/terms/BV1Jif9BeEYE.jpg)
 
 [![](./assets/terms/BV1Jif9BeEYE.jpg)](https://www.bilibili.com/video/BV1Jif9BeEYE)
+
 ---
 
 ### 15. 投机解码：小模型草拟，大模型验证【每天一个宝藏名词】
@@ -1813,6 +2070,7 @@
 - 查看封面：[图片BV1yS6zBXEVu](./assets/terms/BV1yS6zBXEVu.jpg)
 
 [![](./assets/terms/BV1yS6zBXEVu.jpg)](https://www.bilibili.com/video/BV1yS6zBXEVu)
+
 ---
 
 ### 12. RoPE：通过旋转矩阵让注意力只取决于相对位置【每天一个宝藏名词】
@@ -1820,6 +2078,7 @@
 - 查看封面：[图片BV1gQ6iBREZw](./assets/terms/BV1gQ6iBREZw.jpg)
 
 [![](./assets/terms/BV1gQ6iBREZw.jpg)](https://www.bilibili.com/video/BV1gQ6iBREZw)
+
 ---
 
 ### 11. GQA：介于MHA和MQA之间，键值共享查询分组【每天一个宝藏名词】
@@ -1827,6 +2086,7 @@
 - 查看封面：[图片BV19u6BBwEQ8](./assets/terms/BV19u6BBwEQ8.jpg)
 
 [![](./assets/terms/BV19u6BBwEQ8.jpg)](https://www.bilibili.com/video/BV19u6BBwEQ8)
+
 ---
 
 ### 10. NF4：QLoRA中的非均匀量化数据类型【每天一个宝藏名词】
@@ -1834,6 +2094,7 @@
 - 查看封面：[图片BV1qA6BBKEck](./assets/terms/BV1qA6BBKEck.jpg)
 
 [![](./assets/terms/BV1qA6BBKEck.jpg)](https://www.bilibili.com/video/BV1qA6BBKEck)
+
 ---
 
 ### 9. FlashAttention：将Attention的显存占用从平方级降到了线性级【每天一个宝藏名词】
@@ -1841,6 +2102,7 @@
 - 查看封面：[图片BV1C66YBvECv](./assets/terms/BV1C66YBvECv.jpg)
 
 [![](./assets/terms/BV1C66YBvECv.jpg)](https://www.bilibili.com/video/BV1C66YBvECv)
+
 ---
 
 ### 8. PagedAttention：借鉴操作系统分页机制，内置于vLLM【每天一个宝藏名词】
@@ -1848,6 +2110,7 @@
 - 查看封面：[图片BV1Ht6wBVEUX](./assets/terms/BV1Ht6wBVEUX.jpg)
 
 [![](./assets/terms/BV1Ht6wBVEUX.jpg)](https://www.bilibili.com/video/BV1Ht6wBVEUX)
+
 ---
 
 ### 7. SlimAttention：一种比FlashAttention更适合CPU的推理方案【每天一个宝藏名词】
@@ -1855,6 +2118,7 @@
 - 查看封面：[图片BV1MUzZBVEtV](./assets/terms/BV1MUzZBVEtV.jpg)
 
 [![](./assets/terms/BV1MUzZBVEtV.jpg)](https://www.bilibili.com/video/BV1MUzZBVEtV)
+
 ---
 
 ### 6. nano-vLLM：纯python实现的堪比vLLM的推理框架【每天一个宝藏名词】
@@ -1862,6 +2126,7 @@
 - 查看封面：[图片BV1FTzfBcE3h](./assets/terms/BV1FTzfBcE3h.jpg)
 
 [![](./assets/terms/BV1FTzfBcE3h.jpg)](https://www.bilibili.com/video/BV1FTzfBcE3h)
+
 ---
 
 ### 5. CS336：斯坦福LLM神课，甚至包含洗数据和SFT【每天一个宝藏名词】
@@ -1869,6 +2134,7 @@
 - 查看封面：[图片BV12pzXBREPY](./assets/terms/BV12pzXBREPY.jpg)
 
 [![](./assets/terms/BV12pzXBREPY.jpg)](https://www.bilibili.com/video/BV12pzXBREPY)
+
 ---
 
 ### 4. SmoothQuant：一种转嫁压力的LLM量化方法【每天一个宝藏名词】
@@ -1876,6 +2142,7 @@
 - 查看封面：[图片BV1RyzXB6Eyz](./assets/terms/BV1RyzXB6Eyz.jpg)
 
 [![](./assets/terms/BV1RyzXB6Eyz.jpg)](https://www.bilibili.com/video/BV1RyzXB6Eyz)
+
 ---
 
 ### 3. GPTQ：一种纯数学的LLM量化方法【每天一个宝藏名词】
@@ -1883,6 +2150,7 @@
 - 查看封面：[图片BV1aXzXBNE4A](./assets/terms/BV1aXzXBNE4A.jpg)
 
 [![](./assets/terms/BV1aXzXBNE4A.jpg)](https://www.bilibili.com/video/BV1aXzXBNE4A)
+
 ---
 
 ### 2. AWQ：一种保护关键权重的LLM量化算法【每天一个宝藏名词】
@@ -1890,6 +2158,7 @@
 - 查看封面：[图片BV16H6EBHEP5](./assets/terms/BV16H6EBHEP5.jpg)
 
 [![](./assets/terms/BV16H6EBHEP5.jpg)](https://www.bilibili.com/video/BV16H6EBHEP5)
+
 ---
 
 ### 1. BitNet 1.58b：微软开源的3值量化模型【每天一个宝藏名词】
@@ -1897,6 +2166,7 @@
 - 查看封面：[图片BV1kG6jBSE3u](./assets/terms/BV1kG6jBSE3u.jpg)
 
 [![](./assets/terms/BV1kG6jBSE3u.jpg)](https://www.bilibili.com/video/BV1kG6jBSE3u)
+
 ---
 
 ## 每天一个宝藏论文
@@ -1906,6 +2176,7 @@
 - 查看封面：[图片BV1ggpn6iEdU](./assets/papers/BV1ggpn6iEdU.jpg)
 
 [![](./assets/papers/BV1ggpn6iEdU.jpg)](https://www.bilibili.com/video/BV1ggpn6iEdU)
+
 ---
 
 ### [200]. CVPR 2026 最佳论文 D4RT：一个 Transformer 吃段视频，吐出深度、相机参数和 3D 坐标，论文精读【每天一个宝藏论文】
@@ -1913,6 +2184,7 @@
 - 查看封面：[图片BV1ggpn6iEBy](./assets/papers/BV1ggpn6iEBy.jpg)
 
 [![](./assets/papers/BV1ggpn6iEBy.jpg)](https://www.bilibili.com/video/BV1ggpn6iEBy)
+
 ---
 
 ### [199]. BaseModels Cue：把回答头 2 个 Token 固定成 Okay，基模反超 RL 版，论文精读【每天一个宝藏论文】
@@ -1920,6 +2192,7 @@
 - 查看封面：[图片BV1hgpn6iEMq](./assets/papers/BV1hgpn6iEMq.jpg)
 
 [![](./assets/papers/BV1hgpn6iEMq.jpg)](https://www.bilibili.com/video/BV1hgpn6iEMq)
+
 ---
 
 ### [198]. LongCat 2.0：1.6T 总参数，五万卡国产算力跑通，论文精读【每天一个宝藏论文】
@@ -1927,6 +2200,7 @@
 - 查看封面：[图片BV1gGpn6NE8V](./assets/papers/BV1gGpn6NE8V.jpg)
 
 [![](./assets/papers/BV1gGpn6NE8V.jpg)](https://www.bilibili.com/video/BV1gGpn6NE8V)
+
 ---
 
 ### [197]. Qwen3.8-Omni：原生全模态 Agent，论文精读【每天一个宝藏论文】
@@ -1934,6 +2208,7 @@
 - 查看封面：[图片BV1uGpn6NE91](./assets/papers/BV1uGpn6NE91.jpg)
 
 [![](./assets/papers/BV1uGpn6NE91.jpg)](https://www.bilibili.com/video/BV1uGpn6NE91)
+
 ---
 
 ### [196]. Qwen3.8-Flash-Next：125B 稀疏 MoE 追平 397B 前代，论文精读【每天一个宝藏论文】
@@ -1941,6 +2216,7 @@
 - 查看封面：[图片BV1ovpE66EFC](./assets/papers/BV1ovpE66EFC.jpg)
 
 [![](./assets/papers/BV1ovpE66EFC.jpg)](https://www.bilibili.com/video/BV1ovpE66EFC)
+
 ---
 
 ### [195]. ICML 2026 杰出论文：扩散语言模型的「任意顺序」是陷阱，扔掉它用 JustGRPO 反而最强，论文精读【每天一个宝藏论文】
@@ -1948,6 +2224,7 @@
 - 查看封面：[图片BV1ovpE66Em9](./assets/papers/BV1ovpE66Em9.jpg)
 
 [![](./assets/papers/BV1ovpE66Em9.jpg)](https://www.bilibili.com/video/BV1ovpE66Em9)
+
 ---
 
 ### [194]. 小米 MiMo-V2.6：单次大规模混合任务 RL 烧掉 260 万美元，论文精读【每天一个宝藏论文】
@@ -1955,6 +2232,7 @@
 - 查看封面：[图片BV1LqpE6gEUS](./assets/papers/BV1LqpE6gEUS.jpg)
 
 [![](./assets/papers/BV1LqpE6gEUS.jpg)](https://www.bilibili.com/video/BV1LqpE6gEUS)
+
 ---
 
 ### [193]. OSDI 2026 最佳论文：3 万训练任务的产线数据，把预训练数据管线的三个瓶颈掐掉，论文精读【每天一个宝藏论文】
@@ -1962,6 +2240,7 @@
 - 查看封面：[图片BV1iqpE6gEqb](./assets/papers/BV1iqpE6gEqb.jpg)
 
 [![](./assets/papers/BV1iqpE6gEqb.jpg)](https://www.bilibili.com/video/BV1iqpE6gEqb)
+
 ---
 
 ### [192]. 苹果拆自家台：多 Agent 编排框架打不过最简 coding agent，backbone 是唯一变量，论文精读【每天一个宝藏论文】
@@ -1969,6 +2248,7 @@
 - 查看封面：[图片BV1oqpE6uEPz](./assets/papers/BV1oqpE6uEPz.jpg)
 
 [![](./assets/papers/BV1oqpE6uEPz.jpg)](https://www.bilibili.com/video/BV1oqpE6uEPz)
+
 ---
 
 ### [191]. Jev RL：不生成 Token 的 Jev 决策模型，被塞进 RL 训练当参考策略，论文精读【每天一个宝藏论文】
@@ -1976,6 +2256,7 @@
 - 查看封面：[图片BV1jqpE6gEL9](./assets/papers/BV1jqpE6gEL9.jpg)
 
 [![](./assets/papers/BV1jqpE6gEL9.jpg)](https://www.bilibili.com/video/BV1jqpE6gEL9)
+
 ---
 
 ### [190]. 字节 Seed 逮到 DeepSeek「神鬼二象性」：分块 KV Cache 带来 4-Token 周期，论文精读【每天一个宝藏论文】
@@ -1983,6 +2264,7 @@
 - 查看封面：[图片BV1ZapE6kEUj](./assets/papers/BV1ZapE6kEUj.jpg)
 
 [![](./assets/papers/BV1ZapE6kEUj.jpg)](https://www.bilibili.com/video/BV1ZapE6kEUj)
+
 ---
 
 ### [189]. GLM 5.3：智谱基座没换，纯靠后训练 Scaling 编程暴涨，论文阅读【每天一个宝藏论文】
@@ -1990,6 +2272,7 @@
 - 查看封面：[图片BV1YCpE6KEW1](./assets/papers/BV1YCpE6KEW1.jpg)
 
 [![](./assets/papers/BV1YCpE6KEW1.jpg)](https://www.bilibili.com/video/BV1YCpE6KEW1)
+
 ---
 
 ### [188]. Scaling SAE：OpenAI 的稀疏自编码器缩放定律，可解释性工作，论文精读【每天一个宝藏论文】
@@ -1997,6 +2280,7 @@
 - 查看封面：[图片BV1b3Hv6MEod](./assets/papers/BV1b3Hv6MEod.jpg)
 
 [![](./assets/papers/BV1b3Hv6MEod.jpg)](https://www.bilibili.com/video/BV1b3Hv6MEod)
+
 ---
 
 ### [187]. Gemini 2.5：谷歌经典模型，长上下文 + 多模态撬动 Agent 工作流，论文精读【每天一个宝藏论文】
@@ -2004,6 +2288,7 @@
 - 查看封面：[图片BV183Hv6ME7a](./assets/papers/BV183Hv6ME7a.jpg)
 
 [![](./assets/papers/BV183Hv6ME7a.jpg)](https://www.bilibili.com/video/BV183Hv6ME7a)
+
 ---
 
 ### [186]. GLM OCR：0.9B 小模型 + 多 token 预测，OCR 解码不再逐字蹦，论文精读【每天一个宝藏论文】
@@ -2011,6 +2296,7 @@
 - 查看封面：[图片BV1QKHv6rEeg](./assets/papers/BV1QKHv6rEeg.jpg)
 
 [![](./assets/papers/BV1QKHv6rEeg.jpg)](https://www.bilibili.com/video/BV1QKHv6rEeg)
+
 ---
 
 ### [185]. DeepSeek DSec：为 Agent 强化学习打造的沙箱基础设施，论文精读【每天一个宝藏论文】
@@ -2018,6 +2304,7 @@
 - 查看封面：[图片BV1hKHv6rEme](./assets/papers/BV1hKHv6rEme.jpg)
 
 [![](./assets/papers/BV1hKHv6rEme.jpg)](https://www.bilibili.com/video/BV1hKHv6rEme)
+
 ---
 
 ### [184]. DeepSeek V4.1 Flash：KV Cache 压到 890 字节每 token，论文精读【每天一个宝藏论文】
@@ -2025,6 +2312,7 @@
 - 查看封面：[图片BV13KHv66EtS](./assets/papers/BV13KHv66EtS.jpg)
 
 [![](./assets/papers/BV13KHv66EtS.jpg)](https://www.bilibili.com/video/BV13KHv66EtS)
+
 ---
 
 ### [183]. Complex KDA：把 Kimi Delta Attention 升级到复数域，表达能力大幅增强，论文精读【每天一个宝藏论文】
@@ -2032,6 +2320,7 @@
 - 查看封面：[图片BV15rHv6mEXm](./assets/papers/BV15rHv6mEXm.jpg)
 
 [![](./assets/papers/BV15rHv6mEXm.jpg)](https://www.bilibili.com/video/BV15rHv6mEXm)
+
 ---
 
 ### [182]. Qwen3.5 Omni：混合注意力 MoE 全模态，ARIA 让语音合成更自然，论文精读【每天一个宝藏论文】
@@ -2039,6 +2328,7 @@
 - 查看封面：[图片BV15rHv6mEjH](./assets/papers/BV15rHv6mEjH.jpg)
 
 [![](./assets/papers/BV15rHv6mEjH.jpg)](https://www.bilibili.com/video/BV15rHv6mEjH)
+
 ---
 
 ### [181]. GLM 5：智谱新一代旗舰，DSA 稀疏注意力 + 异步 RL 做 Agent 工程，论文精读【每天一个宝藏论文】
@@ -2046,6 +2336,7 @@
 - 查看封面：[图片BV15rHv6mEMH](./assets/papers/BV15rHv6mEMH.jpg)
 
 [![](./assets/papers/BV15rHv6mEMH.jpg)](https://www.bilibili.com/video/BV15rHv6mEMH)
+
 ---
 
 ### [180]. PyramidKV：金字塔式 KV 压缩，省显存保性能，论文精读【每天一个宝藏论文】
@@ -2053,6 +2344,7 @@
 - 查看封面：[图片BV1TdhB6MEm7](./assets/papers/BV1TdhB6MEm7.jpg)
 
 [![](./assets/papers/BV1TdhB6MEm7.jpg)](https://www.bilibili.com/video/BV1TdhB6MEm7)
+
 ---
 
 ### [179]. Orca：迭代级调度开创者，LLM 服务系统鼻祖，论文精读【每天一个宝藏论文】
@@ -2060,6 +2352,7 @@
 - 查看封面：[图片BV1GueP6pE7P](./assets/papers/BV1GueP6pE7P.jpg)
 
 [![](./assets/papers/BV1GueP6pE7P.jpg)](https://www.bilibili.com/video/BV1GueP6pE7P)
+
 ---
 
 ### [178]. QuaRot：旋转矩阵消除异常值，4 比特无损推理，论文精读【每天一个宝藏论文】
@@ -2067,6 +2360,7 @@
 - 查看封面：[图片BV1jvep67Eoa](./assets/papers/BV1jvep67Eoa.jpg)
 
 [![](./assets/papers/BV1jvep67Eoa.jpg)](https://www.bilibili.com/video/BV1jvep67Eoa)
+
 ---
 
 ### [177]. MiniMax_M1：Lightning Attention 撑起百万上下文推理，论文精读【每天一个宝藏论文】
@@ -2074,6 +2368,7 @@
 - 查看封面：[图片BV1KFe56uEqn](./assets/papers/BV1KFe56uEqn.jpg)
 
 [![](./assets/papers/BV1KFe56uEqn.jpg)](https://www.bilibili.com/video/BV1KFe56uEqn)
+
 ---
 
 ### [176]. Llama_3：Meta 405B 模型群，训练全细节公开，论文精读【每天一个宝藏论文】
@@ -2081,6 +2376,7 @@
 - 查看封面：[图片BV1fwY165EyC](./assets/papers/BV1fwY165EyC.jpg)
 
 [![](./assets/papers/BV1fwY165EyC.jpg)](https://www.bilibili.com/video/BV1fwY165EyC)
+
 ---
 
 ### [175]. Qwen3：快慢思考混合推理，多尺寸模型全家桶，论文精读【每天一个宝藏论文】
@@ -2088,6 +2384,7 @@
 - 查看封面：[图片BV1BwY165E6E](./assets/papers/BV1BwY165E6E.jpg)
 
 [![](./assets/papers/BV1BwY165E6E.jpg)](https://www.bilibili.com/video/BV1BwY165E6E)
+
 ---
 
 ### [174]. DeepSeek_V3_2：DSA 稀疏注意力，长上下文大幅提速，论文精读【每天一个宝藏论文】
@@ -2095,6 +2392,7 @@
 - 查看封面：[图片BV1fwY165ES8](./assets/papers/BV1fwY165ES8.jpg)
 
 [![](./assets/papers/BV1fwY165ES8.jpg)](https://www.bilibili.com/video/BV1fwY165ES8)
+
 ---
 
 ### [173]. Kimi_K2：万亿 MoE 开源 Agent 模型，MuonClip 稳训练，论文精读【每天一个宝藏论文】
@@ -2102,6 +2400,7 @@
 - 查看封面：[图片BV1fwY165EtL](./assets/papers/BV1fwY165EtL.jpg)
 
 [![](./assets/papers/BV1fwY165EtL.jpg)](https://www.bilibili.com/video/BV1fwY165EtL)
+
 ---
 
 ### [172]. DualKV：GRPO 里被复制 32 遍的 prompt，终于不重复算了，论文精读【每天一个宝藏论文】
@@ -2109,6 +2408,7 @@
 - 查看封面：[图片BV1F6Ye6SEx6](./assets/papers/BV1F6Ye6SEx6.jpg)
 
 [![](./assets/papers/BV1F6Ye6SEx6.jpg)](https://www.bilibili.com/video/BV1F6Ye6SEx6)
+
 ---
 
 ### [171]. MegaScale_MoE：字节 1440 卡训 352B MoE，比 Megatron 快 1.88 倍，论文精读【每天一个宝藏论文】
@@ -2116,6 +2416,7 @@
 - 查看封面：[图片BV1F6Ye6SEAe](./assets/papers/BV1F6Ye6SEAe.jpg)
 
 [![](./assets/papers/BV1F6Ye6SEAe.jpg)](https://www.bilibili.com/video/BV1F6Ye6SEAe)
+
 ---
 
 ### [170]. SOAP_Muon_and_Beyond：英伟达实测，万亿 token 上超越 AdamW 的优化器，论文精读【每天一个宝藏论文】
@@ -2123,6 +2424,7 @@
 - 查看封面：[图片BV1piYe6pEcF](./assets/papers/BV1piYe6pEcF.jpg)
 
 [![](./assets/papers/BV1piYe6pEcF.jpg)](https://www.bilibili.com/video/BV1piYe6pEcF)
+
 ---
 
 ### [169]. NVFP4_Pretraining：英伟达用 4bit 预训练 12B 模型，10 万亿 token 不掉点，论文精读【每天一个宝藏论文】
@@ -2130,6 +2432,7 @@
 - 查看封面：[图片BV1riYe6HEfk](./assets/papers/BV1riYe6HEfk.jpg)
 
 [![](./assets/papers/BV1riYe6HEfk.jpg)](https://www.bilibili.com/video/BV1riYe6HEfk)
+
 ---
 
 ### [168]. Fast_dLLM：给扩散大模型加 KV Cache，免训练提速 27 倍，论文精读【每天一个宝藏论文】
@@ -2137,6 +2440,7 @@
 - 查看封面：[图片BV1kiYe6HEFq](./assets/papers/BV1kiYe6HEFq.jpg)
 
 [![](./assets/papers/BV1kiYe6HEFq.jpg)](https://www.bilibili.com/video/BV1kiYe6HEFq)
+
 ---
 
 ### [167]. 投机解码：性能还是幻觉？MLSys 2026 在 vLLM 上的首次系统实测，论文精读【每天一个宝藏论文】
@@ -2144,6 +2448,7 @@
 - 查看封面：[图片BV1riYe6HEX2](./assets/papers/BV1riYe6HEX2.jpg)
 
 [![](./assets/papers/BV1riYe6HEX2.jpg)](https://www.bilibili.com/video/BV1riYe6HEX2)
+
 ---
 
 ### [166]. FlashInfer：MLSys 2025 最佳论文，vLLM、SGLang 都在用的注意力引擎，论文精读【每天一个宝藏论文】
@@ -2151,6 +2456,7 @@
 - 查看封面：[图片BV1cqYe6QEZC](./assets/papers/BV1cqYe6QEZC.jpg)
 
 [![](./assets/papers/BV1cqYe6QEZC.jpg)](https://www.bilibili.com/video/BV1cqYe6QEZC)
+
 ---
 
 ### [165]. Mooncake：Kimi 的推理架构，FAST 2025 最佳论文，KV Cache 中心的存算分离，论文精读【每天一个宝藏论文】
@@ -2158,6 +2464,7 @@
 - 查看封面：[图片BV1cqYe6QEZW](./assets/papers/BV1cqYe6QEZW.jpg)
 
 [![](./assets/papers/BV1cqYe6QEZW.jpg)](https://www.bilibili.com/video/BV1cqYe6QEZW)
+
 ---
 
 ### [164]. InstructGPT：RLHF 的开山之作，论文精读【每天一个宝藏论文】
@@ -2165,6 +2472,7 @@
 - 查看封面：[图片BV1j2tG6qE5e](./assets/papers/BV1j2tG6qE5e.jpg)
 
 [![](./assets/papers/BV1j2tG6qE5e.jpg)](https://www.bilibili.com/video/BV1j2tG6qE5e)
+
 ---
 
 ### [163]. Deep Compression：韩松的剪枝+量化经典，论文精读【每天一个宝藏论文】
@@ -2172,6 +2480,7 @@
 - 查看封面：[图片BV16ath6fEA4](./assets/papers/BV16ath6fEA4.jpg)
 
 [![](./assets/papers/BV16ath6fEA4.jpg)](https://www.bilibili.com/video/BV16ath6fEA4)
+
 ---
 
 ### [162]. 2D Gaussian Splatting：3D 高斯的改进，几何重建更准，论文精读【每天一个宝藏论文】
@@ -2179,6 +2488,7 @@
 - 查看封面：[图片BV12nth6TEAC](./assets/papers/BV12nth6TEAC.jpg)
 
 [![](./assets/papers/BV12nth6TEAC.jpg)](https://www.bilibili.com/video/BV12nth6TEAC)
+
 ---
 
 ### [161]. Instant NGP：把 NeRF 加速到秒级的哈希编码，论文精读【每天一个宝藏论文】
@@ -2186,6 +2496,7 @@
 - 查看封面：[图片BV12nth6MEaj](./assets/papers/BV12nth6MEaj.jpg)
 
 [![](./assets/papers/BV12nth6MEaj.jpg)](https://www.bilibili.com/video/BV12nth6MEaj)
+
 ---
 
 ### [160]. EAGLE-3：投机解码 EAGLE 的最新改进，论文精读【每天一个宝藏论文】
@@ -2193,6 +2504,7 @@
 - 查看封面：[图片BV1xnth6KEFB](./assets/papers/BV1xnth6KEFB.jpg)
 
 [![](./assets/papers/BV1xnth6KEFB.jpg)](https://www.bilibili.com/video/BV1xnth6KEFB)
+
 ---
 
 ### [159]. MoBA：Kimi 的稀疏注意力，NSA 姊妹篇，论文精读【每天一个宝藏论文】
@@ -2200,6 +2512,7 @@
 - 查看封面：[图片BV1ULth66EJ8](./assets/papers/BV1ULth66EJ8.jpg)
 
 [![](./assets/papers/BV1ULth66EJ8.jpg)](https://www.bilibili.com/video/BV1ULth66EJ8)
+
 ---
 
 ### [158]. Gated Attention：NeurIPS 2025 最佳论文，给注意力加个门，论文精读【每天一个宝藏论文】
@@ -2207,6 +2520,7 @@
 - 查看封面：[图片BV1ULth66EHH](./assets/papers/BV1ULth66EHH.jpg)
 
 [![](./assets/papers/BV1ULth66EHH.jpg)](https://www.bilibili.com/video/BV1ULth66EHH)
+
 ---
 
 ### [157]. GSPO：GRPO 的改进，序列级重要性采样，论文精读【每天一个宝藏论文】
@@ -2214,6 +2528,7 @@
 - 查看封面：[图片BV1T7th6gELe](./assets/papers/BV1T7th6gELe.jpg)
 
 [![](./assets/papers/BV1T7th6gELe.jpg)](https://www.bilibili.com/video/BV1T7th6gELe)
+
 ---
 
 ### [156]. UCB1：多臂老虎机，论文精读【每天一个宝藏论文】
@@ -2221,6 +2536,7 @@
 - 查看封面：[图片BV17MhG65E2o](./assets/papers/BV17MhG65E2o.jpg)
 
 [![](./assets/papers/BV17MhG65E2o.jpg)](https://www.bilibili.com/video/BV17MhG65E2o)
+
 ---
 
 ### [155]. CTC：语音识别的经典损失函数，论文精读【每天一个宝藏论文】
@@ -2228,6 +2544,7 @@
 - 查看封面：[图片BV1f38h6cEcs](./assets/papers/BV1f38h6cEcs.jpg)
 
 [![](./assets/papers/BV1f38h6cEcs.jpg)](https://www.bilibili.com/video/BV1f38h6cEcs)
+
 ---
 
 ### [154]. ZeRO：DeepSpeed 大模型显存优化，论文精读【每天一个宝藏论文】
@@ -2235,6 +2552,7 @@
 - 查看封面：[图片BV1B38h6cEQP](./assets/papers/BV1B38h6cEQP.jpg)
 
 [![](./assets/papers/BV1B38h6cEQP.jpg)](https://www.bilibili.com/video/BV1B38h6cEQP)
+
 ---
 
 ### [153]. Bahdanau Attention：首次将注意力用于Seq2Seq，论文精读【每天一个宝藏论文】
@@ -2242,6 +2560,7 @@
 - 查看封面：[图片BV1rK8h6eEGT](./assets/papers/BV1rK8h6eEGT.jpg)
 
 [![](./assets/papers/BV1rK8h6eEGT.jpg)](https://www.bilibili.com/video/BV1rK8h6eEGT)
+
 ---
 
 ### [152]. Distilling the Knowledge：知识蒸馏奠基之作，论文精读【每天一个宝藏论文】
@@ -2249,6 +2568,7 @@
 - 查看封面：[图片BV1cK8h6vEVW](./assets/papers/BV1cK8h6vEVW.jpg)
 
 [![](./assets/papers/BV1cK8h6vEVW.jpg)](https://www.bilibili.com/video/BV1cK8h6vEVW)
+
 ---
 
 ### [151]. Switch Transformer：稀疏专家模型，论文精读【每天一个宝藏论文】
@@ -2256,6 +2576,7 @@
 - 查看封面：[图片BV16K8h6eE2v](./assets/papers/BV16K8h6eE2v.jpg)
 
 [![](./assets/papers/BV16K8h6eE2v.jpg)](https://www.bilibili.com/video/BV16K8h6eE2v)
+
 ---
 
 ### [150]. Seq2Seq：序列到序列经典论文，论文精读【每天一个宝藏论文】
@@ -2263,6 +2584,7 @@
 - 查看封面：[图片BV1Rf8J6bEDU](./assets/papers/BV1Rf8J6bEDU.jpg)
 
 [![](./assets/papers/BV1Rf8J6bEDU.jpg)](https://www.bilibili.com/video/BV1Rf8J6bEDU)
+
 ---
 
 ### [149]. Batch Norm：批量归一化经典重温，论文精读【每天一个宝藏论文】
@@ -2270,6 +2592,7 @@
 - 查看封面：[图片BV1ezbv6eEYm](./assets/papers/BV1ezbv6eEYm.jpg)
 
 [![](./assets/papers/BV1ezbv6eEYm.jpg)](https://www.bilibili.com/video/BV1ezbv6eEYm)
+
 ---
 
 ### [148]. Diffusion LM：扩散语言模型开山之作，论文精读【每天一个宝藏论文】
@@ -2277,6 +2600,7 @@
 - 查看封面：[图片BV1AEbY63ETH](./assets/papers/BV1AEbY63ETH.jpg)
 
 [![](./assets/papers/BV1AEbY63ETH.jpg)](https://www.bilibili.com/video/BV1AEbY63ETH)
+
 ---
 
 ### [147]. AlexNet：深度学习名作经典重温，论文精读【每天一个宝藏论文】
@@ -2284,6 +2608,7 @@
 - 查看封面：[图片BV1kEbY6gEvA](./assets/papers/BV1kEbY6gEvA.jpg)
 
 [![](./assets/papers/BV1kEbY6gEvA.jpg)](https://www.bilibili.com/video/BV1kEbY6gEvA)
+
 ---
 
 ### [146]. Universal_Approximators：神经网络的万能近似定理，论文精读【每天一个宝藏论文】
@@ -2291,6 +2616,7 @@
 - 查看封面：[图片BV1CEbY6gEHM](./assets/papers/BV1CEbY6gEHM.jpg)
 
 [![](./assets/papers/BV1CEbY6gEHM.jpg)](https://www.bilibili.com/video/BV1CEbY6gEHM)
+
 ---
 
 ### [145]. 3D Gaussian Splatting：3D高斯实时渲染，论文精读【每天一个宝藏论文】
@@ -2298,6 +2624,7 @@
 - 查看封面：[图片BV1zxbY6vEgk](./assets/papers/BV1zxbY6vEgk.jpg)
 
 [![](./assets/papers/BV1zxbY6vEgk.jpg)](https://www.bilibili.com/video/BV1zxbY6vEgk)
+
 ---
 
 ### [144]. Megatron LM：大模型并行训练重要工作，论文精读【每天一个宝藏论文】
@@ -2305,6 +2632,7 @@
 - 查看封面：[图片BV1BxbY6vE9J](./assets/papers/BV1BxbY6vE9J.jpg)
 
 [![](./assets/papers/BV1BxbY6vE9J.jpg)](https://www.bilibili.com/video/BV1BxbY6vE9J)
+
 ---
 
 ### [143]. NeRF：神经辐射场三维重建，论文精读【每天一个宝藏论文】
@@ -2312,6 +2640,7 @@
 - 查看封面：[图片BV1zxbY6vEy9](./assets/papers/BV1zxbY6vEy9.jpg)
 
 [![](./assets/papers/BV1zxbY6vEy9.jpg)](https://www.bilibili.com/video/BV1zxbY6vEy9)
+
 ---
 
 ### [142]. LoRA：大模型微调经典重温，论文精读【每天一个宝藏论文】
@@ -2319,6 +2648,7 @@
 - 查看封面：[图片BV1zxbY6vE5n](./assets/papers/BV1zxbY6vE5n.jpg)
 
 [![](./assets/papers/BV1zxbY6vE5n.jpg)](https://www.bilibili.com/video/BV1zxbY6vE5n)
+
 ---
 
 ### [141]. Rainbow：把 DQN 的六大改进一次拼完，论文精读【每天一个宝藏论文】
@@ -2326,6 +2656,7 @@
 - 查看封面：[图片BV1BtbY6PEfW](./assets/papers/BV1BtbY6PEfW.jpg)
 
 [![](./assets/papers/BV1BtbY6PEfW.jpg)](https://www.bilibili.com/video/BV1BtbY6PEfW)
+
 ---
 
 ### [140]. Mobile Agent：大模型操作手机，GUI Agent论文精读【每天一个宝藏论文】
@@ -2333,6 +2664,7 @@
 - 查看封面：[图片BV1pPu26bEB6](./assets/papers/BV1pPu26bEB6.jpg)
 
 [![](./assets/papers/BV1pPu26bEB6.jpg)](https://www.bilibili.com/video/BV1pPu26bEB6)
+
 ---
 
 ### [139]. RNN：循环神经网络经典重温，论文精读【每天一个宝藏论文】
@@ -2340,6 +2672,7 @@
 - 查看封面：[图片BV1KiuG6zE44](./assets/papers/BV1KiuG6zE44.jpg)
 
 [![](./assets/papers/BV1KiuG6zE44.jpg)](https://www.bilibili.com/video/BV1KiuG6zE44)
+
 ---
 
 ### [138]. Voyager：Agent玩我的世界，论文精读【每天一个宝藏论文】
@@ -2347,6 +2680,7 @@
 - 查看封面：[图片BV1KiuG6zECG](./assets/papers/BV1KiuG6zECG.jpg)
 
 [![](./assets/papers/BV1KiuG6zECG.jpg)](https://www.bilibili.com/video/BV1KiuG6zECG)
+
 ---
 
 ### [137]. MuZero：AlphaZero 之后关键的一步：直接学一个世界模型做 MCTS，论文精读【每天一个宝藏论文】
@@ -2354,6 +2688,7 @@
 - 查看封面：[图片BV1KBuG6MEwe](./assets/papers/BV1KBuG6MEwe.jpg)
 
 [![](./assets/papers/BV1KBuG6MEwe.jpg)](https://www.bilibili.com/video/BV1KBuG6MEwe)
+
 ---
 
 ### [136]. Toolformer：大模型自发调用工具的开山之作，论文精读【每天一个宝藏论文】
@@ -2361,6 +2696,7 @@
 - 查看封面：[图片BV1NBuG6MEiP](./assets/papers/BV1NBuG6MEiP.jpg)
 
 [![](./assets/papers/BV1NBuG6MEiP.jpg)](https://www.bilibili.com/video/BV1NBuG6MEiP)
+
 ---
 
 ### [135]. TRPO：PPO的前身，论文精读【每天一个宝藏论文】
@@ -2368,6 +2704,7 @@
 - 查看封面：[图片BV1xBuG6MEYJ](./assets/papers/BV1xBuG6MEYJ.jpg)
 
 [![](./assets/papers/BV1xBuG6MEYJ.jpg)](https://www.bilibili.com/video/BV1xBuG6MEYJ)
+
 ---
 
 ### [134]. SWE-agent：Agent处理GitHub issue的经典论文，论文精读【每天一个宝藏论文】
@@ -2375,6 +2712,7 @@
 - 查看封面：[图片BV1xBuG6MEuX](./assets/papers/BV1xBuG6MEuX.jpg)
 
 [![](./assets/papers/BV1xBuG6MEuX.jpg)](https://www.bilibili.com/video/BV1xBuG6MEuX)
+
 ---
 
 ### [133]. FlashDecoding：原始技术博客，论文精读【每天一个宝藏论文】
@@ -2382,6 +2720,7 @@
 - 查看封面：[图片BV1xBuG6MEB3](./assets/papers/BV1xBuG6MEB3.jpg)
 
 [![](./assets/papers/BV1xBuG6MEB3.jpg)](https://www.bilibili.com/video/BV1xBuG6MEB3)
+
 ---
 
 ### [132]. Conditional Flow Matching：条件流匹配，论文精读【每天一个宝藏论文】
@@ -2389,6 +2728,7 @@
 - 查看封面：[图片BV1TYuG6rEX1](./assets/papers/BV1TYuG6rEX1.jpg)
 
 [![](./assets/papers/BV1TYuG6rEX1.jpg)](https://www.bilibili.com/video/BV1TYuG6rEX1)
+
 ---
 
 ### [131]. A3C：首次用异步 actor-critic 把深度 RL 做稳定，是 PPO的基石，论文精读【每天一个宝藏论文】
@@ -2396,6 +2736,7 @@
 - 查看封面：[图片BV1MYuG6rETy](./assets/papers/BV1MYuG6rETy.jpg)
 
 [![](./assets/papers/BV1MYuG6rETy.jpg)](https://www.bilibili.com/video/BV1MYuG6rETy)
+
 ---
 
 ### [130]. App Agent：大模型操作手机，GUI Agent论文精读【每天一个宝藏论文】
@@ -2403,6 +2744,7 @@
 - 查看封面：[图片BV1mvuG6gEHj](./assets/papers/BV1mvuG6gEHj.jpg)
 
 [![](./assets/papers/BV1mvuG6gEHj.jpg)](https://www.bilibili.com/video/BV1mvuG6gEHj)
+
 ---
 
 ### [129]. Muon 优化器：原始技术博客，论文精读【每天一个宝藏论文】
@@ -2410,6 +2752,7 @@
 - 查看封面：[图片BV1hr3y6VEd6](./assets/papers/BV1hr3y6VEd6.jpg)
 
 [![](./assets/papers/BV1hr3y6VEd6.jpg)](https://www.bilibili.com/video/BV1hr3y6VEd6)
+
 ---
 
 ### [128]. DINOv3：论文精读【每天一个宝藏论文】
@@ -2417,6 +2760,7 @@
 - 查看封面：[图片BV1Dr3y6GEDX](./assets/papers/BV1Dr3y6GEDX.jpg)
 
 [![](./assets/papers/BV1Dr3y6GEDX.jpg)](https://www.bilibili.com/video/BV1Dr3y6GEDX)
+
 ---
 
 ### [127]. LSTM：经典重温，论文精读【每天一个宝藏论文】
@@ -2424,6 +2768,7 @@
 - 查看封面：[图片BV1Qr3y6VEt4](./assets/papers/BV1Qr3y6VEt4.jpg)
 
 [![](./assets/papers/BV1Qr3y6VEt4.jpg)](https://www.bilibili.com/video/BV1Qr3y6VEt4)
+
 ---
 
 ### [126]. DeepSeek OCR：论文精读【每天一个宝藏论文】
@@ -2431,6 +2776,7 @@
 - 查看封面：[图片BV1vY3y6UEaG](./assets/papers/BV1vY3y6UEaG.jpg)
 
 [![](./assets/papers/BV1vY3y6UEaG.jpg)](https://www.bilibili.com/video/BV1vY3y6UEaG)
+
 ---
 
 ### [125]. ControlNet：论文精读【每天一个宝藏论文】
@@ -2438,6 +2784,7 @@
 - 查看封面：[图片BV1nB3r6UEPf](./assets/papers/BV1nB3r6UEPf.jpg)
 
 [![](./assets/papers/BV1nB3r6UEPf.jpg)](https://www.bilibili.com/video/BV1nB3r6UEPf)
+
 ---
 
 ### [124]. DINO v2：论文精读【每天一个宝藏论文】
@@ -2445,6 +2792,7 @@
 - 查看封面：[图片BV1H4gh6HEdj](./assets/papers/BV1H4gh6HEdj.jpg)
 
 [![](./assets/papers/BV1H4gh6HEdj.jpg)](https://www.bilibili.com/video/BV1H4gh6HEdj)
+
 ---
 
 ### [123]. 向量检索ANNS经典论文：PQ论文精读【每天一个宝藏论文】
@@ -2452,6 +2800,7 @@
 - 查看封面：[图片BV1Kfgh68ErF](./assets/papers/BV1Kfgh68ErF.jpg)
 
 [![](./assets/papers/BV1Kfgh68ErF.jpg)](https://www.bilibili.com/video/BV1Kfgh68ErF)
+
 ---
 
 ### [122]. MRP，借鉴MTP的思想用于扩散语言模型：论文精读【每天一个宝藏论文】
@@ -2459,6 +2808,7 @@
 - 查看封面：[图片BV12Fga6fEuk](./assets/papers/BV12Fga6fEuk.jpg)
 
 [![](./assets/papers/BV12Fga6fEuk.jpg)](https://www.bilibili.com/video/BV12Fga6fEuk)
+
 ---
 
 ### [121]. CNN，卷积网络经典重温：论文精读【每天一个宝藏论文】
@@ -2466,6 +2816,7 @@
 - 查看封面：[图片BV1Mdgh6aE5u](./assets/papers/BV1Mdgh6aE5u.jpg)
 
 [![](./assets/papers/BV1Mdgh6aE5u.jpg)](https://www.bilibili.com/video/BV1Mdgh6aE5u)
+
 ---
 
 ### [120]. Performer，线性注意力：论文精读【每天一个宝藏论文】
@@ -2473,6 +2824,7 @@
 - 查看封面：[图片BV1hzKp6iE1b](./assets/papers/BV1hzKp6iE1b.jpg)
 
 [![](./assets/papers/BV1hzKp6iE1b.jpg)](https://www.bilibili.com/video/BV1hzKp6iE1b)
+
 ---
 
 ### [119]. LookAhead：投机解码论文精读【每天一个宝藏论文】
@@ -2480,6 +2832,7 @@
 - 查看封面：[图片BV1hrKp6NEp3](./assets/papers/BV1hrKp6NEp3.jpg)
 
 [![](./assets/papers/BV1hrKp6NEp3.jpg)](https://www.bilibili.com/video/BV1hrKp6NEp3)
+
 ---
 
 ### [118]. Rectified Flow：论文精读【每天一个宝藏论文】
@@ -2487,6 +2840,7 @@
 - 查看封面：[图片BV1hrKp6NEj5](./assets/papers/BV1hrKp6NEj5.jpg)
 
 [![](./assets/papers/BV1hrKp6NEj5.jpg)](https://www.bilibili.com/video/BV1hrKp6NEj5)
+
 ---
 
 ### [117]. Kimi 的混合线性注意力：论文精读【每天一个宝藏论文】
@@ -2494,6 +2848,7 @@
 - 查看封面：[图片BV1TUKp6hEi6](./assets/papers/BV1TUKp6hEi6.jpg)
 
 [![](./assets/papers/BV1TUKp6hEi6.jpg)](https://www.bilibili.com/video/BV1TUKp6hEi6)
+
 ---
 
 ### [116] Deepseek的DSpark：投机解码论文精读【每天一个宝藏论文】
@@ -2501,6 +2856,7 @@
 - 查看封面：[图片BV1SCK36PEGX](./assets/papers/BV1SCK36PEGX.jpg)
 
 [![](./assets/papers/BV1SCK36PEGX.jpg)](https://www.bilibili.com/video/BV1SCK36PEGX)
+
 ---
 
 ### [115] Kimi K3 技术报告：论文精读【每天一个宝藏论文】
@@ -2508,6 +2864,7 @@
 - 查看封面：[图片BV1uyK36eEcT](./assets/papers/BV1uyK36eEcT.jpg)
 
 [![](./assets/papers/BV1uyK36eEcT.jpg)](https://www.bilibili.com/video/BV1uyK36eEcT)
+
 ---
 
 ### [114]. DiT：论文精读【每天一个宝藏论文】
@@ -2515,6 +2872,7 @@
 - 查看封面：[图片BV1UyK36YED6](./assets/papers/BV1UyK36YED6.jpg)
 
 [![](./assets/papers/BV1UyK36YED6.jpg)](https://www.bilibili.com/video/BV1UyK36YED6)
+
 ---
 
 ### [113]. GRU：论文精读【每天一个宝藏论文】
@@ -2522,6 +2880,7 @@
 - 查看封面：[图片BV1LwN36uEbV](./assets/papers/BV1LwN36uEbV.jpg)
 
 [![](./assets/papers/BV1LwN36uEbV.jpg)](https://www.bilibili.com/video/BV1LwN36uEbV)
+
 ---
 
 ### [112]. SAM 3：论文精读【每天一个宝藏论文】
@@ -2529,6 +2888,7 @@
 - 查看封面：[图片BV15wN36uEXx](./assets/papers/BV15wN36uEXx.jpg)
 
 [![](./assets/papers/BV15wN36uEXx.jpg)](https://www.bilibili.com/video/BV15wN36uEXx)
+
 ---
 
 ### [111]. Stable Diffusion：论文精读【每天一个宝藏论文】
@@ -2536,6 +2896,7 @@
 - 查看封面：[图片BV19AN36iE8n](./assets/papers/BV19AN36iE8n.jpg)
 
 [![](./assets/papers/BV19AN36iE8n.jpg)](https://www.bilibili.com/video/BV19AN36iE8n)
+
 ---
 
 ### [110]. EAGLE：投机解码论文精读【每天一个宝藏论文】
@@ -2543,6 +2904,7 @@
 - 查看封面：[图片BV1BZMJ6CEa6](./assets/papers/BV1BZMJ6CEa6.jpg)
 
 [![](./assets/papers/BV1BZMJ6CEa6.jpg)](https://www.bilibili.com/video/BV1BZMJ6CEa6)
+
 ---
 
 ### [109]. AdamW：论文精读【每天一个宝藏论文】
@@ -2550,6 +2912,7 @@
 - 查看封面：[图片BV1eKMn6MEMr](./assets/papers/BV1eKMn6MEMr.jpg)
 
 [![](./assets/papers/BV1eKMn6MEMr.jpg)](https://www.bilibili.com/video/BV1eKMn6MEMr)
+
 ---
 
 ### [108]. deepseek的NSA：论文精读【每天一个宝藏论文】
@@ -2557,6 +2920,7 @@
 - 查看封面：[图片BV1HtME6LEWp](./assets/papers/BV1HtME6LEWp.jpg)
 
 [![](./assets/papers/BV1HtME6LEWp.jpg)](https://www.bilibili.com/video/BV1HtME6LEWp)
+
 ---
 
 ### [107]. 微软的1.58bit量化：论文精读【每天一个宝藏论文】
@@ -2564,6 +2928,7 @@
 - 查看封面：[图片BV1rtME6LEfy](./assets/papers/BV1rtME6LEfy.jpg)
 
 [![](./assets/papers/BV1rtME6LEfy.jpg)](https://www.bilibili.com/video/BV1rtME6LEfy)
+
 ---
 
 ### [106]. RWKV，一种序列模型：论文精读【每天一个宝藏论文】
@@ -2571,6 +2936,7 @@
 - 查看封面：[图片BV1MRME6oE2V](./assets/papers/BV1MRME6oE2V.jpg)
 
 [![](./assets/papers/BV1MRME6oE2V.jpg)](https://www.bilibili.com/video/BV1MRME6oE2V)
+
 ---
 
 ### [105]. TTT，一种序列模型：论文精读【每天一个宝藏论文】
@@ -2578,6 +2944,7 @@
 - 查看封面：[图片BV1MRME6oE3a](./assets/papers/BV1MRME6oE3a.jpg)
 
 [![](./assets/papers/BV1MRME6oE3a.jpg)](https://www.bilibili.com/video/BV1MRME6oE3a)
+
 ---
 
 ### [104]. kimi的注意力残差：论文精读【每天一个宝藏论文】
@@ -2585,6 +2952,7 @@
 - 查看封面：[图片BV1MRME6oEhx](./assets/papers/BV1MRME6oEhx.jpg)
 
 [![](./assets/papers/BV1MRME6oEhx.jpg)](https://www.bilibili.com/video/BV1MRME6oEhx)
+
 ---
 
 ### [103]. Reflexion：Agent经典论文精读【每天一个宝藏论文】
@@ -2592,6 +2960,7 @@
 - 查看封面：[图片BV1cJTb6BE3S](./assets/papers/BV1cJTb6BE3S.jpg)
 
 [![](./assets/papers/BV1cJTb6BE3S.jpg)](https://www.bilibili.com/video/BV1cJTb6BE3S)
+
 ---
 
 ### [102]. ReAct：Agent经典论文精读【每天一个宝藏论文】
@@ -2599,6 +2968,7 @@
 - 查看封面：[图片BV1FRTi6oEz2](./assets/papers/BV1FRTi6oEz2.jpg)
 
 [![](./assets/papers/BV1FRTi6oEz2.jpg)](https://www.bilibili.com/video/BV1FRTi6oEz2)
+
 ---
 
 ### [101]. H2O：KV缓存压缩论文精读【每天一个宝藏论文】
@@ -2606,6 +2976,7 @@
 - 查看封面：[图片BV1ktTc6tEce](./assets/papers/BV1ktTc6tEce.jpg)
 
 [![](./assets/papers/BV1ktTc6tEce.jpg)](https://www.bilibili.com/video/BV1ktTc6tEce)
+
 ---
 
 ### [100]. FlashDecoding的改进：FlashDecoding++论文精读【每天一个宝藏论文】
@@ -2613,6 +2984,7 @@
 - 查看封面：[图片BV1rtTc6tEen](./assets/papers/BV1rtTc6tEen.jpg)
 
 [![](./assets/papers/BV1rtTc6tEen.jpg)](https://www.bilibili.com/video/BV1rtTc6tEen)
+
 ---
 
 ### [99]. Medusa：投机解码和树形注意力论文精读【每天一个宝藏论文】
@@ -2620,6 +2992,7 @@
 - 查看封面：[图片BV1NsKQ6zENp](./assets/papers/BV1NsKQ6zENp.jpg)
 
 [![](./assets/papers/BV1NsKQ6zENp.jpg)](https://www.bilibili.com/video/BV1NsKQ6zENp)
+
 ---
 
 ### [98]. TurboQuant：KV Cache量化论文精读【每天一个宝藏论文】
@@ -2627,6 +3000,7 @@
 - 查看封面：[图片BV11sKQ6zEFj](./assets/papers/BV11sKQ6zEFj.jpg)
 
 [![](./assets/papers/BV11sKQ6zEFj.jpg)](https://www.bilibili.com/video/BV11sKQ6zEFj)
+
 ---
 
 ### [97]. RaBitQ的改进工作：论文精读【每天一个宝藏论文】
@@ -2634,6 +3008,7 @@
 - 查看封面：[图片BV18e7p6FEU6](./assets/papers/BV18e7p6FEU6.jpg)
 
 [![](./assets/papers/BV18e7p6FEU6.jpg)](https://www.bilibili.com/video/BV18e7p6FEU6)
+
 ---
 
 ### [96]. Mamba_2：论文精读【每天一个宝藏论文】
@@ -2641,6 +3016,7 @@
 - 查看封面：[图片BV1Av7q6dEpF](./assets/papers/BV1Av7q6dEpF.jpg)
 
 [![](./assets/papers/BV1Av7q6dEpF.jpg)](https://www.bilibili.com/video/BV1Av7q6dEpF)
+
 ---
 
 ### [95]. SAM_2：论文精读【每天一个宝藏论文】
@@ -2648,6 +3024,7 @@
 - 查看封面：[图片BV1kv7q6RELS](./assets/papers/BV1kv7q6RELS.jpg)
 
 [![](./assets/papers/BV1kv7q6RELS.jpg)](https://www.bilibili.com/video/BV1kv7q6RELS)
+
 ---
 
 ### [94]. BPE：论文精读【每天一个宝藏论文】
@@ -2655,6 +3032,7 @@
 - 查看封面：[图片BV1kv7q6REeS](./assets/papers/BV1kv7q6REeS.jpg)
 
 [![](./assets/papers/BV1kv7q6REeS.jpg)](https://www.bilibili.com/video/BV1kv7q6REeS)
+
 ---
 
 ### [93]. PyTorch_2：论文精读【每天一个宝藏论文】
@@ -2662,6 +3040,7 @@
 - 查看封面：[图片BV1kv7q6RE7a](./assets/papers/BV1kv7q6RE7a.jpg)
 
 [![](./assets/papers/BV1kv7q6RE7a.jpg)](https://www.bilibili.com/video/BV1kv7q6RE7a)
+
 ---
 
 ### [92]. TVM：论文精读【每天一个宝藏论文】
@@ -2669,6 +3048,7 @@
 - 查看封面：[图片BV1kv7q6REVg](./assets/papers/BV1kv7q6REVg.jpg)
 
 [![](./assets/papers/BV1kv7q6REVg.jpg)](https://www.bilibili.com/video/BV1kv7q6REVg)
+
 ---
 
 ### [91]. ConsistencyModels：论文精读【每天一个宝藏论文】
@@ -2676,6 +3056,7 @@
 - 查看封面：[图片BV1wv7q6dEtL](./assets/papers/BV1wv7q6dEtL.jpg)
 
 [![](./assets/papers/BV1wv7q6dEtL.jpg)](https://www.bilibili.com/video/BV1wv7q6dEtL)
+
 ---
 
 ### [90]. EDM：论文精读【每天一个宝藏论文】
@@ -2683,6 +3064,7 @@
 - 查看封面：[图片BV1kv7q6REvQ](./assets/papers/BV1kv7q6REvQ.jpg)
 
 [![](./assets/papers/BV1kv7q6REvQ.jpg)](https://www.bilibili.com/video/BV1kv7q6REvQ)
+
 ---
 
 ### [89]. LDM：论文精读【每天一个宝藏论文】
@@ -2690,6 +3072,7 @@
 - 查看封面：[图片BV1Av7q6dEKW](./assets/papers/BV1Av7q6dEKW.jpg)
 
 [![](./assets/papers/BV1Av7q6dEKW.jpg)](https://www.bilibili.com/video/BV1Av7q6dEKW)
+
 ---
 
 ### [88]. DiffusionBeatGANs：论文精读【每天一个宝藏论文】
@@ -2697,6 +3080,7 @@
 - 查看封面：[图片BV1kv7q6REEK](./assets/papers/BV1kv7q6REEK.jpg)
 
 [![](./assets/papers/BV1kv7q6REEK.jpg)](https://www.bilibili.com/video/BV1kv7q6REEK)
+
 ---
 
 ### [87]. ScoreSDE：论文精读【每天一个宝藏论文】
@@ -2704,6 +3088,7 @@
 - 查看封面：[图片BV1kv7q6REtL](./assets/papers/BV1kv7q6REtL.jpg)
 
 [![](./assets/papers/BV1kv7q6REtL.jpg)](https://www.bilibili.com/video/BV1kv7q6REtL)
+
 ---
 
 ### [86]. DDIM：论文精读【每天一个宝藏论文】
@@ -2711,6 +3096,7 @@
 - 查看封面：[图片BV1LXjg6vEPM](./assets/papers/BV1LXjg6vEPM.jpg)
 
 [![](./assets/papers/BV1LXjg6vEPM.jpg)](https://www.bilibili.com/video/BV1LXjg6vEPM)
+
 ---
 
 ### [85]. NCSN：论文精读【每天一个宝藏论文】
@@ -2718,6 +3104,7 @@
 - 查看封面：[图片BV1LXjg6vEhk](./assets/papers/BV1LXjg6vEhk.jpg)
 
 [![](./assets/papers/BV1LXjg6vEhk.jpg)](https://www.bilibili.com/video/BV1LXjg6vEhk)
+
 ---
 
 ### [84]. WGAN：论文精读【每天一个宝藏论文】
@@ -2725,6 +3112,7 @@
 - 查看封面：[图片BV176Js6DELe](./assets/papers/BV176Js6DELe.jpg)
 
 [![](./assets/papers/BV176Js6DELe.jpg)](https://www.bilibili.com/video/BV176Js6DELe)
+
 ---
 
 ### [83]. 思维树：论文精读【每天一个宝藏论文】
@@ -2732,6 +3120,7 @@
 - 查看封面：[图片BV176Js6DEsq](./assets/papers/BV176Js6DEsq.jpg)
 
 [![](./assets/papers/BV176Js6DEsq.jpg)](https://www.bilibili.com/video/BV176Js6DEsq)
+
 ---
 
 ### [82]. 思维链：论文精读【每天一个宝藏论文】
@@ -2739,6 +3128,7 @@
 - 查看封面：[图片BV1q6Js6DEaQ](./assets/papers/BV1q6Js6DEaQ.jpg)
 
 [![](./assets/papers/BV1q6Js6DEaQ.jpg)](https://www.bilibili.com/video/BV1q6Js6DEaQ)
+
 ---
 
 ### [81]. ProgressiveDistillation：论文精读【每天一个宝藏论文】
@@ -2746,6 +3136,7 @@
 - 查看封面：[图片BV1q6Js6DE2b](./assets/papers/BV1q6Js6DE2b.jpg)
 
 [![](./assets/papers/BV1q6Js6DE2b.jpg)](https://www.bilibili.com/video/BV1q6Js6DE2b)
+
 ---
 
 ### [80]. GAN：论文精读【每天一个宝藏论文】
@@ -2753,6 +3144,7 @@
 - 查看封面：[图片BV176Js6DEPp](./assets/papers/BV176Js6DEPp.jpg)
 
 [![](./assets/papers/BV176Js6DEPp.jpg)](https://www.bilibili.com/video/BV176Js6DEPp)
+
 ---
 
 ### [79]. FlashAttention-4：论文精读【每天一个宝藏论文】
@@ -2760,6 +3152,7 @@
 - 查看封面：[图片BV1q6Js6DEwE](./assets/papers/BV1q6Js6DEwE.jpg)
 
 [![](./assets/papers/BV1q6Js6DEwE.jpg)](https://www.bilibili.com/video/BV1q6Js6DEwE)
+
 ---
 
 ### [78]. CFG：论文精读【每天一个宝藏论文】
@@ -2767,6 +3160,7 @@
 - 查看封面：[图片BV176Js6DE5W](./assets/papers/BV176Js6DE5W.jpg)
 
 [![](./assets/papers/BV176Js6DE5W.jpg)](https://www.bilibili.com/video/BV176Js6DE5W)
+
 ---
 
 ### [77]. DDPM：论文精读【每天一个宝藏论文】
@@ -2774,6 +3168,7 @@
 - 查看封面：[图片BV176Js6DEaM](./assets/papers/BV176Js6DEaM.jpg)
 
 [![](./assets/papers/BV176Js6DEaM.jpg)](https://www.bilibili.com/video/BV176Js6DEaM)
+
 ---
 
 ### [76]. VAE：论文精读【每天一个宝藏论文】
@@ -2781,6 +3176,7 @@
 - 查看封面：[图片BV1Ag7m6XEyN](./assets/papers/BV1Ag7m6XEyN.jpg)
 
 [![](./assets/papers/BV1Ag7m6XEyN.jpg)](https://www.bilibili.com/video/BV1Ag7m6XEyN)
+
 ---
 
 ### [75]. GoogLeNet：论文精读【每天一个宝藏论文】
@@ -2788,6 +3184,7 @@
 - 查看封面：[图片BV1Pg7m6XEnq](./assets/papers/BV1Pg7m6XEnq.jpg)
 
 [![](./assets/papers/BV1Pg7m6XEnq.jpg)](https://www.bilibili.com/video/BV1Pg7m6XEnq)
+
 ---
 
 ### [74]. VGG：论文精读【每天一个宝藏论文】
@@ -2795,6 +3192,7 @@
 - 查看封面：[图片BV1Ag7m6XEy4](./assets/papers/BV1Ag7m6XEy4.jpg)
 
 [![](./assets/papers/BV1Ag7m6XEy4.jpg)](https://www.bilibili.com/video/BV1Ag7m6XEy4)
+
 ---
 
 ### [73]. FasterRCNN：论文精读【每天一个宝藏论文】
@@ -2802,6 +3200,7 @@
 - 查看封面：[图片BV1Wg7m6XEgG](./assets/papers/BV1Wg7m6XEgG.jpg)
 
 [![](./assets/papers/BV1Wg7m6XEgG.jpg)](https://www.bilibili.com/video/BV1Wg7m6XEgG)
+
 ---
 
 ### [72]. Word2Vec：论文精读【每天一个宝藏论文】
@@ -2809,6 +3208,7 @@
 - 查看封面：[图片BV1Ag7m6XERk](./assets/papers/BV1Ag7m6XERk.jpg)
 
 [![](./assets/papers/BV1Ag7m6XERk.jpg)](https://www.bilibili.com/video/BV1Ag7m6XERk)
+
 ---
 
 ### [71]. Whisper：论文精读【每天一个宝藏论文】
@@ -2816,6 +3216,7 @@
 - 查看封面：[图片BV1Ag7m6XErq](./assets/papers/BV1Ag7m6XErq.jpg)
 
 [![](./assets/papers/BV1Ag7m6XErq.jpg)](https://www.bilibili.com/video/BV1Ag7m6XErq)
+
 ---
 
 ### [70]. UNet：论文精读【每天一个宝藏论文】
@@ -2823,6 +3224,7 @@
 - 查看封面：[图片BV1zRVE6sEz1](./assets/papers/BV1zRVE6sEz1.jpg)
 
 [![](./assets/papers/BV1zRVE6sEz1.jpg)](https://www.bilibili.com/video/BV1zRVE6sEz1)
+
 ---
 
 ### [69]. SwinTransformer：论文解读【每天一个宝藏论文】
@@ -2830,6 +3232,7 @@
 - 查看封面：[图片BV1zRVE6sEU2](./assets/papers/BV1zRVE6sEU2.jpg)
 
 [![](./assets/papers/BV1zRVE6sEU2.jpg)](https://www.bilibili.com/video/BV1zRVE6sEU2)
+
 ---
 
 ### [68]. EfficientNet：论文解读【每天一个宝藏论文】
@@ -2837,6 +3240,7 @@
 - 查看封面：[图片BV1zRVE6sEmR](./assets/papers/BV1zRVE6sEmR.jpg)
 
 [![](./assets/papers/BV1zRVE6sEmR.jpg)](https://www.bilibili.com/video/BV1zRVE6sEmR)
+
 ---
 
 ### [67]. Dropout：论文解读【每天一个宝藏论文】
@@ -2844,6 +3248,7 @@
 - 查看封面：[图片BV1dsG26dETn](./assets/papers/BV1dsG26dETn.jpg)
 
 [![](./assets/papers/BV1dsG26dETn.jpg)](https://www.bilibili.com/video/BV1dsG26dETn)
+
 ---
 
 ### [66]. DINO：论文解读【每天一个宝藏论文】
@@ -2851,6 +3256,7 @@
 - 查看封面：[图片BV1bGVK6iEq7](./assets/papers/BV1bGVK6iEq7.jpg)
 
 [![](./assets/papers/BV1bGVK6iEq7.jpg)](https://www.bilibili.com/video/BV1bGVK6iEq7)
+
 ---
 
 ### [65]. Mamba：论文解读【每天一个宝藏论文】
@@ -2858,6 +3264,7 @@
 - 查看封面：[图片BV1uGVK6iEh2](./assets/papers/BV1uGVK6iEh2.jpg)
 
 [![](./assets/papers/BV1uGVK6iEh2.jpg)](https://www.bilibili.com/video/BV1uGVK6iEh2)
+
 ---
 
 ### [64]. YOLO：论文解读【每天一个宝藏论文】
@@ -2865,6 +3272,7 @@
 - 查看封面：[图片BV18iGx6oEo1](./assets/papers/BV18iGx6oEo1.jpg)
 
 [![](./assets/papers/BV18iGx6oEo1.jpg)](https://www.bilibili.com/video/BV18iGx6oEo1)
+
 ---
 
 ### [63]. DETR：论文解读【每天一个宝藏论文】
@@ -2872,6 +3280,7 @@
 - 查看封面：[图片BV1DiGx6oE4S](./assets/papers/BV1DiGx6oE4S.jpg)
 
 [![](./assets/papers/BV1DiGx6oE4S.jpg)](https://www.bilibili.com/video/BV1DiGx6oE4S)
+
 ---
 
 ### [62]. FlowMatching：论文解读【每天一个宝藏论文】
@@ -2879,6 +3288,7 @@
 - 查看封面：[图片BV1hiGx6oExa](./assets/papers/BV1hiGx6oExa.jpg)
 
 [![](./assets/papers/BV1hiGx6oExa.jpg)](https://www.bilibili.com/video/BV1hiGx6oExa)
+
 ---
 
 ### [61]. RaBitQ：向量检索论文解读【每天一个宝藏论文】
@@ -2886,6 +3296,7 @@
 - 查看封面：[图片BV1AtGe6KEuV](./assets/papers/BV1AtGe6KEuV.jpg)
 
 [![](./assets/papers/BV1AtGe6KEuV.jpg)](https://www.bilibili.com/video/BV1AtGe6KEuV)
+
 ---
 
 ### [60]. SAM：论文解读【每天一个宝藏论文】
@@ -2893,6 +3304,7 @@
 - 查看封面：[图片BV1ktGe6NE1c](./assets/papers/BV1ktGe6NE1c.jpg)
 
 [![](./assets/papers/BV1ktGe6NE1c.jpg)](https://www.bilibili.com/video/BV1ktGe6NE1c)
+
 ---
 
 ### [59]. MoE：论文解读【每天一个宝藏论文】
@@ -2900,6 +3312,7 @@
 - 查看封面：[图片BV17zLC68Emq](./assets/papers/BV17zLC68Emq.jpg)
 
 [![](./assets/papers/BV17zLC68Emq.jpg)](https://www.bilibili.com/video/BV17zLC68Emq)
+
 ---
 
 ### [58]. MAE：论文解读【每天一个宝藏论文】
@@ -2907,6 +3320,7 @@
 - 查看封面：[图片BV1zGLM6cEYG](./assets/papers/BV1zGLM6cEYG.jpg)
 
 [![](./assets/papers/BV1zGLM6cEYG.jpg)](https://www.bilibili.com/video/BV1zGLM6cEYG)
+
 ---
 
 ### [57]. CLIP：论文解读【每天一个宝藏论文】
@@ -2914,6 +3328,7 @@
 - 查看封面：[图片BV1cQLJ6PE78](./assets/papers/BV1cQLJ6PE78.jpg)
 
 [![](./assets/papers/BV1cQLJ6PE78.jpg)](https://www.bilibili.com/video/BV1cQLJ6PE78)
+
 ---
 
 ### [56]. 旋转位置编码RoPE：论文解读【每天一个宝藏论文】
@@ -2921,6 +3336,7 @@
 - 查看封面：[图片BV1cQLJ6PEAs](./assets/papers/BV1cQLJ6PEAs.jpg)
 
 [![](./assets/papers/BV1cQLJ6PEAs.jpg)](https://www.bilibili.com/video/BV1cQLJ6PEAs)
+
 ---
 
 ### [55]. ScaNN：向量检索论文解读【每天一个宝藏论文】
@@ -2928,6 +3344,7 @@
 - 查看封面：[图片BV1FQLJ6PESa](./assets/papers/BV1FQLJ6PESa.jpg)
 
 [![](./assets/papers/BV1FQLJ6PESa.jpg)](https://www.bilibili.com/video/BV1FQLJ6PESa)
+
 ---
 
 ### [54]. ViT：论文解读【每天一个宝藏论文】
@@ -2935,6 +3352,7 @@
 - 查看封面：[图片BV1JXLJ6YE1X](./assets/papers/BV1JXLJ6YE1X.jpg)
 
 [![](./assets/papers/BV1JXLJ6YE1X.jpg)](https://www.bilibili.com/video/BV1JXLJ6YE1X)
+
 ---
 
 ### [53]. GPT3：论文解读【每天一个宝藏论文】
@@ -2942,6 +3360,7 @@
 - 查看封面：[图片BV1FXLJ6YEh4](./assets/papers/BV1FXLJ6YEh4.jpg)
 
 [![](./assets/papers/BV1FXLJ6YEh4.jpg)](https://www.bilibili.com/video/BV1FXLJ6YEh4)
+
 ---
 
 ### [52]. GPT2：论文解读【每天一个宝藏论文】
@@ -2949,6 +3368,7 @@
 - 查看封面：[图片BV1FXLJ6YECS](./assets/papers/BV1FXLJ6YECS.jpg)
 
 [![](./assets/papers/BV1FXLJ6YECS.jpg)](https://www.bilibili.com/video/BV1FXLJ6YECS)
+
 ---
 
 ### [51]. BERT：论文解读【每天一个宝藏论文】
@@ -2956,6 +3376,7 @@
 - 查看封面：[图片BV1fXLJ6aEZ1](./assets/papers/BV1fXLJ6aEZ1.jpg)
 
 [![](./assets/papers/BV1fXLJ6aEZ1.jpg)](https://www.bilibili.com/video/BV1fXLJ6aEZ1)
+
 ---
 
 ### [50]. MobileNet：论文解读【每天一个宝藏论文】
@@ -2963,6 +3384,7 @@
 - 查看封面：[图片BV1FXLJ6YExi](./assets/papers/BV1FXLJ6YExi.jpg)
 
 [![](./assets/papers/BV1FXLJ6YExi.jpg)](https://www.bilibili.com/video/BV1FXLJ6YExi)
+
 ---
 
 ### [49]. ResNet：论文解读【每天一个宝藏论文】
@@ -2970,6 +3392,7 @@
 - 查看封面：[图片BV1FXLJ6YE4U](./assets/papers/BV1FXLJ6YE4U.jpg)
 
 [![](./assets/papers/BV1FXLJ6YE4U.jpg)](https://www.bilibili.com/video/BV1FXLJ6YE4U)
+
 ---
 
 ### [48]. DAPO：论文解读【每天一个宝藏论文】
@@ -2977,6 +3400,7 @@
 - 查看封面：[图片BV1tN5b6YEjF](./assets/papers/BV1tN5b6YEjF.jpg)
 
 [![](./assets/papers/BV1tN5b6YEjF.jpg)](https://www.bilibili.com/video/BV1tN5b6YEjF)
+
 ---
 
 ### [47]. QLearning：论文解读【每天一个宝藏论文】
@@ -2984,6 +3408,7 @@
 - 查看封面：[图片BV14N5b6YEbS](./assets/papers/BV14N5b6YEbS.jpg)
 
 [![](./assets/papers/BV14N5b6YEbS.jpg)](https://www.bilibili.com/video/BV14N5b6YEbS)
+
 ---
 
 ### [46]. Muon is Scalable：Muon优化器论文解读【每天一个宝藏论文】
@@ -2991,6 +3416,7 @@
 - 查看封面：[图片BV14N5b6YEbf](./assets/papers/BV14N5b6YEbf.jpg)
 
 [![](./assets/papers/BV14N5b6YEbf.jpg)](https://www.bilibili.com/video/BV14N5b6YEbf)
+
 ---
 
 ### [45]. AlphaZero：论文解读【每天一个宝藏论文】
@@ -2998,6 +3424,7 @@
 - 查看封面：[图片BV1nERrB9E7d](./assets/papers/BV1nERrB9E7d.jpg)
 
 [![](./assets/papers/BV1nERrB9E7d.jpg)](https://www.bilibili.com/video/BV1nERrB9E7d)
+
 ---
 
 ### [44]. AutoRound：大模型量化论文解读【每天一个宝藏论文】
@@ -3005,6 +3432,7 @@
 - 查看封面：[图片BV1t1RrBNEEt](./assets/papers/BV1t1RrBNEEt.jpg)
 
 [![](./assets/papers/BV1t1RrBNEEt.jpg)](https://www.bilibili.com/video/BV1t1RrBNEEt)
+
 ---
 
 ### [43]. MQA：论文解读【每天一个宝藏论文】
@@ -3012,6 +3440,7 @@
 - 查看封面：[图片BV1m1RrBNEmy](./assets/papers/BV1m1RrBNEmy.jpg)
 
 [![](./assets/papers/BV1m1RrBNEmy.jpg)](https://www.bilibili.com/video/BV1m1RrBNEmy)
+
 ---
 
 ### [42]. DQN：论文解读【每天一个宝藏论文】
@@ -3019,6 +3448,7 @@
 - 查看封面：[图片BV141RrBNEd1](./assets/papers/BV141RrBNEd1.jpg)
 
 [![](./assets/papers/BV141RrBNEd1.jpg)](https://www.bilibili.com/video/BV141RrBNEd1)
+
 ---
 
 ### [41]. DeepSeek_GRPO：论文解读【每天一个宝藏论文】
@@ -3026,6 +3456,7 @@
 - 查看封面：[图片BV1m1RrBNEhp](./assets/papers/BV1m1RrBNEhp.jpg)
 
 [![](./assets/papers/BV1m1RrBNEhp.jpg)](https://www.bilibili.com/video/BV1m1RrBNEhp)
+
 ---
 
 ### [40]. Transformer：论文解读【每天一个宝藏论文】
@@ -3033,6 +3464,7 @@
 - 查看封面：[图片BV1t1RrBNEwi](./assets/papers/BV1t1RrBNEwi.jpg)
 
 [![](./assets/papers/BV1t1RrBNEwi.jpg)](https://www.bilibili.com/video/BV1t1RrBNEwi)
+
 ---
 
 ### [39]. 智能体强化学习论文串讲：WebRL、DigiRL、WebAgent-R1、AgentQ【每天一个宝藏论文】
@@ -3040,6 +3472,7 @@
 - 查看封面：[图片BV1f9RxBCEyN](./assets/papers/BV1f9RxBCEyN.jpg)
 
 [![](./assets/papers/BV1f9RxBCEyN.jpg)](https://www.bilibili.com/video/BV1f9RxBCEyN)
+
 ---
 
 ### [38]. AlphaGo：论文解读【每天一个宝藏论文】
@@ -3047,6 +3480,7 @@
 - 查看封面：[图片BV1t1RrBNELs](./assets/papers/BV1t1RrBNELs.jpg)
 
 [![](./assets/papers/BV1t1RrBNELs.jpg)](https://www.bilibili.com/video/BV1t1RrBNELs)
+
 ---
 
 ### [37]. Adam：论文解读【每天一个宝藏论文】
@@ -3054,6 +3488,7 @@
 - 查看封面：[图片BV142RrBeEjQ](./assets/papers/BV142RrBeEjQ.jpg)
 
 [![](./assets/papers/BV142RrBeEjQ.jpg)](https://www.bilibili.com/video/BV142RrBeEjQ)
+
 ---
 
 ### [36]. DPO：论文解读【每天一个宝藏论文】
@@ -3061,6 +3496,7 @@
 - 查看封面：[图片BV142RrBeE8E](./assets/papers/BV142RrBeE8E.jpg)
 
 [![](./assets/papers/BV142RrBeE8E.jpg)](https://www.bilibili.com/video/BV142RrBeE8E)
+
 ---
 
 ### [35]. Deepseek-Engram：论文解读【每天一个宝藏论文】
@@ -3068,6 +3504,7 @@
 - 查看封面：[图片BV122RrBeEfs](./assets/papers/BV122RrBeEfs.jpg)
 
 [![](./assets/papers/BV122RrBeEfs.jpg)](https://www.bilibili.com/video/BV122RrBeEfs)
+
 ---
 
 ### [34]. PPO：论文解读【每天一个宝藏论文】
@@ -3075,6 +3512,7 @@
 - 查看封面：[图片BV1T2RrBvE25](./assets/papers/BV1T2RrBvE25.jpg)
 
 [![](./assets/papers/BV1T2RrBvE25.jpg)](https://www.bilibili.com/video/BV1T2RrBvE25)
+
 ---
 
 ### [33]. mHC：流形约束超连接【每天一个宝藏论文】
@@ -3082,6 +3520,7 @@
 - 查看封面：[图片BV1m2RrBeEFS](./assets/papers/BV1m2RrBeEFS.jpg)
 
 [![](./assets/papers/BV1m2RrBeEFS.jpg)](https://www.bilibili.com/video/BV1m2RrBeEFS)
+
 ---
 
 ### [32]. Hyper Connections：残差连接的改进【每天一个宝藏论文】
@@ -3089,6 +3528,7 @@
 - 查看封面：[图片BV142RrBeEa3](./assets/papers/BV142RrBeEa3.jpg)
 
 [![](./assets/papers/BV142RrBeEa3.jpg)](https://www.bilibili.com/video/BV142RrBeEa3)
+
 ---
 
 ### [31]. OSDI 2025 LLM方向论文串讲：DecDEC、WLB_LLM、Straggler【每天一个宝藏论文】
@@ -3096,6 +3536,7 @@
 - 查看封面：[图片BV129ReB1EiW](./assets/papers/BV129ReB1EiW.jpg)
 
 [![](./assets/papers/BV129ReB1EiW.jpg)](https://www.bilibili.com/video/BV129ReB1EiW)
+
 ---
 
 ### [30] Deepseek-MLA、MTP解读 【每天一个宝藏论文】
@@ -3103,6 +3544,7 @@
 - 查看封面：[图片BV1Vgd2BtEKe](./assets/papers/BV1Vgd2BtEKe.jpg)
 
 [![](./assets/papers/BV1Vgd2BtEKe.jpg)](https://www.bilibili.com/video/BV1Vgd2BtEKe)
+
 ---
 
 ### [29] GPTQ：大模型量化论文解读【每天一个宝藏论文】
@@ -3110,6 +3552,7 @@
 - 查看封面：[图片BV1Y3d2BoELh](./assets/papers/BV1Y3d2BoELh.jpg)
 
 [![](./assets/papers/BV1Y3d2BoELh.jpg)](https://www.bilibili.com/video/BV1Y3d2BoELh)
+
 ---
 
 ### [28] 模型剪枝OB家族论文一口气看完：OBD、OBS、OBC【每天一个宝藏论文】
@@ -3117,6 +3560,7 @@
 - 查看封面：[图片BV1bJd2BHEeb](./assets/papers/BV1bJd2BHEeb.jpg)
 
 [![](./assets/papers/BV1bJd2BHEeb.jpg)](https://www.bilibili.com/video/BV1bJd2BHEeb)
+
 ---
 
 ### [27] SlimAttention：一种和FlashAttention分块策略不同的注意力【每天一个宝藏论文】
@@ -3124,6 +3568,7 @@
 - 查看封面：[图片BV1hjd2BWEGS](./assets/papers/BV1hjd2BWEGS.jpg)
 
 [![](./assets/papers/BV1hjd2BWEGS.jpg)](https://www.bilibili.com/video/BV1hjd2BWEGS)
+
 ---
 
 ### [26] GQA：分组查询注意力论文解读【每天一个宝藏论文】
@@ -3131,6 +3576,7 @@
 - 查看封面：[图片BV1Bcd2BeEVv](./assets/papers/BV1Bcd2BeEVv.jpg)
 
 [![](./assets/papers/BV1Bcd2BeEVv.jpg)](https://www.bilibili.com/video/BV1Bcd2BeEVv)
+
 ---
 
 ### [25] QLora：大模型量化微调论文解读【每天一个宝藏论文】
@@ -3138,6 +3584,7 @@
 - 查看封面：[图片BV1CFdrBfE2D](./assets/papers/BV1CFdrBfE2D.jpg)
 
 [![](./assets/papers/BV1CFdrBfE2D.jpg)](https://www.bilibili.com/video/BV1CFdrBfE2D)
+
 ---
 
 ### [24] SGLang：大模型推理引擎论文解读【每天一个宝藏论文】
@@ -3145,6 +3592,7 @@
 - 查看封面：[图片BV18Ud6BME78](./assets/papers/BV18Ud6BME78.jpg)
 
 [![](./assets/papers/BV18Ud6BME78.jpg)](https://www.bilibili.com/video/BV18Ud6BME78)
+
 ---
 
 ### [23] flash-attention-v3：论文解读【每天一个宝藏论文】
@@ -3152,6 +3600,7 @@
 - 查看封面：[图片BV1yZd6BcE3b](./assets/papers/BV1yZd6BcE3b.jpg)
 
 [![](./assets/papers/BV1yZd6BcE3b.jpg)](https://www.bilibili.com/video/BV1yZd6BcE3b)
+
 ---
 
 ### [22] FlashAttention-V2：论文解读【每天一个宝藏论文】
@@ -3159,6 +3608,7 @@
 - 查看封面：[图片BV1yfd6B8E37](./assets/papers/BV1yfd6B8E37.jpg)
 
 [![](./assets/papers/BV1yfd6B8E37.jpg)](https://www.bilibili.com/video/BV1yfd6B8E37)
+
 ---
 
 ### [21] 在线softmax：论文解读【每天一个宝藏论文】
@@ -3166,6 +3616,7 @@
 - 查看封面：[图片BV1Qkd6B3EUe](./assets/papers/BV1Qkd6B3EUe.jpg)
 
 [![](./assets/papers/BV1Qkd6B3EUe.jpg)](https://www.bilibili.com/video/BV1Qkd6B3EUe)
+
 ---
 
 ### [20] 投机采样：大模型推理加速论文解读【每天一个宝藏论文】
@@ -3173,6 +3624,7 @@
 - 查看封面：[图片BV1V6d6BCEzJ](./assets/papers/BV1V6d6BCEzJ.jpg)
 
 [![](./assets/papers/BV1V6d6BCEzJ.jpg)](https://www.bilibili.com/video/BV1V6d6BCEzJ)
+
 ---
 
 ### [19] DeepSeek-V4逐图、逐公式解读【每天一个宝藏论文】
@@ -3180,6 +3632,7 @@
 - 查看封面：[图片BV1Mgo5BwEST](./assets/papers/BV1Mgo5BwEST.jpg)
 
 [![](./assets/papers/BV1Mgo5BwEST.jpg)](https://www.bilibili.com/video/BV1Mgo5BwEST)
+
 ---
 
 ### [18] SmoothQuant：大模型量化论文解读【每天一个宝藏论文】
@@ -3187,6 +3640,7 @@
 - 查看封面：[图片BV1CkoPBbEyB](./assets/papers/BV1CkoPBbEyB.jpg)
 
 [![](./assets/papers/BV1CkoPBbEyB.jpg)](https://www.bilibili.com/video/BV1CkoPBbEyB)
+
 ---
 
 ### [17] FlashAttention-1论文解读 【每天一个宝藏论文】
@@ -3194,6 +3648,7 @@
 - 查看封面：[图片BV1XPoNB5EQy](./assets/papers/BV1XPoNB5EQy.jpg)
 
 [![](./assets/papers/BV1XPoNB5EQy.jpg)](https://www.bilibili.com/video/BV1XPoNB5EQy)
+
 ---
 
 ### [16] LLM.int8()：大模型量化论文解读【每天一个宝藏论文】
@@ -3201,6 +3656,7 @@
 - 查看封面：[图片BV1BeoNB9EQP](./assets/papers/BV1BeoNB9EQP.jpg)
 
 [![](./assets/papers/BV1BeoNB9EQP.jpg)](https://www.bilibili.com/video/BV1BeoNB9EQP)
+
 ---
 
 ### [15] PagedAttention：vLLM论文解读【每天一个宝藏论文】
@@ -3208,6 +3664,7 @@
 - 查看封面：[图片BV1xJoNBPEqe](./assets/papers/BV1xJoNBPEqe.jpg)
 
 [![](./assets/papers/BV1xJoNBPEqe.jpg)](https://www.bilibili.com/video/BV1xJoNBPEqe)
+
 ---
 
 ### [14] AWQ：大语言模型量化论文解读 【每天一个宝藏论文】
@@ -3215,6 +3672,7 @@
 - 查看封面：[图片BV1RuoFBvEm8](./assets/papers/BV1RuoFBvEm8.jpg)
 
 [![](./assets/papers/BV1RuoFBvEm8.jpg)](https://www.bilibili.com/video/BV1RuoFBvEm8)
+
 ---
 
 ### ［12］读2个多Agent共享KV Cache的论文【每周一个宝藏论文】
@@ -3222,6 +3680,7 @@
 - 查看封面：[图片BV1B997BmEGr](./assets/papers/BV1B997BmEGr.jpg)
 
 [![](./assets/papers/BV1B997BmEGr.jpg)](https://www.bilibili.com/video/BV1B997BmEGr)
+
 ---
 
 ### ［10］大模型写算子：读两个KernelBench的改进工作【每周一个宝藏论文】
@@ -3229,6 +3688,7 @@
 - 查看封面：[图片BV1M8QUBUESz](./assets/papers/BV1M8QUBUESz.jpg)
 
 [![](./assets/papers/BV1M8QUBUESz.jpg)](https://www.bilibili.com/video/BV1M8QUBUESz)
+
 ---
 
 ### [8] 读三个强化学习写算子的论文【每周一个宝藏论文】
@@ -3236,6 +3696,7 @@
 - 查看封面：[图片BV1fVckzqE1S](./assets/papers/BV1fVckzqE1S.jpg)
 
 [![](./assets/papers/BV1fVckzqE1S.jpg)](https://www.bilibili.com/video/BV1fVckzqE1S)
+
 ---
 
 ### [6] Agent写算子：读三个Agent写算子的论文【每周一个宝藏论文】
@@ -3243,6 +3704,7 @@
 - 查看封面：[图片BV1HVPkzEEx9](./assets/papers/BV1HVPkzEEx9.jpg)
 
 [![](./assets/papers/BV1HVPkzEEx9.jpg)](https://www.bilibili.com/video/BV1HVPkzEEx9)
+
 ---
 
 ### [4] 大模型写算子：一篇综述+2个数据集【每周一个宝藏论文】
@@ -3250,6 +3712,7 @@
 - 查看封面：[图片BV1pJA6zkEH4](./assets/papers/BV1pJA6zkEH4.jpg)
 
 [![](./assets/papers/BV1pJA6zkEH4.jpg)](https://www.bilibili.com/video/BV1pJA6zkEH4)
+
 ---
 
 ### [2] 读上月新鲜出炉的综述：大模型写算子【每周一个宝藏论文】
@@ -3257,6 +3720,7 @@
 - 查看封面：[图片BV1XcfBBGEUw](./assets/papers/BV1XcfBBGEUw.jpg)
 
 [![](./assets/papers/BV1XcfBBGEUw.jpg)](https://www.bilibili.com/video/BV1XcfBBGEUw)
+
 ---
 
 ## 每天一个宝藏实验
@@ -3266,6 +3730,7 @@
 - 查看封面：[图片BV1XMX5BZEGF](./assets/experiments/BV1XMX5BZEGF.jpg)
 
 [![](./assets/experiments/BV1XMX5BZEGF.jpg)](https://www.bilibili.com/video/BV1XMX5BZEGF)
+
 ---
 
 ### [11] 跑robust-kbench测试LLM写算子，附Agent提示词【每周一个宝藏实验】
@@ -3273,6 +3738,7 @@
 - 查看封面：[图片BV1vxAszpE3P](./assets/experiments/BV1vxAszpE3P.jpg)
 
 [![](./assets/experiments/BV1vxAszpE3P.jpg)](https://www.bilibili.com/video/BV1vxAszpE3P)
+
 ---
 
 ### [9] 跑CUDA-L2测试和cuBLAS相比效果如何？【每周一个宝藏实验】
@@ -3280,6 +3746,7 @@
 - 查看封面：[图片BV1QPwszCE39](./assets/experiments/BV1QPwszCE39.jpg)
 
 [![](./assets/experiments/BV1QPwszCE39.jpg)](https://www.bilibili.com/video/BV1QPwszCE39)
+
 ---
 
 ### [7] 跑KernelBench测试LLM将PyTorch转译为CUDA代码的能力（ICML2025）【每周一个宝藏实验】
@@ -3287,6 +3754,7 @@
 - 查看封面：[图片BV1gzPyzuERu](./assets/experiments/BV1gzPyzuERu.jpg)
 
 [![](./assets/experiments/BV1gzPyzuERu.jpg)](https://www.bilibili.com/video/BV1gzPyzuERu)
+
 ---
 
 ### [5] 快速上手FuctionCall和React：极简易百词斩Agent【每周一个宝藏实验】
@@ -3294,6 +3762,7 @@
 - 查看封面：[图片BV1nUAazDEma](./assets/experiments/BV1nUAazDEma.jpg)
 
 [![](./assets/experiments/BV1nUAazDEma.jpg)](https://www.bilibili.com/video/BV1nUAazDEma)
+
 ---
 
 ### [3] 从采摘200片三叶草开始训练一个简易无条件DDPM 【每周一个宝藏实验】
@@ -3301,6 +3770,7 @@
 - 查看封面：[图片BV1PcfEBrEBs](./assets/experiments/BV1PcfEBrEBs.jpg)
 
 [![](./assets/experiments/BV1PcfEBrEBs.jpg)](https://www.bilibili.com/video/BV1PcfEBrEBs)
+
 ---
 
 ### [1]. 跑通TritonBench测试LLM的算子生成能力(ACL2025)【每周一个宝藏实验】
@@ -3308,6 +3778,7 @@
 - 查看封面：[图片BV12xZBBwEKf](./assets/experiments/BV12xZBBwEKf.jpg)
 
 [![](./assets/experiments/BV12xZBBwEKf.jpg)](https://www.bilibili.com/video/BV12xZBBwEKf)
+
 ---
 
 ## 其他

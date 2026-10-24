@@ -513,6 +513,7 @@ def update_readme(bv_list):
             lines.append(f"- 查看封面：[图片{bv}]({img_path})")
             lines.append("")
             lines.append(f"[![]({img_path})]({video_url})")
+            lines.append("")  # 避免 --- 将封面图片解析为 Setext 二级标题
             lines.append("---")
             lines.append("")  # 空行分隔
         
