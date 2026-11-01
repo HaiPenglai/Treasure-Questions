@@ -11,6 +11,7 @@
 
 # 4. 保留必要脚本
 !bilibili_cover_extractor.py
+!test_bilibili_cover_extractor.py
 !bv_list.json
 
 # 5. 保留宝藏资源链接大全

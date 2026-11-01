@@ -2,7 +2,7 @@
 B站视频第一帧封面提取流水线 v4 - 使用BVID作为文件名（避免GitHub中文路径问题）
 - 文件名使用BVID（如 BV1qAA5ztELy.jpg）
 - 按视频分类存放（questions/papers/experiments/terms/others）
-- 自动更新 README.md 生成视频列表（带序号排序和简化标题）
+- 自动更新 README.md：三个宝藏问题系列统一按发布时间倒序，最新发布的在前
 - 带反爬虫延迟
 - 自动发现新发布的视频（基于时间戳增量更新）
 
@@ -35,6 +35,7 @@ README_FILE = "README.md"
 CREDENTIAL_FILE = "credential.json"
 QUESTIONS_LIST_FILE = os.path.join("宝藏资源链接大全", "宝藏问题大全.md")
 PAPERS_LIST_FILE = os.path.join("宝藏资源链接大全", "宝藏论文大全.md")
+QUESTION_SUFFIXES = ("【每天一个宝藏问题】", "【宝藏问题动画版】", "【宝藏问题一口气看完】")
 
 # 尝试读取登录凭证（如果存在）
 def load_credential():
@@ -76,6 +77,8 @@ README_SECTIONS = {
 
 def get_category(title: str) -> str:
     """根据标题判断分类目录"""
+    if title.rstrip().endswith(QUESTION_SUFFIXES):
+        return "questions"
     for cat_dir, keyword in CATEGORIES.items():
         if keyword in title:
             return cat_dir
@@ -88,6 +91,7 @@ def extract_number(title: str) -> int:
     # 1. 数字. 或 数字：或 数字、 或 数字 后跟空格
     # 2. [数字] 或 【数字】 或 ［数字］
     patterns = [
+        r'^<(\d+)>',                     # <2>. 一口气看完
         r'^(\d+)[\.:\s、]\s*',           # 67.  67:  67  67、
         r'^\[(\d+)\]',                    # [67]
         r'^【(\d+)】',                    # 【67】
@@ -110,6 +114,8 @@ def simplify_title(title: str) -> str:
     "67. 为何圆形山谷会让OBD剪枝退化为基于大小剪枝？【每天一个宝藏问题】"
     -> "67. 为何圆形山谷会让OBD剪枝退化为基于大小剪枝？"
     """
+    for suffix in QUESTION_SUFFIXES:
+        title = title.removesuffix(suffix).strip()
     # 去掉所有分类标签
     for keyword in CATEGORIES.values():
         title = re.sub(rf'【{keyword}】', '', title)
@@ -143,7 +149,7 @@ async def refresh_video_info(bv: str) -> dict:
         return {
             "bvid": info.get("bvid", bv),
             "title": info.get("title", ""),
-            "created": info.get("pub_date", 0),
+            "created": info.get("pubdate", info.get("pub_date", 0)),
             "pic": info.get("pic", "")
         }
     except Exception as e:
@@ -418,6 +424,10 @@ async def batch_extract(bv_list):
         print(f"[{i}/{total}] [{category}] 封面缺失: {bv}")
         fresh_info = await refresh_video_info(bv)
         if fresh_info and fresh_info["title"]:
+            # 标题刷新时同时补齐发布时间，供三个问题系列统一排序。
+            if fresh_info.get("created") and item.get("created") != fresh_info["created"]:
+                item["created"] = fresh_info["created"]
+                updated += 1
             old_title = item["title"]
             new_title = fresh_info["title"]
             if old_title != new_title:
@@ -452,8 +462,20 @@ async def batch_extract(bv_list):
     return success, updated
 
 
+def publication_time(item):
+    """B站发布时间戳；旧缓存缺失日期时排在已有日期之后。"""
+    for key in ("created", "pubdate", "pub_date"):
+        try:
+            value = int(item.get(key) or 0)
+            if value > 0:
+                return value
+        except (TypeError, ValueError):
+            pass
+    return 0
+
+
 def update_readme(bv_list):
-    """更新 README.md，生成视频列表（带序号排序，图片无说明文字，减少token）"""
+    """问题三个系列按发布时间倒序；其他栏目保留按序号倒序。"""
     print("\n[README] 开始更新 README.md...")
     
     # 按分类分组
@@ -495,9 +517,9 @@ def update_readme(bv_list):
     
     # 为每个分类生成内容并替换
     for category, section_title in README_SECTIONS.items():
-        # 按序号排序（从大到小，最新的在前面）
         items = categorized[category]
-        items.sort(key=lambda x: extract_number(x["title"]), reverse=True)
+        sort_key = publication_time if category == "questions" else lambda x: extract_number(x["title"])
+        items.sort(key=sort_key, reverse=True)
         
         # 生成该分类的内容
         lines = []
@@ -529,7 +551,8 @@ def update_readme(bv_list):
         new_content, count = re.subn(pattern, replace_section, content, flags=re.DOTALL)
         if count > 0:
             content = new_content
-            print(f"  [{category}] 已更新 {len(items)} 个视频（按序号排序）")
+            order = "发布时间" if category == "questions" else "序号"
+            print(f"  [{category}] 已更新 {len(items)} 个视频（按{order}倒序）")
         else:
             print(f"  [{category}] 未找到对应章节，跳过")
     
