@@ -1,4 +1,102 @@
 # 宝藏论文链接大全
+### [215]. DeltaNet：线性注意力不再只累加，改用差值更新，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1vwH569E4e](https://www.bilibili.com/video/BV1vwH569E4e)
+
+- 阅读论文：[Parallelizing Linear Transformers with the Delta Rule over Sequence Length](https://arxiv.org/pdf/2406.06484)
+
+---
+
+### [214]. ICML 2026 荣誉提名 Memorization：每个参数约 3.6 bit，大模型到底能记住多少，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1LwH569EFx](https://www.bilibili.com/video/BV1LwH569EFx)
+
+- 阅读论文：[How much do language models memorize?](https://arxiv.org/pdf/2505.24832)
+
+---
+
+### [213]. ICML 2026 杰出论文 高精度采样：扩散采样步数降至 polylog 级，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1RwH569EeC](https://www.bilibili.com/video/BV1RwH569EeC)
+
+- 阅读论文：[High-accuracy sampling for diffusion models and log-concave distributions](https://arxiv.org/pdf/2602.01338)
+
+---
+
+### [212]. MoE训推不一致解决方案，用 TITO+R3，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1jZHV64E5B](https://www.bilibili.com/video/BV1jZHV64E5B)
+
+- 阅读论文：[T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks](https://arxiv.org/pdf/2609.11042)
+
+---
+
+### [211]. ICLR 2026 荣誉提名 Polar Express：给 Muon 算出更快的矩阵符号函数，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1qZHV64EMB](https://www.bilibili.com/video/BV1qZHV64EMB)
+
+- 阅读论文：[The Polar Express: Optimal Matrix Sign Methods and Their Application to the Muon Algorithm](https://arxiv.org/pdf/2505.16932)
+
+---
+
+### [210]. Gated DeltaNet：DeltaNet的改进， 规则加门控，边写边擦，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1jZHV64EeX](https://www.bilibili.com/video/BV1jZHV64EeX)
+
+- 阅读论文：[Gated Delta Networks: Improving Mamba2 with Delta Rule](https://arxiv.org/pdf/2412.06464)
+
+---
+
+### [209]. Improved DDPM：改进DDPM调度为余弦调度，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1qZHV64EMR](https://www.bilibili.com/video/BV1qZHV64EMR)
+
+- 阅读论文：[Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2102.09672)
+
+---
+
+### [208]. MoE训推不一致解决方案：R3，把推理专家路由搬回训练，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1iZHV64Emi](https://www.bilibili.com/video/BV1iZHV64Emi)
+
+- 阅读论文：[Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers](https://arxiv.org/pdf/2510.11370.pdf)
+
+---
+
+### [207]. Gated DeltaNet-2：DeltaNet的改进，擦除和写入终于各用一套门，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1jZHV64Er8](https://www.bilibili.com/video/BV1jZHV64Er8)
+
+- 阅读论文：[Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention](https://arxiv.org/pdf/2605.22791.pdf)
+
+---
+
+### [206]. Kimi K3.1 Pro：三万亿 MoE 后训练，论文阅读【每天一个宝藏论文】
+- 观看视频：[BV1dfHV6dEbo](https://www.bilibili.com/video/BV1dfHV6dEbo)
+
+- 阅读论文：[Introducing Kimi K3.1 Pro](https://www.kimi.ai/blog/kimi-k3-1-pro)
+
+---
+
+### [205]. DeepSeek 1017：架构不动，纯靠后训练提升 Agent能力，论文阅读【每天一个宝藏论文】
+- 观看视频：[BV1jfHV6dEJo](https://www.bilibili.com/video/BV1jfHV6dEJo)
+
+- 阅读论文：[DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real](https://api-docs.deepseek.com/news/news261017/)
+
+---
+
+### [204]. NSDI 2026 杰出论文 PipeMorph：万卡训练一次慢通信就炸出系统级气泡，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1bLpn6AEcD](https://www.bilibili.com/video/BV1bLpn6AEcD)
+
+- 阅读论文：[Attack of the Bubbles: Straggler-Resilient Pipeline Parallelism for Large Model Training](https://www.cse.ust.hk/~weiwa/papers/pipemorph-nsdi26spring.pdf)
+
+---
+
+### [203]. Sparse Supervision：4000 token 的轨迹只留 1 个 token 梯度，推理反超全信号训练，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1mLpn6cE4K](https://www.bilibili.com/video/BV1mLpn6cE4K)
+
+- 阅读论文：[Extremely Sparse Supervision Incentivizes Reasoning Ability](https://arxiv.org/pdf/2609.04565.pdf)
+
+---
+
+### [202]. ICLR 2026 杰出论文 LLMs Get Lost：一进多轮就掉 39 分，错一步就再也回不来，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1ggpn6iEqp](https://www.bilibili.com/video/BV1ggpn6iEqp)
+
+- 阅读论文：[LLMs Get Lost In Multi-Turn Conversation](https://arxiv.org/pdf/2505.06120.pdf)
+
+---
+
 ### [201]. ICML 2026 荣誉提名 Obfuscation Atlas：拿测谎探针训 RL，模型学会两种撒谎姿势，论文精读【每天一个宝藏论文】
 - 观看视频：[BV1ggpn6iEdU](https://www.bilibili.com/video/BV1ggpn6iEdU)
 

@@ -4,9 +4,121 @@
 - **使用方法**：点击**宝藏论文链接大全**文件夹可阅读所有论文，点击**观看视频**可跳转到b站视频。
 - **问题系列**：「每天一个宝藏问题」「宝藏问题动画版」「宝藏问题一口气看完」共享每日一个发布时间，统一收录在下方问题栏目，按发布时间倒序排列，新发布的在前。封面通过 `python bilibili_cover_extractor.py` 自动下载。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**247**个宝藏问题`手稿`和**194**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**261**个宝藏问题`手稿`和**208**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 284. Dropout 为什么训练时要放大保留值，推理时却直接关闭？【每天一个宝藏问题】
+- 观看视频：[视频BV1VP4V6wEQb](https://www.bilibili.com/video/BV1VP4V6wEQb)
+- 查看封面：[图片BV1VP4V6wEQb](./assets/questions/BV1VP4V6wEQb.jpg)
+
+[![](./assets/questions/BV1VP4V6wEQb.jpg)](https://www.bilibili.com/video/BV1VP4V6wEQb)
+
+---
+
+### [1]. 为什么理解这五种矩阵乘法，就能彻底理解Transformer【宝藏问题动画版】
+- 观看视频：[视频BV1jj4c6vEUf](https://www.bilibili.com/video/BV1jj4c6vEUf)
+- 查看封面：[图片BV1jj4c6vEUf](./assets/questions/BV1jj4c6vEUf.jpg)
+
+[![](./assets/questions/BV1jj4c6vEUf.jpg)](https://www.bilibili.com/video/BV1jj4c6vEUf)
+
+---
+
+### 282. 为什么CLIP要横着竖着各做一次Softmax？【每天一个宝藏问题】
+- 观看视频：[视频BV1dNxn6SE4Z](https://www.bilibili.com/video/BV1dNxn6SE4Z)
+- 查看封面：[图片BV1dNxn6SE4Z](./assets/questions/BV1dNxn6SE4Z.jpg)
+
+[![](./assets/questions/BV1dNxn6SE4Z.jpg)](https://www.bilibili.com/video/BV1dNxn6SE4Z)
+
+---
+
+### 281. 为什么SFT可以看作基于采样token的异策略蒸馏？【每天一个宝藏问题】
+- 观看视频：[视频BV1RTxn6EEqK](https://www.bilibili.com/video/BV1RTxn6EEqK)
+- 查看封面：[图片BV1RTxn6EEqK](./assets/questions/BV1RTxn6EEqK.jpg)
+
+[![](./assets/questions/BV1RTxn6EEqK.jpg)](https://www.bilibili.com/video/BV1RTxn6EEqK)
+
+---
+
+### 280. Transformer暗含多少种分块矩阵乘法的理解方式？(新版)【每天一个宝藏问题】
+- 观看视频：[视频BV1hTs96eEAN](https://www.bilibili.com/video/BV1hTs96eEAN)
+- 查看封面：[图片BV1hTs96eEAN](./assets/questions/BV1hTs96eEAN.jpg)
+
+[![](./assets/questions/BV1hTs96eEAN.jpg)](https://www.bilibili.com/video/BV1hTs96eEAN)
+
+---
+
+### 279. 为什么KL散度不对称，而JS散度对称？【每天一个宝藏问题】
+- 观看视频：[视频BV1C1x76dEBT](https://www.bilibili.com/video/BV1C1x76dEBT)
+- 查看封面：[图片BV1C1x76dEBT](./assets/questions/BV1C1x76dEBT.jpg)
+
+[![](./assets/questions/BV1C1x76dEBT.jpg)](https://www.bilibili.com/video/BV1C1x76dEBT)
+
+---
+
+### 278. MOE 中的 Top-K 索引不可导，那要如何训练？【每天一个宝藏问题】
+- 观看视频：[视频BV1r8xE6REs9](https://www.bilibili.com/video/BV1r8xE6REs9)
+- 查看封面：[图片BV1r8xE6REs9](./assets/questions/BV1r8xE6REs9.jpg)
+
+[![](./assets/questions/BV1r8xE6REs9.jpg)](https://www.bilibili.com/video/BV1r8xE6REs9)
+
+---
+
+### 277. Jev是如何和大模型协作的？【每天一个宝藏问题】
+- 观看视频：[视频BV1CinZ6xE1z](https://www.bilibili.com/video/BV1CinZ6xE1z)
+- 查看封面：[图片BV1CinZ6xE1z](./assets/questions/BV1CinZ6xE1z.jpg)
+
+[![](./assets/questions/BV1CinZ6xE1z.jpg)](https://www.bilibili.com/video/BV1CinZ6xE1z)
+
+---
+
+### 276. 为什么Deepseek V3不用辅助损失也能做到MoE负载均衡？(新版)【每天一个宝藏问题】
+- 观看视频：[视频BV1WinZ64E1T](https://www.bilibili.com/video/BV1WinZ64E1T)
+- 查看封面：[图片BV1WinZ64E1T](./assets/questions/BV1WinZ64E1T.jpg)
+
+[![](./assets/questions/BV1WinZ64E1T.jpg)](https://www.bilibili.com/video/BV1WinZ64E1T)
+
+---
+
+### 275. Jev如何用树形掩码隔离不同问题？【每天一个宝藏问题】
+- 观看视频：[视频BV1PJnS6KE13](https://www.bilibili.com/video/BV1PJnS6KE13)
+- 查看封面：[图片BV1PJnS6KE13](./assets/questions/BV1PJnS6KE13.jpg)
+
+[![](./assets/questions/BV1PJnS6KE13.jpg)](https://www.bilibili.com/video/BV1PJnS6KE13)
+
+---
+
+### 274. 为什么prefill和decode都可以跳过掩码上三角计算？(新版)【每天一个宝藏问题】
+- 观看视频：[视频BV1ifHV6dEmQ](https://www.bilibili.com/video/BV1ifHV6dEmQ)
+- 查看封面：[图片BV1ifHV6dEmQ](./assets/questions/BV1ifHV6dEmQ.jpg)
+
+[![](./assets/questions/BV1ifHV6dEmQ.jpg)](https://www.bilibili.com/video/BV1ifHV6dEmQ)
+
+---
+
+### 273. ViT如何使用2D RoPE？【每天一个宝藏问题】
+- 观看视频：[视频BV1jfHV6dEWZ](https://www.bilibili.com/video/BV1jfHV6dEWZ)
+- 查看封面：[图片BV1jfHV6dEWZ](./assets/questions/BV1jfHV6dEWZ.jpg)
+
+[![](./assets/questions/BV1jfHV6dEWZ.jpg)](https://www.bilibili.com/video/BV1jfHV6dEWZ)
+
+---
+
+### 272. 为什么前向KL让生成模型倾向平均，反向KL倾向专精？(新版)【每天一个宝藏问题】
+- 观看视频：[视频BV1Khn26cEpp](https://www.bilibili.com/video/BV1Khn26cEpp)
+- 查看封面：[图片BV1Khn26cEpp](./assets/questions/BV1Khn26cEpp.jpg)
+
+[![](./assets/questions/BV1Khn26cEpp.jpg)](https://www.bilibili.com/video/BV1Khn26cEpp)
+
+---
+
+### 271. MoE训推不一致是如何产生的，通常如何解决？【每天一个宝藏问题】
+- 观看视频：[视频BV1DdJi6uEqT](https://www.bilibili.com/video/BV1DdJi6uEqT)
+- 查看封面：[图片BV1DdJi6uEqT](./assets/questions/BV1DdJi6uEqT.jpg)
+
+[![](./assets/questions/BV1DdJi6uEqT.jpg)](https://www.bilibili.com/video/BV1DdJi6uEqT)
+
+---
 
 ### 270. 如何可视化多头注意力？(新版)【每天一个宝藏问题】
 - 观看视频：[视频BV1n6Jb6TEZn](https://www.bilibili.com/video/BV1n6Jb6TEZn)
@@ -2171,6 +2283,118 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [215]. DeltaNet：线性注意力不再只累加，改用差值更新，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1vwH569E4e](https://www.bilibili.com/video/BV1vwH569E4e)
+- 查看封面：[图片BV1vwH569E4e](./assets/papers/BV1vwH569E4e.jpg)
+
+[![](./assets/papers/BV1vwH569E4e.jpg)](https://www.bilibili.com/video/BV1vwH569E4e)
+
+---
+
+### [214]. ICML 2026 荣誉提名 Memorization：每个参数约 3.6 bit，大模型到底能记住多少，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1LwH569EFx](https://www.bilibili.com/video/BV1LwH569EFx)
+- 查看封面：[图片BV1LwH569EFx](./assets/papers/BV1LwH569EFx.jpg)
+
+[![](./assets/papers/BV1LwH569EFx.jpg)](https://www.bilibili.com/video/BV1LwH569EFx)
+
+---
+
+### [213]. ICML 2026 杰出论文 高精度采样：扩散采样步数降至 polylog 级，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1RwH569EeC](https://www.bilibili.com/video/BV1RwH569EeC)
+- 查看封面：[图片BV1RwH569EeC](./assets/papers/BV1RwH569EeC.jpg)
+
+[![](./assets/papers/BV1RwH569EeC.jpg)](https://www.bilibili.com/video/BV1RwH569EeC)
+
+---
+
+### [212]. MoE训推不一致解决方案，用 TITO+R3，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1jZHV64E5B](https://www.bilibili.com/video/BV1jZHV64E5B)
+- 查看封面：[图片BV1jZHV64E5B](./assets/papers/BV1jZHV64E5B.jpg)
+
+[![](./assets/papers/BV1jZHV64E5B.jpg)](https://www.bilibili.com/video/BV1jZHV64E5B)
+
+---
+
+### [211]. ICLR 2026 荣誉提名 Polar Express：给 Muon 算出更快的矩阵符号函数，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1qZHV64EMB](https://www.bilibili.com/video/BV1qZHV64EMB)
+- 查看封面：[图片BV1qZHV64EMB](./assets/papers/BV1qZHV64EMB.jpg)
+
+[![](./assets/papers/BV1qZHV64EMB.jpg)](https://www.bilibili.com/video/BV1qZHV64EMB)
+
+---
+
+### [210]. Gated DeltaNet：DeltaNet的改进， 规则加门控，边写边擦，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1jZHV64EeX](https://www.bilibili.com/video/BV1jZHV64EeX)
+- 查看封面：[图片BV1jZHV64EeX](./assets/papers/BV1jZHV64EeX.jpg)
+
+[![](./assets/papers/BV1jZHV64EeX.jpg)](https://www.bilibili.com/video/BV1jZHV64EeX)
+
+---
+
+### [209]. Improved DDPM：改进DDPM调度为余弦调度，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1qZHV64EMR](https://www.bilibili.com/video/BV1qZHV64EMR)
+- 查看封面：[图片BV1qZHV64EMR](./assets/papers/BV1qZHV64EMR.jpg)
+
+[![](./assets/papers/BV1qZHV64EMR.jpg)](https://www.bilibili.com/video/BV1qZHV64EMR)
+
+---
+
+### [208]. MoE训推不一致解决方案：R3，把推理专家路由搬回训练，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1iZHV64Emi](https://www.bilibili.com/video/BV1iZHV64Emi)
+- 查看封面：[图片BV1iZHV64Emi](./assets/papers/BV1iZHV64Emi.jpg)
+
+[![](./assets/papers/BV1iZHV64Emi.jpg)](https://www.bilibili.com/video/BV1iZHV64Emi)
+
+---
+
+### [207]. Gated DeltaNet-2：DeltaNet的改进，擦除和写入终于各用一套门，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1jZHV64Er8](https://www.bilibili.com/video/BV1jZHV64Er8)
+- 查看封面：[图片BV1jZHV64Er8](./assets/papers/BV1jZHV64Er8.jpg)
+
+[![](./assets/papers/BV1jZHV64Er8.jpg)](https://www.bilibili.com/video/BV1jZHV64Er8)
+
+---
+
+### [206]. Kimi K3.1 Pro：三万亿 MoE 后训练，论文阅读【每天一个宝藏论文】
+- 观看视频：[视频BV1dfHV6dEbo](https://www.bilibili.com/video/BV1dfHV6dEbo)
+- 查看封面：[图片BV1dfHV6dEbo](./assets/papers/BV1dfHV6dEbo.jpg)
+
+[![](./assets/papers/BV1dfHV6dEbo.jpg)](https://www.bilibili.com/video/BV1dfHV6dEbo)
+
+---
+
+### [205]. DeepSeek 1017：架构不动，纯靠后训练提升 Agent能力，论文阅读【每天一个宝藏论文】
+- 观看视频：[视频BV1jfHV6dEJo](https://www.bilibili.com/video/BV1jfHV6dEJo)
+- 查看封面：[图片BV1jfHV6dEJo](./assets/papers/BV1jfHV6dEJo.jpg)
+
+[![](./assets/papers/BV1jfHV6dEJo.jpg)](https://www.bilibili.com/video/BV1jfHV6dEJo)
+
+---
+
+### [204]. NSDI 2026 杰出论文 PipeMorph：万卡训练一次慢通信就炸出系统级气泡，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1bLpn6AEcD](https://www.bilibili.com/video/BV1bLpn6AEcD)
+- 查看封面：[图片BV1bLpn6AEcD](./assets/papers/BV1bLpn6AEcD.jpg)
+
+[![](./assets/papers/BV1bLpn6AEcD.jpg)](https://www.bilibili.com/video/BV1bLpn6AEcD)
+
+---
+
+### [203]. Sparse Supervision：4000 token 的轨迹只留 1 个 token 梯度，推理反超全信号训练，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1mLpn6cE4K](https://www.bilibili.com/video/BV1mLpn6cE4K)
+- 查看封面：[图片BV1mLpn6cE4K](./assets/papers/BV1mLpn6cE4K.jpg)
+
+[![](./assets/papers/BV1mLpn6cE4K.jpg)](https://www.bilibili.com/video/BV1mLpn6cE4K)
+
+---
+
+### [202]. ICLR 2026 杰出论文 LLMs Get Lost：一进多轮就掉 39 分，错一步就再也回不来，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1ggpn6iEqp](https://www.bilibili.com/video/BV1ggpn6iEqp)
+- 查看封面：[图片BV1ggpn6iEqp](./assets/papers/BV1ggpn6iEqp.jpg)
+
+[![](./assets/papers/BV1ggpn6iEqp.jpg)](https://www.bilibili.com/video/BV1ggpn6iEqp)
+
+---
 
 ### [201]. ICML 2026 荣誉提名 Obfuscation Atlas：拿测谎探针训 RL，模型学会两种撒谎姿势，论文精读【每天一个宝藏论文】
 - 观看视频：[视频BV1ggpn6iEdU](https://www.bilibili.com/video/BV1ggpn6iEdU)

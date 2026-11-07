@@ -1,5 +1,159 @@
 [
   {
+    "video_id": 215,
+    "video_title": "[215]. DeltaNet：线性注意力不再只累加，改用差值更新，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1vwH569E4e",
+    "papers": [
+      {
+        "paper_title": "Parallelizing Linear Transformers with the Delta Rule over Sequence Length",
+        "paper_link": "https://arxiv.org/pdf/2406.06484"
+      }
+    ]
+  },
+  {
+    "video_id": 214,
+    "video_title": "[214]. ICML 2026 荣誉提名 Memorization：每个参数约 3.6 bit，大模型到底能记住多少，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1LwH569EFx",
+    "papers": [
+      {
+        "paper_title": "How much do language models memorize?",
+        "paper_link": "https://arxiv.org/pdf/2505.24832"
+      }
+    ]
+  },
+  {
+    "video_id": 213,
+    "video_title": "[213]. ICML 2026 杰出论文 高精度采样：扩散采样步数降至 polylog 级，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1RwH569EeC",
+    "papers": [
+      {
+        "paper_title": "High-accuracy sampling for diffusion models and log-concave distributions",
+        "paper_link": "https://arxiv.org/pdf/2602.01338"
+      }
+    ]
+  },
+  {
+    "video_id": 212,
+    "video_title": "[212]. MoE训推不一致解决方案，用 TITO+R3，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1jZHV64E5B",
+    "papers": [
+      {
+        "paper_title": "T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks",
+        "paper_link": "https://arxiv.org/pdf/2609.11042"
+      }
+    ]
+  },
+  {
+    "video_id": 211,
+    "video_title": "[211]. ICLR 2026 荣誉提名 Polar Express：给 Muon 算出更快的矩阵符号函数，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1qZHV64EMB",
+    "papers": [
+      {
+        "paper_title": "The Polar Express: Optimal Matrix Sign Methods and Their Application to the Muon Algorithm",
+        "paper_link": "https://arxiv.org/pdf/2505.16932"
+      }
+    ]
+  },
+  {
+    "video_id": 210,
+    "video_title": "[210]. Gated DeltaNet：DeltaNet的改进， 规则加门控，边写边擦，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1jZHV64EeX",
+    "papers": [
+      {
+        "paper_title": "Gated Delta Networks: Improving Mamba2 with Delta Rule",
+        "paper_link": "https://arxiv.org/pdf/2412.06464"
+      }
+    ]
+  },
+  {
+    "video_id": 209,
+    "video_title": "[209]. Improved DDPM：改进DDPM调度为余弦调度，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1qZHV64EMR",
+    "papers": [
+      {
+        "paper_title": "Improved Denoising Diffusion Probabilistic Models",
+        "paper_link": "https://arxiv.org/pdf/2102.09672"
+      }
+    ]
+  },
+  {
+    "video_id": 208,
+    "video_title": "[208]. MoE训推不一致解决方案：R3，把推理专家路由搬回训练，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1iZHV64Emi",
+    "papers": [
+      {
+        "paper_title": "Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers",
+        "paper_link": "https://arxiv.org/pdf/2510.11370.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 207,
+    "video_title": "[207]. Gated DeltaNet-2：DeltaNet的改进，擦除和写入终于各用一套门，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1jZHV64Er8",
+    "papers": [
+      {
+        "paper_title": "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention",
+        "paper_link": "https://arxiv.org/pdf/2605.22791.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 206,
+    "video_title": "[206]. Kimi K3.1 Pro：三万亿 MoE 后训练，论文阅读【每天一个宝藏论文】",
+    "bvid": "BV1dfHV6dEbo",
+    "papers": [
+      {
+        "paper_title": "Introducing Kimi K3.1 Pro",
+        "paper_link": "https://www.kimi.ai/blog/kimi-k3-1-pro"
+      }
+    ]
+  },
+  {
+    "video_id": 205,
+    "video_title": "[205]. DeepSeek 1017：架构不动，纯靠后训练提升 Agent能力，论文阅读【每天一个宝藏论文】",
+    "bvid": "BV1jfHV6dEJo",
+    "papers": [
+      {
+        "paper_title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
+        "paper_link": "https://api-docs.deepseek.com/news/news261017/"
+      }
+    ]
+  },
+  {
+    "video_id": 204,
+    "video_title": "[204]. NSDI 2026 杰出论文 PipeMorph：万卡训练一次慢通信就炸出系统级气泡，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1bLpn6AEcD",
+    "papers": [
+      {
+        "paper_title": "Attack of the Bubbles: Straggler-Resilient Pipeline Parallelism for Large Model Training",
+        "paper_link": "https://www.cse.ust.hk/~weiwa/papers/pipemorph-nsdi26spring.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 203,
+    "video_title": "[203]. Sparse Supervision：4000 token 的轨迹只留 1 个 token 梯度，推理反超全信号训练，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1mLpn6cE4K",
+    "papers": [
+      {
+        "paper_title": "Extremely Sparse Supervision Incentivizes Reasoning Ability",
+        "paper_link": "https://arxiv.org/pdf/2609.04565.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 202,
+    "video_title": "[202]. ICLR 2026 杰出论文 LLMs Get Lost：一进多轮就掉 39 分，错一步就再也回不来，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1ggpn6iEqp",
+    "papers": [
+      {
+        "paper_title": "LLMs Get Lost In Multi-Turn Conversation",
+        "paper_link": "https://arxiv.org/pdf/2505.06120.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 201,
     "video_title": "[201]. ICML 2026 荣誉提名 Obfuscation Atlas：拿测谎探针训 RL，模型学会两种撒谎姿势，论文精读【每天一个宝藏论文】",
     "bvid": "BV1ggpn6iEdU",
