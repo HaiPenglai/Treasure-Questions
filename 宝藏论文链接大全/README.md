@@ -1,4 +1,25 @@
 # 宝藏论文链接大全
+### [218]. GEPA：ICLR 2026 Oral：不改权重，Prompt 进化反超 GRPO，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1CinZ6xEvd](https://www.bilibili.com/video/BV1CinZ6xEvd)
+
+- 阅读论文：[GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning](https://arxiv.org/pdf/2507.19457.pdf)
+
+---
+
+### [217]. ScaleRL：ICLR 2026 Oral：40 万 GPU 小时，拟合 RL 的 Scaling Law，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1AinZ64EsP](https://www.bilibili.com/video/BV1AinZ64EsP)
+
+- 阅读论文：[The Art of Scaling Reinforcement Learning Compute for LLMs](https://arxiv.org/pdf/2510.13786.pdf)
+
+---
+
+### [216]. ACL 2026 最佳论文 Local Attention：局部注意力为何不弱反强，它和全局注意力互补，论文精读【每天一个宝藏论文】
+- 观看视频：[BV15wH569E4u](https://www.bilibili.com/video/BV15wH569E4u)
+
+- 阅读论文：[Characterizing the Expressivity of Local Attention in Transformers](https://arxiv.org/pdf/2605.00768.pdf)
+
+---
+
 ### [215]. DeltaNet：线性注意力不再只累加，改用差值更新，论文精读【每天一个宝藏论文】
 - 观看视频：[BV1vwH569E4e](https://www.bilibili.com/video/BV1vwH569E4e)
 

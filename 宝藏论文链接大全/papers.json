@@ -1,5 +1,38 @@
 [
   {
+    "video_id": 218,
+    "video_title": "[218]. GEPA：ICLR 2026 Oral：不改权重，Prompt 进化反超 GRPO，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1CinZ6xEvd",
+    "papers": [
+      {
+        "paper_title": "GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning",
+        "paper_link": "https://arxiv.org/pdf/2507.19457.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 217,
+    "video_title": "[217]. ScaleRL：ICLR 2026 Oral：40 万 GPU 小时，拟合 RL 的 Scaling Law，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1AinZ64EsP",
+    "papers": [
+      {
+        "paper_title": "The Art of Scaling Reinforcement Learning Compute for LLMs",
+        "paper_link": "https://arxiv.org/pdf/2510.13786.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 216,
+    "video_title": "[216]. ACL 2026 最佳论文 Local Attention：局部注意力为何不弱反强，它和全局注意力互补，论文精读【每天一个宝藏论文】",
+    "bvid": "BV15wH569E4u",
+    "papers": [
+      {
+        "paper_title": "Characterizing the Expressivity of Local Attention in Transformers",
+        "paper_link": "https://arxiv.org/pdf/2605.00768.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 215,
     "video_title": "[215]. DeltaNet：线性注意力不再只累加，改用差值更新，论文精读【每天一个宝藏论文】",
     "bvid": "BV1vwH569E4e",
