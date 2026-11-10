@@ -3,6 +3,7 @@ import tempfile
 import unittest
 from pathlib import Path
 from unittest.mock import AsyncMock, patch
+from PIL import Image
 
 import bilibili_cover_extractor as covers
 
@@ -20,7 +21,7 @@ class CoverTests(unittest.IsolatedAsyncioTestCase):
 
     async def test_all_question_suffixes_download_into_the_same_cover_directory(self):
         def ffmpeg(command, **kwargs):
-            Path(command[-1]).write_bytes(b"fake-jpg" * 400)
+            Image.new("RGB", (1728, 1080)).save(command[-1])
             return type("Result", (), {"returncode": 0})()
 
         with patch.object(covers, "OUTPUT_DIR", str(self.root / "assets")), \
@@ -33,6 +34,55 @@ class CoverTests(unittest.IsolatedAsyncioTestCase):
                 self.assertTrue(await covers.extract_first_frame(bv, title))
                 self.assertTrue((self.root / f"assets/questions/{bv}.jpg").is_file())
                 self.assertEqual(covers.simplify_title(title), "[1]. 测试")
+
+    async def test_best_stream_is_selected_by_resolution_even_if_api_order_changes(self):
+        info = {"dash": {"video": [
+            {"baseUrl": "480p", "width": 768, "height": 480, "id": 32},
+            {"baseUrl": "1080p", "width": 1728, "height": 1080, "id": 80},
+            {"baseUrl": "720p", "width": 1152, "height": 720, "id": 64},
+        ]}}
+        with patch.object(covers.video.Video, "get_download_url", AsyncMock(return_value=info)):
+            self.assertEqual(await covers.get_video_stream_url("BV1DdJi6uEqT"), "1080p")
+            info["dash"]["video"] = info["dash"]["video"][:1]
+            self.assertEqual(await covers.get_video_stream_url("BV1DdJi6uEqT"), "")
+
+    async def test_low_resolution_download_cannot_replace_existing_image(self):
+        target = self.root / "questions" / "BVtest.jpg"
+        target.parent.mkdir()
+        Image.new("RGB", (768, 480), "red").save(target)
+        original = target.read_bytes()
+
+        def ffmpeg(command, **kwargs):
+            Image.new("RGB", (768, 480), "blue").save(command[-1])
+            return type("Result", (), {"returncode": 0})()
+
+        with patch.object(covers, "OUTPUT_DIR", str(self.root)), \
+                patch.object(covers, "get_video_stream_url", AsyncMock(return_value="stream")), \
+                patch.object(covers, "download_stream_prefix", return_value=b""), \
+                patch.object(covers.subprocess, "run", side_effect=ffmpeg):
+            self.assertFalse(await covers.extract_first_frame("BVtest", "271. 测试【每天一个宝藏问题】"))
+        self.assertEqual(target.read_bytes(), original)
+        self.assertFalse(Path(str(target) + ".tmp.jpg").exists())
+
+    async def test_batch_repairs_low_resolution_and_skips_valid_cover(self):
+        folder = self.root / "questions"
+        folder.mkdir()
+        Image.new("RGB", (768, 480)).save(folder / "BVlow.jpg")
+        Image.new("RGB", (1728, 1080)).save(folder / "BVgood.jpg")
+        items = [{"bvid": bv, "title": "271. 测试【每天一个宝藏问题】"}
+                 for bv in ("BVlow", "BVgood")]
+
+        def ffmpeg(command, **kwargs):
+            Image.new("RGB", (1728, 1080)).save(command[-1])
+            return type("Result", (), {"returncode": 0})()
+
+        with patch.object(covers, "OUTPUT_DIR", str(self.root)), \
+                patch.object(covers, "refresh_video_info", AsyncMock(return_value=None)), \
+                patch.object(covers, "get_video_stream_url", AsyncMock(return_value="stream")), \
+                patch.object(covers.subprocess, "run", side_effect=ffmpeg), \
+                patch.object(covers.asyncio, "sleep", AsyncMock()):
+            self.assertEqual(await covers.batch_extract(items), (1, 0))
+        self.assertTrue(covers.cover_is_high_resolution(str(folder / "BVlow.jpg"), "BVlow"))
 
     def test_readme_orders_mixed_series_by_publication_and_retains_paper_number_order(self):
         readme = self.root / "README.md"

@@ -18,6 +18,7 @@ import subprocess
 import asyncio
 import time
 import httpx
+from PIL import Image
 from bilibili_api import user, video
 from bilibili_api.login_v2 import Credential
 from bilibili_api.utils.network import request_settings
@@ -33,6 +34,7 @@ OUTPUT_DIR = "assets"
 BV_LIST_FILE = "bv_list.json"
 README_FILE = "README.md"
 CREDENTIAL_FILE = "credential.json"
+MIN_COVER_PIXELS = 1_500_000  # 150 万像素，按宽×高判断，不是文件大小
 QUESTIONS_LIST_FILE = os.path.join("宝藏资源链接大全", "宝藏问题大全.md")
 PAPERS_LIST_FILE = os.path.join("宝藏资源链接大全", "宝藏论文大全.md")
 QUESTION_SUFFIXES = ("【每天一个宝藏问题】", "【宝藏问题动画版】", "【宝藏问题一口气看完】")
@@ -165,7 +167,22 @@ async def get_video_stream_url(bv: str) -> str:
         
         # 优先使用 DASH 格式的视频流（最高质量）
         if "dash" in info and info["dash"].get("video"):
-            return info["dash"]["video"][0]["baseUrl"]
+            streams = info["dash"]["video"]
+            best = max(streams, key=lambda s: (
+                s.get("width", 0) * s.get("height", 0),
+                s.get("id", 0),
+                str(s.get("codecs", "")).startswith("avc1"),
+                s.get("bandwidth", 0),
+            ))
+            width, height = best.get("width", 0), best.get("height", 0)
+            print(f"  [{bv}] 最佳视频流: {width}×{height}，清晰度 {best.get('id')}")
+            if width and height and width * height < MIN_COVER_PIXELS:
+                print(f"[Quality WARNING] {bv}: 视频流仅 {width}×{height} "
+                      f"({width * height / 1_000_000:.3f} MP)，低于 1.5 MP，拒绝下载低清封面。"
+                      "请提醒用户检查登录，运行 python login_bilibili.py 扫码后重试；"
+                      "若登录有效，需检查源视频清晰度。")
+                return ""
+            return best.get("baseUrl") or best.get("base_url", "")
         
         # 回退到 durl（FLV/MP4）格式
         if "durl" in info and info["durl"]:
@@ -305,6 +322,23 @@ def download_stream_prefix(url: str, target: int = 3_000_000) -> bytes:
     return bytes(buf)
 
 
+def cover_is_high_resolution(path: str, bv: str, warn: bool = True) -> bool:
+    """解码校验并检查真实像素；JPEG 文件字节数不能代表清晰度。"""
+    try:
+        with Image.open(path) as image:
+            width, height = image.size
+            image.verify()
+        if width * height >= MIN_COVER_PIXELS:
+            return True
+        detail = f"{width}×{height} ({width * height / 1_000_000:.3f} MP)"
+    except (OSError, ValueError):
+        detail = "图片损坏或无法解码"
+    if warn:
+        print(f"[Quality WARNING] {bv}: {path}: {detail}，要求至少 1.5 MP。"
+              "请 Agent 提醒用户；检查登录/扫码后重新下载，禁止放大低清图冒充高清。")
+    return False
+
+
 async def extract_first_frame(bv: str, title: str) -> bool:
     """提取单个BV视频的第一帧，使用BVID作为文件名，自动分类"""
     # 确定分类和输出目录
@@ -315,10 +349,13 @@ async def extract_first_frame(bv: str, title: str) -> bool:
     # 文件名就是 bvid.jpg
     output_path = os.path.join(output_dir, f"{bv}.jpg")
     
-    if os.path.exists(output_path):
+    if os.path.exists(output_path) and cover_is_high_resolution(output_path, bv):
         print(f"  [{bv}] 已存在，跳过")
         return True
     
+    # 仅在新图通过像素检查后原子替换；下载失败时保留原文件供重试。
+    pending_path = output_path + ".tmp.jpg"
+    tmp_path = output_path + ".m4s"
     try:
         # 1. 使用 bilibili_api 获取最佳视频流（替代 yt-dlp，避免 412）
         stream_url = await get_video_stream_url(bv)
@@ -327,7 +364,7 @@ async def extract_first_frame(bv: str, title: str) -> bool:
             return False
         
         def _valid() -> bool:
-            return os.path.exists(output_path) and os.path.getsize(output_path) > 2000
+            return os.path.exists(pending_path) and cover_is_high_resolution(pending_path, bv)
         
         # 2. 首选：ffmpeg 直接读取视频流，提取第一帧，最高质量 JPG
         headers = (
@@ -342,20 +379,22 @@ async def extract_first_frame(bv: str, title: str) -> bool:
             "-vframes", "1",
             "-q:v", "1",          # JPG 最高质量
             "-pix_fmt", "yuvj420p",
-            output_path
+            pending_path
         ]
-        result = subprocess.run(
-            ffmpeg_cmd,
-            stdout=subprocess.DEVNULL,
-            stderr=subprocess.DEVNULL,
-            timeout=40
-        )
+        try:
+            result = subprocess.run(
+                ffmpeg_cmd,
+                stdout=subprocess.DEVNULL,
+                stderr=subprocess.DEVNULL,
+                timeout=40
+            )
+        except subprocess.TimeoutExpired:
+            result = subprocess.CompletedProcess(ffmpeg_cmd, 1)
         
         # 3. 回退：httpx 拉流后再用 ffmpeg 本地抽帧
         if not (result.returncode == 0 and _valid()):
             data = download_stream_prefix(stream_url)
             if len(data) >= 300_000:
-                tmp_path = output_path + ".m4s"
                 try:
                     with open(tmp_path, "wb") as f:
                         f.write(data)
@@ -365,7 +404,7 @@ async def extract_first_frame(bv: str, title: str) -> bool:
                          "-frames:v", "1",
                          "-q:v", "1",
                          "-pix_fmt", "yuvj420p",
-                         output_path],
+                         pending_path],
                         stdout=subprocess.DEVNULL,
                         stderr=subprocess.DEVNULL,
                         timeout=40
@@ -375,6 +414,7 @@ async def extract_first_frame(bv: str, title: str) -> bool:
                         os.remove(tmp_path)
         
         if result.returncode == 0 and _valid():
+            os.replace(pending_path, output_path)
             size_kb = os.path.getsize(output_path) // 1024
             print(f"  [{bv}] OK {size_kb}KB -> {category}/{bv}.jpg")
             return True
@@ -388,10 +428,14 @@ async def extract_first_frame(bv: str, title: str) -> bool:
     except Exception as e:
         print(f"  [{bv}] X 错误: {str(e)[:80]}")
         return False
+    finally:
+        for temporary in (pending_path, tmp_path):
+            if os.path.exists(temporary):
+                os.remove(temporary)
 
 
 async def batch_extract(bv_list):
-    """批量提取封面，带全局延迟降低风控。封面缺失时自动刷新标题，自动分类。"""
+    """跳过合格封面，重试缺失/低清封面，带延迟降低风控。"""
     total = len(bv_list)
     success = 0
     skipped = 0
@@ -416,12 +460,12 @@ async def batch_extract(bv_list):
         output_path = os.path.join(OUTPUT_DIR, category, f"{bv}.jpg")
         
         # 检查是否已存在
-        if os.path.exists(output_path):
+        if os.path.exists(output_path) and cover_is_high_resolution(output_path, bv):
             skipped += 1
             continue  # 静默跳过已存在的，减少输出噪音
         
         # 封面缺失！先刷新标题（从B站获取最新标题）
-        print(f"[{i}/{total}] [{category}] 封面缺失: {bv}")
+        print(f"[{i}/{total}] [{category}] 封面缺失或像素过低: {bv} {title}")
         fresh_info = await refresh_video_info(bv)
         if fresh_info and fresh_info["title"]:
             # 标题刷新时同时补齐发布时间，供三个问题系列统一排序。
@@ -447,9 +491,12 @@ async def batch_extract(bv_list):
             failed += 1
         
         # 每个视频处理完都休息 2.5 秒，降低对 B 站 CDN 的压力
-        time.sleep(2.5)
+        await asyncio.sleep(2.5)
     
     print(f"[Extract] 完成！成功 {success} 个，跳过 {skipped} 个，失败 {failed} 个")
+    if failed:
+        print(f"[Quality WARNING] {failed} 个封面未通过下载/像素检查，Agent 必须提醒用户，"
+              "检查登录并在需要时运行 python login_bilibili.py 扫码后重试。")
     if updated > 0:
         print(f"[Extract] 更新了 {updated} 个视频的标题")
     
@@ -679,7 +726,7 @@ async def main():
         print("[Main] 首次运行，获取全部视频...")
         bv_list = await fetch_all_bvs()
     
-    # 步骤2：批量提取封面（只下载缺失的）
+    # 步骤2：批量提取封面（补齐缺失封面并重试低清封面）
     if bv_list:
         success, updated = await batch_extract(bv_list)
         

@@ -1,5 +1,41 @@
 [
   {
+    "bvid": "BV17ExQ6GEeg",
+    "title": "287. Xavier 初始化为什么要把权重方差设为 1 除以 n？【每天一个宝藏问题】",
+    "created": 1794225600,
+    "pic": "http://i2.hdslb.com/bfs/archive/15ff3af2c90b7b305a9597532e022a1a5827308d.png"
+  },
+  {
+    "bvid": "BV1CinZ6xEvd",
+    "title": "[218]. GEPA：ICLR 2026 Oral：不改权重，Prompt 进化反超 GRPO，论文精读【每天一个宝藏论文】",
+    "created": 1794225600,
+    "pic": "http://i0.hdslb.com/bfs/archive/eca227c1730fcbe0860a5100eb4bc9dd790c575f.png"
+  },
+  {
+    "bvid": "BV1EjxQ6CENn",
+    "title": "286. MOE训练显存要如何计算，以Qwen3-30B-A3B为例？【每天一个宝藏问题】",
+    "created": 1794139200,
+    "pic": "http://i2.hdslb.com/bfs/archive/0f48f41d76f0106731d5fe5b3bddf77ab4c6909e.png"
+  },
+  {
+    "bvid": "BV1AinZ64EsP",
+    "title": "[217]. ScaleRL：ICLR 2026 Oral：40 万 GPU 小时，拟合 RL 的 Scaling Law，论文精读【每天一个宝藏论文】",
+    "created": 1794139200,
+    "pic": "http://i1.hdslb.com/bfs/archive/2e9e215fd0e1727f54309ed558eb2a6f12308824.png"
+  },
+  {
+    "bvid": "BV1xexm61EAB",
+    "title": "285. 如何可视化GEMM？(新版)【每天一个宝藏问题】",
+    "created": 1794052800,
+    "pic": "http://i2.hdslb.com/bfs/archive/967c88bc0fa4f3a9654aa8b61008b4e1c840a695.png"
+  },
+  {
+    "bvid": "BV15wH569E4u",
+    "title": "[216]. ACL 2026 最佳论文 Local Attention：局部注意力为何不弱反强，它和全局注意力互补，论文精读【每天一个宝藏论文】",
+    "created": 1794052800,
+    "pic": "http://i2.hdslb.com/bfs/archive/6bfad3aa940fd027744fefdc7e03f4bb977f9278.png"
+  },
+  {
     "bvid": "BV1VP4V6wEQb",
     "title": "284. Dropout 为什么训练时要放大保留值，推理时却直接关闭？【每天一个宝藏问题】",
     "created": 1793966400,

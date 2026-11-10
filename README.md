@@ -4,9 +4,33 @@
 - **使用方法**：点击**宝藏论文链接大全**文件夹可阅读所有论文，点击**观看视频**可跳转到b站视频。
 - **问题系列**：「每天一个宝藏问题」「宝藏问题动画版」「宝藏问题一口气看完」共享每日一个发布时间，统一收录在下方问题栏目，按发布时间倒序排列，新发布的在前。封面通过 `python bilibili_cover_extractor.py` 自动下载。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**261**个宝藏问题`手稿`和**208**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**264**个宝藏问题`手稿`和**211**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 287. Xavier 初始化为什么要把权重方差设为 1 除以 n？【每天一个宝藏问题】
+- 观看视频：[视频BV17ExQ6GEeg](https://www.bilibili.com/video/BV17ExQ6GEeg)
+- 查看封面：[图片BV17ExQ6GEeg](./assets/questions/BV17ExQ6GEeg.jpg)
+
+[![](./assets/questions/BV17ExQ6GEeg.jpg)](https://www.bilibili.com/video/BV17ExQ6GEeg)
+
+---
+
+### 286. MOE训练显存要如何计算，以Qwen3-30B-A3B为例？【每天一个宝藏问题】
+- 观看视频：[视频BV1EjxQ6CENn](https://www.bilibili.com/video/BV1EjxQ6CENn)
+- 查看封面：[图片BV1EjxQ6CENn](./assets/questions/BV1EjxQ6CENn.jpg)
+
+[![](./assets/questions/BV1EjxQ6CENn.jpg)](https://www.bilibili.com/video/BV1EjxQ6CENn)
+
+---
+
+### 285. 如何可视化GEMM？(新版)【每天一个宝藏问题】
+- 观看视频：[视频BV1xexm61EAB](https://www.bilibili.com/video/BV1xexm61EAB)
+- 查看封面：[图片BV1xexm61EAB](./assets/questions/BV1xexm61EAB.jpg)
+
+[![](./assets/questions/BV1xexm61EAB.jpg)](https://www.bilibili.com/video/BV1xexm61EAB)
+
+---
 
 ### 284. Dropout 为什么训练时要放大保留值，推理时却直接关闭？【每天一个宝藏问题】
 - 观看视频：[视频BV1VP4V6wEQb](https://www.bilibili.com/video/BV1VP4V6wEQb)
@@ -2283,6 +2307,30 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [218]. GEPA：ICLR 2026 Oral：不改权重，Prompt 进化反超 GRPO，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1CinZ6xEvd](https://www.bilibili.com/video/BV1CinZ6xEvd)
+- 查看封面：[图片BV1CinZ6xEvd](./assets/papers/BV1CinZ6xEvd.jpg)
+
+[![](./assets/papers/BV1CinZ6xEvd.jpg)](https://www.bilibili.com/video/BV1CinZ6xEvd)
+
+---
+
+### [217]. ScaleRL：ICLR 2026 Oral：40 万 GPU 小时，拟合 RL 的 Scaling Law，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1AinZ64EsP](https://www.bilibili.com/video/BV1AinZ64EsP)
+- 查看封面：[图片BV1AinZ64EsP](./assets/papers/BV1AinZ64EsP.jpg)
+
+[![](./assets/papers/BV1AinZ64EsP.jpg)](https://www.bilibili.com/video/BV1AinZ64EsP)
+
+---
+
+### [216]. ACL 2026 最佳论文 Local Attention：局部注意力为何不弱反强，它和全局注意力互补，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV15wH569E4u](https://www.bilibili.com/video/BV15wH569E4u)
+- 查看封面：[图片BV15wH569E4u](./assets/papers/BV15wH569E4u.jpg)
+
+[![](./assets/papers/BV15wH569E4u.jpg)](https://www.bilibili.com/video/BV15wH569E4u)
+
+---
 
 ### [215]. DeltaNet：线性注意力不再只累加，改用差值更新，论文精读【每天一个宝藏论文】
 - 观看视频：[视频BV1vwH569E4e](https://www.bilibili.com/video/BV1vwH569E4e)
