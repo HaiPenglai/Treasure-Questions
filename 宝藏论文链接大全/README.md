@@ -1,4 +1,67 @@
 # 宝藏论文链接大全
+### [227]. LSA：把 KV 压进隐空间再选块，GLM 测试 prefill 提速 22.7 倍，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1tS4n6CEMJ](https://www.bilibili.com/video/BV1tS4n6CEMJ)
+
+- 阅读论文：[Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention](https://arxiv.org/pdf/2610.42147.pdf)
+
+---
+
+### [226]. 研究发现GPT 从 5.6 开始不说人话，越升级越爱加防御性限定语，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1tS4n6CERj](https://www.bilibili.com/video/BV1tS4n6CERj)
+
+- 阅读论文：[Defensive Writing in GPT Models](https://arxiv.org/pdf/2610.11355.pdf)
+
+---
+
+### [225]. DeepSeek Super-agent：一个常驻 Router 带一群隔离 Worker，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1tS4n6CE6Y](https://www.bilibili.com/video/BV1tS4n6CE6Y)
+
+- 阅读论文：[DeepSeek Super-agent: 探索 Super-agent 设计](https://github.com/deepseek-ai/dsh-superagent-prototype)
+
+---
+
+### [224]. Self-Consistency：思维链的改进工作：多条思维链，投票选答案，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1LNxn6DENM](https://www.bilibili.com/video/BV1LNxn6DENM)
+
+- 阅读论文：[Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/pdf/2203.11171.pdf)
+
+---
+
+### [223]. RAG：奠基论文，来自 NeurIPS 2020，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1RNxn6SER6](https://www.bilibili.com/video/BV1RNxn6SER6)
+
+- 阅读论文：[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/pdf/2005.11401.pdf)
+
+---
+
+### [222]. Kimi k1.5：重温来时路：长上下文 RL，再把长思考压回短思考，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1dNxn6SE77](https://www.bilibili.com/video/BV1dNxn6SE77)
+
+- 阅读论文：[Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/pdf/2501.12599.pdf)
+
+---
+
+### [221]. Nemotron 3 Ultra：NVIDIA 旗舰：Mamba＋MoE＋NVFP4 全叠满，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1w1x76dEZo](https://www.bilibili.com/video/BV1w1x76dEZo)
+
+- 阅读论文：[Nemotron 3 Ultra: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning](https://arxiv.org/pdf/2606.15007.pdf)
+
+---
+
+### [220]. MSA：MiniMax M3 旗舰注意力：每个 GQA 组各自挑 KV 块，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1r8xE6RExc](https://www.bilibili.com/video/BV1r8xE6RExc)
+
+- 阅读论文：[MiniMax Sparse Attention](https://arxiv.org/pdf/2606.13392.pdf)
+
+---
+
+### [219]. EGD：ACL 2026 杰出论文：不动基座模型，迭代 Value 引导解码，论文精读【每天一个宝藏论文】
+- 观看视频：[BV1kinZ6xE9p](https://www.bilibili.com/video/BV1kinZ6xE9p)
+
+- 阅读论文：[Evolutionary Guided Decoding: Iterative Value Refinement for LLMs](https://arxiv.org/pdf/2503.02368.pdf)
+
+---
+
 ### [218]. GEPA：ICLR 2026 Oral：不改权重，Prompt 进化反超 GRPO，论文精读【每天一个宝藏论文】
 - 观看视频：[BV1CinZ6xEvd](https://www.bilibili.com/video/BV1CinZ6xEvd)
 

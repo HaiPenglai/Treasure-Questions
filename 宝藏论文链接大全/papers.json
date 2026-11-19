@@ -1,5 +1,104 @@
 [
   {
+    "video_id": 227,
+    "video_title": "[227]. LSA：把 KV 压进隐空间再选块，GLM 测试 prefill 提速 22.7 倍，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1tS4n6CEMJ",
+    "papers": [
+      {
+        "paper_title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+        "paper_link": "https://arxiv.org/pdf/2610.42147.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 226,
+    "video_title": "[226]. 研究发现GPT 从 5.6 开始不说人话，越升级越爱加防御性限定语，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1tS4n6CERj",
+    "papers": [
+      {
+        "paper_title": "Defensive Writing in GPT Models",
+        "paper_link": "https://arxiv.org/pdf/2610.11355.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 225,
+    "video_title": "[225]. DeepSeek Super-agent：一个常驻 Router 带一群隔离 Worker，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1tS4n6CE6Y",
+    "papers": [
+      {
+        "paper_title": "DeepSeek Super-agent: 探索 Super-agent 设计",
+        "paper_link": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+      }
+    ]
+  },
+  {
+    "video_id": 224,
+    "video_title": "[224]. Self-Consistency：思维链的改进工作：多条思维链，投票选答案，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1LNxn6DENM",
+    "papers": [
+      {
+        "paper_title": "Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+        "paper_link": "https://arxiv.org/pdf/2203.11171.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 223,
+    "video_title": "[223]. RAG：奠基论文，来自 NeurIPS 2020，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1RNxn6SER6",
+    "papers": [
+      {
+        "paper_title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+        "paper_link": "https://arxiv.org/pdf/2005.11401.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 222,
+    "video_title": "[222]. Kimi k1.5：重温来时路：长上下文 RL，再把长思考压回短思考，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1dNxn6SE77",
+    "papers": [
+      {
+        "paper_title": "Kimi k1.5: Scaling Reinforcement Learning with LLMs",
+        "paper_link": "https://arxiv.org/pdf/2501.12599.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 221,
+    "video_title": "[221]. Nemotron 3 Ultra：NVIDIA 旗舰：Mamba＋MoE＋NVFP4 全叠满，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1w1x76dEZo",
+    "papers": [
+      {
+        "paper_title": "Nemotron 3 Ultra: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
+        "paper_link": "https://arxiv.org/pdf/2606.15007.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 220,
+    "video_title": "[220]. MSA：MiniMax M3 旗舰注意力：每个 GQA 组各自挑 KV 块，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1r8xE6RExc",
+    "papers": [
+      {
+        "paper_title": "MiniMax Sparse Attention",
+        "paper_link": "https://arxiv.org/pdf/2606.13392.pdf"
+      }
+    ]
+  },
+  {
+    "video_id": 219,
+    "video_title": "[219]. EGD：ACL 2026 杰出论文：不动基座模型，迭代 Value 引导解码，论文精读【每天一个宝藏论文】",
+    "bvid": "BV1kinZ6xE9p",
+    "papers": [
+      {
+        "paper_title": "Evolutionary Guided Decoding: Iterative Value Refinement for LLMs",
+        "paper_link": "https://arxiv.org/pdf/2503.02368.pdf"
+      }
+    ]
+  },
+  {
     "video_id": 218,
     "video_title": "[218]. GEPA：ICLR 2026 Oral：不改权重，Prompt 进化反超 GRPO，论文精读【每天一个宝藏论文】",
     "bvid": "BV1CinZ6xEvd",

@@ -1,5 +1,113 @@
 [
   {
+    "bvid": "BV1x8WH6vEqd",
+    "title": "295. prefill为什么不能像decode一样，Q 只算末尾 token 的，但 KV 全部算？【每天一个宝藏问题】",
+    "created": 1795003200,
+    "pic": "http://i2.hdslb.com/bfs/archive/b3eb41afccca9ce646745643ee8c6c2a0e333b4d.png"
+  },
+  {
+    "bvid": "BV1tS4n6CEMJ",
+    "title": "[227]. LSA：把 KV 压进隐空间再选块，GLM 测试 prefill 提速 22.7 倍，论文精读【每天一个宝藏论文】",
+    "created": 1795003200,
+    "pic": "http://i1.hdslb.com/bfs/archive/1ce6b4b58e17a63e5f56775b2f38593aee60f27d.png"
+  },
+  {
+    "bvid": "BV1tS4n6CERj",
+    "title": "[226]. 研究发现GPT 从 5.6 开始不说人话，越升级越爱加防御性限定语，论文精读【每天一个宝藏论文】",
+    "created": 1794916800,
+    "pic": "http://i2.hdslb.com/bfs/archive/f7cd429ccafb1c57dd026fdcee1de75a8c1a913a.png"
+  },
+  {
+    "bvid": "BV1ZN466LEC1",
+    "title": "<2>. 一口气看完：MOE可视化与面试经典问题【宝藏问题一口气看完】",
+    "created": 1794916800,
+    "pic": "http://i1.hdslb.com/bfs/archive/81077c4638bb804b08b3c76789f3b6fa6249723a.png"
+  },
+  {
+    "bvid": "BV1tS4n6CE6Y",
+    "title": "[225]. DeepSeek Super-agent：一个常驻 Router 带一群隔离 Worker，论文精读【每天一个宝藏论文】",
+    "created": 1794830400,
+    "pic": "http://i1.hdslb.com/bfs/archive/d33a770b9c0080a8a7eac455398528e50f0c14b9.png"
+  },
+  {
+    "bvid": "BV1qK466yEnc",
+    "title": "294. 为什么监督学习可以理解为特殊的强化学习？【每天一个宝藏问题】",
+    "created": 1794830400,
+    "pic": "http://i2.hdslb.com/bfs/archive/7bed93931ce03d22716f8590af67ce986806bec5.png"
+  },
+  {
+    "bvid": "BV1Ho4z6QECp",
+    "title": "293. 大模型每个参数能记住3.6bit，这个数字怎么测出来？【每天一个宝藏问题】",
+    "created": 1794744000,
+    "pic": "http://i2.hdslb.com/bfs/archive/c2fc468200e509daccaea9ec85fcbe8b1d4cda65.png"
+  },
+  {
+    "bvid": "BV1LNxn6DENM",
+    "title": "[224]. Self-Consistency：思维链的改进工作：多条思维链，投票选答案，论文精读【每天一个宝藏论文】",
+    "created": 1794744000,
+    "pic": "http://i2.hdslb.com/bfs/archive/ac4490ae9e3360f556a37ecd22c2c1cd9cc42e32.png"
+  },
+  {
+    "bvid": "BV1fA4662Epj",
+    "title": "292. MOE训练和推理显存占用有何不同？【每天一个宝藏问题】",
+    "created": 1794657600,
+    "pic": "http://i0.hdslb.com/bfs/archive/84e7481f0ffcc30fb4781da6789590274b2524d2.png"
+  },
+  {
+    "bvid": "BV1RNxn6SER6",
+    "title": "[223]. RAG：奠基论文，来自 NeurIPS 2020，论文精读【每天一个宝藏论文】",
+    "created": 1794657600,
+    "pic": "http://i0.hdslb.com/bfs/archive/9fd516f843a23141afd80ee74f6676adf903ffa5.png"
+  },
+  {
+    "bvid": "BV1Hf4z6nEcK",
+    "title": "291. 蒸馏中，为什么前向 KL 和交叉熵的学生梯度相同？【每天一个宝藏问题】",
+    "created": 1794571200,
+    "pic": "http://i2.hdslb.com/bfs/archive/6055a0ace6b9dc804afe2230427b0cb3fa5d843b.png"
+  },
+  {
+    "bvid": "BV1dNxn6SE77",
+    "title": "[222]. Kimi k1.5：重温来时路：长上下文 RL，再把长思考压回短思考，论文精读【每天一个宝藏论文】",
+    "created": 1794571200,
+    "pic": "http://i2.hdslb.com/bfs/archive/7630614348488fd7889e661350dbc176d56d5c9d.png"
+  },
+  {
+    "bvid": "BV1pgx96xERa",
+    "title": "290. MOE推理显存要如何计算，以Qwen3-30B-A3B为例？【每天一个宝藏问题】",
+    "created": 1794484800,
+    "pic": "http://i1.hdslb.com/bfs/archive/003f9d0ea5560a311c69ca4801b7113f3d515af5.png"
+  },
+  {
+    "bvid": "BV1w1x76dEZo",
+    "title": "[221]. Nemotron 3 Ultra：NVIDIA 旗舰：Mamba＋MoE＋NVFP4 全叠满，论文精读【每天一个宝藏论文】",
+    "created": 1794484800,
+    "pic": "http://i1.hdslb.com/bfs/archive/6d3a57b5caeab792b6b679c5a35da7220247f354.png"
+  },
+  {
+    "bvid": "BV1ndx96RE8J",
+    "title": "289. 从 Xavier 到 Kaiming初始化：接上 ReLU，权重方差为什么要翻倍？【每天一个宝藏问题】",
+    "created": 1794398400,
+    "pic": "http://i2.hdslb.com/bfs/archive/d6b5d05608094ce836f674140d7211762d7317fb.png"
+  },
+  {
+    "bvid": "BV1r8xE6RExc",
+    "title": "[220]. MSA：MiniMax M3 旗舰注意力：每个 GQA 组各自挑 KV 块，论文精读【每天一个宝藏论文】",
+    "created": 1794398400,
+    "pic": "http://i2.hdslb.com/bfs/archive/deef025a53f10cd0e01ee4c27c9c2ade84bcd027.png"
+  },
+  {
+    "bvid": "BV1ASx96fEaT",
+    "title": "288. 为什么拿不到logits也可以叫蒸馏？从数学期望角度理解【每天一个宝藏问题】",
+    "created": 1794312000,
+    "pic": "http://i1.hdslb.com/bfs/archive/a7d4660225a8ea42e7cc125445ac8a19cf151de9.png"
+  },
+  {
+    "bvid": "BV1kinZ6xE9p",
+    "title": "[219]. EGD：ACL 2026 杰出论文：不动基座模型，迭代 Value 引导解码，论文精读【每天一个宝藏论文】",
+    "created": 1794312000,
+    "pic": "http://i1.hdslb.com/bfs/archive/55ed3379e61d775e61283e4f282aa564a8a590f4.png"
+  },
+  {
     "bvid": "BV17ExQ6GEeg",
     "title": "287. Xavier 初始化为什么要把权重方差设为 1 除以 n？【每天一个宝藏问题】",
     "created": 1794225600,

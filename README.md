@@ -4,9 +4,81 @@
 - **使用方法**：点击**宝藏论文链接大全**文件夹可阅读所有论文，点击**观看视频**可跳转到b站视频。
 - **问题系列**：「每天一个宝藏问题」「宝藏问题动画版」「宝藏问题一口气看完」共享每日一个发布时间，统一收录在下方问题栏目，按发布时间倒序排列，新发布的在前。封面通过 `python bilibili_cover_extractor.py` 自动下载。
 - **下载方式**：点击右上角的`<>code`按钮，选择`Download Zip`。或直接`git clone`。
-- **迄今为止**：已经整理了**264**个宝藏问题`手稿`和**211**篇宝藏论文的`参考文献`。
+- **迄今为止**：已经整理了**273**个宝藏问题`手稿`和**220**篇宝藏论文的`参考文献`。
 
 ## 每天一个宝藏问题
+
+### 295. prefill为什么不能像decode一样，Q 只算末尾 token 的，但 KV 全部算？【每天一个宝藏问题】
+- 观看视频：[视频BV1x8WH6vEqd](https://www.bilibili.com/video/BV1x8WH6vEqd)
+- 查看封面：[图片BV1x8WH6vEqd](./assets/questions/BV1x8WH6vEqd.jpg)
+
+[![](./assets/questions/BV1x8WH6vEqd.jpg)](https://www.bilibili.com/video/BV1x8WH6vEqd)
+
+---
+
+### <2>. 一口气看完：MOE可视化与面试经典问题【宝藏问题一口气看完】
+- 观看视频：[视频BV1ZN466LEC1](https://www.bilibili.com/video/BV1ZN466LEC1)
+- 查看封面：[图片BV1ZN466LEC1](./assets/questions/BV1ZN466LEC1.jpg)
+
+[![](./assets/questions/BV1ZN466LEC1.jpg)](https://www.bilibili.com/video/BV1ZN466LEC1)
+
+---
+
+### 294. 为什么监督学习可以理解为特殊的强化学习？【每天一个宝藏问题】
+- 观看视频：[视频BV1qK466yEnc](https://www.bilibili.com/video/BV1qK466yEnc)
+- 查看封面：[图片BV1qK466yEnc](./assets/questions/BV1qK466yEnc.jpg)
+
+[![](./assets/questions/BV1qK466yEnc.jpg)](https://www.bilibili.com/video/BV1qK466yEnc)
+
+---
+
+### 293. 大模型每个参数能记住3.6bit，这个数字怎么测出来？【每天一个宝藏问题】
+- 观看视频：[视频BV1Ho4z6QECp](https://www.bilibili.com/video/BV1Ho4z6QECp)
+- 查看封面：[图片BV1Ho4z6QECp](./assets/questions/BV1Ho4z6QECp.jpg)
+
+[![](./assets/questions/BV1Ho4z6QECp.jpg)](https://www.bilibili.com/video/BV1Ho4z6QECp)
+
+---
+
+### 292. MOE训练和推理显存占用有何不同？【每天一个宝藏问题】
+- 观看视频：[视频BV1fA4662Epj](https://www.bilibili.com/video/BV1fA4662Epj)
+- 查看封面：[图片BV1fA4662Epj](./assets/questions/BV1fA4662Epj.jpg)
+
+[![](./assets/questions/BV1fA4662Epj.jpg)](https://www.bilibili.com/video/BV1fA4662Epj)
+
+---
+
+### 291. 蒸馏中，为什么前向 KL 和交叉熵的学生梯度相同？【每天一个宝藏问题】
+- 观看视频：[视频BV1Hf4z6nEcK](https://www.bilibili.com/video/BV1Hf4z6nEcK)
+- 查看封面：[图片BV1Hf4z6nEcK](./assets/questions/BV1Hf4z6nEcK.jpg)
+
+[![](./assets/questions/BV1Hf4z6nEcK.jpg)](https://www.bilibili.com/video/BV1Hf4z6nEcK)
+
+---
+
+### 290. MOE推理显存要如何计算，以Qwen3-30B-A3B为例？【每天一个宝藏问题】
+- 观看视频：[视频BV1pgx96xERa](https://www.bilibili.com/video/BV1pgx96xERa)
+- 查看封面：[图片BV1pgx96xERa](./assets/questions/BV1pgx96xERa.jpg)
+
+[![](./assets/questions/BV1pgx96xERa.jpg)](https://www.bilibili.com/video/BV1pgx96xERa)
+
+---
+
+### 289. 从 Xavier 到 Kaiming初始化：接上 ReLU，权重方差为什么要翻倍？【每天一个宝藏问题】
+- 观看视频：[视频BV1ndx96RE8J](https://www.bilibili.com/video/BV1ndx96RE8J)
+- 查看封面：[图片BV1ndx96RE8J](./assets/questions/BV1ndx96RE8J.jpg)
+
+[![](./assets/questions/BV1ndx96RE8J.jpg)](https://www.bilibili.com/video/BV1ndx96RE8J)
+
+---
+
+### 288. 为什么拿不到logits也可以叫蒸馏？从数学期望角度理解【每天一个宝藏问题】
+- 观看视频：[视频BV1ASx96fEaT](https://www.bilibili.com/video/BV1ASx96fEaT)
+- 查看封面：[图片BV1ASx96fEaT](./assets/questions/BV1ASx96fEaT.jpg)
+
+[![](./assets/questions/BV1ASx96fEaT.jpg)](https://www.bilibili.com/video/BV1ASx96fEaT)
+
+---
 
 ### 287. Xavier 初始化为什么要把权重方差设为 1 除以 n？【每天一个宝藏问题】
 - 观看视频：[视频BV17ExQ6GEeg](https://www.bilibili.com/video/BV17ExQ6GEeg)
@@ -2307,6 +2379,78 @@
 ---
 
 ## 每天一个宝藏论文
+
+### [227]. LSA：把 KV 压进隐空间再选块，GLM 测试 prefill 提速 22.7 倍，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1tS4n6CEMJ](https://www.bilibili.com/video/BV1tS4n6CEMJ)
+- 查看封面：[图片BV1tS4n6CEMJ](./assets/papers/BV1tS4n6CEMJ.jpg)
+
+[![](./assets/papers/BV1tS4n6CEMJ.jpg)](https://www.bilibili.com/video/BV1tS4n6CEMJ)
+
+---
+
+### [226]. 研究发现GPT 从 5.6 开始不说人话，越升级越爱加防御性限定语，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1tS4n6CERj](https://www.bilibili.com/video/BV1tS4n6CERj)
+- 查看封面：[图片BV1tS4n6CERj](./assets/papers/BV1tS4n6CERj.jpg)
+
+[![](./assets/papers/BV1tS4n6CERj.jpg)](https://www.bilibili.com/video/BV1tS4n6CERj)
+
+---
+
+### [225]. DeepSeek Super-agent：一个常驻 Router 带一群隔离 Worker，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1tS4n6CE6Y](https://www.bilibili.com/video/BV1tS4n6CE6Y)
+- 查看封面：[图片BV1tS4n6CE6Y](./assets/papers/BV1tS4n6CE6Y.jpg)
+
+[![](./assets/papers/BV1tS4n6CE6Y.jpg)](https://www.bilibili.com/video/BV1tS4n6CE6Y)
+
+---
+
+### [224]. Self-Consistency：思维链的改进工作：多条思维链，投票选答案，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1LNxn6DENM](https://www.bilibili.com/video/BV1LNxn6DENM)
+- 查看封面：[图片BV1LNxn6DENM](./assets/papers/BV1LNxn6DENM.jpg)
+
+[![](./assets/papers/BV1LNxn6DENM.jpg)](https://www.bilibili.com/video/BV1LNxn6DENM)
+
+---
+
+### [223]. RAG：奠基论文，来自 NeurIPS 2020，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1RNxn6SER6](https://www.bilibili.com/video/BV1RNxn6SER6)
+- 查看封面：[图片BV1RNxn6SER6](./assets/papers/BV1RNxn6SER6.jpg)
+
+[![](./assets/papers/BV1RNxn6SER6.jpg)](https://www.bilibili.com/video/BV1RNxn6SER6)
+
+---
+
+### [222]. Kimi k1.5：重温来时路：长上下文 RL，再把长思考压回短思考，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1dNxn6SE77](https://www.bilibili.com/video/BV1dNxn6SE77)
+- 查看封面：[图片BV1dNxn6SE77](./assets/papers/BV1dNxn6SE77.jpg)
+
+[![](./assets/papers/BV1dNxn6SE77.jpg)](https://www.bilibili.com/video/BV1dNxn6SE77)
+
+---
+
+### [221]. Nemotron 3 Ultra：NVIDIA 旗舰：Mamba＋MoE＋NVFP4 全叠满，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1w1x76dEZo](https://www.bilibili.com/video/BV1w1x76dEZo)
+- 查看封面：[图片BV1w1x76dEZo](./assets/papers/BV1w1x76dEZo.jpg)
+
+[![](./assets/papers/BV1w1x76dEZo.jpg)](https://www.bilibili.com/video/BV1w1x76dEZo)
+
+---
+
+### [220]. MSA：MiniMax M3 旗舰注意力：每个 GQA 组各自挑 KV 块，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1r8xE6RExc](https://www.bilibili.com/video/BV1r8xE6RExc)
+- 查看封面：[图片BV1r8xE6RExc](./assets/papers/BV1r8xE6RExc.jpg)
+
+[![](./assets/papers/BV1r8xE6RExc.jpg)](https://www.bilibili.com/video/BV1r8xE6RExc)
+
+---
+
+### [219]. EGD：ACL 2026 杰出论文：不动基座模型，迭代 Value 引导解码，论文精读【每天一个宝藏论文】
+- 观看视频：[视频BV1kinZ6xE9p](https://www.bilibili.com/video/BV1kinZ6xE9p)
+- 查看封面：[图片BV1kinZ6xE9p](./assets/papers/BV1kinZ6xE9p.jpg)
+
+[![](./assets/papers/BV1kinZ6xE9p.jpg)](https://www.bilibili.com/video/BV1kinZ6xE9p)
+
+---
 
 ### [218]. GEPA：ICLR 2026 Oral：不改权重，Prompt 进化反超 GRPO，论文精读【每天一个宝藏论文】
 - 观看视频：[视频BV1CinZ6xEvd](https://www.bilibili.com/video/BV1CinZ6xEvd)
